@@ -3,7 +3,7 @@
 /**
  * @author    syafiq <syafiq@my-sands.com>
  * @since     1.0.0 build eccadc
- * @version   1.0.0 build 6fdb10
+ * @version   1.0.0 build a38149
  * @copyright 2014 syafiq
  * @filesource
  */
@@ -161,16 +161,16 @@ $items = [
     ['id' => '1212', 'state_id' => '12', 'name' => 'SEMPORNA', 'code_3' => 'SEM'],
     ['id' => '1213', 'state_id' => '12', 'name' => 'KENINGAU', 'code_3' => 'KEN'],
     ['id' => '1214', 'state_id' => '12', 'name' => 'TAMBUNAN', 'code_3' => 'TAM'],
-    ['id' => '1207', 'state_id' => '12', 'name' => 'PENSIANGAN', 'code_3' => 'PEN'],
-    ['id' => '1208', 'state_id' => '12', 'name' => 'TENOM', 'code_3' => 'TEN'],
-    ['id' => '1209', 'state_id' => '12', 'name' => 'BEAUFORT', 'code_3' => 'BEA'],
-    ['id' => '1210', 'state_id' => '12', 'name' => 'KUALA PENYU', 'code_3' => 'KPE'],
-    ['id' => '1211', 'state_id' => '12', 'name' => 'SIPITANG', 'code_3' => 'SIP'],
-    ['id' => '1212', 'state_id' => '12', 'name' => 'PENAMPANG', 'code_3' => 'PEN'],
-    ['id' => '1213', 'state_id' => '12', 'name' => 'KOTA MARUDU', 'code_3' => 'KMA'],
-    ['id' => '1214', 'state_id' => '12', 'name' => 'KUNAK', 'code_3' => 'KUN'],
-    ['id' => '1213', 'state_id' => '12', 'name' => 'TONGOD', 'code_3' => 'TON'],
-    ['id' => '1214', 'state_id' => '12', 'name' => 'PUTATAN', 'code_3' => 'PUT'],
+    ['id' => '1215', 'state_id' => '12', 'name' => 'PENSIANGAN', 'code_3' => 'PEN'],
+    ['id' => '1216', 'state_id' => '12', 'name' => 'TENOM', 'code_3' => 'TEN'],
+    ['id' => '1217', 'state_id' => '12', 'name' => 'BEAUFORT', 'code_3' => 'BEA'],
+    ['id' => '1218', 'state_id' => '12', 'name' => 'KUALA PENYU', 'code_3' => 'KPE'],
+    ['id' => '1219', 'state_id' => '12', 'name' => 'SIPITANG', 'code_3' => 'SIP'],
+    ['id' => '1220', 'state_id' => '12', 'name' => 'PENAMPANG', 'code_3' => 'PEN'],
+    ['id' => '1221', 'state_id' => '12', 'name' => 'KOTA MARUDU', 'code_3' => 'KMA'],
+    ['id' => '1222', 'state_id' => '12', 'name' => 'KUNAK', 'code_3' => 'KUN'],
+    ['id' => '1223', 'state_id' => '12', 'name' => 'TONGOD', 'code_3' => 'TON'],
+    ['id' => '1224', 'state_id' => '12', 'name' => 'PUTATAN', 'code_3' => 'PUT'],
     /*
      * sarawak
      */
