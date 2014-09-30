@@ -3,7 +3,7 @@
 /**
  * @author   syafiq <syafiq@my-sands.com>
  * @since    1.0.0 build 4b7372
- * @version  1.0.0 build 7e116c
+ * @version  1.0.0 build 7a2503
  * @filesource
  */
 /**
@@ -13,7 +13,28 @@ $items = [
     /*
      * perlis
      */
-
+    ['id' => '090101', 'name' => 'ABI', 'district_id' => '0901'],
+    ['id' => '090102', 'name' => 'ARAU', 'district_id' => '0901'],
+    ['id' => '090103', 'name' => 'BERSERI', 'district_id' => '0901'],
+    ['id' => '090104', 'name' => 'CHUPING', 'district_id' => '0901'],
+    ['id' => '090105', 'name' => 'JEJAWI', 'district_id' => '0901'],
+    ['id' => '090106', 'name' => 'KAYANG', 'district_id' => '0901'],
+    ['id' => '090107', 'name' => 'KECHOR', 'district_id' => '0901'],
+    ['id' => '090108', 'name' => 'KUALA PERLIS', 'district_id' => '0901'],
+    ['id' => '090109', 'name' => 'KURONG ANAI', 'district_id' => '0901'],
+    ['id' => '090110', 'name' => 'KURONG BATANG', 'district_id' => '0901'],
+    ['id' => '090111', 'name' => 'NGOLANG', 'district_id' => '0901'],
+    ['id' => '090112', 'name' => 'ORAN', 'district_id' => '0901'],
+    ['id' => '090113', 'name' => 'PADANG PAUH', 'district_id' => '0901'],
+    ['id' => '090114', 'name' => 'PADANG SIDING', 'district_id' => '0901'],
+    ['id' => '090115', 'name' => 'PAYA', 'district_id' => '0901'],
+    ['id' => '090116', 'name' => 'SANGLANG', 'district_id' => '0901'],
+    ['id' => '090117', 'name' => 'SENA', 'district_id' => '0901'],
+    ['id' => '090118', 'name' => 'SERIAP', 'district_id' => '0901'],
+    ['id' => '090119', 'name' => 'SUNGAI ADAM', 'district_id' => '0901'],
+    ['id' => '090120', 'name' => 'TITI TINGGI', 'district_id' => '0901'],
+    ['id' => '090121', 'name' => 'UTAN AJI', 'district_id' => '0901'],
+    ['id' => '090122', 'name' => 'WANG BINTONG', 'district_id' => '0901'],
     /*
      * kedah
      */
@@ -187,7 +208,7 @@ $items = [
     /*
      * kelantan
      */
-
+    
     /*
      * terengganu
      */
@@ -207,9 +228,91 @@ $items = [
     /*
      * selangor
      */
-
     /*
-     * kuala lumpur
+     * === GOMBAK
+     */
+    ['id' => '100102', 'name' => 'BATU', 'district_id' => '1001'],
+    ['id' => '100101', 'name' => 'RAWANG', 'district_id' => '1001'],
+    ['id' => '100103', 'name' => 'SETAPAK', 'district_id' => '1001'],
+    ['id' => '100104', 'name' => 'ULU KELANG', 'district_id' => '1001'],
+    /*
+     * === KLANG
+     */
+    ['id' => '100202', 'name' => 'KAPAR', 'district_id' => '1002'],
+    ['id' => '100201', 'name' => 'KLANG', 'district_id' => '1002'],
+    ['id' => '100203', 'name' => 'BANDAR KLANG', 'district_id' => '1002'],
+    /*
+     * === KUALA LANGAT
+     */
+    ['id' => '100302', 'name' => 'BANDAR', 'district_id' => '1003'],
+    ['id' => '100301', 'name' => 'BATU', 'district_id' => '1003'],
+    ['id' => '100303', 'name' => 'KELANANG', 'district_id' => '1003'],
+    ['id' => '100304', 'name' => 'MORIB', 'district_id' => '1003'],
+    ['id' => '100305', 'name' => 'TANJONG DUA BELAS', 'district_id' => '1003'],
+    ['id' => '100306', 'name' => 'TELOK PANGLIMA GARANG', 'district_id' => '1003'],
+    ['id' => '100307', 'name' => 'JUGRA', 'district_id' => '1003'],
+    /*
+     * === KUALA SELANGOR
+     */
+    ['id' => '100402', 'name' => 'API-API', 'district_id' => '1004'],
+    ['id' => '100401', 'name' => 'BATANG BERJUNTAI', 'district_id' => '1004'],
+    ['id' => '100403', 'name' => 'IJOK', 'district_id' => '1004'],
+    ['id' => '100404', 'name' => 'JERAM', 'district_id' => '1004'],
+    ['id' => '100405', 'name' => 'KUALA SELANGOR', 'district_id' => '1004'],
+    ['id' => '100406', 'name' => 'PASANGAN', 'district_id' => '1004'],
+    ['id' => '100407', 'name' => 'TANJONG KARANG', 'district_id' => '1004'],
+    ['id' => '100408', 'name' => 'UJONG PERMATANG', 'district_id' => '1004'],
+    ['id' => '100409', 'name' => 'ULU TINGGI', 'district_id' => '1004'],
+    /*
+     * === PETALING
+     */
+    ['id' => '100502', 'name' => 'BUKIT RAJA', 'district_id' => '1005'],
+    ['id' => '100501', 'name' => 'DAMANSARA', 'district_id' => '1005'],
+    ['id' => '100503', 'name' => 'PETALING', 'district_id' => '1005'],
+    ['id' => '100504', 'name' => 'SUNGAI BULOH', 'district_id' => '1005'],
+    ['id' => '100505', 'name' => 'BANDAR PETALING JAYA', 'district_id' => '1005'],
+    /*
+     * === SABAK BERNAM
+     */
+    ['id' => '100602', 'name' => 'BAGAN NAKHODA OMAR', 'district_id' => '1006'],
+    ['id' => '100601', 'name' => 'PANCANG BEDENA', 'district_id' => '1006'],
+    ['id' => '100603', 'name' => 'PASIR PANJANG', 'district_id' => '1006'],
+    ['id' => '100604', 'name' => 'SABAK', 'district_id' => '1006'],
+    ['id' => '100605', 'name' => 'SUNGAI PANJANG', 'district_id' => '1006'],
+    /*
+     * === SEPANG
+     */
+    ['id' => '100702', 'name' => 'DENGKIL', 'district_id' => '1007'],
+    ['id' => '100701', 'name' => 'LABU', 'district_id' => '1007'],
+    ['id' => '100703', 'name' => 'SEPANG', 'district_id' => '1007'],
+    /*
+     * === HULU LANGAT
+     */
+    ['id' => '100802', 'name' => 'AMPANG', 'district_id' => '1008'],
+    ['id' => '100801', 'name' => 'BERANANG', 'district_id' => '1008'],
+    ['id' => '100803', 'name' => 'CHERAS', 'district_id' => '1008'],
+    ['id' => '100804', 'name' => 'KAJANG', 'district_id' => '1008'],
+    ['id' => '100805', 'name' => 'SEMENYIH', 'district_id' => '1008'],
+    ['id' => '100806', 'name' => 'HULU LANGAT', 'district_id' => '1008'],
+    ['id' => '100807', 'name' => 'HULU SEMENYIH', 'district_id' => '1008'],
+    /*
+     * === HULU SELANGOR
+     */
+    ['id' => '100902', 'name' => 'AMPANG PECHAH', 'district_id' => '1009'],
+    ['id' => '100901', 'name' => 'BATANG KALI', 'district_id' => '1009'],
+    ['id' => '100903', 'name' => 'BULUH TELOR', 'district_id' => '1009'],
+    ['id' => '100904', 'name' => 'KALUMPANG', 'district_id' => '1009'],
+    ['id' => '100905', 'name' => 'KERLING', 'district_id' => '1009'],
+    ['id' => '100906', 'name' => 'KUALA KALUMPANG', 'district_id' => '1009'],
+    ['id' => '100907', 'name' => 'PERETAK', 'district_id' => '1009'],
+    ['id' => '100908', 'name' => 'RASA', 'district_id' => '1009'],
+    ['id' => '100909', 'name' => 'SERENDAH', 'district_id' => '1009'],
+    ['id' => '100910', 'name' => 'SUNGAI GUMUT', 'district_id' => '1009'],
+    ['id' => '100911', 'name' => 'SUNGAI TINGGI', 'district_id' => '1009'],
+    ['id' => '100912', 'name' => 'ULU BERNAM', 'district_id' => '1009'],
+    ['id' => '100913', 'name' => 'ULU YAM', 'district_id' => '1009'],
+    /*
+     * KUALA LUMPUR
      */
     ['id' => '140101', 'name' => 'AMPANG', 'district_id' => '1401'],
     ['id' => '140102', 'name' => 'BANDAR KUALA LUMPUR', 'district_id' => '1401'],
@@ -222,7 +325,7 @@ $items = [
     /*
      * putrajaya
      */
-
+    ['id' => '160101', 'name' => 'PUTRAJAYA', 'district_id' => '1601'],
     /*
      * negeri sembilan
      */
@@ -370,15 +473,19 @@ $items = [
     ['id' => '011004', 'name' => 'BUKIT SERAMPANG', 'district_id' => '0110'],
     ['id' => '011005', 'name' => 'KUNDANG', 'district_id' => '0110'],
     ['id' => '011006', 'name' => 'KESANG', 'district_id' => '0110'],
-        /*
-         * labuan
-         */
+    /*
+     * labuan
+     */
+    ['id' => '150101', 'name' => 'LABUAN', 'district_id' => '1501'],
+    /*
+     * sabah
+     */
 
-        /*
-         * sabah
-         */
-
-        /*
-         * sarawak
-         */
+    /*
+     * sarawak
+     */
+    /*
+     * LUAR NEGARA
+     */
+    ['id' => '980101', 'name' => '-', 'district_id' => '9801'],
 ];
