@@ -3,7 +3,7 @@
 /**
  * @author    syafiq <syafiq@my-sands.com>
  * @since     1.0.0 build eccadc
- * @version   1.0.0 build 521f7d
+ * @version   1.0.0 build 988072
  * @copyright 2014 syafiq
  * @filesource
  */
@@ -16,11 +16,11 @@ $items = [
     ['name' => 'KELANTAN', 'name_long' => 'KELANTAN DARUL NAIM', 'id' => '03', 'code2' => 'KT', 'code3' => 'KTN', 'capital' => 'KOTA BAHRU'],
     ['name' => 'MELAKA', 'name_long' => 'MELAKA BANDARAYA BERSEJARAH', 'id' => '04', 'code2' => 'ML', 'code3' => 'MLK', 'capital' => 'BANDAR MELAKA'],
     ['name' => 'NEGERI SEMBILAN', 'name_long' => ' NEGERI SEMBILAN DARUL KHUSUS', 'id' => '05', 'code2' => 'NS', 'code3' => 'NSN', 'capital' => 'SEREMBAN'],
-    ['name' => 'PAHANG', 'name_long' => 'PAHANG DARUL MAKMUR', 'id' => '06', 'code2' => 'PH', 'code3' => 'PHG', 'capital' => 'KUANTAN'],
+    ['name' => 'PAHANG', 'name_long' => 'PAHANG DARUL MAKMUR', 'id' => '06', 'code2' => 'PH', 'code3' => 'PHG', 'capital' => 'KUANTAN'], //kuala lipis until 1953
     ['name' => 'PULAU PINANG', 'name_long' => 'PULAU PINANG PULAU MUTIARA', 'id' => '07', 'code2' => 'PN', 'code3' => 'PNG', 'capital' => 'GEORGE TOWN'],
     ['name' => 'PERAK', 'name_long' => 'PERAK DARUL RIDZUAN', 'id' => '08', 'code2' => 'PR', 'code3' => 'PRK', 'capital' => 'IPOH'],
-    ['name' => 'PERLIS', 'name_long' => 'PERLIS INDERA KAYANGAN', 'id' => '09', 'code2' => 'PL', 'code3' => 'PLS', 'capital' => 'ARAU'],
-    ['name' => 'SELANGOR', 'name_long' => 'SELANGOR DARUL EHSAN', 'id' => '10', 'code2' => 'SG', 'code3' => 'SGR', 'capital' => 'SHAH ALAM'], //shah alam capital since 1978
+    ['name' => 'PERLIS', 'name_long' => 'PERLIS INDERA KAYANGAN', 'id' => '09', 'code2' => 'PL', 'code3' => 'PLS', 'capital' => 'KANGAR'],
+    ['name' => 'SELANGOR', 'name_long' => 'SELANGOR DARUL EHSAN', 'id' => '10', 'code2' => 'SG', 'code3' => 'SGR', 'capital' => 'SHAH ALAM'], //shah alam until 1978
     ['name' => 'TERENGGANU', 'name_long' => 'TERENGGANU DARUL IMAN', 'id' => '11', 'code2' => 'TR', 'code3' => 'TRG', 'capital' => 'KUALA TERENGGANU'],
     ['name' => 'SABAH', 'name_long' => 'SABAH NEGERI DI BAWAH BAYU', 'id' => '12', 'code2' => 'SB', 'code3' => 'SBH', 'capital' => 'KOTA KINABALU'],
     ['name' => 'SARAWAK', 'name_long' => 'SARAWAK BUMI KENYALANG', 'id' => '13', 'code2' => 'SR', 'code3' => 'SRW', 'capital' => 'KUCHING'],
