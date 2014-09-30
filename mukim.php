@@ -8,7 +8,173 @@ $items = [
     /*
      * kedah
      */
-
+    /*
+     * === baling
+     */
+    ['id' => '020101', 'name' => 'BAKAI', 'daerah_id' => '0201'],
+    ['id' => '020102', 'name' => 'BALING', 'daerah_id' => '0201'],
+    ['id' => '020103', 'name' => 'BONGOR', 'daerah_id' => '0201'],
+    ['id' => '020104', 'name' => 'KUPANG', 'daerah_id' => '0201'],
+    ['id' => '020105', 'name' => 'PULAI', 'daerah_id' => '0201'],
+    ['id' => '020106', 'name' => 'SIONG', 'daerah_id' => '0201'],
+    ['id' => '020107', 'name' => 'TAWAR', 'daerah_id' => '0201'],
+    ['id' => '020108', 'name' => 'TELUI KANAN', 'daerah_id' => '0201'],
+    /*
+     * === BANDAR BAHARU
+     */
+    ['id' => '020201', 'name' => 'BAGAN SEMAK', 'daerah_id' => '0202'],
+    ['id' => '020202', 'name' => 'RELAU', 'daerah_id' => '0202'],
+    ['id' => '020203', 'name' => 'KUALA SELAMA', 'daerah_id' => '0202'],
+    ['id' => '020204', 'name' => 'SERDANG', 'daerah_id' => '0202'],
+    ['id' => '020205', 'name' => 'SUNGAI BATU', 'daerah_id' => '0202'],
+    ['id' => '020206', 'name' => 'SUNGAI KECHIL', 'daerah_id' => '0202'],
+    ['id' => '020207', 'name' => 'PERMATANG PASIR', 'daerah_id' => '0202'],
+    /*
+     * === KOTA SETAR
+     */
+    ['id' => '020301', 'name' => 'ALOR MALAI', 'daerah_id' => '0203'],
+    ['id' => '020302', 'name' => 'ALOR MERAH', 'daerah_id' => '0203'],
+    ['id' => '020303', 'name' => 'ANAK BUKIT', 'daerah_id' => '0203'],
+    ['id' => '020304', 'name' => 'BUKIT LADA', 'daerah_id' => '0203'],
+    ['id' => '020305', 'name' => 'BUKIT PINANG', 'daerah_id' => '0203'],
+    ['id' => '020306', 'name' => 'DERANG', 'daerah_id' => '0203'],
+    ['id' => '020307', 'name' => 'DERGA', 'daerah_id' => '0203'],
+    ['id' => '020308', 'name' => 'GAJAH MATI', 'daerah_id' => '0203'],
+    ['id' => '020309', 'name' => 'GUNONG', 'daerah_id' => '0203'],
+    ['id' => '020310', 'name' => 'HUTAN KAMPONG', 'daerah_id' => '0203'],
+    ['id' => '020311', 'name' => 'JABI', 'daerah_id' => '0203'],
+    ['id' => '020312', 'name' => 'KANGKONG', 'daerah_id' => '0203'],
+    ['id' => '020313', 'name' => 'KOTA SETAR', 'daerah_id' => '0203'],
+    ['id' => '020314', 'name' => 'KUALA KEDAH', 'daerah_id' => '0203'],
+    ['id' => '020315', 'name' => 'KUBANG ROTAN', 'daerah_id' => '0203'],
+    ['id' => '020316', 'name' => 'LANGGAR', 'daerah_id' => '0203'],
+    ['id' => '020317', 'name' => 'LENGKUAS', 'daerah_id' => '0203'],
+    ['id' => '020318', 'name' => 'LEPAI', 'daerah_id' => '0203'],
+    ['id' => '020319', 'name' => 'LESONG', 'daerah_id' => '0203'],
+    ['id' => '020320', 'name' => 'LIMBONG', 'daerah_id' => '0203'],
+    ['id' => '020321', 'name' => 'MERGONG', 'daerah_id' => '0203'],
+    ['id' => '020322', 'name' => 'PADANG HANG', 'daerah_id' => '0203'],
+    ['id' => '020323', 'name' => 'PADANG LALANG', 'daerah_id' => '0203'],
+    ['id' => '020324', 'name' => 'PENGKALAN KUNDOR', 'daerah_id' => '0203'],
+    ['id' => '020325', 'name' => 'PUMPONG', 'daerah_id' => '0203'],
+    ['id' => '020326', 'name' => 'SALA KECHIL', 'daerah_id' => '0203'],
+    ['id' => '020327', 'name' => 'SUNGAI BAHARU', 'daerah_id' => '0203'],
+    ['id' => '020328', 'name' => 'TAJAR', 'daerah_id' => '0203'],
+    ['id' => '020329', 'name' => 'TEBENGAU', 'daerah_id' => '0203'],
+    ['id' => '020330', 'name' => 'TELAGA MAS', 'daerah_id' => '0203'],
+    ['id' => '020331', 'name' => 'TELOK CHENGAI', 'daerah_id' => '0203'],
+    ['id' => '020332', 'name' => 'TELOK KECHAI', 'daerah_id' => '0203'],
+    ['id' => '020333', 'name' => 'TITI GAJAH', 'daerah_id' => '0203'],
+    ['id' => '020334', 'name' => 'TUALANG', 'daerah_id' => '0203'],
+    /*
+     * === KUALA MUDA
+     */
+    ['id' => '020401', 'name' => 'BUJANG', 'daerah_id' => '0204'],
+    ['id' => '020402', 'name' => 'BUKIT MERIAM', 'daerah_id' => '0204'],
+    ['id' => '020403', 'name' => 'GURUN', 'daerah_id' => '0204'],
+    ['id' => '020404', 'name' => 'HAJI KUDONG', 'daerah_id' => '0204'],
+    ['id' => '020405', 'name' => 'KOTA', 'daerah_id' => '0204'],
+    ['id' => '020406', 'name' => 'KUALA', 'daerah_id' => '0204'],
+    ['id' => '020407', 'name' => 'MERBOK', 'daerah_id' => '0204'],
+    ['id' => '020408', 'name' => 'PEKULA', 'daerah_id' => '0204'],
+    ['id' => '020409', 'name' => 'PINANG TUNGGAL', 'daerah_id' => '0204'],
+    ['id' => '020410', 'name' => 'RANTAU PANJANG', 'daerah_id' => '0204'],
+    ['id' => '020411', 'name' => 'SEMELING', 'daerah_id' => '0204'],
+    ['id' => '020412', 'name' => 'SIDAM KIRI', 'daerah_id' => '0204'],
+    ['id' => '020413', 'name' => 'SIMPOR', 'daerah_id' => '0204'],
+    ['id' => '020414', 'name' => 'SUNGAI PASIR', 'daerah_id' => '0204'],
+    ['id' => '020415', 'name' => 'SUNGAI PETANI', 'daerah_id' => '0204'],
+    ['id' => '020416', 'name' => 'TELUI KIRI', 'daerah_id' => '0204'],
+    /*
+     * === KUBANG PASU
+     */
+    ['id' => '020502', 'name' => 'AH', 'daerah_id' => '0205'],
+    ['id' => '020501', 'name' => 'BINJAL', 'daerah_id' => '0205'],
+    ['id' => '020503', 'name' => 'BUKIT TINGGI', 'daerah_id' => '0205'],
+    ['id' => '020504', 'name' => 'GELONG', 'daerah_id' => '0205'],
+    ['id' => '020505', 'name' => 'HUSBA', 'daerah_id' => '0205'],
+    ['id' => '020506', 'name' => 'JERAM', 'daerah_id' => '0205'],
+    ['id' => '020507', 'name' => 'JERLUN', 'daerah_id' => '0205'],
+    ['id' => '020508', 'name' => 'JITRA', 'daerah_id' => '0205'],
+    ['id' => '020509', 'name' => 'KEPELU', 'daerah_id' => '0205'],
+    ['id' => '020510', 'name' => 'KUBANG PASU', 'daerah_id' => '0205'],
+    ['id' => '020511', 'name' => 'MALAU', 'daerah_id' => '0205'],
+    ['id' => '020512', 'name' => 'NAGA', 'daerah_id' => '0205'],
+    ['id' => '020513', 'name' => 'PADANG PERAHU', 'daerah_id' => '0205'],
+    ['id' => '020514', 'name' => 'PELUBANG', 'daerah_id' => '0205'],
+    ['id' => '020515', 'name' => 'PERING', 'daerah_id' => '0205'],
+    ['id' => '020516', 'name' => 'PUTAT', 'daerah_id' => '0205'],
+    ['id' => '020517', 'name' => 'SANGLANG', 'daerah_id' => '0205'],
+    ['id' => '020518', 'name' => 'SUNGAI LAKA', 'daerah_id' => '0205'],
+    ['id' => '020519', 'name' => 'TEMIN', 'daerah_id' => '0205'],
+    ['id' => '020520', 'name' => 'TUNJANG', 'daerah_id' => '0205'],
+    ['id' => '020521', 'name' => 'WANG TEPUS', 'daerah_id' => '0205'],
+    /*
+     * === KULIM
+     */
+    ['id' => '020602', 'name' => 'BAGAN SENA', 'daerah_id' => '0206'],
+    ['id' => '020601', 'name' => 'JUNJONG', 'daerah_id' => '0206'],
+    ['id' => '020603', 'name' => 'KARANGAN', 'daerah_id' => '0206'],
+    ['id' => '020604', 'name' => 'KELADI', 'daerah_id' => '0206'],
+    ['id' => '020605', 'name' => 'KULIM', 'daerah_id' => '0206'],
+    ['id' => '020606', 'name' => 'LUNAS', 'daerah_id' => '0206'],
+    ['id' => '020607', 'name' => 'MAHANG', 'daerah_id' => '0206'],
+    ['id' => '020608', 'name' => 'NAGA LILIT', 'daerah_id' => '0206'],
+    ['id' => '020609', 'name' => 'PADANG CHINA', 'daerah_id' => '0206'],
+    ['id' => '020610', 'name' => 'PADANG MEHA', 'daerah_id' => '0206'],
+    ['id' => '020611', 'name' => 'SEDIM', 'daerah_id' => '0206'],
+    ['id' => '020612', 'name' => 'SIDAM KANAN', 'daerah_id' => '0206'],
+    ['id' => '020613', 'name' => 'SUNGAI SELUANG', 'daerah_id' => '0206'],
+    ['id' => '020614', 'name' => 'SUNGAI ULAR', 'daerah_id' => '0206'],
+    ['id' => '020615', 'name' => 'TERAP', 'daerah_id' => '0206'],
+    /*
+     * === LANGKAWI
+     */
+    ['id' => '020702', 'name' => 'AYER HANGAT', 'daerah_id' => '0207'],
+    ['id' => '020701', 'name' => 'BOHOR', 'daerah_id' => '0207'],
+    ['id' => '020703', 'name' => 'KEDAWANG', 'daerah_id' => '0207'],
+    ['id' => '020704', 'name' => 'KUAH', 'daerah_id' => '0207'],
+    ['id' => '020705', 'name' => 'PADANG MASIRAT', 'daerah_id' => '0207'],
+    ['id' => '020706', 'name' => 'ULU MELAKA', 'daerah_id' => '0207'],
+    /*
+     * === PADANG TERAP
+     */
+    ['id' => '020802', 'name' => 'BATANG TUNGGANG KANAN', 'daerah_id' => '0208'],
+    ['id' => '020801', 'name' => 'BATANG TUNGGANG KIRI', 'daerah_id' => '0208'],
+    ['id' => '020803', 'name' => 'BELIMBING KANAN', 'daerah_id' => '0208'],
+    ['id' => '020804', 'name' => 'BELIMBING KIRI', 'daerah_id' => '0208'],
+    ['id' => '020805', 'name' => 'KURONG HITAM', 'daerah_id' => '0208'],
+    ['id' => '020806', 'name' => 'PADANG TERNAK', 'daerah_id' => '0208'],
+    ['id' => '020807', 'name' => 'PADANG TERAP KANAN', 'daerah_id' => '0208'],
+    ['id' => '020808', 'name' => 'PADANG TERAP KIRI', 'daerah_id' => '0208'],
+    ['id' => '020809', 'name' => 'PEDU', 'daerah_id' => '0208'],
+    ['id' => '020810', 'name' => 'TEKAI', 'daerah_id' => '0208'],
+    ['id' => '020811', 'name' => 'TOLAK', 'daerah_id' => '0208'],
+    /*
+     * === SIK
+     */
+    ['id' => '020902', 'name' => 'JENERI', 'daerah_id' => '0209'],
+    ['id' => '020901', 'name' => 'SIK', 'daerah_id' => '0209'],
+    ['id' => '020903', 'name' => 'SOK', 'daerah_id' => '0209'],
+    /*
+     * === YAN
+     */
+    ['id' => '021002', 'name' => 'DULANG', 'daerah_id' => '0210'],
+    ['id' => '021001', 'name' => 'SALA BESAR', 'daerah_id' => '0210'],
+    ['id' => '021003', 'name' => 'SINGKIR', 'daerah_id' => '0210'],
+    ['id' => '021004', 'name' => 'SUNGAI DAUN', 'daerah_id' => '0210'],
+    ['id' => '021005', 'name' => 'YAN', 'daerah_id' => '0210'],
+    /*
+     * === PADANG TERAP
+     */
+    ['id' => '021102', 'name' => 'AYER PUTEH', 'daerah_id' => '0211'],
+    ['id' => '021101', 'name' => 'BUKIT RAYA', 'daerah_id' => '0211'],
+    ['id' => '021103', 'name' => 'GUAR KEPAYANG', 'daerah_id' => '0211'],
+    ['id' => '021104', 'name' => 'PADANG KERBAU', 'daerah_id' => '0211'],
+    ['id' => '021105', 'name' => 'PADANG PELIANG', 'daerah_id' => '0211'],
+    ['id' => '021106', 'name' => 'PADANG PUSING', 'daerah_id' => '0211'],
+    ['id' => '021107', 'name' => 'RAMBAI', 'daerah_id' => '0211'],
+    ['id' => '021108', 'name' => 'TOBIAR', 'daerah_id' => '0211'],
     /*
      * kelantan
      */
@@ -36,7 +202,14 @@ $items = [
     /*
      * kuala lumpur
      */
-    
+    ['id' => '140101', 'name' => 'AMPANG', 'daerah_id' => '1401'],
+    ['id' => '140102', 'name' => 'BANDAR KUALA LUMPUR', 'daerah_id' => '1401'],
+    ['id' => '140103', 'name' => 'BATU', 'daerah_id' => '1401'],
+    ['id' => '140104', 'name' => 'CHERAS', 'daerah_id' => '1401'],
+    ['id' => '140105', 'name' => 'KUALA LUMPUR', 'daerah_id' => '1401'],
+    ['id' => '140106', 'name' => 'PETALING', 'daerah_id' => '1401'],
+    ['id' => '140107', 'name' => 'SETAPAK', 'daerah_id' => '1401'],
+    ['id' => '140108', 'name' => 'ULU KELANG', 'daerah_id' => '1401'],
     /*
      * putrajaya
      */
