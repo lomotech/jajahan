@@ -3,7 +3,7 @@
 /**
  * @author    syafiq <syafiq@my-sands.com>
  * @since     1.0.0 build eccadc
- * @version   1.0.0 build 521f7d
+ * @version   1.0.0 build 6fdb10
  * @copyright 2014 syafiq
  * @filesource
  */
@@ -94,7 +94,7 @@ $items = [
     /*
      * selangor
      */
-    ['id' => '0601', 'state_id' => '10', 'name' => 'KLANG', 'code_3' => 'KLA'],
+    ['id' => '0601', 'state_id' => '10', 'name' => 'KLANG', 'code_3' => 'KLG'],
     ['id' => '0602', 'state_id' => '10', 'name' => 'KUALA LANGAT', 'code_3' => 'KLN'],
     ['id' => '0603', 'state_id' => '10', 'name' => 'KUALA SELANGOR', 'code_3' => 'KSE'],
     ['id' => '0604', 'state_id' => '10', 'name' => 'SABAK BERNAM', 'code_3' => 'SBE'],

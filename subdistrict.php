@@ -3,7 +3,7 @@
 /**
  * @author    syafiq <syafiq@my-sands.com>
  * @since     1.0.0 build 4b7372
- * @version   1.0.0 build 521f7d
+ * @version   1.0.0 build 6fdb10
  * @copyright 2014 syafiq
  * @filesource
  */
@@ -209,7 +209,44 @@ $items = [
     /*
      * kelantan
      */
-    
+    /*
+     * === BACHOK
+     */
+    ['id' => '021102', 'name' => 'BEKLAM', 'district_id' => '0211'],
+    ['id' => '021101', 'name' => 'GUNONG (GUNONG TIMOR)', 'district_id' => '0211'],
+    ['id' => '021103', 'name' => 'MAHLIGAI', 'district_id' => '0211'],
+    ['id' => '021104', 'name' => 'PERUPOK', 'district_id' => '0211'],
+    ['id' => '021105', 'name' => 'MELAWI (REPEK)', 'district_id' => '0211'],
+    ['id' => '021106', 'name' => 'TAWANG (MENTUAN)', 'district_id' => '0211'],
+    ['id' => '021107', 'name' => 'TELONG', 'district_id' => '0211'],
+    ['id' => '021108', 'name' => 'TANJUNG PAUH', 'district_id' => '0211'],
+    /*
+     * === KOTA BHARU
+     */
+    ['id' => '020602', 'name' => 'BADANG', 'district_id' => '0206'],
+    ['id' => '020601', 'name' => 'BANGGU', 'district_id' => '0206'],
+    ['id' => '020603', 'name' => 'BETA', 'district_id' => '0206'],
+    ['id' => '020604', 'name' => 'KADOK', 'district_id' => '0206'],
+    ['id' => '020605', 'name' => 'KEMUMIN', 'district_id' => '0206'],
+    ['id' => '020606', 'name' => 'KOTA', 'district_id' => '0206'],
+    ['id' => '020607', 'name' => 'LIMBAT', 'district_id' => '0206'],
+    ['id' => '020608', 'name' => 'KUBANG KERIAN (LUNDANG)', 'district_id' => '0206'],
+    ['id' => '020609', 'name' => 'KETEREH (PANGKAL KALONG)', 'district_id' => '0206'],
+    ['id' => '020610', 'name' => 'PANJI', 'district_id' => '0206'],
+    ['id' => '020611', 'name' => 'PENDEK', 'district_id' => '0206'],
+    ['id' => '020612', 'name' => 'PERINGAT', 'district_id' => '0206'],
+    ['id' => '020613', 'name' => 'SALOR', 'district_id' => '0206'],
+    ['id' => '020614', 'name' => 'SERING', 'district_id' => '0206'],
+    ['id' => '020615', 'name' => 'KOTA BHARU', 'district_id' => '0206'],
+    /*
+     * === MACHANG
+     */
+    ['id' => '021102', 'name' => 'LABOK', 'district_id' => '0211'],
+    ['id' => '021101', 'name' => 'PANYIT', 'district_id' => '0211'],
+    ['id' => '021103', 'name' => 'PULAI CHONDONG', 'district_id' => '0211'],
+    ['id' => '021104', 'name' => 'PANGKAL MELERET', 'district_id' => '0211'],
+    ['id' => '021105', 'name' => 'TEMANGAN', 'district_id' => '0211'],
+    ['id' => '021106', 'name' => 'ULU SAT', 'district_id' => '0211'],
     /*
      * terengganu
      */
@@ -324,7 +361,7 @@ $items = [
     ['id' => '140107', 'name' => 'SETAPAK', 'district_id' => '1401'],
     ['id' => '140108', 'name' => 'ULU KELANG', 'district_id' => '1401'],
     /*
-     * putrajaya
+     * PUTRAJAYA
      */
     ['id' => '160101', 'name' => 'PUTRAJAYA', 'district_id' => '1601'],
     /*
