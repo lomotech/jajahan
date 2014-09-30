@@ -1,9 +1,10 @@
 <?php
 
 /**
- * @author   syafiq <syafiq@my-sands.com>
- * @since    1.0.0 build eccadc
- * @version  1.0.0 build 7e116c
+ * @author    syafiq <syafiq@my-sands.com>
+ * @since     1.0.0 build eccadc
+ * @version   1.0.0 build 521f7d
+ * @copyright 2014 syafiq
  * @filesource
  */
 /**
