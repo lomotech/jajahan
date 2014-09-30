@@ -1,5 +1,14 @@
 <?php 
+/**
+ * @author   syafiq <syafiq@my-sands.com>
+ * @since    1.0.0 build eccadc
+ * @version  1.0.0 build 56d837
+ * @filesource
+ */
 
+/**
+ * district - daerah.
+ */
 $items = [
     /*
      * perlis

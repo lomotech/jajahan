@@ -1,5 +1,14 @@
 <?php 
+/**
+ * @author   syafiq <syafiq@my-sands.com>
+ * @since    1.0.0 build eccadc
+ * @version  1.0.0 build 56d837
+ * @filesource
+ */
 
+/**
+ * state - negeri.
+ */
 $items = [
     ['name' => 'JOHOR', 'name_long' => 'JOHOR DARUL TAKZIM', 'id' => '01', 'code2' => 'JH', 'code3' => 'JHR', => 'capital' => 'JOHOR BAHRU'],
     ['name' => 'KEDAH', 'name_long' => 'KEDAH DARUL AMAN', 'id' => '02', 'code2' => 'KD', 'code3' => 'KDH', => 'capital' => 'ALOR SETAR'], 
