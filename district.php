@@ -9,6 +9,7 @@
  */
 /**
  * district - daerah.
+ * note: code_3 is not official!
  */
 $items = [
     /*
