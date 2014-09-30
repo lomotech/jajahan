@@ -1,11 +1,11 @@
 <?php
+
 /**
  * @author   syafiq <syafiq@my-sands.com>
  * @since    1.0.0 build 4b7372
- * @version  1.0.0 build 56d837
+ * @version  1.0.0 build 7e116c
  * @filesource
  */
-
 /**
  * subdistrict - mukim.
  */
@@ -13,7 +13,7 @@ $items = [
     /*
      * perlis
      */
-    
+
     /*
      * kedah
      */
@@ -187,27 +187,27 @@ $items = [
     /*
      * kelantan
      */
-    
+
     /*
      * terengganu
      */
-    
+
     /*
      * pulau pinang
      */
-    
+
     /*
      * perak
      */
-    
+
     /*
      * pahang
      */
-    
+
     /*
      * selangor
      */
-    
+
     /*
      * kuala lumpur
      */
@@ -222,15 +222,15 @@ $items = [
     /*
      * putrajaya
      */
-    
+
     /*
      * negeri sembilan
      */
-    
+
     /*
      * melaka
      */
-    
+
     /*
      * johor
      */
@@ -370,16 +370,15 @@ $items = [
     ['id' => '011004', 'name' => 'BUKIT SERAMPANG', 'district_id' => '0110'],
     ['id' => '011005', 'name' => 'KUNDANG', 'district_id' => '0110'],
     ['id' => '011006', 'name' => 'KESANG', 'district_id' => '0110'],
-    
-    /*
-     * labuan
-     */
-    
-    /*
-     * sabah
-     */
-    
-    /*
-     * sarawak
-     */
+        /*
+         * labuan
+         */
+
+        /*
+         * sabah
+         */
+
+        /*
+         * sarawak
+         */
 ];
