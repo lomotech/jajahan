@@ -3,7 +3,7 @@
 /**
  * @author    syafiq <syafiq@my-sands.com>
  * @since     1.0.0 build 4b7372
- * @version   1.0.0 build 191822
+ * @version   1.0.0 build b8fd90
  * @copyright 2014 syafiq
  * @filesource
  */
@@ -13,190 +13,289 @@
 $items = [
     /*
      * perlis
+     * note: sddsa letak 0900 disebabkan perlis tiada daerah 
+     *       tapi akan buat masalah lain dalam pilihan daerah maka list akan teruskan pada 0901
      */
     ['id' => '090101', 'name' => 'ABI', 'district_id' => '0901'],
     ['id' => '090102', 'name' => 'ARAU', 'district_id' => '0901'],
     ['id' => '090103', 'name' => 'BERSERI', 'district_id' => '0901'],
     ['id' => '090104', 'name' => 'CHUPING', 'district_id' => '0901'],
-    ['id' => '090105', 'name' => 'JEJAWI', 'district_id' => '0901'],
-    ['id' => '090106', 'name' => 'KAYANG', 'district_id' => '0901'],
-    ['id' => '090107', 'name' => 'KECHOR', 'district_id' => '0901'],
-    ['id' => '090108', 'name' => 'KUALA PERLIS', 'district_id' => '0901'],
-    ['id' => '090109', 'name' => 'KURONG ANAI', 'district_id' => '0901'],
-    ['id' => '090110', 'name' => 'KURONG BATANG', 'district_id' => '0901'],
-    ['id' => '090111', 'name' => 'NGOLANG', 'district_id' => '0901'],
-    ['id' => '090112', 'name' => 'ORAN', 'district_id' => '0901'],
-    ['id' => '090113', 'name' => 'PADANG PAUH', 'district_id' => '0901'],
-    ['id' => '090114', 'name' => 'PADANG SIDING', 'district_id' => '0901'],
-    ['id' => '090115', 'name' => 'PAYA', 'district_id' => '0901'],
-    ['id' => '090116', 'name' => 'SANGLANG', 'district_id' => '0901'],
-    ['id' => '090117', 'name' => 'SENA', 'district_id' => '0901'],
-    ['id' => '090118', 'name' => 'SERIAP', 'district_id' => '0901'],
-    ['id' => '090119', 'name' => 'SUNGAI ADAM', 'district_id' => '0901'],
-    ['id' => '090120', 'name' => 'TITI TINGGI', 'district_id' => '0901'],
-    ['id' => '090121', 'name' => 'UTAN AJI', 'district_id' => '0901'],
+    ['id' => '090105', 'name' => 'UTAN AJI', 'district_id' => '0901'],
+    ['id' => '090106', 'name' => 'JEJAWI', 'district_id' => '0901'],
+    ['id' => '090107', 'name' => 'KAYANG', 'district_id' => '0901'],
+    ['id' => '090108', 'name' => 'KECHOR', 'district_id' => '0901'],
+    ['id' => '090109', 'name' => 'KUALA PERLIS', 'district_id' => '0901'],
+    ['id' => '090110', 'name' => 'KURONG ANAI', 'district_id' => '0901'],
+    ['id' => '090111', 'name' => 'KURONG BATANG', 'district_id' => '0901'],
+    ['id' => '090112', 'name' => 'NGOLANG', 'district_id' => '0901'],
+    ['id' => '090113', 'name' => 'ORAN', 'district_id' => '0901'],
+    ['id' => '090114', 'name' => 'PADANG PAUH', 'district_id' => '0901'],
+    ['id' => '090115', 'name' => 'PADANG SIDING', 'district_id' => '0901'],
+    ['id' => '090116', 'name' => 'PAYA', 'district_id' => '0901'],
+    ['id' => '090117', 'name' => 'SANGLANG', 'district_id' => '0901'],
+    ['id' => '090118', 'name' => 'SENA', 'district_id' => '0901'],
+    ['id' => '090119', 'name' => 'SERIAP', 'district_id' => '0901'],
+    ['id' => '090120', 'name' => 'SUNGAI ADAM', 'district_id' => '0901'],
+    ['id' => '090121', 'name' => 'TITI TINGGI', 'district_id' => '0901'],
     ['id' => '090122', 'name' => 'WANG BINTONG', 'district_id' => '0901'],
+
+    ['id' => '090140', 'name' => 'BANDAR ARAU', 'district_id' => '0901'],
+    ['id' => '090141', 'name' => 'BANDAR KANGAR', 'district_id' => '0901'],
+
+    ['id' => '090170', 'name' => 'PEKAN KUALA PERLIS', 'district_id' => '0901'],
+    ['id' => '090171', 'name' => 'PEKAN KAKI BUKIT', 'district_id' => '0901'],
     /*
      * kedah
      */
     /*
-     * === baling
-     */
-    ['id' => '020101', 'name' => 'BAKAI', 'district_id' => '0201'],
-    ['id' => '020102', 'name' => 'BALING', 'district_id' => '0201'],
-    ['id' => '020103', 'name' => 'BONGOR', 'district_id' => '0201'],
-    ['id' => '020104', 'name' => 'KUPANG', 'district_id' => '0201'],
-    ['id' => '020105', 'name' => 'PULAI', 'district_id' => '0201'],
-    ['id' => '020106', 'name' => 'SIONG', 'district_id' => '0201'],
-    ['id' => '020107', 'name' => 'TAWAR', 'district_id' => '0201'],
-    ['id' => '020108', 'name' => 'TELUI KANAN', 'district_id' => '0201'],
-    /*
-     * === BANDAR BAHARU
-     */
-    ['id' => '020201', 'name' => 'BAGAN SEMAK', 'district_id' => '0202'],
-    ['id' => '020202', 'name' => 'RELAU', 'district_id' => '0202'],
-    ['id' => '020203', 'name' => 'KUALA SELAMA', 'district_id' => '0202'],
-    ['id' => '020204', 'name' => 'SERDANG', 'district_id' => '0202'],
-    ['id' => '020205', 'name' => 'SUNGAI BATU', 'district_id' => '0202'],
-    ['id' => '020206', 'name' => 'SUNGAI KECHIL', 'district_id' => '0202'],
-    ['id' => '020207', 'name' => 'PERMATANG PASIR', 'district_id' => '0202'],
-    /*
      * === KOTA SETAR
      */
-    ['id' => '020301', 'name' => 'ALOR MALAI', 'district_id' => '0203'],
-    ['id' => '020302', 'name' => 'ALOR MERAH', 'district_id' => '0203'],
-    ['id' => '020303', 'name' => 'ANAK BUKIT', 'district_id' => '0203'],
-    ['id' => '020304', 'name' => 'BUKIT LADA', 'district_id' => '0203'],
-    ['id' => '020305', 'name' => 'BUKIT PINANG', 'district_id' => '0203'],
-    ['id' => '020306', 'name' => 'DERANG', 'district_id' => '0203'],
-    ['id' => '020307', 'name' => 'DERGA', 'district_id' => '0203'],
-    ['id' => '020308', 'name' => 'GAJAH MATI', 'district_id' => '0203'],
-    ['id' => '020309', 'name' => 'GUNONG', 'district_id' => '0203'],
-    ['id' => '020310', 'name' => 'HUTAN KAMPONG', 'district_id' => '0203'],
-    ['id' => '020311', 'name' => 'JABI', 'district_id' => '0203'],
-    ['id' => '020312', 'name' => 'KANGKONG', 'district_id' => '0203'],
-    ['id' => '020313', 'name' => 'KOTA SETAR', 'district_id' => '0203'],
-    ['id' => '020314', 'name' => 'KUALA KEDAH', 'district_id' => '0203'],
-    ['id' => '020315', 'name' => 'KUBANG ROTAN', 'district_id' => '0203'],
-    ['id' => '020316', 'name' => 'LANGGAR', 'district_id' => '0203'],
-    ['id' => '020317', 'name' => 'LENGKUAS', 'district_id' => '0203'],
-    ['id' => '020318', 'name' => 'LEPAI', 'district_id' => '0203'],
-    ['id' => '020319', 'name' => 'LESONG', 'district_id' => '0203'],
-    ['id' => '020320', 'name' => 'LIMBONG', 'district_id' => '0203'],
-    ['id' => '020321', 'name' => 'MERGONG', 'district_id' => '0203'],
-    ['id' => '020322', 'name' => 'PADANG HANG', 'district_id' => '0203'],
-    ['id' => '020323', 'name' => 'PADANG LALANG', 'district_id' => '0203'],
-    ['id' => '020324', 'name' => 'PENGKALAN KUNDOR', 'district_id' => '0203'],
-    ['id' => '020325', 'name' => 'PUMPONG', 'district_id' => '0203'],
-    ['id' => '020326', 'name' => 'SALA KECHIL', 'district_id' => '0203'],
-    ['id' => '020327', 'name' => 'SUNGAI BAHARU', 'district_id' => '0203'],
-    ['id' => '020328', 'name' => 'TAJAR', 'district_id' => '0203'],
-    ['id' => '020329', 'name' => 'TEBENGAU', 'district_id' => '0203'],
-    ['id' => '020330', 'name' => 'TELAGA MAS', 'district_id' => '0203'],
-    ['id' => '020331', 'name' => 'TELOK CHENGAI', 'district_id' => '0203'],
-    ['id' => '020332', 'name' => 'TELOK KECHAI', 'district_id' => '0203'],
-    ['id' => '020333', 'name' => 'TITI GAJAH', 'district_id' => '0203'],
-    ['id' => '020334', 'name' => 'TUALANG', 'district_id' => '0203'],
-    /*
-     * === KUALA MUDA
-     */
-    ['id' => '020401', 'name' => 'BUJANG', 'district_id' => '0204'],
-    ['id' => '020402', 'name' => 'BUKIT MERIAM', 'district_id' => '0204'],
-    ['id' => '020403', 'name' => 'GURUN', 'district_id' => '0204'],
-    ['id' => '020404', 'name' => 'HAJI KUDONG', 'district_id' => '0204'],
-    ['id' => '020405', 'name' => 'KOTA', 'district_id' => '0204'],
-    ['id' => '020406', 'name' => 'KUALA', 'district_id' => '0204'],
-    ['id' => '020407', 'name' => 'MERBOK', 'district_id' => '0204'],
-    ['id' => '020408', 'name' => 'PEKULA', 'district_id' => '0204'],
-    ['id' => '020409', 'name' => 'PINANG TUNGGAL', 'district_id' => '0204'],
-    ['id' => '020410', 'name' => 'RANTAU PANJANG', 'district_id' => '0204'],
-    ['id' => '020411', 'name' => 'SEMELING', 'district_id' => '0204'],
-    ['id' => '020412', 'name' => 'SIDAM KIRI', 'district_id' => '0204'],
-    ['id' => '020413', 'name' => 'SIMPOR', 'district_id' => '0204'],
-    ['id' => '020414', 'name' => 'SUNGAI PASIR', 'district_id' => '0204'],
-    ['id' => '020415', 'name' => 'SUNGAI PETANI', 'district_id' => '0204'],
-    ['id' => '020416', 'name' => 'TELUI KIRI', 'district_id' => '0204'],
+    ['id' => '020101', 'name' => 'ALOR MALAI', 'district_id' => '0201'],
+    // ['id' => '020102', 'name' => 'ALOR MERAH', 'district_id' => '0201'], // deprecated?
+    ['id' => '020103', 'name' => 'ANAK BUKIT', 'district_id' => '0201'],
+    // ['id' => '020104', 'name' => 'BUKIT LADA', 'district_id' => '0201'], // tukar ke 021206
+    // ['id' => '020105', 'name' => 'BUKIT PINANG', 'district_id' => '0201'], // deprecated?
+    // ['id' => '020106', 'name' => 'DERANG', 'district_id' => '0201'], // tukar ke 021201
+    ['id' => '020107', 'name' => 'DERGA', 'district_id' => '0201'],
+    // ['id' => '020108', 'name' => 'GAJAH MATI', 'district_id' => '0201'], // deprecated?
+    ['id' => '020109', 'name' => 'GUNONG', 'district_id' => '0201'],
+    // ['id' => '020110', 'name' => 'HUTAN KAMPONG', 'district_id' => '0201'], // deprecated?
+    // ['id' => '020111', 'name' => 'JABI', 'district_id' => '0201'], // deprecated?
+    ['id' => '020112', 'name' => 'KANGKONG', 'district_id' => '0201'],
+    // ['id' => '020113', 'name' => 'KOTA SETAR', 'district_id' => '0201'], // deprecated?
+    // ['id' => '020114', 'name' => 'KUALA KEDAH', 'district_id' => '0201'], // tukar ke bandar:020142?
+    ['id' => '020115', 'name' => 'KUBANG ROTAN', 'district_id' => '0201'],
+    ['id' => '020116', 'name' => 'LANGGAR', 'district_id' => '0201'],
+    ['id' => '020117', 'name' => 'LENGKUAS', 'district_id' => '0201'],
+    ['id' => '020118', 'name' => 'LEPAI', 'district_id' => '0201'],
+    // ['id' => '020119', 'name' => 'LESONG', 'district_id' => '0201'], // tukar ke 021202
+    ['id' => '020120', 'name' => 'LIMBONG', 'district_id' => '0201'],
+    // ['id' => '020121', 'name' => 'MERGONG', 'district_id' => '0201'], // deprecated?
+    ['id' => '020122', 'name' => 'PADANG HANG', 'district_id' => '0201'],
+    ['id' => '020123', 'name' => 'PADANG LALANG', 'district_id' => '0201'],
+    ['id' => '020124', 'name' => 'PENGKALAN KUNDOR', 'district_id' => '0201'],
+    // ['id' => '020125', 'name' => 'PUMPONG', 'district_id' => '0201'], // deprecated?
+    ['id' => '020126', 'name' => 'SALA KECHIL', 'district_id' => '0201'],
+    ['id' => '020127', 'name' => 'SUNGAI BAHARU', 'district_id' => '0201'],
+    ['id' => '020128', 'name' => 'TAJAR', 'district_id' => '0201'],
+    ['id' => '020129', 'name' => 'TEBENGAU', 'district_id' => '0201'],
+    ['id' => '020130', 'name' => 'TELAGA MAS', 'district_id' => '0201'],
+    ['id' => '020131', 'name' => 'TELOK CHENGAI', 'district_id' => '0201'],
+    // ['id' => '020132', 'name' => 'TELOK KECHAI', 'district_id' => '0201'], // deprecated?
+    // ['id' => '020133', 'name' => 'TITI GAJAH', 'district_id' => '0201'], // deprecated?
+    // ['id' => '020134', 'name' => 'TUALANG', 'district_id' => '0201'], // tukar ke 021203
+    
+    ['id' => '020140', 'name' => 'BANDAR ALOR SETAR', 'district_id' => '0201'],
+    ['id' => '020141', 'name' => 'BANDAR ANAK BUKIT', 'district_id' => '0201'],
+    ['id' => '020143', 'name' => 'BANDAR KUALA KEDAH', 'district_id' => '0201'],
+    ['id' => '020147', 'name' => 'BANDAR ALOR MERAH', 'district_id' => '0201'],
+    ['id' => '020148', 'name' => 'BANDAR BUKIT PINANG', 'district_id' => '0201'],
+    ['id' => '020149', 'name' => 'BANDAR LANGGAR', 'district_id' => '0201'],
+    ['id' => '020150', 'name' => 'BANDAR SIMPANG EMPAT', 'district_id' => '0201'],
+
+    ['id' => '020170', 'name' => 'PEKAN ALOR JANGGUS', 'district_id' => '0201'],
+    ['id' => '020172', 'name' => 'PEKAN KOTA SARANG SEMUT', 'district_id' => '0201'],
+    ['id' => '020175', 'name' => 'PEKAN GUNUNG', 'district_id' => '0201'],
     /*
      * === KUBANG PASU
      */
-    ['id' => '020502', 'name' => 'AH', 'district_id' => '0205'],
-    ['id' => '020501', 'name' => 'BINJAL', 'district_id' => '0205'],
-    ['id' => '020503', 'name' => 'BUKIT TINGGI', 'district_id' => '0205'],
-    ['id' => '020504', 'name' => 'GELONG', 'district_id' => '0205'],
-    ['id' => '020505', 'name' => 'HUSBA', 'district_id' => '0205'],
-    ['id' => '020506', 'name' => 'JERAM', 'district_id' => '0205'],
-    ['id' => '020507', 'name' => 'JERLUN', 'district_id' => '0205'],
-    ['id' => '020508', 'name' => 'JITRA', 'district_id' => '0205'],
-    ['id' => '020509', 'name' => 'KEPELU', 'district_id' => '0205'],
-    ['id' => '020510', 'name' => 'KUBANG PASU', 'district_id' => '0205'],
-    ['id' => '020511', 'name' => 'MALAU', 'district_id' => '0205'],
-    ['id' => '020512', 'name' => 'NAGA', 'district_id' => '0205'],
-    ['id' => '020513', 'name' => 'PADANG PERAHU', 'district_id' => '0205'],
-    ['id' => '020514', 'name' => 'PELUBANG', 'district_id' => '0205'],
-    ['id' => '020515', 'name' => 'PERING', 'district_id' => '0205'],
-    ['id' => '020516', 'name' => 'PUTAT', 'district_id' => '0205'],
-    ['id' => '020517', 'name' => 'SANGLANG', 'district_id' => '0205'],
-    ['id' => '020518', 'name' => 'SUNGAI LAKA', 'district_id' => '0205'],
-    ['id' => '020519', 'name' => 'TEMIN', 'district_id' => '0205'],
-    ['id' => '020520', 'name' => 'TUNJANG', 'district_id' => '0205'],
-    ['id' => '020521', 'name' => 'WANG TEPUS', 'district_id' => '0205'],
-    /*
-     * === KULIM
-     */
-    ['id' => '020602', 'name' => 'BAGAN SENA', 'district_id' => '0206'],
-    ['id' => '020601', 'name' => 'JUNJONG', 'district_id' => '0206'],
-    ['id' => '020603', 'name' => 'KARANGAN', 'district_id' => '0206'],
-    ['id' => '020604', 'name' => 'KELADI', 'district_id' => '0206'],
-    ['id' => '020605', 'name' => 'KULIM', 'district_id' => '0206'],
-    ['id' => '020606', 'name' => 'LUNAS', 'district_id' => '0206'],
-    ['id' => '020607', 'name' => 'MAHANG', 'district_id' => '0206'],
-    ['id' => '020608', 'name' => 'NAGA LILIT', 'district_id' => '0206'],
-    ['id' => '020609', 'name' => 'PADANG CHINA', 'district_id' => '0206'],
-    ['id' => '020610', 'name' => 'PADANG MEHA', 'district_id' => '0206'],
-    ['id' => '020611', 'name' => 'SEDIM', 'district_id' => '0206'],
-    ['id' => '020612', 'name' => 'SIDAM KANAN', 'district_id' => '0206'],
-    ['id' => '020613', 'name' => 'SUNGAI SELUANG', 'district_id' => '0206'],
-    ['id' => '020614', 'name' => 'SUNGAI ULAR', 'district_id' => '0206'],
-    ['id' => '020615', 'name' => 'TERAP', 'district_id' => '0206'],
-    /*
-     * === LANGKAWI
-     */
-    ['id' => '020702', 'name' => 'AYER HANGAT', 'district_id' => '0207'],
-    ['id' => '020701', 'name' => 'BOHOR', 'district_id' => '0207'],
-    ['id' => '020703', 'name' => 'KEDAWANG', 'district_id' => '0207'],
-    ['id' => '020704', 'name' => 'KUAH', 'district_id' => '0207'],
-    ['id' => '020705', 'name' => 'PADANG MASIRAT', 'district_id' => '0207'],
-    ['id' => '020706', 'name' => 'ULU MELAKA', 'district_id' => '0207'],
+    ['id' => '020201', 'name' => 'AH', 'district_id' => '0202'],
+    ['id' => '020202', 'name' => 'BINJAL', 'district_id' => '0202'],
+    ['id' => '020203', 'name' => 'GELONG', 'district_id' => '0202'],
+    ['id' => '020204', 'name' => 'BUKIT TINGGI', 'district_id' => '0202'],
+    ['id' => '020205', 'name' => 'HUSBA', 'district_id' => '0202'],
+    ['id' => '020206', 'name' => 'JERAM', 'district_id' => '0202'],
+    ['id' => '020207', 'name' => 'JERLUN', 'district_id' => '0202'],
+    ['id' => '020208', 'name' => 'JITRA', 'district_id' => '0202'],
+    ['id' => '020209', 'name' => 'KEPELU', 'district_id' => '0202'],
+    ['id' => '020210', 'name' => 'KUBANG PASU', 'district_id' => '0202'],
+    ['id' => '020211', 'name' => 'MALAU', 'district_id' => '0202'],
+    ['id' => '020212', 'name' => 'NAGA', 'district_id' => '0202'],
+    ['id' => '020213', 'name' => 'PADANG PERAHU', 'district_id' => '0202'],
+    ['id' => '020214', 'name' => 'PELUBANG', 'district_id' => '0202'],
+    ['id' => '020215', 'name' => 'PERING', 'district_id' => '0202'],
+    ['id' => '020216', 'name' => 'PUTAT', 'district_id' => '0202'],
+    ['id' => '020217', 'name' => 'SANGLANG', 'district_id' => '0202'],
+    ['id' => '020218', 'name' => 'SUNGAI LAKA', 'district_id' => '0202'],
+    ['id' => '020219', 'name' => 'TEMIN', 'district_id' => '0202'],
+    ['id' => '020220', 'name' => 'TUNJANG', 'district_id' => '0202'],
+    ['id' => '020221', 'name' => 'WANG TEPUS', 'district_id' => '0202'],
+
+    ['id' => '020240', 'name' => 'BANDAR CHANGLUN', 'district_id' => '0202'],
+    ['id' => '020241', 'name' => 'BANDAR JITRA', 'district_id' => '0202'],
+    ['id' => '020242', 'name' => 'BANDAR KODIANG', 'district_id' => '0202'],
+    ['id' => '020243', 'name' => 'BANDAR TUNJANG', 'district_id' => '0202'],
+    ['id' => '020244', 'name' => 'BANDAR BANDAR DARULAMAN', 'district_id' => '0202'],
+    ['id' => '020245', 'name' => 'BANDAR PADANG SERA', 'district_id' => '0202'],
+    ['id' => '020246', 'name' => 'BANDAR KEPALA BATAS', 'district_id' => '0202'],
+    ['id' => '020247', 'name' => 'BANDAR BUKIT KAYU HITAM', 'district_id' => '0202'],
+
+    ['id' => '020270', 'name' => 'PEKAN AYER HITAM', 'district_id' => '0202'],
+    ['id' => '020276', 'name' => 'PEKAN KUALA SANGLANG', 'district_id' => '0202'],
+    ['id' => '020281', 'name' => 'PEKAN SANGLANG', 'district_id' => '0202'],
+    ['id' => '020289', 'name' => 'PEKAN KERPAN', 'district_id' => '0202'],
+    ['id' => '020290', 'name' => 'PEKAN SINTOK', 'district_id' => '0202'],
+    ['id' => '020291', 'name' => 'PEKAN NAPOH', 'district_id' => '0202'],
+    ['id' => '020292', 'name' => 'PEKAN SUNGAI KOROK', 'district_id' => '0202'],
     /*
      * === PADANG TERAP
      */
-    ['id' => '020802', 'name' => 'BATANG TUNGGANG KANAN', 'district_id' => '0208'],
-    ['id' => '020801', 'name' => 'BATANG TUNGGANG KIRI', 'district_id' => '0208'],
-    ['id' => '020803', 'name' => 'BELIMBING KANAN', 'district_id' => '0208'],
-    ['id' => '020804', 'name' => 'BELIMBING KIRI', 'district_id' => '0208'],
-    ['id' => '020805', 'name' => 'KURONG HITAM', 'district_id' => '0208'],
-    ['id' => '020806', 'name' => 'PADANG TERNAK', 'district_id' => '0208'],
-    ['id' => '020807', 'name' => 'PADANG TERAP KANAN', 'district_id' => '0208'],
-    ['id' => '020808', 'name' => 'PADANG TERAP KIRI', 'district_id' => '0208'],
-    ['id' => '020809', 'name' => 'PEDU', 'district_id' => '0208'],
-    ['id' => '020810', 'name' => 'TEKAI', 'district_id' => '0208'],
-    ['id' => '020811', 'name' => 'TOLAK', 'district_id' => '0208'],
+    ['id' => '020302', 'name' => 'BATANG TUNGGANG KANAN', 'district_id' => '0203'],
+    ['id' => '020301', 'name' => 'BATANG TUNGGANG KIRI', 'district_id' => '0203'],
+    ['id' => '020303', 'name' => 'BELIMBING KANAN', 'district_id' => '0203'],
+    ['id' => '020304', 'name' => 'BELIMBING KIRI', 'district_id' => '0203'],
+    ['id' => '020305', 'name' => 'KURONG HITAM', 'district_id' => '0203'],
+    ['id' => '020306', 'name' => 'PADANG TERNAK', 'district_id' => '0203'],
+    ['id' => '020307', 'name' => 'PADANG TERAP KANAN', 'district_id' => '0203'],
+    ['id' => '020308', 'name' => 'PADANG TERAP KIRI', 'district_id' => '0203'],
+    ['id' => '020309', 'name' => 'PEDU', 'district_id' => '0203'],
+    ['id' => '020310', 'name' => 'TEKAI', 'district_id' => '0203'],
+    ['id' => '020311', 'name' => 'TOLAK', 'district_id' => '0203'],
+
+    ['id' => '020340', 'name' => 'BANDAR KUALA NERANG', 'district_id' => '0203'],
+
+    ['id' => '020370', 'name' => 'PEKAN NAKA', 'district_id' => '0203'],
+    ['id' => '020371', 'name' => 'PEKAN DURIAN BURUNG', 'district_id' => '0203'],
+    ['id' => '020372', 'name' => 'PEKAN LUBOK MERBAU', 'district_id' => '0203'],
+    ['id' => '020373', 'name' => 'PEKAN BUKIT TEMBAGA', 'district_id' => '0203'],
+    ['id' => '020374', 'name' => 'PEKAN PADANG SANAI', 'district_id' => '0203'],
+    ['id' => '020375', 'name' => 'PEKAN KAMPUNG TANJUNG', 'district_id' => '0203'],
+    /*
+     * === LANGKAWI
+     */
+    ['id' => '020402', 'name' => 'AYER HANGAT', 'district_id' => '0204'],
+    ['id' => '020401', 'name' => 'BOHOR', 'district_id' => '0204'],
+    ['id' => '020403', 'name' => 'KEDAWANG', 'district_id' => '0204'],
+    ['id' => '020404', 'name' => 'KUAH', 'district_id' => '0204'],
+    ['id' => '020405', 'name' => 'PADANG MASIRAT', 'district_id' => '0204'],
+    ['id' => '020406', 'name' => 'ULU MELAKA', 'district_id' => '0204'],
+
+    ['id' => '020440', 'name' => 'BANDAR KUAH', 'district_id' => '0204'],
+    ['id' => '020442', 'name' => 'BANDAR PADANG LALANG', 'district_id' => '0204'],
+
+    ['id' => '020472', 'name' => 'PEKAN TOK DATAI', 'district_id' => '0204'],
+    /*
+     * === KUALA MUDA
+     */
+    ['id' => '020501', 'name' => 'BUJANG', 'district_id' => '0205'],
+    ['id' => '020502', 'name' => 'BUKIT MERIAM', 'district_id' => '0205'],
+    ['id' => '020503', 'name' => 'GURUN', 'district_id' => '0205'],
+    ['id' => '020504', 'name' => 'HAJI KUDONG', 'district_id' => '0205'],
+    ['id' => '020505', 'name' => 'KOTA', 'district_id' => '0205'],
+    ['id' => '020506', 'name' => 'KUALA', 'district_id' => '0205'],
+    ['id' => '020507', 'name' => 'MERBOK', 'district_id' => '0205'],
+    ['id' => '020508', 'name' => 'PEKULA', 'district_id' => '0205'],
+    ['id' => '020509', 'name' => 'PINANG TUNGGAL', 'district_id' => '0205'],
+    ['id' => '020510', 'name' => 'RANTAU PANJANG', 'district_id' => '0205'],
+    ['id' => '020511', 'name' => 'SEMELING', 'district_id' => '0205'],
+    ['id' => '020512', 'name' => 'SIDAM KIRI', 'district_id' => '0205'],
+    ['id' => '020513', 'name' => 'SIMPOR', 'district_id' => '0205'],
+    ['id' => '020514', 'name' => 'SUNGAI PASIR', 'district_id' => '0205'],
+    ['id' => '020515', 'name' => 'SUNGAI PETANI', 'district_id' => '0205'],
+    ['id' => '020516', 'name' => 'TELOI KIRI', 'district_id' => '0205'],
+    /*
+     * === YAN
+     */
+    ['id' => '020602', 'name' => 'DULANG', 'district_id' => '0206'],
+    ['id' => '020601', 'name' => 'SALA BESAR', 'district_id' => '0206'],
+    ['id' => '020603', 'name' => 'SINGKIR', 'district_id' => '0206'],
+    ['id' => '020604', 'name' => 'SUNGAI DAUN', 'district_id' => '0206'],
+    ['id' => '020605', 'name' => 'YAN', 'district_id' => '0206'],
+
+    ['id' => '020640', 'name' => 'BANDAR GUAR CHEMPEDAK', 'district_id' => '0206'],
+    ['id' => '020641', 'name' => 'BANDAR YAN', 'district_id' => '0206'],
+
+    ['id' => '020671', 'name' => 'PEKAN SIMPANG TIGA SUNGAI LIMAU', 'district_id' => '0206'],
+    ['id' => '020672', 'name' => 'PEKAN SUNGAI LIMAU DALAM', 'district_id' => '0206'],
+    ['id' => '020674', 'name' => 'PEKAN TEROI', 'district_id' => '0206'],
+    ['id' => '020675', 'name' => 'PEKAN SINGKIR', 'district_id' => '0206'],
     /*
      * === SIK
      */
     ['id' => '020902', 'name' => 'JENERI', 'district_id' => '0209'],
     ['id' => '020901', 'name' => 'SIK', 'district_id' => '0209'],
     ['id' => '020903', 'name' => 'SOK', 'district_id' => '0209'],
+
+    ['id' => '020940', 'name' => 'BANDAR SIK', 'district_id' => '0209'],
+
+    ['id' => '020970', 'name' => 'PEKAN BATU LAMA SIK', 'district_id' => '0209'],
+    ['id' => '020973', 'name' => 'PEKAN GULAU', 'district_id' => '0209'],
+    ['id' => '020974', 'name' => 'PEKAN GAJAH PUTEH', 'district_id' => '0209'],
+    ['id' => '020975', 'name' => 'PEKAN CHAROK PADANG', 'district_id' => '0209'],
     /*
-     * === YAN
+     * === BALING
      */
-    ['id' => '021002', 'name' => 'DULANG', 'district_id' => '0210'],
-    ['id' => '021001', 'name' => 'SALA BESAR', 'district_id' => '0210'],
-    ['id' => '021003', 'name' => 'SINGKIR', 'district_id' => '0210'],
-    ['id' => '021004', 'name' => 'SUNGAI DAUN', 'district_id' => '0210'],
-    ['id' => '021005', 'name' => 'YAN', 'district_id' => '0210'],
+    ['id' => '020801', 'name' => 'BAKAI', 'district_id' => '0208'],
+    ['id' => '020802', 'name' => 'BALING', 'district_id' => '0208'],
+    ['id' => '020803', 'name' => 'BONGOR', 'district_id' => '0208'],
+    ['id' => '020804', 'name' => 'KUPANG', 'district_id' => '0208'],
+    ['id' => '020805', 'name' => 'PULAI', 'district_id' => '0208'],
+    ['id' => '020806', 'name' => 'SIONG', 'district_id' => '0208'],
+    ['id' => '020807', 'name' => 'TAWAR', 'district_id' => '0208'],
+    ['id' => '020808', 'name' => 'TELOI KANAN', 'district_id' => '0208'],
+
+    ['id' => '020840', 'name' => 'BANDAR BALING', 'district_id' => '0208'],
+    ['id' => '020841', 'name' => 'BANDAR KUALA KETIL', 'district_id' => '0208'],
+    ['id' => '020842', 'name' => 'BANDAR KUPANG', 'district_id' => '0208'],
+
+    ['id' => '020872', 'name' => 'PEKAN KAMPUNG BARU KEJAI', 'district_id' => '0208'],
+    ['id' => '020874', 'name' => 'PEKAN PULAI', 'district_id' => '0208'],
+    ['id' => '020875', 'name' => 'PEKAN TAWAR', 'district_id' => '0208'],
+    ['id' => '020876', 'name' => 'PEKAN KUALA PEGANG', 'district_id' => '0208'],
+    ['id' => '020878', 'name' => 'PEKAN PARIT PANJANG', 'district_id' => '0208'],
+    ['id' => '020879', 'name' => 'PEKAN KAMPUNG LALANG', 'district_id' => '0208'],
+    ['id' => '020880', 'name' => 'PEKAN MALAU', 'district_id' => '0208'],
     /*
-     * === PADANG TERAP
+     * === KULIM
+     */
+    ['id' => '020902', 'name' => 'BAGAN SENA', 'district_id' => '0209'],
+    ['id' => '020901', 'name' => 'JUNJONG', 'district_id' => '0209'],
+    ['id' => '020903', 'name' => 'KARANGAN', 'district_id' => '0209'],
+    // ['id' => '020904', 'name' => 'KELADI', 'district_id' => '0209'], // deprecated?
+    ['id' => '020905', 'name' => 'KULIM', 'district_id' => '0209'],
+    ['id' => '020906', 'name' => 'LUNAS', 'district_id' => '0209'],
+    ['id' => '020907', 'name' => 'MAHANG', 'district_id' => '0209'],
+    ['id' => '020908', 'name' => 'NAGA LILIT', 'district_id' => '0209'],
+    ['id' => '020909', 'name' => 'PADANG CHINA', 'district_id' => '0209'],
+    ['id' => '020910', 'name' => 'PADANG MEHA', 'district_id' => '0209'],
+    ['id' => '020911', 'name' => 'SEDIM', 'district_id' => '0209'],
+    ['id' => '020912', 'name' => 'SIDAM KANAN', 'district_id' => '0209'],
+    ['id' => '020913', 'name' => 'SUNGAI SELUANG', 'district_id' => '0209'],
+    ['id' => '020914', 'name' => 'SUNGAI ULAR', 'district_id' => '0209'],
+    ['id' => '020915', 'name' => 'TERAP', 'district_id' => '0209'],
+
+    ['id' => '020940', 'name' => 'BANDAR KULIM', 'district_id' => '0209'],
+    ['id' => '020941', 'name' => 'BANDAR LUNAS', 'district_id' => '0209'],
+    ['id' => '020942', 'name' => 'BANDAR PADANG SERAI', 'district_id' => '0209'],
+
+    ['id' => '020970', 'name' => 'PEKAN JUNJONG', 'district_id' => '0209'],
+    ['id' => '020971', 'name' => 'PEKAN KARANGAN', 'district_id' => '0209'],
+    ['id' => '020972', 'name' => 'PEKAN LABU BESAR', 'district_id' => '0209'],
+    ['id' => '020973', 'name' => 'PEKAN MAHANG', 'district_id' => '0209'],
+    ['id' => '020974', 'name' => 'PEKAN MERBAU PULAS', 'district_id' => '0209'],
+    ['id' => '020975', 'name' => 'PEKAN SUNGAI KARANGAN', 'district_id' => '0209'],
+    ['id' => '020976', 'name' => 'PEKAN SUNGAI KOB', 'district_id' => '0209'],
+    ['id' => '020977', 'name' => 'PEKAN PADANG MEHA', 'district_id' => '0209'],
+    /*
+     * === BANDAR BAHARU
+     */
+    ['id' => '021001', 'name' => 'BAGAN SEMAK', 'district_id' => '0210'],
+    ['id' => '021002', 'name' => 'KUALA SELAMA', 'district_id' => '0210'],
+    ['id' => '021003', 'name' => 'PERMATANG PASIR', 'district_id' => '0210'],
+    ['id' => '021004', 'name' => 'RELAU', 'district_id' => '0210'],
+    ['id' => '021005', 'name' => 'SERDANG', 'district_id' => '0210'],
+    ['id' => '021006', 'name' => 'SUNGAI BATU', 'district_id' => '0210'],
+    ['id' => '021007', 'name' => 'SUNGAI KECHIL', 'district_id' => '0210'],
+
+    ['id' => '021040', 'name' => 'BANDAR BANDAR BAHARU', 'district_id' => '0210'],
+    ['id' => '021041', 'name' => 'BANDAR SERDANG', 'district_id' => '0210'],
+
+    ['id' => '021070', 'name' => 'PEKAN LUBUK BUNTAR', 'district_id' => '0210'],
+    ['id' => '021071', 'name' => 'PEKAN SELAMA', 'district_id' => '0210'],
+    ['id' => '021072', 'name' => 'PEKAN SUNGAI KECIL ILLIR', 'district_id' => '0210'],
+    ['id' => '021073', 'name' => 'PEKAN RELAU', 'district_id' => '0210'],
+    /*
+     * === PENDANG
      */
     ['id' => '021102', 'name' => 'AYER PUTEH', 'district_id' => '0211'],
     ['id' => '021101', 'name' => 'BUKIT RAYA', 'district_id' => '0211'],
@@ -204,8 +303,29 @@ $items = [
     ['id' => '021104', 'name' => 'PADANG KERBAU', 'district_id' => '0211'],
     ['id' => '021105', 'name' => 'PADANG PELIANG', 'district_id' => '0211'],
     ['id' => '021106', 'name' => 'PADANG PUSING', 'district_id' => '0211'],
-    ['id' => '021107', 'name' => 'RAMBAI', 'district_id' => '0211'],
+    // ['id' => '021107', 'name' => 'RAMBAI', 'district_id' => '0211'], // deprecated?
     ['id' => '021108', 'name' => 'TOBIAR', 'district_id' => '0211'],
+
+    ['id' => '021140', 'name' => 'BANDAR PEDANG', 'district_id' => '0211'],
+
+    ['id' => '021170', 'name' => 'PEKAN BUKIT JENUN', 'district_id' => '0211'],
+    ['id' => '021171', 'name' => 'PEKAN KUBUR PANJANG', 'district_id' => '0211'],
+    ['id' => '021172', 'name' => 'PEKAN TANAH MERAH', 'district_id' => '0211'],
+    ['id' => '021173', 'name' => 'PEKAN TOKAI', 'district_id' => '0211'],
+    ['id' => '021174', 'name' => 'PEKAN KOBAH', 'district_id' => '0211'],
+    ['id' => '021175', 'name' => 'PEKAN KAMPUNG BARU', 'district_id' => '0211'],
+    ['id' => '021176', 'name' => 'PEKAN SUNGAI TIANG', 'district_id' => '0211'],
+    /*
+     * === POKOK SENA
+     */
+    ['id' => '021201', 'name' => 'DERANG', 'district_id' => '0212'],
+    ['id' => '021202', 'name' => 'LESONG', 'district_id' => '0212'],
+    ['id' => '021203', 'name' => 'TUALANG', 'district_id' => '0212'],
+    ['id' => '021206', 'name' => 'BUKIT LADA', 'district_id' => '0212'],
+
+    ['id' => '021240', 'name' => 'BANDAR POKOK SENA', 'district_id' => '0212'],
+
+    ['id' => '021270', 'name' => 'PEKAN KEBUN 500', 'district_id' => '0212'],
     /*
      * kelantan
      */
@@ -739,88 +859,292 @@ $items = [
      * selangor
      */
     /*
-     * === GOMBAK
-     */
-    ['id' => '100102', 'name' => 'BATU', 'district_id' => '1001'],
-    ['id' => '100101', 'name' => 'RAWANG', 'district_id' => '1001'],
-    ['id' => '100103', 'name' => 'SETAPAK', 'district_id' => '1001'],
-    ['id' => '100104', 'name' => 'ULU KELANG', 'district_id' => '1001'],
-    /*
      * === KLANG
      */
-    ['id' => '100202', 'name' => 'KAPAR', 'district_id' => '1002'],
-    ['id' => '100201', 'name' => 'KLANG', 'district_id' => '1002'],
-    ['id' => '100203', 'name' => 'BANDAR KLANG', 'district_id' => '1002'],
+    ['id' => '100101', 'name' => 'KAPAR', 'district_id' => '1001'],
+    ['id' => '100102', 'name' => 'KLANG', 'district_id' => '1001'],
+    // ['id' => '100103', 'name' => 'BANDAR KLANG', 'district_id' => '1001'], // mv 100140
+
+    ['id' => '100140', 'name' => 'BANDAR KLANG', 'district_id' => '1001'],
+    ['id' => '100141', 'name' => 'BANDAR PORT SWETTENHAM', 'district_id' => '1001'],
+    ['id' => '100142', 'name' => 'BANDAR SULTAN SULAIMAN', 'district_id' => '1001'],
+    ['id' => '100143', 'name' => 'BANDAR SHAH ALAM', 'district_id' => '1001'],
+
+    ['id' => '100170', 'name' => 'PEKAN BUKIT KEMUNING', 'district_id' => '1001'],
+    ['id' => '100171', 'name' => 'PEKAN KAPAR', 'district_id' => '1001'],
+    ['id' => '100172', 'name' => 'PEKAN MERU', 'district_id' => '1001'],
+    ['id' => '100173', 'name' => 'PEKAN TELOK MENEGUN', 'district_id' => '1001'],
+    ['id' => '100174', 'name' => 'PEKAN BATU EMPAT', 'district_id' => '1001'],
+    ['id' => '100175', 'name' => 'PEKAN PANDAMARAN', 'district_id' => '1001'],
     /*
      * === KUALA LANGAT
      */
-    ['id' => '100302', 'name' => 'BANDAR', 'district_id' => '1003'],
-    ['id' => '100301', 'name' => 'BATU', 'district_id' => '1003'],
-    ['id' => '100303', 'name' => 'KELANANG', 'district_id' => '1003'],
-    ['id' => '100304', 'name' => 'MORIB', 'district_id' => '1003'],
-    ['id' => '100305', 'name' => 'TANJONG DUA BELAS', 'district_id' => '1003'],
-    ['id' => '100306', 'name' => 'TELOK PANGLIMA GARANG', 'district_id' => '1003'],
-    ['id' => '100307', 'name' => 'JUGRA', 'district_id' => '1003'],
+    ['id' => '100201', 'name' => 'BANDAR', 'district_id' => '1002'],
+    ['id' => '100202', 'name' => 'BATU', 'district_id' => '1002'],
+    ['id' => '100203', 'name' => 'JUGRA', 'district_id' => '1002'],
+    ['id' => '100204', 'name' => 'KELANANG', 'district_id' => '1002'],
+    ['id' => '100205', 'name' => 'MORIB', 'district_id' => '1002'],
+    ['id' => '100206', 'name' => 'TANJONG DUABELAS', 'district_id' => '1002'],
+    ['id' => '100207', 'name' => 'TELOK PANGLIMA GARANG', 'district_id' => '1002'],
+
+    ['id' => '100240', 'name' => 'BANDAR BANTING', 'district_id' => '1002'],
+    ['id' => '100241', 'name' => 'BANDAR JENJAROM', 'district_id' => '1002'],
+    ['id' => '100242', 'name' => 'BANDAR SIJANGKANG', 'district_id' => '1002'],
+    ['id' => '100243', 'name' => 'BANDAR TANJONG SEPAT', 'district_id' => '1002'],
+    ['id' => '100244', 'name' => 'BANDAR TELOK PANGLIMA GARANG', 'district_id' => '1002'],
+
+    ['id' => '100270', 'name' => 'PEKAN BATU', 'district_id' => '1002'],
+    ['id' => '100271', 'name' => 'PEKAN BUKIT CHANGGANG', 'district_id' => '1002'],
+    ['id' => '100272', 'name' => 'PEKAN CHODOI', 'district_id' => '1002'],
+    ['id' => '100273', 'name' => 'PEKAN JENJAROM', 'district_id' => '1002'],
+    ['id' => '100274', 'name' => 'PEKAN KANCHONG', 'district_id' => '1002'],
+    ['id' => '100275', 'name' => 'PEKAN KANCHONG DARAT', 'district_id' => '1002'],
+    ['id' => '100276', 'name' => 'PEKAN KELANANG BATU ENAM', 'district_id' => '1002'],
+    ['id' => '100277', 'name' => 'PEKAN MORIB', 'district_id' => '1002'],
+    ['id' => '100278', 'name' => 'PEKAN SIJANGKANG', 'district_id' => '1002'],
+    ['id' => '100279', 'name' => 'PEKAN PERMATANG PASIR', 'district_id' => '1002'],
+    ['id' => '100280', 'name' => 'PEKAN SIMPANG MORIB', 'district_id' => '1002'],
+    ['id' => '100281', 'name' => 'PEKAN SUNGAI MANGGIS', 'district_id' => '1002'],
+    ['id' => '100282', 'name' => 'PEKAN SUNGAI RABA', 'district_id' => '1002'],
+    ['id' => '100283', 'name' => 'PEKAN TANJONG DUABELAS', 'district_id' => '1002'],
+    ['id' => '100284', 'name' => 'PEKAN TELOK DATOK', 'district_id' => '1002'],
+    ['id' => '100286', 'name' => 'PEKAN TONGKAH', 'district_id' => '1002'],
+    ['id' => '100287', 'name' => 'PEKAN TELOK', 'district_id' => '1002'],
+    /*
+     * === 1003 ??? // deprecated?
+     */
     /*
      * === KUALA SELANGOR
      */
-    ['id' => '100402', 'name' => 'API-API', 'district_id' => '1004'],
-    ['id' => '100401', 'name' => 'BATANG BERJUNTAI', 'district_id' => '1004'],
-    ['id' => '100403', 'name' => 'IJOK', 'district_id' => '1004'],
-    ['id' => '100404', 'name' => 'JERAM', 'district_id' => '1004'],
-    ['id' => '100405', 'name' => 'KUALA SELANGOR', 'district_id' => '1004'],
-    ['id' => '100406', 'name' => 'PASANGAN', 'district_id' => '1004'],
-    ['id' => '100407', 'name' => 'TANJONG KARANG', 'district_id' => '1004'],
-    ['id' => '100408', 'name' => 'UJONG PERMATANG', 'district_id' => '1004'],
-    ['id' => '100409', 'name' => 'ULU TINGGI', 'district_id' => '1004'],
-    /*
-     * === PETALING
-     */
-    ['id' => '100502', 'name' => 'BUKIT RAJA', 'district_id' => '1005'],
-    ['id' => '100501', 'name' => 'DAMANSARA', 'district_id' => '1005'],
-    ['id' => '100503', 'name' => 'PETALING', 'district_id' => '1005'],
-    ['id' => '100504', 'name' => 'SUNGAI BULOH', 'district_id' => '1005'],
-    ['id' => '100505', 'name' => 'BANDAR PETALING JAYA', 'district_id' => '1005'],
+    ['id' => '100401', 'name' => 'API-API', 'district_id' => '1004'],
+    // ['id' => '100402', 'name' => 'BATANG BERJUNTAI', 'district_id' => '1004'], // deprecated?
+    ['id' => '100405', 'name' => 'IJOK', 'district_id' => '1004'],
+    ['id' => '100406', 'name' => 'JERAM', 'district_id' => '1004'],
+    ['id' => '100407', 'name' => 'KUALA SELANGOR', 'district_id' => '1004'],
+    ['id' => '100408', 'name' => 'PASANGAN', 'district_id' => '1004'],
+    ['id' => '100409', 'name' => 'TANJONG KARANG', 'district_id' => '1004'],
+    // ['id' => '100408', 'name' => 'UJONG PERMATANG', 'district_id' => '1004'], // deprecated?
+    // ['id' => '100409', 'name' => 'ULU TINGGI', 'district_id' => '1004'], // deprecated?
+    ['id' => '100410', 'name' => 'BESTARI JAYA', 'district_id' => '1004'],
+
+    ['id' => '100440', 'name' => 'BANDAR KUALA SELANGOR', 'district_id' => '1004'],
+    ['id' => '100441', 'name' => 'BANDAR TANJONG KARANG', 'district_id' => '1004'],
+
+    ['id' => '100470', 'name' => 'PEKAN ASAM JAWA', 'district_id' => '1004'],
+    // ['id' => '100471', 'name' => '??', 'district_id' => '1004'], // deprecated?
+    ['id' => '100472', 'name' => 'PEKAN BUKIT ROTAN', 'district_id' => '1004'],
+    ['id' => '100473', 'name' => 'PEKAN JERAM', 'district_id' => '1004'],
+    ['id' => '100474', 'name' => 'PEKAN KAMPONG KUANTAN', 'district_id' => '1004'],
+    ['id' => '100475', 'name' => 'PEKAN KUALA SUNGAI BULOH', 'district_id' => '1004'],
+    ['id' => '100476', 'name' => 'PEKAN PASIR PENAMPANG', 'district_id' => '1004'],
+    ['id' => '100477', 'name' => 'PEKAN SIMPANG TIGA', 'district_id' => '1004'],
+    ['id' => '100478', 'name' => 'PEKAN TANJONG KARANG', 'district_id' => '1004'],
+    ['id' => '100479', 'name' => 'PEKAN BUKTI BELIMBING', 'district_id' => '1004'],
+    ['id' => '100480', 'name' => 'PEKAN BUKIT TALANG', 'district_id' => '1004'],
+    ['id' => '100481', 'name' => 'PEKAN KAMBUNG BARU HULU TIRAM BURUK', 'district_id' => '1004'],
+    ['id' => '100482', 'name' => 'PEKAN PARTI MAHANG', 'district_id' => '1004'],
+    ['id' => '100483', 'name' => 'PEKAN SIMPANG TIGA IJOK', 'district_id' => '1004'],
+    ['id' => '100484', 'name' => 'PEKAN SUNGAI SEMBILANG', 'district_id' => '1004'],
+    ['id' => '100485', 'name' => 'PEKAN TAMAN PKNS', 'district_id' => '1004'],
+    ['id' => '100488', 'name' => 'PEKAN TAMBAK JAWA', 'district_id' => '1004'],
+    // ['id' => '100489', 'name' => '??', 'district_id' => '1004'], // deprecated?
+    // ['id' => '100490', 'name' => '??', 'district_id' => '1004'], // deprecated?
+    ['id' => '100491', 'name' => 'PEKAN BESTARI JAYA', 'district_id' => '1004'],
     /*
      * === SABAK BERNAM
      */
-    ['id' => '100602', 'name' => 'BAGAN NAKHODA OMAR', 'district_id' => '1006'],
-    ['id' => '100601', 'name' => 'PANCANG BEDENA', 'district_id' => '1006'],
-    ['id' => '100603', 'name' => 'PASIR PANJANG', 'district_id' => '1006'],
-    ['id' => '100604', 'name' => 'SABAK', 'district_id' => '1006'],
-    ['id' => '100605', 'name' => 'SUNGAI PANJANG', 'district_id' => '1006'],
+    ['id' => '100501', 'name' => 'BAGAN NAKHODA OMAR', 'district_id' => '1005'],
+    ['id' => '100502', 'name' => 'PANCANG BEDENA', 'district_id' => '1005'],
+    ['id' => '100503', 'name' => 'PASIR PANJANG', 'district_id' => '1005'],
+    ['id' => '100504', 'name' => 'SABAK', 'district_id' => '1005'],
+    ['id' => '100505', 'name' => 'SUNGAI PANJANG', 'district_id' => '1005'],
+
+    ['id' => '100570', 'name' => 'PEKAN BAGAN TERAP', 'district_id' => '1005'],
+    ['id' => '100571', 'name' => 'PEKAN PARIT ENAM', 'district_id' => '1005'],
+    ['id' => '100572', 'name' => 'PEKAN PARIT SEMBILAN', 'district_id' => '1005'],
+    ['id' => '100573', 'name' => 'PEKAN SEKINCHAN', 'district_id' => '1005'],
+    // ['id' => '100574', 'name' => '??', 'district_id' => '1005'], // deprecated?
+    ['id' => '100575', 'name' => 'PEKAN SABAK', 'district_id' => '1005'],
+    ['id' => '100576', 'name' => 'PEKAN SUNGAI AIR TAWAR', 'district_id' => '1005'],
+    ['id' => '100577', 'name' => 'PEKAN SUNGAI SEPINTAS', 'district_id' => '1005'],
+    ['id' => '100578', 'name' => 'PEKAN BAGAN NAKHODA OMAR', 'district_id' => '1005'],
+    ['id' => '100579', 'name' => 'PEKAN PARIT BARU', 'district_id' => '1005'],
+    ['id' => '100580', 'name' => 'PEKAN PASIR PANJANG', 'district_id' => '1005'],
+    ['id' => '100581', 'name' => 'PEKAN SEKINCHAN SITE A', 'district_id' => '1005'],
+    ['id' => '100582', 'name' => 'PEKAN SUNGAI BESAR', 'district_id' => '1005'],
+    ['id' => '100583', 'name' => 'PEKAN SUNGAI HAJI DORANI', 'district_id' => '1005'],
+    ['id' => '100584', 'name' => 'PEKAN SUNGAI NIBONG', 'district_id' => '1005'],
+    /*
+     * === ULU LANGAT
+     */
+    ['id' => '100601', 'name' => 'BERANANG', 'district_id' => '1006'],
+    ['id' => '100602', 'name' => 'CHERAS', 'district_id' => '1006'],
+    ['id' => '100603', 'name' => 'AMPANG', 'district_id' => '1006'],
+    ['id' => '100604', 'name' => 'HULU LANGAT', 'district_id' => '1006'],
+    ['id' => '100605', 'name' => 'HULU SEMENYIH', 'district_id' => '1006'],
+    ['id' => '100606', 'name' => 'KAJANG', 'district_id' => '1006'],
+    ['id' => '100607', 'name' => 'SEMENYIH', 'district_id' => '1006'],
+
+    ['id' => '100640', 'name' => 'BANDAR CHERAS', 'district_id' => '1006'],
+    ['id' => '100641', 'name' => 'BANDAR ULU LANGAT', 'district_id' => '1006'],
+    ['id' => '100642', 'name' => 'BANDAR KAJANG', 'district_id' => '1006'],
+    ['id' => '100643', 'name' => 'BANDAR SEMENYIH', 'district_id' => '1006'],
+    ['id' => '100644', 'name' => 'BANDAR AMPANG', 'district_id' => '1006'],
+    ['id' => '100645', 'name' => 'BANDAR BALAKONG', 'district_id' => '1006'],
+    ['id' => '100646', 'name' => 'BANDAR BATU 9, CHERAS', 'district_id' => '1006'],
+    // ['id' => '100647', 'name' => '??', 'district_id' => '1006'], // deprecated?
+    ['id' => '100648', 'name' => 'BANDAR BATU 18, SEMENYIH', 'district_id' => '1006'],
+    ['id' => '100649', 'name' => 'BANDAR BATU 26, BERANANG', 'district_id' => '1006'],
+
+    // ['id' => '100670', 'name' => '??', 'district_id' => '1006'], // deprecated?
+    ['id' => '100671', 'name' => 'PEKAN BERANANG', 'district_id' => '1006'],
+    // ['id' => '100672', 'name' => '??', 'district_id' => '1006'], // deprecated?
+    ['id' => '100673', 'name' => 'PEKAN KACAU', 'district_id' => '1006'],
+    // ['id' => '100674', 'name' => '??', 'district_id' => '1006'], // deprecated?
+    ['id' => '100675', 'name' => 'PEKAN TARUN', 'district_id' => '1006'],
+    ['id' => '100676', 'name' => 'PEKAN BANGI LAMA', 'district_id' => '1006'],
+    // ['id' => '100677', 'name' => '??', 'district_id' => '1006'], // deprecated?
+    ['id' => '100678', 'name' => 'PEKAN BATU 23, SUNGAI LALANG', 'district_id' => '1006'],
+    ['id' => '100679', 'name' => 'PEKAN BATU 26, BERANANG', 'district_id' => '1006'],
+    ['id' => '100680', 'name' => 'PEKAN BUKIT SUNGAI RAYA', 'district_id' => '1006'],
+    ['id' => '100681', 'name' => 'PEKAN CHERAS', 'district_id' => '1006'],
+    ['id' => '100682', 'name' => 'PEKAN DESA RAYA', 'district_id' => '1006'],
+    ['id' => '100683', 'name' => 'PEKAN DUSUN TUA ULU LANGAT', 'district_id' => '1006'],
+    ['id' => '100684', 'name' => 'PEKAN KAJANG', 'district_id' => '1006'],
+    ['id' => '100685', 'name' => 'PEKAN KAMPONG PASIR, BATU 14, SEMENYIH', 'district_id' => '1006'],
+    ['id' => '100686', 'name' => 'PEKAN KAMPONG SUNGAI TANGKAS', 'district_id' => '1006'],
+    ['id' => '100687', 'name' => 'PEKAN RUMAH MURAH SUNGAI LUI', 'district_id' => '1006'],
+    ['id' => '100688', 'name' => 'PEKAN SEMENYIH', 'district_id' => '1006'],
+    ['id' => '100689', 'name' => 'PEKAN SIMPANG BALAK', 'district_id' => '1006'],
+    ['id' => '100690', 'name' => 'PEKAN SRI NANDING', 'district_id' => '1006'],
+    ['id' => '100691', 'name' => 'PEKAN SUNGAI KEMBONG BERANANG', 'district_id' => '1006'],
+    ['id' => '100692', 'name' => 'PEKAN SUNGAI LUI', 'district_id' => '1006'],
+    ['id' => '100693', 'name' => 'PEKAN SUNGAI MAKAU', 'district_id' => '1006'],
+    /*
+     * === ULU SELANGOR
+     */
+    ['id' => '100701', 'name' => 'BATANG KALI', 'district_id' => '1007'],
+    ['id' => '100702', 'name' => 'BULUH TELOR', 'district_id' => '1007'],
+    ['id' => '100703', 'name' => 'AMPANG PECHAH', 'district_id' => '1007'],
+    ['id' => '100704', 'name' => 'ULU BERNAM', 'district_id' => '1007'],
+    ['id' => '100705', 'name' => 'ULU YAM', 'district_id' => '1007'],
+    ['id' => '100706', 'name' => 'KALUMPANG', 'district_id' => '1007'],
+    ['id' => '100707', 'name' => 'KERLING', 'district_id' => '1007'],
+    ['id' => '100708', 'name' => 'KUALA KALUMPANG', 'district_id' => '1007'],
+    ['id' => '100709', 'name' => 'PERETAK', 'district_id' => '1007'],
+    ['id' => '100710', 'name' => 'RASA', 'district_id' => '1007'],
+    ['id' => '100711', 'name' => 'SERENDAH', 'district_id' => '1007'],
+    ['id' => '100712', 'name' => 'SUNGAI GUMUT', 'district_id' => '1007'],
+    ['id' => '100713', 'name' => 'SUNGAI TINGGI', 'district_id' => '1007'],
+
+    ['id' => '100740', 'name' => 'BANDAR ULU YAM', 'district_id' => '1007'],
+    ['id' => '100741', 'name' => 'BANDAR ULU YAM BAHARU', 'district_id' => '1007'],
+    ['id' => '100742', 'name' => 'BANDAR KALUMPANG', 'district_id' => '1007'],
+    ['id' => '100743', 'name' => 'BANDAR KUALA KUBU BAHARU', 'district_id' => '1007'],
+    ['id' => '100744', 'name' => 'BANDAR RASA', 'district_id' => '1007'],
+    ['id' => '100745', 'name' => 'BANDAR SERENDAH', 'district_id' => '1007'],
+    ['id' => '100746', 'name' => 'BANDAR BATANG KALI', 'district_id' => '1007'],
+    ['id' => '100747', 'name' => 'BANDAR ULU BERNAM I', 'district_id' => '1007'],
+    ['id' => '100748', 'name' => 'BANDAR ULU BERNAM II', 'district_id' => '1007'],
+    ['id' => '100749', 'name' => 'BANDAR SUNGAI CHIK', 'district_id' => '1007'],
+
+    ['id' => '100770', 'name' => 'PEKAN KERLING', 'district_id' => '1007'],
+    ['id' => '100771', 'name' => 'PEKAN PERETAK', 'district_id' => '1007'],
+    ['id' => '100772', 'name' => 'PEKAN SIMPANG SUNGAI CHOH', 'district_id' => '1007'],
+    /*
+     * === PETALING
+     */
+    ['id' => '100802', 'name' => 'BUKIT RAJA', 'district_id' => '1008'],
+    ['id' => '100801', 'name' => 'DAMANSARA', 'district_id' => '1008'],
+    ['id' => '100803', 'name' => 'PETALING', 'district_id' => '1008'],
+    ['id' => '100804', 'name' => 'SUNGAI BULOH', 'district_id' => '1008'],
+    // ['id' => '100805', 'name' => 'BANDAR PETALING JAYA', 'district_id' => '1008'], // mv 100840
+    
+    ['id' => '100840', 'name' => 'BANDAR PETALING JAYA', 'district_id' => '1008'],
+    ['id' => '100841', 'name' => 'BANDAR SHAH ALAM', 'district_id' => '1008'],
+    ['id' => '100842', 'name' => 'BANDAR DAMANSARA', 'district_id' => '1008'],
+    ['id' => '100843', 'name' => 'BANDAR GLENMARIE', 'district_id' => '1008'],
+    ['id' => '100844', 'name' => 'BANDAR PETALING JAYA SELATAN', 'district_id' => '1008'],
+    ['id' => '100845', 'name' => 'BANDAR SAUJANA', 'district_id' => '1008'],
+    ['id' => '100846', 'name' => 'BANDAR SRI DAMANSARA', 'district_id' => '1008'],
+    ['id' => '100847', 'name' => 'BANDAR SUBANG JAYA', 'district_id' => '1008'],
+    ['id' => '100848', 'name' => 'BANDAR SUNWAY', 'district_id' => '1008'],
+
+    ['id' => '100870', 'name' => 'PEKAN BATU TIGA', 'district_id' => '1008'],
+    ['id' => '100871', 'name' => 'PEKAN MERBAU SEMPAK', 'district_id' => '1008'],
+    ['id' => '100872', 'name' => 'PEKAN PUCHONG', 'district_id' => '1008'],
+    // ['id' => '100873', 'name' => '??', 'district_id' => '1008'], // deprecated?
+    ['id' => '100874', 'name' => 'PEKAN SERDANG', 'district_id' => '1008'],
+    ['id' => '100875', 'name' => 'PEKAN SUNGAI BULOH', 'district_id' => '1008'],
+    ['id' => '100876', 'name' => 'PEKAN SUNGAI PENCHALA', 'district_id' => '1008'],
+    ['id' => '100877', 'name' => 'PEKAN CEMPAKA', 'district_id' => '1008'],
+    ['id' => '100878', 'name' => 'PEKAN COUNTRY HEIGHT', 'district_id' => '1008'],
+    ['id' => '100879', 'name' => 'PEKAN DESA PUCHONG', 'district_id' => '1008'],
+    ['id' => '100880', 'name' => 'PEKAN HICOM', 'district_id' => '1008'],
+    ['id' => '100881', 'name' => 'PEKAN KAYU ARA', 'district_id' => '1008'],
+    ['id' => '100882', 'name' => 'PEKAN KINRARA', 'district_id' => '1008'],
+    // ['id' => '100883', 'name' => '??', 'district_id' => '1008'], // deprecated?
+    ['id' => '100884', 'name' => 'PEKAN BARU HICOM', 'district_id' => '1008'],
+    ['id' => '100885', 'name' => 'PEKAN BARU SUBANG', 'district_id' => '1008'],
+    ['id' => '100886', 'name' => 'PEKAN BARU SUNGAI BESI', 'district_id' => '1008'],
+    ['id' => '100887', 'name' => 'PEKAN BARU SUNGAI BULOH', 'district_id' => '1008'],
+    ['id' => '100888', 'name' => 'PEKAN BARU PENAGA', 'district_id' => '1008'],
+    ['id' => '100889', 'name' => 'PEKAN PUCHONG JAYA', 'district_id' => '1008'],
+    ['id' => '100890', 'name' => 'PEKAN PUCHONG PERDANA', 'district_id' => '1008'],
+    ['id' => '100891', 'name' => 'PEKAN SUBANG', 'district_id' => '1008'],
+    ['id' => '100892', 'name' => 'PEKAN SUBANG JAYA', 'district_id' => '1008'],
+    /*
+    /*
+     * === GOMBAK
+     */
+    // ['id' => '100901', 'name' => 'BATU', 'district_id' => '1009'], // deprecated?
+    ['id' => '100902', 'name' => 'ULU KELANG', 'district_id' => '1009'],
+    ['id' => '100903', 'name' => 'RAWANG', 'district_id' => '1009'],
+    ['id' => '100904', 'name' => 'SETAPAK', 'district_id' => '1009'],
+
+    ['id' => '100940', 'name' => 'BANDAR BATU ARANG', 'district_id' => '1009'],
+    // ['id' => '100941', 'name' => '??', 'district_id' => '1009'], // deprecated?
+    ['id' => '100942', 'name' => 'BANDAR RAWANG', 'district_id' => '1009'],
+    ['id' => '100943', 'name' => 'BANDAR GOMBAK SETIA', 'district_id' => '1009'],
+    ['id' => '100944', 'name' => 'BANDAR ULU KELANG', 'district_id' => '1009'],
+    ['id' => '100945', 'name' => 'BANDAR KEPONG', 'district_id' => '1009'],
+    ['id' => '100946', 'name' => 'BANDAR KUNDANG', 'district_id' => '1009'],
+    ['id' => '100947', 'name' => 'BANDAR SELAYANG', 'district_id' => '1009'],
+    ['id' => '100948', 'name' => 'BANDAR SUNGAI BULOH', 'district_id' => '1009'],
+    ['id' => '100949', 'name' => 'BANDAR SUNGAI PUSU', 'district_id' => '1009'],
+
+    // ['id' => '100970', 'name' => '??', 'district_id' => '1009'], // deprecated?
+    // ['id' => '100971', 'name' => '??', 'district_id' => '1009'], // deprecated?
+    ['id' => '100972', 'name' => 'PEKAN BATU 20', 'district_id' => '1009'],
+    ['id' => '100973', 'name' => 'PEKAN KUANG', 'district_id' => '1009'],
+    ['id' => '100974', 'name' => 'PEKAN MIMALAND', 'district_id' => '1009'],
+    ['id' => '100975', 'name' => 'PEKAN PENGKALAN KUNDANG', 'district_id' => '1009'],
+    ['id' => '100976', 'name' => 'PEKAN SUNGAI BULOH', 'district_id' => '1009'],
+    ['id' => '100977', 'name' => 'PEKAN TEMPLER', 'district_id' => '1009'],
     /*
      * === SEPANG
      */
-    ['id' => '100702', 'name' => 'DENGKIL', 'district_id' => '1007'],
-    ['id' => '100701', 'name' => 'LABU', 'district_id' => '1007'],
-    ['id' => '100703', 'name' => 'SEPANG', 'district_id' => '1007'],
-    /*
-     * === HULU LANGAT
-     */
-    ['id' => '100802', 'name' => 'AMPANG', 'district_id' => '1008'],
-    ['id' => '100801', 'name' => 'BERANANG', 'district_id' => '1008'],
-    ['id' => '100803', 'name' => 'CHERAS', 'district_id' => '1008'],
-    ['id' => '100804', 'name' => 'KAJANG', 'district_id' => '1008'],
-    ['id' => '100805', 'name' => 'SEMENYIH', 'district_id' => '1008'],
-    ['id' => '100806', 'name' => 'HULU LANGAT', 'district_id' => '1008'],
-    ['id' => '100807', 'name' => 'HULU SEMENYIH', 'district_id' => '1008'],
-    /*
-     * === HULU SELANGOR
-     */
-    ['id' => '100902', 'name' => 'AMPANG PECHAH', 'district_id' => '1009'],
-    ['id' => '100901', 'name' => 'BATANG KALI', 'district_id' => '1009'],
-    ['id' => '100903', 'name' => 'BULUH TELOR', 'district_id' => '1009'],
-    ['id' => '100904', 'name' => 'KALUMPANG', 'district_id' => '1009'],
-    ['id' => '100905', 'name' => 'KERLING', 'district_id' => '1009'],
-    ['id' => '100906', 'name' => 'KUALA KALUMPANG', 'district_id' => '1009'],
-    ['id' => '100907', 'name' => 'PERETAK', 'district_id' => '1009'],
-    ['id' => '100908', 'name' => 'RASA', 'district_id' => '1009'],
-    ['id' => '100909', 'name' => 'SERENDAH', 'district_id' => '1009'],
-    ['id' => '100910', 'name' => 'SUNGAI GUMUT', 'district_id' => '1009'],
-    ['id' => '100911', 'name' => 'SUNGAI TINGGI', 'district_id' => '1009'],
-    ['id' => '100912', 'name' => 'ULU BERNAM', 'district_id' => '1009'],
-    ['id' => '100913', 'name' => 'ULU YAM', 'district_id' => '1009'],
+    ['id' => '101001', 'name' => 'DENGKIL', 'district_id' => '1010'],
+    // ['id' => '101002', 'name' => 'LABU', 'district_id' => '1010'], // deprecated?
+    ['id' => '101003', 'name' => 'SEPANG', 'district_id' => '1010'],
+
+    ['id' => '101040', 'name' => 'BANDAR SEPANG', 'district_id' => '1010'],
+    ['id' => '101041', 'name' => 'BANDAR BARU BANGI', 'district_id' => '1010'],
+    ['id' => '101042', 'name' => 'BANDAR BARU SALAK TINGGI', 'district_id' => '1010'],
+    ['id' => '101043', 'name' => 'BANDAR LAPANGAN TERBANG ANTARABANGSA SEPANG', 'district_id' => '1010'],
+    ['id' => '101044', 'name' => 'BANDAR SUNGAI MERAB', 'district_id' => '1010'],
+
+    ['id' => '101070', 'name' => 'PEKAN DENGKIL', 'district_id' => '1010'],
+    ['id' => '101071', 'name' => 'PEKAN SALAK', 'district_id' => '1010'],
+    ['id' => '101072', 'name' => 'PEKAN SUNGAI PELEK', 'district_id' => '1010'],
+    // ['id' => '101073', 'name' => '??', 'district_id' => '1010'], // deprecated?
+    ['id' => '101074', 'name' => 'PEKAN BATU 1 SEPANG', 'district_id' => '1010'],
+    ['id' => '101075', 'name' => 'PEKAN BUKIT BISA', 'district_id' => '1010'],
+    ['id' => '101076', 'name' => 'PEKAN BUKIT PRANG', 'district_id' => '1010'],
+    ['id' => '101077', 'name' => 'PEKAN DATO BAKAR BAGINDA', 'district_id' => '1010'],
+    ['id' => '101078', 'name' => 'PEKAN BARU SALAK TINGGI', 'district_id' => '1010'],
+    ['id' => '101079', 'name' => 'PEKAN SUNGAI MERAB', 'district_id' => '1010'],
+    ['id' => '101080', 'name' => 'PEKAN TANJUNG MAS', 'district_id' => '1010'],
     /*
      * KUALA LUMPUR
      */
@@ -1041,26 +1365,26 @@ $items = [
     /*
      * === johor bahru
      */
-    ['id' => '010201', 'name' => 'PLENTONG', 'district_id' => '0102'],
-    ['id' => '010202', 'name' => 'PULAI', 'district_id' => '0102'],
-    // ['id' => '010203', 'name' => 'SEDENAK', 'district_id' => '0102'], //change to kulaijaya since 2008
-    // ['id' => '010204', 'name' => 'SENAI / KULAI', 'district_id' => '0102'], //change to kulaijaya since 2008
-    ['id' => '010205', 'name' => 'SUNGAI TIRAM', 'district_id' => '0102'],
-    ['id' => '010206', 'name' => 'TANJUNG KUPANG', 'district_id' => '0102'],
-    ['id' => '010207', 'name' => 'TEMBRAU', 'district_id' => '0102'],
-    ['id' => '010208', 'name' => 'BANDAR JOHOR BAHRU', 'district_id' => '0102'],
-    ['id' => '010209', 'name' => 'JELUTONG', 'district_id' => '0102'],
+    ['id' => '010201', 'name' => 'JELUTONG', 'district_id' => '0102'],
+    ['id' => '010202', 'name' => 'PLENTONG', 'district_id' => '0102'],
+    ['id' => '010203', 'name' => 'PULAI', 'district_id' => '0102'],
+    // ['id' => '010204', 'name' => 'SEDENAK', 'district_id' => '0102'], //change to kulaijaya since 2008
+    // ['id' => '010205', 'name' => 'SENAI / KULAI', 'district_id' => '0102'], //change to kulaijaya since 2008
+    ['id' => '010206', 'name' => 'SUNGAI TIRAM', 'district_id' => '0102'],
+    ['id' => '010207', 'name' => 'TANJUNG KUPANG', 'district_id' => '0102'],
+    ['id' => '010208', 'name' => 'TEMBRAU', 'district_id' => '0102'],
+    ['id' => '010209', 'name' => 'BANDAR JOHOR BAHRU', 'district_id' => '0102'],
     /*
      * === kluang
      */
-    ['id' => '010301', 'name' => 'KAHANG', 'district_id' => '0103'],
-    ['id' => '010302', 'name' => 'KLUANG', 'district_id' => '0103'],
-    ['id' => '010303', 'name' => 'LAYANG-LAYANG', 'district_id' => '0103'],
-    ['id' => '010304', 'name' => 'MACHAP', 'district_id' => '0103'],
-    ['id' => '010305', 'name' => 'NIYOR', 'district_id' => '0103'],
-    ['id' => '010306', 'name' => 'PALOH', 'district_id' => '0103'],
-    ['id' => '010307', 'name' => 'RENGAM', 'district_id' => '0103'],
-    ['id' => '010308', 'name' => 'ULU BENUT', 'district_id' => '0103'],
+    ['id' => '010301', 'name' => 'ULU BENUT', 'district_id' => '0103'],
+    ['id' => '010302', 'name' => 'KAHANG', 'district_id' => '0103'],
+    ['id' => '010303', 'name' => 'KLUANG', 'district_id' => '0103'],
+    ['id' => '010304', 'name' => 'LAYANG-LAYANG', 'district_id' => '0103'],
+    ['id' => '010305', 'name' => 'MACHAP', 'district_id' => '0103'],
+    ['id' => '010306', 'name' => 'NIYOR', 'district_id' => '0103'],
+    ['id' => '010307', 'name' => 'PALOH', 'district_id' => '0103'],
+    ['id' => '010308', 'name' => 'RENGAM', 'district_id' => '0103'],
     /*
      * === kota tinggi
      */
