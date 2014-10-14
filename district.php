@@ -3,7 +3,7 @@
 /**
  * @author    syafiq <syafiq@my-sands.com>
  * @since     1.0.0 build eccadc
- * @version   1.0.0 build a38149
+ * @version   1.0.0 build 71b424
  * @copyright 2014 syafiq
  * @filesource
  */
@@ -94,15 +94,15 @@ $items = [
     /*
      * selangor
      */
-    ['id' => '0601', 'state_id' => '10', 'name' => 'KLANG', 'code_3' => 'KLG'],
-    ['id' => '0602', 'state_id' => '10', 'name' => 'KUALA LANGAT', 'code_3' => 'KLN'],
-    ['id' => '0603', 'state_id' => '10', 'name' => 'KUALA SELANGOR', 'code_3' => 'KSE'],
-    ['id' => '0604', 'state_id' => '10', 'name' => 'SABAK BERNAM', 'code_3' => 'SBE'],
-    ['id' => '0605', 'state_id' => '10', 'name' => 'ULU LANGAT', 'code_3' => 'ULA'],
-    ['id' => '0606', 'state_id' => '10', 'name' => 'ULU SELANGOR', 'code_3' => 'USE'],
-    ['id' => '0607', 'state_id' => '10', 'name' => 'PETALING', 'code_3' => 'PET'],
-    ['id' => '0608', 'state_id' => '10', 'name' => 'GOMBAK', 'code_3' => 'GOM'],
-    ['id' => '0609', 'state_id' => '10', 'name' => 'SEPANG', 'code_3' => 'SEP'],
+    ['id' => '1001', 'state_id' => '10', 'name' => 'KLANG', 'code_3' => 'KLG'],
+    ['id' => '1002', 'state_id' => '10', 'name' => 'KUALA LANGAT', 'code_3' => 'KLN'],
+    ['id' => '1003', 'state_id' => '10', 'name' => 'KUALA SELANGOR', 'code_3' => 'KSE'],
+    ['id' => '1004', 'state_id' => '10', 'name' => 'SABAK BERNAM', 'code_3' => 'SBE'],
+    ['id' => '1005', 'state_id' => '10', 'name' => 'ULU LANGAT', 'code_3' => 'ULA'],
+    ['id' => '1006', 'state_id' => '10', 'name' => 'ULU SELANGOR', 'code_3' => 'USE'],
+    ['id' => '1007', 'state_id' => '10', 'name' => 'PETALING', 'code_3' => 'PET'],
+    ['id' => '1008', 'state_id' => '10', 'name' => 'GOMBAK', 'code_3' => 'GOM'],
+    ['id' => '1009', 'state_id' => '10', 'name' => 'SEPANG', 'code_3' => 'SEP'],
     /*
      * kuala lumpur
      */
