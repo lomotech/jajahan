@@ -3,12 +3,13 @@
 /**
  * @author    syafiq <syafiq@my-sands.com>
  * @since     1.0.0 build 4b7372
- * @version   1.0.0 build 676900
+ * @version   1.1.0 build 43ec40
  * @copyright 2014 syafiq
  * @filesource
  */
 /**
  * subdistrict - mukim.
+ * sddsa: Kategori Data > Data Generik > Organisasi > Kod Bandar
  */
 $items = [
     /*

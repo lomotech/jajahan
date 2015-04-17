@@ -3,13 +3,14 @@
 /**
  * @author    syafiq <syafiq@my-sands.com>
  * @since     1.0.0 build eccadc
- * @version   1.0.0 build 71b424
+ * @version   1.1.0 build 43ec40
  * @copyright 2014 syafiq
  * @filesource
  */
 /**
  * district - daerah.
  * note: code_3 is not official!
+ * sddsa: Kategori Data > Data Generik > Organisasi > Kod Daerah
  */
 $items = [
     /*

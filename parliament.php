@@ -9,6 +9,7 @@
  */
 /**
  * parliamen - parlimen.
+ * sddsa: Kategori Data > Data Generik > Organisasi > Kod Kawasan Parlimen
  */
 $items = [
 
