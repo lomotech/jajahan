@@ -24,11 +24,13 @@ $items = [
   ['id' => '00103', 'parliament_id' => '00100', 'kerusi_id' => 'N.03', 'state_id' => '09', 'name' => 'CHUPING'],
   ['id' => '00104', 'parliament_id' => '00100', 'kerusi_id' => 'N.04', 'state_id' => '09', 'name' => 'MATA AYER'],
   ['id' => '00105', 'parliament_id' => '00100', 'kerusi_id' => 'N.05', 'state_id' => '09', 'name' => 'SANTAN'],
+
   ['id' => '00206', 'parliament_id' => '00200', 'kerusi_id' => 'N.06', 'state_id' => '09', 'name' => 'BINTONG'],
   ['id' => '00207', 'parliament_id' => '00200', 'kerusi_id' => 'N.07', 'state_id' => '09', 'name' => 'SENA'],
   ['id' => '00208', 'parliament_id' => '00200', 'kerusi_id' => 'N.08', 'state_id' => '09', 'name' => 'INDERA KAYANGAN'],
   ['id' => '00209', 'parliament_id' => '00200', 'kerusi_id' => 'N.09', 'state_id' => '09', 'name' => 'KUALA PERLIS'],
   ['id' => '00210', 'parliament_id' => '00200', 'kerusi_id' => 'N.10', 'state_id' => '09', 'name' => 'KAYANG'],
+
   ['id' => '00311', 'parliament_id' => '00300', 'kerusi_id' => 'N.11', 'state_id' => '09', 'name' => 'PAUH'],
   ['id' => '00312', 'parliament_id' => '00300', 'kerusi_id' => 'N.12', 'state_id' => '09', 'name' => 'TAMBUN TULANG'],
   ['id' => '00313', 'parliament_id' => '00300', 'kerusi_id' => 'N.13', 'state_id' => '09', 'name' => 'GUAR SANJI'],
@@ -37,40 +39,52 @@ $items = [
   /*
    * kedah
    */
-  ['id' => '00401', 'parliament_id' => '00400', 'kerusi_id' => 'N.01', 'state_id' => '02', 'name' => 'AYER HANGAT'],
+  ['id' => '00401', 'parliament_id' => '00400', 'kerusi_id' => 'N.01', 'state_id' => '02', 'name' => 'AYER HANGAT'], //2003: PADANG MATSIRAT
   ['id' => '00402', 'parliament_id' => '00400', 'kerusi_id' => 'N.02', 'state_id' => '02', 'name' => 'KUAH'],
-  ['id' => '00503', 'parliament_id' => '00500', 'kerusi_id' => 'N.03', 'state_id' => '02', 'name' => 'KOTA SIPUTEH'],
-  ['id' => '00504', 'parliament_id' => '00500', 'kerusi_id' => 'N.04', 'state_id' => '02', 'name' => 'AYER HITAM'],
-  ['id' => '00605', 'parliament_id' => '00600', 'kerusi_id' => 'N.05', 'state_id' => '02', 'name' => 'BUKIT KAYU HITAM'],
+  ['id' => '00503', 'parliament_id' => '00500', 'kerusi_id' => 'N.03', 'state_id' => '02', 'name' => 'KOTA SIPUTEH'], //2003: AYER HITAM
+  ['id' => '00504', 'parliament_id' => '00500', 'kerusi_id' => 'N.04', 'state_id' => '02', 'name' => 'AYER HITAM'], //2003: KOTA SIPUTEH
+  ['id' => '00605', 'parliament_id' => '00600', 'kerusi_id' => 'N.05', 'state_id' => '02', 'name' => 'BUKIT KAYU HITAM'], //TUNJANG
   ['id' => '00606', 'parliament_id' => '00600', 'kerusi_id' => 'N.06', 'state_id' => '02', 'name' => 'JITRA'],
+
   ['id' => '00707', 'parliament_id' => '00700', 'kerusi_id' => 'N.07', 'state_id' => '02', 'name' => 'KUALA NERANG'],
   ['id' => '00708', 'parliament_id' => '00700', 'kerusi_id' => 'N.08', 'state_id' => '02', 'name' => 'PEDU'],
+
   ['id' => '00809', 'parliament_id' => '00800', 'kerusi_id' => 'N.09', 'state_id' => '02', 'name' => 'BUKIT LADA'],
-  ['id' => '00810', 'parliament_id' => '00800', 'kerusi_id' => 'N.10', 'state_id' => '02', 'name' => 'BUKIT PINANG'],
-  ['id' => '00811', 'parliament_id' => '00800', 'kerusi_id' => 'N.11', 'state_id' => '02', 'name' => 'DERGA'],
-  ['id' => '00912', 'parliament_id' => '00900', 'kerusi_id' => 'N.12', 'state_id' => '02', 'name' => 'BAKAR BATA'],
+  ['id' => '00810', 'parliament_id' => '00800', 'kerusi_id' => 'N.10', 'state_id' => '02', 'name' => 'BUKIT PINANG'], //2003: LANGGAR
+  ['id' => '00811', 'parliament_id' => '00800', 'kerusi_id' => 'N.11', 'state_id' => '02', 'name' => 'DERGA'], //2003: TANJONG SERI
+
+  ['id' => '00912', 'parliament_id' => '00900', 'kerusi_id' => 'N.12', 'state_id' => '02', 'name' => 'BAKAR RATA'], //2003: DERGA
   ['id' => '00913', 'parliament_id' => '00900', 'kerusi_id' => 'N.13', 'state_id' => '02', 'name' => 'KOTA DARUL AMAN'],
-  ['id' => '00914', 'parliament_id' => '00900', 'kerusi_id' => 'N.14', 'state_id' => '02', 'name' => 'ALOR MENGKUDU'],
+  ['id' => '00914', 'parliament_id' => '00900', 'kerusi_id' => 'N.14', 'state_id' => '02', 'name' => 'ALOR MENGKUDU'], //ALOR MERAH
+
   ['id' => '01015', 'parliament_id' => '01000', 'kerusi_id' => 'N.15', 'state_id' => '02', 'name' => 'ANAK BUKIT'],
   ['id' => '01016', 'parliament_id' => '01000', 'kerusi_id' => 'N.16', 'state_id' => '02', 'name' => 'KUBANG ROTAN'],
   ['id' => '01017', 'parliament_id' => '01000', 'kerusi_id' => 'N.17', 'state_id' => '02', 'name' => 'PENGKALAN KUNDOR'],
+
   ['id' => '01118', 'parliament_id' => '01100', 'kerusi_id' => 'N.18', 'state_id' => '02', 'name' => 'TOKAI'],
   ['id' => '01119', 'parliament_id' => '01100', 'kerusi_id' => 'N.19', 'state_id' => '02', 'name' => 'SUNGAI TIANG'],
+
   ['id' => '01220', 'parliament_id' => '01200', 'kerusi_id' => 'N.20', 'state_id' => '02', 'name' => 'SUNGAI LIMAU'],
   ['id' => '01221', 'parliament_id' => '01200', 'kerusi_id' => 'N.21', 'state_id' => '02', 'name' => 'GUAR CHEMPEDAK'],
   ['id' => '01222', 'parliament_id' => '01200', 'kerusi_id' => 'N.22', 'state_id' => '02', 'name' => 'GURUN'],
+
   ['id' => '01323', 'parliament_id' => '01300', 'kerusi_id' => 'N.23', 'state_id' => '02', 'name' => 'BELANTEK'],
   ['id' => '01324', 'parliament_id' => '01300', 'kerusi_id' => 'N.24', 'state_id' => '02', 'name' => 'JENERI'],
+
   ['id' => '01425', 'parliament_id' => '01400', 'kerusi_id' => 'N.25', 'state_id' => '02', 'name' => 'BUKIT SELAMBAU'],
   ['id' => '01426', 'parliament_id' => '01400', 'kerusi_id' => 'N.26', 'state_id' => '02', 'name' => 'TANJONG DAWAI'],
+
   ['id' => '01527', 'parliament_id' => '01500', 'kerusi_id' => 'N.27', 'state_id' => '02', 'name' => 'PANTAI MERDEKA'],
   ['id' => '01528', 'parliament_id' => '01500', 'kerusi_id' => 'N.28', 'state_id' => '02', 'name' => 'BAKAR ARANG'],
   ['id' => '01529', 'parliament_id' => '01500', 'kerusi_id' => 'N.29', 'state_id' => '02', 'name' => 'SIDAM'],
+
   ['id' => '01630', 'parliament_id' => '01600', 'kerusi_id' => 'N.30', 'state_id' => '02', 'name' => 'BAYU'],
   ['id' => '01631', 'parliament_id' => '01600', 'kerusi_id' => 'N.31', 'state_id' => '02', 'name' => 'KUPANG'],
   ['id' => '01632', 'parliament_id' => '01600', 'kerusi_id' => 'N.32', 'state_id' => '02', 'name' => 'KUALA KETIL'],
+
   ['id' => '01733', 'parliament_id' => '01700', 'kerusi_id' => 'N.33', 'state_id' => '02', 'name' => 'MERBAU PULAS'],
   ['id' => '01734', 'parliament_id' => '01700', 'kerusi_id' => 'N.34', 'state_id' => '02', 'name' => 'LUNAS'],
+
   ['id' => '01835', 'parliament_id' => '01800', 'kerusi_id' => 'N.35', 'state_id' => '02', 'name' => 'KULIM'],
   ['id' => '01836', 'parliament_id' => '01800', 'kerusi_id' => 'N.36', 'state_id' => '02', 'name' => 'BANDAR BAHARU'],
   /*
