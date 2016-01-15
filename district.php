@@ -2,11 +2,10 @@
 
 /**
  * @author    syafiq <syafiq@my-sands.com>
- * @since     1.0.0 build eccadc
- * @version   1.1.0 build 43ec40
- * @copyright 2014 syafiq
- * @filesource
+ * @since     1.0.0
+ * retrive date 15 January 2016
  */
+
 /**
  * district - daerah.
  * note: code_3 is not official!
@@ -14,9 +13,9 @@
  */
 $items = [
     /*
-     * perlis
+     * perlis - Perlis tiada daerah.
      */
-    ['id' => '0901', 'state_id' => '9', 'name' => 'PERLIS', 'code_3' => 'PER'],
+    ['id' => '0900', 'state_id' => '9', 'name' => 'PERLIS', 'code_3' => 'PER'],
     /*
      * kedah
      */
@@ -46,6 +45,7 @@ $items = [
     // ['id' => '0309', 'state_id' => '3', 'name' => '??'],
     ['id' => '0310', 'state_id' => '3', 'name' => 'KUALA KRAI', 'code_3' => 'KKR'],
     ['id' => '0311', 'state_id' => '3', 'name' => 'JELI', 'code_3' => 'JEL'],
+    ['id' => '0312', 'state_id' => '3', 'name' => 'KECIL LOJING', 'code_3' => 'KLO'],
     /*
      * terengganu
      */
@@ -78,6 +78,7 @@ $items = [
     ['id' => '0809', 'state_id' => '8', 'name' => 'SELAMA', 'code_3' => 'SEL'],
     ['id' => '0810', 'state_id' => '8', 'name' => 'PERAK TENGAH', 'code_3' => 'PTE'],
     ['id' => '0811', 'state_id' => '8', 'name' => 'KAMPAR', 'code_3' => 'KAM'],
+    // ['id' => '0812', 'state_id' => '8', 'name' => 'MUALLIM', 'code_3' => 'MUL'],
     /*
      * pahang
      */
@@ -97,17 +98,18 @@ $items = [
      */
     ['id' => '1001', 'state_id' => '10', 'name' => 'KLANG', 'code_3' => 'KLG'],
     ['id' => '1002', 'state_id' => '10', 'name' => 'KUALA LANGAT', 'code_3' => 'KLN'],
-    ['id' => '1003', 'state_id' => '10', 'name' => 'KUALA SELANGOR', 'code_3' => 'KSE'],
-    ['id' => '1004', 'state_id' => '10', 'name' => 'SABAK BERNAM', 'code_3' => 'SBE'],
-    ['id' => '1005', 'state_id' => '10', 'name' => 'ULU LANGAT', 'code_3' => 'ULA'],
-    ['id' => '1006', 'state_id' => '10', 'name' => 'ULU SELANGOR', 'code_3' => 'USE'],
-    ['id' => '1007', 'state_id' => '10', 'name' => 'PETALING', 'code_3' => 'PET'],
-    ['id' => '1008', 'state_id' => '10', 'name' => 'GOMBAK', 'code_3' => 'GOM'],
-    ['id' => '1009', 'state_id' => '10', 'name' => 'SEPANG', 'code_3' => 'SEP'],
+    // ['id' => '1003', 'state_id' => '10', 'name' => '??', 'code_3' => '??'],
+    ['id' => '1004', 'state_id' => '10', 'name' => 'KUALA SELANGOR', 'code_3' => 'KSE'],
+    ['id' => '1005', 'state_id' => '10', 'name' => 'SABAK BERNAM', 'code_3' => 'SBE'],
+    ['id' => '1006', 'state_id' => '10', 'name' => 'ULU LANGAT', 'code_3' => 'ULA'],
+    ['id' => '1007', 'state_id' => '10', 'name' => 'ULU SELANGOR', 'code_3' => 'USE'],
+    ['id' => '1008', 'state_id' => '10', 'name' => 'PETALING', 'code_3' => 'PET'],
+    ['id' => '1009', 'state_id' => '10', 'name' => 'GOMBAK', 'code_3' => 'GOM'],
+    ['id' => '1010', 'state_id' => '10', 'name' => 'SEPANG', 'code_3' => 'SEP'],
     /*
-     * kuala lumpur
+     * kuala lumpur - tiada daerah.
      */
-    ['id' => '1401', 'state_id' => '14', 'name' => 'W. P. KUALA LUMPUR', 'code_3' => 'WPK'],
+    ['id' => '1400', 'state_id' => '14', 'name' => 'W. P. KUALA LUMPUR', 'code_3' => 'WPK'],
     /*
      * putrajaya
      */
@@ -142,9 +144,9 @@ $items = [
     ['id' => '0109', 'state_id' => '1', 'name' => 'KULAIJAYA', 'code_3' => 'KUL'],
     ['id' => '0110', 'state_id' => '1', 'name' => 'LEDANG', 'code_3' => 'LED'],
     /*
-     * labuan
+     * labuan - tiada daerah
      */
-    ['id' => '1501', 'state_id' => '15', 'name' => 'W. P. LABUAN', 'code_3' => 'WPL'],
+    ['id' => '1500', 'state_id' => '15', 'name' => 'W. P. LABUAN', 'code_3' => 'WPL'],
     /*
      * sabah
      */
@@ -158,6 +160,7 @@ $items = [
     ['id' => '1208', 'state_id' => '12', 'name' => 'LABUK & SUGUT', 'code_3' => 'LDS'],
     ['id' => '1209', 'state_id' => '12', 'name' => 'KINABATANGAN', 'code_3' => 'KIN'],
     ['id' => '1210', 'state_id' => '12', 'name' => 'TAWAU', 'code_3' => 'TAW'],
+
     ['id' => '1211', 'state_id' => '12', 'name' => 'LAHAD DATU', 'code_3' => 'LDA'],
     ['id' => '1212', 'state_id' => '12', 'name' => 'SEMPORNA', 'code_3' => 'SEM'],
     ['id' => '1213', 'state_id' => '12', 'name' => 'KENINGAU', 'code_3' => 'KEN'],
@@ -167,11 +170,13 @@ $items = [
     ['id' => '1217', 'state_id' => '12', 'name' => 'BEAUFORT', 'code_3' => 'BEA'],
     ['id' => '1218', 'state_id' => '12', 'name' => 'KUALA PENYU', 'code_3' => 'KPE'],
     ['id' => '1219', 'state_id' => '12', 'name' => 'SIPITANG', 'code_3' => 'SIP'],
-    ['id' => '1220', 'state_id' => '12', 'name' => 'PENAMPANG', 'code_3' => 'PEN'],
-    ['id' => '1221', 'state_id' => '12', 'name' => 'KOTA MARUDU', 'code_3' => 'KMA'],
-    ['id' => '1222', 'state_id' => '12', 'name' => 'KUNAK', 'code_3' => 'KUN'],
-    ['id' => '1223', 'state_id' => '12', 'name' => 'TONGOD', 'code_3' => 'TON'],
-    ['id' => '1224', 'state_id' => '12', 'name' => 'PUTATAN', 'code_3' => 'PUT'],
+    // ['id' => '1220', 'state_id' => '12', 'name' => '??', 'code_3' => '??'],
+    ['id' => '1221', 'state_id' => '12', 'name' => 'PENAMPANG', 'code_3' => 'PEN'],
+    ['id' => '1222', 'state_id' => '12', 'name' => 'KOTA MARUDU', 'code_3' => 'KMA'],
+    ['id' => '1223', 'state_id' => '12', 'name' => 'PITAS', 'code_3' => 'PTS'],
+    ['id' => '1224', 'state_id' => '12', 'name' => 'KUNAK', 'code_3' => 'KUN'],
+    ['id' => '1225', 'state_id' => '12', 'name' => 'TONGOD', 'code_3' => 'TON'],
+    ['id' => '1226', 'state_id' => '12', 'name' => 'PUTATAN', 'code_3' => 'PUT'],
     /*
      * sarawak
      */

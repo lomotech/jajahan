@@ -2,10 +2,8 @@
 
 /**
  * @author    syafiq <syafiq@my-sands.com>
- * @since     1.0.0 build eccadc
- * @version   1.0.0 build 988072
- * @copyright 2014 syafiq
- * @filesource
+ * @since     1.0.0
+ * retrive date 15 January 2016
  */
 /**
  * state - negeri.
