@@ -21,12 +21,15 @@ Jajahan adalah senarai alternatif untuk negeri, daerah, mukim, dun, bahagian, pa
 - Data untuk subdistrict **SARAWAK** ditukar kepada bahasa Malaysia.
 
 ##changelog
+
 ###1.2
 - Tambah kecil loging, kelantan 0312.
 - Swap subdistrict hulu terengganu, terengganu & marang, terengganu.
 - Tambah & betulkan data subdistrict. 
+
 ###1.1
 - Tambah beberapa data subdistrict daripada beberapa sumber luar.
 - Masukkan data education
+
 ###1.0
 - Senarai data asas state, district, subdistrict daripada SDDSA.
