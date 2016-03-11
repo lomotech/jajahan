@@ -19,11 +19,12 @@ Jajahan adalah senarai alternatif untuk negeri, daerah, mukim, dun, bahagian, pa
 - Data untuk subdistrict **KUALA MUDA, KEDAH** tiada dalam SDDSA. data ditarik daripada statistics.gov.my.
 - Data untuk subdistrict **SABAH** tiada dalam SDDSA. data ditarik daripada www.sabah.gov.my.
 - Data untuk subdistrict **SARAWAK** ditukar kepada bahasa Malaysia.
+- Data untuk poskod **NEGERI SEMBILAN** dalam SDDSA salah. Ada data duplicate kepada PAHANG.
 
 ##changelog
 
 ###1.3b
-- Poskod. Perlis sahaja yang dah dimasukkan. 
+- Poskod.
 
 ###1.2
 - Tambah kecil loging, kelantan 0312.
