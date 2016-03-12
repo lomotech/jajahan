@@ -2737,5 +2737,5 @@ $items = [
     /*
      * LUAR NEGARA
      */
-    ['id' => '980101', 'name' => '-', 'district_id' => '9801'],
+    ['id' => '980101', 'name' => '-', 'district_id' => '9801']
 ];

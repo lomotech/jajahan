@@ -1,99 +1,101 @@
-
-70000;Pusat Perniagaan Templer;-
-70100;Taman Bukit Punca Emas;-
-70100;Villa Taman Tasik;-
-70100;Pusat Komersial Rasah Prima;Seremban
-70100;Lorong Rahang 1;Seremban
-70100;Taman Seri Binjai;Seremban
-70200;Bandar Ainsdale;-
-70200;Bukit Chemara;-
-70200;Taman Belian Tropika;-
-70200;Taman Bukit Dawn;-
-70200;Era Square;-
-70200;Taman Jasper Jaya;-
-70300;Taman Bukit Nuri Indah;-
-70300;Taman Saujana Duta;-
-70300;Taman Saujana Indah;-
-70300;Taman Saujana Prima;-
-70300;Taman Saujana Sutera;-
-70300;Taman Saujana Tropika;-
-70300;Rimba Residensi;-
-70300;Pusat Komersial Universiti;-
-70300;Taman Cenderawasih Indah;-
-70300;Taman Kerisi Indah;-
-70300;Medan Perniagaan Mambau;-
-70300;One Avenue;Seremban
-70300;Pusat Dagangan Seremban 2;Seremban
-70300;Pusat Komersial Seksyen C;Seremban
-70400;Jalan Tuan Haji Said 2;-
-70400;Taman Casurina;-
-70400;Taman Sri Penaga;-
-70400;Taman Vila Palma;Seremban
-70400;Taman Seri Sentosa ;Seremban
-70450;Pusat Perdagangan Bukit Emas 2;-
-70450;Taman Rashidah Utama 2;-
-70450;Medan Perniagaan Senawang Jaya;-
-70450;Persada Cattleya;-
-70450;Kawasan Industri Sinar Andalas;-
-70450;Bandar Utama Senawang;-
-70450;Desa Kenanga Indah;Seremban
-70450;Bandar Prima Senawang;Seremban
-70450;Jalan Paroi-Senawang;Seremban
-71000;Taman Kiara 2;Port Dickson
-71200;Pusat Perniagaan Emas;-
-71200;Taman Berlian;Rantau
-71200;Taman Emas Perdana;Rantau
-71400;Kawasan Industri Tuanku Jaafar 3;-
-71700;Taman Gading Indah;-
-71700;Taman Gading Jaya;-
-71700;Taman Kayangan;-
-71700;Pusat Perniagaan Bunga Raya;-
-71700;Taman Beringin Jaya;-
-71700;Laman Suria ;-
-71700;Taman Murni;-
-71700;Taman Sri Gading;-
-71700;Kawasan Perindustrian Ringan College Heights;-
-71700;Bandar Baru Mantin;Mantin
-71760;Kompleks Pendidikan Bandar Enstek;-
-71760;Taman Timur Enstek;-
-71760;Jalan Timur 1/2;-
-71760;Epson College;Bandar Enstek
-71800;Desa Cempaka;-
-71800;Bandar Nilai Impian;-
-71800;Laman Alamanda;-
-71800;Taman Yadin Impiana;-
-71800;Laman Komersial Areca;-
-71800;Taman Iris;-
-71800;Taman Desa Hijauan;-
-71800;Laman Cempaka;Nilai
-71800;Laman Seroja;Nilai
-71800;Taman Desa Cempaka 2;Nilai 
-71800;Putra Point;Nilai
-71800;Pusat Perniagaan Desa Kolej;Niai
-71800;Taman Amra;Nilai
-71800;Bukit Citra Residensi;Nilai
-71800;Jalan Desa Kasia 2/1A;Nilai
-71800;Laman Azalea;Nilai
-71800;Laman Galla;Nilai
-71800;Taman Bucida Hijauan;Nilai
-71800;Taman Desa Mayang Sari;Nilai
-71900;Bukit Ara Perdana;-
-71900;Taman Cermai Impian;-
-71900;Taman Sri Rambai;-
-71900;Jalan Koperasi Labu 1;-
-71950;Pusat Dagangan Sendayan;-
-71950;Taman Hijayu;-
-71950;Kip Sentral;Seremban
-72120;Pusat Perniagaan Ara;Bandar Seri Jempol
-73000;Dataran Satria;-
-73000;Pusat Komersial Delima Indah;-
-73000;Taman Satria 2;-
-73000;Taman Kasturi;Tampin
-73200;Taman Komersial Suria;-
-73200;Taman Orkid 2;-
-73200;Taman Melor 2;Gemencheh
-73400;Pusat Komersial Pahlawan;-
-73400;Pusat Perniagaan Harmoni Gemas;-
-73400;Taman Dataran Suria;-
-73400;Pusat Komersial Seri Mutiara;Gemas
-73400;Taman Seri Mutiara;Gemas
+<?php
+$negeriSembilan = [
+	[ 'state_id' => 5, 'code' => '70000', 'name' => 'Pusat Perniagaan Templer'],
+	[ 'state_id' => 5, 'code' => '70100', 'name' => 'Taman Bukit Punca Emas'],
+	[ 'state_id' => 5, 'code' => '70100', 'name' => 'Villa Taman Tasik'],
+	[ 'state_id' => 5, 'code' => '70100', 'name' => 'Pusat Komersial Rasah Prima'],
+	[ 'state_id' => 5, 'code' => '70100', 'name' => 'Lorong Rahang 1'],
+	[ 'state_id' => 5, 'code' => '70100', 'name' => 'Taman Seri Binjai'],
+	[ 'state_id' => 5, 'code' => '70200', 'name' => 'Bandar Ainsdale'],
+	[ 'state_id' => 5, 'code' => '70200', 'name' => 'Bukit Chemara'],
+	[ 'state_id' => 5, 'code' => '70200', 'name' => 'Taman Belian Tropika'],
+	[ 'state_id' => 5, 'code' => '70200', 'name' => 'Taman Bukit Dawn'],
+	[ 'state_id' => 5, 'code' => '70200', 'name' => 'Era Square'],
+	[ 'state_id' => 5, 'code' => '70200', 'name' => 'Taman Jasper Jaya'],
+	[ 'state_id' => 5, 'code' => '70300', 'name' => 'Taman Bukit Nuri Indah'],
+	[ 'state_id' => 5, 'code' => '70300', 'name' => 'Taman Saujana Duta'],
+	[ 'state_id' => 5, 'code' => '70300', 'name' => 'Taman Saujana Indah'],
+	[ 'state_id' => 5, 'code' => '70300', 'name' => 'Taman Saujana Prima'],
+	[ 'state_id' => 5, 'code' => '70300', 'name' => 'Taman Saujana Sutera'],
+	[ 'state_id' => 5, 'code' => '70300', 'name' => 'Taman Saujana Tropika'],
+	[ 'state_id' => 5, 'code' => '70300', 'name' => 'Rimba Residensi'],
+	[ 'state_id' => 5, 'code' => '70300', 'name' => 'Pusat Komersial Universiti'],
+	[ 'state_id' => 5, 'code' => '70300', 'name' => 'Taman Cenderawasih Indah'],
+	[ 'state_id' => 5, 'code' => '70300', 'name' => 'Taman Kerisi Indah'],
+	[ 'state_id' => 5, 'code' => '70300', 'name' => 'Medan Perniagaan Mambau'],
+	[ 'state_id' => 5, 'code' => '70300', 'name' => 'One Avenue'],
+	[ 'state_id' => 5, 'code' => '70300', 'name' => 'Pusat Dagangan Seremban 2'],
+	[ 'state_id' => 5, 'code' => '70300', 'name' => 'Pusat Komersial Seksyen C'],
+	[ 'state_id' => 5, 'code' => '70400', 'name' => 'Jalan Tuan Haji Said 2'],
+	[ 'state_id' => 5, 'code' => '70400', 'name' => 'Taman Casurina'],
+	[ 'state_id' => 5, 'code' => '70400', 'name' => 'Taman Sri Penaga'],
+	[ 'state_id' => 5, 'code' => '70400', 'name' => 'Taman Vila Palma'],
+	[ 'state_id' => 5, 'code' => '70400', 'name' => 'Taman Seri Sentosa '],
+	[ 'state_id' => 5, 'code' => '70450', 'name' => 'Pusat Perdagangan Bukit Emas 2'],
+	[ 'state_id' => 5, 'code' => '70450', 'name' => 'Taman Rashidah Utama 2'],
+	[ 'state_id' => 5, 'code' => '70450', 'name' => 'Medan Perniagaan Senawang Jaya'],
+	[ 'state_id' => 5, 'code' => '70450', 'name' => 'Persada Cattleya'],
+	[ 'state_id' => 5, 'code' => '70450', 'name' => 'Kawasan Industri Sinar Andalas'],
+	[ 'state_id' => 5, 'code' => '70450', 'name' => 'Bandar Utama Senawang'],
+	[ 'state_id' => 5, 'code' => '70450', 'name' => 'Desa Kenanga Indah'],
+	[ 'state_id' => 5, 'code' => '70450', 'name' => 'Bandar Prima Senawang'],
+	[ 'state_id' => 5, 'code' => '70450', 'name' => 'Jalan Paroi-Senawang'],
+	[ 'state_id' => 5, 'code' => '71000', 'name' => 'Taman Kiara 2'],
+	[ 'state_id' => 5, 'code' => '71200', 'name' => 'Pusat Perniagaan Emas'],
+	[ 'state_id' => 5, 'code' => '71200', 'name' => 'Taman Berlian'],
+	[ 'state_id' => 5, 'code' => '71200', 'name' => 'Taman Emas Perdana'],
+	[ 'state_id' => 5, 'code' => '71400', 'name' => 'Kawasan Industri Tuanku Jaafar 3'],
+	[ 'state_id' => 5, 'code' => '71700', 'name' => 'Taman Gading Indah'],
+	[ 'state_id' => 5, 'code' => '71700', 'name' => 'Taman Gading Jaya'],
+	[ 'state_id' => 5, 'code' => '71700', 'name' => 'Taman Kayangan'],
+	[ 'state_id' => 5, 'code' => '71700', 'name' => 'Pusat Perniagaan Bunga Raya'],
+	[ 'state_id' => 5, 'code' => '71700', 'name' => 'Taman Beringin Jaya'],
+	[ 'state_id' => 5, 'code' => '71700', 'name' => 'Laman Suria '],
+	[ 'state_id' => 5, 'code' => '71700', 'name' => 'Taman Murni'],
+	[ 'state_id' => 5, 'code' => '71700', 'name' => 'Taman Sri Gading'],
+	[ 'state_id' => 5, 'code' => '71700', 'name' => 'Kawasan Perindustrian Ringan College Heights'],
+	[ 'state_id' => 5, 'code' => '71700', 'name' => 'Bandar Baru Mantin'],
+	[ 'state_id' => 5, 'code' => '71760', 'name' => 'Kompleks Pendidikan Bandar Enstek'],
+	[ 'state_id' => 5, 'code' => '71760', 'name' => 'Taman Timur Enstek'],
+	[ 'state_id' => 5, 'code' => '71760', 'name' => 'Jalan Timur 1/2'],
+	[ 'state_id' => 5, 'code' => '71760', 'name' => 'Epson College'],
+	[ 'state_id' => 5, 'code' => '71800', 'name' => 'Desa Cempaka'],
+	[ 'state_id' => 5, 'code' => '71800', 'name' => 'Bandar Nilai Impian'],
+	[ 'state_id' => 5, 'code' => '71800', 'name' => 'Laman Alamanda'],
+	[ 'state_id' => 5, 'code' => '71800', 'name' => 'Taman Yadin Impiana'],
+	[ 'state_id' => 5, 'code' => '71800', 'name' => 'Laman Komersial Areca'],
+	[ 'state_id' => 5, 'code' => '71800', 'name' => 'Taman Iris'],
+	[ 'state_id' => 5, 'code' => '71800', 'name' => 'Taman Desa Hijauan'],
+	[ 'state_id' => 5, 'code' => '71800', 'name' => 'Laman Cempaka'],
+	[ 'state_id' => 5, 'code' => '71800', 'name' => 'Laman Seroja'],
+	[ 'state_id' => 5, 'code' => '71800', 'name' => 'Taman Desa Cempaka 2'],
+	[ 'state_id' => 5, 'code' => '71800', 'name' => 'Putra Point'],
+	[ 'state_id' => 5, 'code' => '71800', 'name' => 'Pusat Perniagaan Desa Kolej'],
+	[ 'state_id' => 5, 'code' => '71800', 'name' => 'Taman Amra'],
+	[ 'state_id' => 5, 'code' => '71800', 'name' => 'Bukit Citra Residensi'],
+	[ 'state_id' => 5, 'code' => '71800', 'name' => 'Jalan Desa Kasia 2/1A'],
+	[ 'state_id' => 5, 'code' => '71800', 'name' => 'Laman Azalea'],
+	[ 'state_id' => 5, 'code' => '71800', 'name' => 'Laman Galla'],
+	[ 'state_id' => 5, 'code' => '71800', 'name' => 'Taman Bucida Hijauan'],
+	[ 'state_id' => 5, 'code' => '71800', 'name' => 'Taman Desa Mayang Sari'],
+	[ 'state_id' => 5, 'code' => '71900', 'name' => 'Bukit Ara Perdana'],
+	[ 'state_id' => 5, 'code' => '71900', 'name' => 'Taman Cermai Impian'],
+	[ 'state_id' => 5, 'code' => '71900', 'name' => 'Taman Sri Rambai'],
+	[ 'state_id' => 5, 'code' => '71900', 'name' => 'Jalan Koperasi Labu 1'],
+	[ 'state_id' => 5, 'code' => '71950', 'name' => 'Pusat Dagangan Sendayan'],
+	[ 'state_id' => 5, 'code' => '71950', 'name' => 'Taman Hijayu'],
+	[ 'state_id' => 5, 'code' => '71950', 'name' => 'Kip Sentral'],
+	[ 'state_id' => 5, 'code' => '72120', 'name' => 'Pusat Perniagaan Ara'],
+	[ 'state_id' => 5, 'code' => '73000', 'name' => 'Dataran Satria'],
+	[ 'state_id' => 5, 'code' => '73000', 'name' => 'Pusat Komersial Delima Indah'],
+	[ 'state_id' => 5, 'code' => '73000', 'name' => 'Taman Satria 2'],
+	[ 'state_id' => 5, 'code' => '73000', 'name' => 'Taman Kasturi'],
+	[ 'state_id' => 5, 'code' => '73200', 'name' => 'Taman Komersial Suria'],
+	[ 'state_id' => 5, 'code' => '73200', 'name' => 'Taman Orkid 2'],
+	[ 'state_id' => 5, 'code' => '73200', 'name' => 'Taman Melor 2'],
+	[ 'state_id' => 5, 'code' => '73400', 'name' => 'Pusat Komersial Pahlawan'],
+	[ 'state_id' => 5, 'code' => '73400', 'name' => 'Pusat Perniagaan Harmoni Gemas'],
+	[ 'state_id' => 5, 'code' => '73400', 'name' => 'Taman Dataran Suria'],
+	[ 'state_id' => 5, 'code' => '73400', 'name' => 'Pusat Komersial Seri Mutiara'],
+	[ 'state_id' => 5, 'code' => '73400', 'name' => 'Taman Seri Mutiara']
+];

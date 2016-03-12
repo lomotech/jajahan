@@ -6669,5 +6669,5 @@ $johor = [
 	[ 'state_id' => 1, 'code' => '86900', 'name' => 'Kampung Sungai Mengkuang'],
 	[ 'state_id' => 1, 'code' => '86900', 'name' => 'Kampung Seri Pandang'],
 	[ 'state_id' => 1, 'code' => '86900', 'name' => 'Kampung Semenyir'],
-	[ 'state_id' => 1, 'code' => '86900', 'name' => 'Belukar Juling'],
+	[ 'state_id' => 1, 'code' => '86900', 'name' => 'Belukar Juling']
 ];

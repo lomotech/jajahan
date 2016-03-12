@@ -3919,5 +3919,5 @@ $kedah = [
 	[ 'state_id' => 2, 'name' => '34950', 'name' => 'Kampung Permatang Pasir'],
 	[ 'state_id' => 2, 'name' => '34950', 'name' => 'Kampung Sungai Tepus'],
 	[ 'state_id' => 2, 'name' => '34950', 'name' => 'Kampung Tebok Mat Rashid'],
-	[ 'state_id' => 2, 'name' => '34950', 'name' => 'Sungai Kechil Ulu'],
+	[ 'state_id' => 2, 'name' => '34950', 'name' => 'Sungai Kechil Ulu']
 ];

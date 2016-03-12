@@ -19,11 +19,17 @@ Jajahan adalah senarai alternatif untuk negeri, daerah, mukim, dun, bahagian, pa
 - Data untuk subdistrict **KUALA MUDA, KEDAH** tiada dalam SDDSA. data ditarik daripada statistics.gov.my.
 - Data untuk subdistrict **SABAH** tiada dalam SDDSA. data ditarik daripada www.sabah.gov.my.
 - Data untuk subdistrict **SARAWAK** ditukar kepada bahasa Malaysia.
-- Data untuk poskod **NEGERI SEMBILAN** dalam SDDSA salah. Ada data duplicate kepada PAHANG.
+- Data untuk poskod **NEGERI SEMBILAN** dalam SDDSA salah. Ada data duplicate kepada PAHANG. Cherry-picked.
+
+###Q&A
+1. Kenapa tak buat dalam JSON?
+	- Sebab guna Eloquent dalam Laravel. Maka array lebih mudah. Untuk collection ataupun seeding.
+2. Kenapa tak buat API?
+	- Malas & tiada keperluan sendiri buat masa ni. Sebab mengikut spesifikasi pengguna, ada beberapa situasi akan berlainan daripada yang SDDSA ada terutamanya pecahan daerah / zon kawalan.
 
 ##changelog
 
-###1.3b
+###1.3
 - Poskod.
 
 ###1.2

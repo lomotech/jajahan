@@ -1,2294 +1,2296 @@
-93000;Jalan Badruddin;-
-93000;Jalan Barrack;-
-93000;Jalan Court House;-
-93000;Jalan Crookshank;-
-93000;Jalan Gambier;-
-93000;Jalan Golflink;-
-93000;Jalan Hokkien;-
-93000;Jalan Hospital Timur;-
-93000;Jalan Main Bazaar;-
-93000;Jalan Maxwell;-
-93000;Jalan Mcdougall;-
-93000;Jalan Mosque;-
-93000;Jalan Ong Kwan Hin;-
-93000;Jalan Reservoir;-
-93000;Jalan Rodway;-
-93000;Jalan Tun Abang Haji Openg;-
-93000;Jalan Wayang;-
-93000;Jalan Were;-
-93000;Ladang Ricketts;-
-93000;Lebuh Bishopgate;-
-93000;Lebuh Carpenter;-
-93000;Lebuh China;-
-93000;Lebuh Ewe Hai;-
-93000;Lebuh Gartak;-
-93000;Lebuh India;-
-93000;Lebuh Java;-
-93000;Lebuh Khoo Hun Yeang;-
-93000;Lebuh Market;-
-93000;Lebuh Power;-
-93000;Lebuh Ulu China;-
-93000;Lebuh Wayang 1;-
-93000;Lebuh Wayang 2;-
-93000;Lorong Ban Hock;-
-93000;Lorong Carmelite;-
-93000;Lorong Dock;-
-93000;Lorong Gertak;-
-93000;Lorong Kai Joo;-
-93000;Lorong Masjid;-
-93000;Lorong Mesjid India;-
-93000;Pengkalan Jeti;-
-93000;Persiaran Mill;-
-93000;Taman Budaya;-
-93000;Taman Oriental;-
-93000;Taman Ricketts;-
-93010;Bengoh;-
-93010;Kampung Anah Rais;-
-93010;Kampung Bako;-
-93010;Kampung Baru Samarahan;-
-93010;Kampung Beliong;-
-93010;Kampung Bengoh Padawan;-
-93010;Kampung Bratok;-
-93010;Kampung Bukit Panchor;-
-93010;Kampung Buntal;-
-93010;Kampung Bunuk;-
-93010;Kampung Geobilt;-
-93010;Kampung Karu;-
-93010;Kampung Lintang Baru;-
-93010;Kampung Mambong;-
-93010;Kampung Muhibah (Seberang Pending);-
-93010;Kampung Pasir Pandak;-
-93010;Kampung Paya Mebi;-
-93010;Kampung Rambungan;-
-93010;Kampung Salak;-
-93010;Kampung Sejingat;-
-93010;Kampung Semadang;-
-93010;Kampung Semedang;-
-93010;Kampung Semilang;-
-93010;Kampung Simpok;-
-93010;Kampung Stoh;-
-93010;Kampung Tapah;-
-93010;Kampung Terambol;-
-93010;Kolong Lapan;-
-93010;Muara Tebas;-
-93010;Pantai Damai;-
-93010;Santubong;-
-93010;Semenggok (Batu 15);-
-93010;Tiang Bekap;-
-93050;Bintawa Batu;-
-93050;Demak;-
-93050;Demak Laut;-
-93050;Gita Laut;-
-93050;Gita Laut Tengah;-
-93050;Jalan Astana;-
-93050;Jalan Astana Lot;-
-93050;Jalan Bako;-
-93050;Jalan Bangau;-
-93050;Jalan Belian;-
-93050;Jalan Bukit Siol;-
-93050;Jalan Bunga Cempaka (Kampung Gita);-
-93050;Jalan Bunga Engkodok (Kampung Gita);-
-93050;Jalan Bunga Kasturi (Kampung Gita);-
-93050;Jalan Bunga Kenanga (Kampung Gita);-
-93050;Jalan Bunga Melati (Kampung Gita);-
-93050;Jalan Bunga Melor (Kampung Gita);-
-93050;Jalan Bunga Raya (Kampung Gita);-
-93050;Jalan Bunga Rose (Kampung Gita);-
-93050;Jalan Bunga Tanjung (Kampung Gita);-
-93050;Jalan Bunga Teratai (Kampung Gita);-
-93050;Jalan Bunga Tiong (Kampung Gita);-
-93050;Jalan Bunga Tongkeng (Kampung Gita);-
-93050;Jalan Cederawasih;-
-93050;Jalan Crocker;-
-93050;Jalan Depo;-
-93050;Jalan Enggang;-
-93050;Jalan Field Force;-
-93050;Jalan Gani;-
-93050;Jalan Geruda;-
-93050;Jalan Haji Sobeng;-
-93050;Jalan Hashim Jaafar;-
-93050;Jalan Helang;-
-93050;Jalan Istana;-
-93050;Jalan Istana Lama;-
-93050;Jalan Juara;-
-93050;Jalan Kenari;-
-93050;Jalan Layang-Layang;-
-93050;Jalan Matang;-
-93050;Jalan Medang;-
-93050;Jalan Melindo;-
-93050;Jalan Menggeris;-
-93050;Jalan Merak;-
-93050;Jalan Merdeka;-
-93050;Jalan Pedidi;-
-93050;Jalan Perupok;-
-93050;Jalan Piala;-
-93050;Jalan Punai;-
-93050;Jalan Pustaka;-
-93050;Jalan Rajawali;-
-93050;Jalan Saadon;-
-93050;Jalan Samariang;-
-93050;Jalan Samariang Batu;-
-93050;Jalan Semarak;-
-93050;Jalan Semariang;-
-93050;Jalan Semariang Lot;-
-93050;Jalan Sentubong;-
-93050;Jalan Serunai;-
-93050;Jalan Siol Kanan;-
-93050;Jalan Siol Kandis;-
-93050;Jalan Sultan Tengah;-
-93050;Jalan Sungai Tengah Kolong;-
-93050;Jalan Tan Sri Abang Ikhwan;-
-93050;Jalan Tun Abdul Rahman Yakub;-
-93050;Jalan Unggas;-
-93050;Kampung Bintawa Hilir;-
-93050;Kampung Bintawa Hulu;-
-93050;Kampung Bintawa Tengah;-
-93050;Kampung Boyan;-
-93050;Kampung Gersik;-
-93050;Kampung Gita Lama;-
-93050;Kampung Gita Laut;-
-93050;Kampung Heritage;-
-93050;Kampung Kapitan Nandak;-
-93050;Kampung Kolong 1;-
-93050;Kampung Lada Pedas;-
-93050;Kampung Laruh Scheme;-
-93050;Kampung Lintang;-
-93050;Kampung Malaysia Jaya;-
-93050;Kampung Matang Batu 10;-
-93050;Kampung Nangka (Jalan Matang);-
-93050;Kampung Panglima Seman;-
-93050;Kampung Panglima Seman Hilir;-
-93050;Kampung Panglima Seman Hulu;-
-93050;Kampung Panglima Seman Lama;-
-93050;Kampung Pinang Jawa;-
-93050;Kampung Pulo Hilir;-
-93050;Kampung Pulo Hulu;-
-93050;Kampung Rampangi 1 - 3;-
-93050;Kampung Semarang;-
-93050;Kampung Semariang Batu;-
-93050;Kampung Semariang Jaya (Fasa 1 - 2);-
-93050;Kampung Semariang Lama;-
-93050;Kampung Semerah Padi;-
-93050;Kampung Sinjan;-
-93050;Kampung Siol Kandis Jalan Siol Kandis;-
-93050;Kampung Stadium;-
-93050;Kampung Sungai Bedil Besar;-
-93050;Kampung Sungai Bedil Kecil;-
-93050;Kampung Surabaya Hilir;-
-93050;Kampung Surabaya Hulu;-
-93050;Kampung Tanjung;-
-93050;Kampung Tupong;-
-93050;Kampung Tupong Astana;-
-93050;Kampung Tupong Batu;-
-93050;Kampung Tupong Hulu;-
-93050;Kampung Tupong Jaya Jalan Merdeka;-
-93050;Kampung Tupong Tengah;-
-93050;Kampung Wawasan Jaya;-
-93050;Kubah Ria;-
-93050;Kuching Family Park;-
-93050;Lorong 1 - 4 Jalan Istana;-
-93050;Lorong Haji Babel;-
-93050;Lorong Haji Said;-
-93050;Lorong Mustaffa;-
-93050;Lorong Penghulu Sudin;-
-93050;Pengkalan Sapi;-
-93050;Perumahan Rakyat Siol Kanan;-
-93050;Petra Jaya;-
-93050;Semarak Pinang Jawa;-
-93050;Semariang;-
-93050;Semariang Aman (Phase 1 - 2);-
-93050;Semariang Bandar Baru (Phase 1 - 5);-
-93050;Semerah Padi;-
-93050;Siol Kandis;-
-93050;Taman Abrar;-
-93050;Taman Ah Boon;-
-93050;Taman Aichi;-
-93050;Taman Alamanda Indah;-
-93050;Taman Alifah;-
-93050;Taman Amina;-
-93050;Taman Anib;-
-93050;Taman Asiah, Jalan Siol Kandis;-
-93050;Taman Bahjah;-
-93050;Taman Bersinar;-
-93050;Taman Bowood;-
-93050;Taman Bukit Mawar (Kampung Gita);-
-93050;Taman Bunga Akasia;-
-93050;Taman Bunga Melati;-
-93050;Taman Bunga Raya;-
-93050;Taman Bunga Wangi;-
-93050;Taman Carisa;-
-93050;Taman Cresent;-
-93050;Taman Demak;-
-93050;Taman Desa Guru;-
-93050;Taman Desa Matang;-
-93050;Taman Desa Matang Jalan Matang Batu 3;-
-93050;Taman Dusun Bayu;-
-93050;Taman Dusun Indah;-
-93050;Taman Emas;-
-93050;Taman Emas Jalan Depo;-
-93050;Taman Fah Tah;-
-93050;Taman Farhanas;-
-93050;Taman Fitrah;-
-93050;Taman Foong Joon;-
-93050;Taman Gemilang, Jalan Matang;-
-93050;Taman Gita Jaya;-
-93050;Taman Grandview, Jalan Matang Batu 8;-
-93050;Taman Green View;-
-93050;Taman Haji Arshad Jalan Helang;-
-93050;Taman Hamimas Jaya;-
-93050;Taman Harmoni;-
-93050;Taman Heng Guan;-
-93050;Taman Heritage;-
-93050;Taman Hijrah;-
-93050;Taman Hillside;-
-93050;Taman Hipni;-
-93050;Taman Hussein;-
-93050;Taman Ibni Hasyim;-
-93050;Taman Ichi;-
-93050;Taman Inai Jalan Matang Batu 2 1/2;-
-93050;Taman Indah Fasa 1 - 2;-
-93050;Taman Inspire;-
-93050;Taman Juta Ria;-
-93050;Taman Kandis;-
-93050;Taman Kenanga;-
-93050;Taman Kopidim;-
-93050;Taman Kopodim,Jalan Matang;-
-93050;Taman Kubah Jaya;-
-93050;Taman Lake Side Jalan Sultan Tengah;-
-93050;Taman Larender;-
-93050;Taman Layang - Layang;-
-93050;Taman Lebunda;-
-93050;Taman Lee Ling;-
-93050;Taman Long Seng;-
-93050;Taman Madehi;-
-93050;Taman Makmur;-
-93050;Taman Malihah;-
-93050;Taman Malihah Jaya;-
-93050;Taman Mastura;-
-93050;Taman Matang Avenue Jalan Matang;-
-93050;Taman Matang Baru;-
-93050;Taman Matang Height;-
-93050;Taman Matang Indah Jalan Matang;-
-93050;Taman Matang Jaya;-
-93050;Taman Mawar;-
-93050;Taman Melati;-
-93050;Taman Monah;-
-93050;Taman Muhibbah;-
-93050;Taman Murni;-
-93050;Taman Nestle Jalan Bakti;-
-93050;Taman Norjesnita;-
-93050;Taman Orchidwood;-
-93050;Taman Palma Indah;-
-93050;Taman Pandan Jaya;-
-93050;Taman Peaceful;-
-93050;Taman Pearl;-
-93050;Taman Peony;-
-93050;Taman PJ Heights;-
-93050;Taman PRC;-
-93050;Taman Puteri;-
-93050;Taman Puteri (Phase 1 - 3);-
-93050;Taman Rafia;-
-93050;Taman Rasa Jaya;-
-93050;Taman Rasa Makmur;-
-93050;Taman Rassnorm;-
-93050;Taman Regent (Petra Jaya);-
-93050;Taman Riverview;-
-93050;Taman Rose;-
-93050;Taman Ruhaya;-
-93050;Taman S.K. Liew, Jalan Batu Kawa - Matang;-
-93050;Taman Sajoli;-
-93050;Taman Salma;-
-93050;Taman Sebah Height;-
-93050;Taman Sejijak;-
-93050;Taman Selasih Jalan Cenderawasih Lorong 1A;-
-93050;Taman Semariang Aman;-
-93050;Taman Sepakat Jaya;-
-93050;Taman Sepawie;-
-93050;Taman Seri Kandis;-
-93050;Taman Seri Semerah Padi;-
-93050;Taman Seri Sena;-
-93050;Taman Seri Usang;-
-93050;Taman Serira;-
-93050;Taman Setia;-
-93050;Taman Sheikh Ismail;-
-93050;Taman Sinar Serapi;-
-93050;Taman Sonia;-
-93050;Taman Sourabaya Indah;-
-93050;Taman Sri Jaya;-
-93050;Taman Sri Makmur;-
-93050;Taman Sri Malihah 2;-
-93050;Taman Sri Matang;-
-93050;Taman Sri Melaga;-
-93050;Taman Sri Melati;-
-93050;Taman Sri Perkasa;-
-93050;Taman Sri Serapi;-
-93050;Taman Sri Wangi;-
-93050;Taman Sukma;-
-93050;Taman Surabaya;-
-93050;Taman Suria Jaya;-
-93050;Taman Syn Syn;-
-93050;Taman Tanjong;-
-93050;Taman Tatai Kumang;-
-93050;Taman Teratai;-
-93050;Taman Trinora;-
-93050;Taman Tupong Jaya;-
-93050;Taman Unique;-
-93050;Taman Wangi Indah Jalan Simpor;-
-93050;Taman Wangsa;-
-93050;Taman Wirajaya Jalan Bukit Siol;-
-93050;Taman Won;-
-93050;Taman Won Baru;-
-93050;Taman Wummas;-
-93050;Taman Yen Yen;-
-93050;Taman Yen Yen Park Jalan Matang;-
-93050;Tinggian Demak;-
-93050;Tupong Jaya Jalan Merdeka;-
-93100;Green Hill;-
-93100;Jalan Abell;-
-93100;Jalan Abell Utara;-
-93100;Jalan Ang Cheng Ho;-
-93100;Jalan Ban Hock;-
-93100;Jalan Ban Hock Drive;-
-93100;Jalan Blacksmith;-
-93100;Jalan Borneo;-
-93100;Jalan Bukit Mata;-
-93100;Jalan Central Garden;-
-93100;Jalan Chan Chin Ann;-
-93100;Jalan Deshon;-
-93100;Jalan Green Hill;-
-93100;Jalan Mathies;-
-93100;Jalan Nipah;-
-93100;Jalan Padungan;-
-93100;Jalan Padungan Utara;-
-93100;Jalan Petanak;-
-93100;Jalan Rumbia;-
-93100;Jalan Song Kheng Hai;-
-93100;Jalan Song Thian Cheok;-
-93100;Jalan Sungai Padungan;-
-93100;Jalan Tabuan (1 - 40);-
-93100;Jalan Temple;-
-93100;Jalan Tukang Besi;-
-93100;Jalan Tunku Abdul Rahman;-
-93100;KMC Terrace House;-
-93100;Padungan Arcade;-
-93100;Persiaran Lucky;-
-93100;Rumah Pangsa MPK;-
-93100;Taman Central;-
-93100;Taman Goodland;-
-93100;Taman Kereta;-
-93100;Taman Padungan;-
-93100;Taman Song Kheng Hai;-
-93100;Taman Sri Sarawak;-
-93100;Wisma Pheonix;-
-93150;Green Road;-
-93150;Jalan Angsana;-
-93150;Jalan Cross;-
-93150;Jalan Emerald;-
-93150;Jalan Gold Jade;-
-93150;Jalan Green;-
-93150;Jalan Intan;-
-93150;Jalan Jambu;-
-93150;Jalan Kapor;-
-93150;Jalan Kapor Lorong 8;-
-93150;Jalan Kepayang;-
-93150;Jalan Keretapi;-
-93150;Jalan Merdeka (Off Jalan Green);-
-93150;Jalan Ong Kee Hui;-
-93150;Jalan Pisang Barat;-
-93150;Jalan Poh Kwong Park;-
-93150;Jalan Sungai Maong Baru;-
-93150;Jalan Sungai Maong Hilir;-
-93150;Jalan Sungai Maong Hulu;-
-93150;Jalan Sungai Maong Tengah;-
-93150;Jalan Swee Joo Park;-
-93150;Kampung Sungai Maong;-
-93150;Lebuh Sockalingam;-
-93150;Lebuh Temple;-
-93150;Lorong Bintang;-
-93150;Lorong Bulan;-
-93150;Lorong Chu Su;-
-93150;Lorong Green 1;-
-93150;Lorong Kim Kiat;-
-93150;Lorong Kim Seng;-
-93150;Lorong Maleng;-
-93150;Lower Sungei Maong;-
-93150;Persiaran Crooke;-
-93150;Persiaran Rainbow;-
-93150;Persiaran St Paul;-
-93150;Sungai Maong Bharu;-
-93150;Sungai Maong Hilir;-
-93150;Sungai Maong Tengah;-
-93150;Taman Begawut;-
-93150;Taman Bigawa;-
-93150;Taman Charming;-
-93150;Taman Chin Siew;-
-93150;Taman Chong Hin;-
-93150;Taman Cloud;-
-93150;Taman Eastern;-
-93150;Taman Empire;-
-93150;Taman Exceller;-
-93150;Taman Federal;-
-93150;Taman Flourishing;-
-93150;Taman Hock Seng Lee;-
-93150;Taman Hongnion;-
-93150;Taman Hugrow;-
-93150;Taman Kapor;-
-93150;Taman Khee Moi;-
-93150;Taman King Dom;-
-93150;Taman KingBurg Home;-
-93150;Taman Kok Ban Hong;-
-93150;Taman Legendry Villa;-
-93150;Taman Lian Kwong;-
-93150;Taman Literature Villa;-
-93150;Taman Luxus;-
-93150;Taman Maong;-
-93150;Taman May Ling;-
-93150;Taman Mimpi;-
-93150;Taman Pauline;-
-93150;Taman Pigawa;-
-93150;Taman Pisang;-
-93150;Taman Poh Kwong;-
-93150;Taman Prince;-
-93150;Taman Regent (Sungai Maong Tengah);-
-93150;Taman Ros (Sungai Maong Tengah);-
-93150;Taman Ruby;-
-93150;Taman Sentiasa;-
-93150;Taman Sin Sin;-
-93150;Taman Sky;-
-93150;Taman Stapok Height;-
-93150;Taman Star;-
-93150;Taman Sungai Maong;-
-93150;Taman Sunrise;-
-93150;Taman Swee Joo;-
-93150;Taman Wee & Wee;-
-93200;Batu Lintang;-
-93200;Halaman Kim San;-
-93200;Jalan Bampfylde;-
-93200;Jalan Batu Kinyang;-
-93200;Jalan Batu Lintang;-
-93200;Jalan Bidayuh;-
-93200;Jalan Bisayah;-
-93200;Jalan Bukit Antu;-
-93200;Jalan Bukit Lintang;-
-93200;Jalan Bukitan;-
-93200;Jalan Chua Say Chat;-
-93200;Jalan Datin Wee Siew Eng;-
-93200;Jalan Datuk Hamdan;-
-93200;Jalan Dusun;-
-93200;Jalan Hua Joo;-
-93200;Jalan Keretapi (Batu 3);-
-93200;Jalan Kolej;-
-93200;Jalan Kumpang;-
-93200;Jalan Lintang Park;-
-93200;Jalan Lintang Selatan;-
-93200;Jalan Lowlands;-
-93200;Jalan Manggis;-
-93200;Jalan Mendu;-
-93200;Jalan Midland;-
-93200;Jalan Midlands;-
-93200;Jalan Nangka (Batu Lintang);-
-93200;Jalan Nyiur;-
-93200;Jalan Ong Hup Leong;-
-93200;Jalan Ong Tiang Swee;-
-93200;Jalan Ridgeway;-
-93200;Jalan Rock;-
-93200;Jalan Rockview;-
-93200;Jalan Simpang Tiga;-
-93200;Jalan Tabuan (41 & ke atas);-
-93200;Jalan Tai Tshin Jar;-
-93200;Jalan Thian Guan;-
-93200;Jalan Tong Wei Tah;-
-93200;Jalan Tun Ahmad Zaidi Adruce;-
-93200;Jalan Wee Boon Ping;-
-93200;Jalan Wee Seng Goon;-
-93200;Kampung Simpang Tiga;-
-93200;Kampung Simpang Tiga Jalan Mendu;-
-93200;Kim San Court;-
-93200;Laman Bong Chin;-
-93200;Laman Rock;-
-93200;Lintang Heights;-
-93200;Lorong 1 - 3 Jalan Mendu;-
-93200;Lorong Batu;-
-93200;Lorong Batu Bata;-
-93200;Lorong Karangan;-
-93200;Lorong Kelikir;-
-93200;Lorong Pasir;-
-93200;Lorong Permata;-
-93200;Lorong Rock;-
-93200;Lorong Rock Terrace;-
-93200;Lorong Tabuan;-
-93200;Lorong Tabuan Timur;-
-93200;Pasar Batu 3 Jalan Rock;-
-93200;Pekan Batu 3;-
-93200;Rock Terrace;-
-93200;Sunny Estate;-
-93200;Taman Acme;-
-93200;Taman Bong Chin;-
-93200;Taman Bunga Teratai (Batu Lintang);-
-93200;Taman Central (Jalan Rock);-
-93200;Taman Dunwa;-
-93200;Taman Gan Swee Cho;-
-93200;Taman Ho San;-
-93200;Taman Hua Joo;-
-93200;Taman Hwata;-
-93200;Taman Intersar;-
-93200;Taman Iris;-
-93200;Taman Kelly;-
-93200;Taman Kim San;-
-93200;Taman Lintang;-
-93200;Taman Liong Seng;-
-93200;Taman Meng Meng;-
-93200;Taman Merlin;-
-93200;Taman Min Chu;-
-93200;Taman Ong Guan Tee;-
-93200;Taman Ridge;-
-93200;Taman Rock View;-
-93200;Taman Sentiasa;-
-93200;Taman Sun Valley;-
-93200;Taman Thian Guan;-
-93200;Taman Timberland;-
-93200;Taman Westwood;-
-93200;Taman Wingli;-
-93200;Third Miles Bazaar;-
-93250;Batu Kawa Commercial Centre;-
-93250;Industrial Area Jalan Kuching/Serian Batu 13;-
-93250;Jalan Arang;-
-93250;Jalan Arang Barat;-
-93250;Jalan Batu Kawa;-
-93250;Jalan Batu Kawa - Matang;-
-93250;Jalan Batu Kawa Lorong 3;-
-93250;Jalan Batu Kawa/ Tondong;-
-93250;Jalan Batu Kawa/Bau;-
-93250;Jalan Batu Kitang;-
-93250;Jalan Bayan;-
-93250;Jalan Bengang;-
-93250;Jalan Benggang;-
-93250;Jalan Bukit Cahaya;-
-93250;Jalan Burung Bunga Api;-
-93250;Jalan Burung Kawok;-
-93250;Jalan Burung Landas;-
-93250;Jalan Burung Lilin;-
-93250;Jalan Burung Rawa;-
-93250;Jalan Chaya Batu 3;-
-93250;Jalan Chong Jing Chong;-
-93250;Jalan Datok Tawi Sli;-
-93250;Jalan Datuk Mustapha;-
-93250;Jalan Datuk Stephen Yong;-
-93250;Jalan Dogan;-
-93250;Jalan Dogan Arang;-
-93250;Jalan Embok Tanah;-
-93250;Jalan Ensing;-
-93250;Jalan Golden Farm;-
-93250;Jalan Hup Kee;-
-93250;Jalan Kampung Kuap Batu 10;-
-93250;Jalan Kangking;-
-93250;Jalan Kangkok;-
-93250;Jalan Ketek;-
-93250;Jalan Ketitir;-
-93250;Jalan Kong Ping;-
-93250;Jalan Kopua;-
-93250;Jalan Kuching - Serian (Km 23);-
-93250;Jalan Kunchit;-
-93250;Jalan Landeh;-
-93250;Jalan Lapangan Terbang Lama;-
-93250;Jalan Lapangan Terbang Lrg 2 Dan 4;-
-93250;Jalan Meng Chong;-
-93250;Jalan Minggi;-
-93250;Jalan Penrissen (Km 6 - 24);-
-93250;Jalan Penrissen Lama;-
-93250;Jalan Puncak Borneo Km. 18-20;-
-93250;Jalan Semeba;-
-93250;Jalan Semenggok;-
-93250;Jalan Sg Tapang Batu 7 - 7 1/2th;-
-93250;Jalan Stakan;-
-93250;Jalan Stampin Tengah;-
-93250;Jalan Stapok;-
-93250;Jalan Stephen Kalong Ningkan;-
-93250;Jalan Stephen Yong;-
-93250;Jalan Tawi Seli;-
-93250;Kampung Batu Kitang;-
-93250;Kampung Bumbok;-
-93250;Kampung Haji Baki;-
-93250;Kampung Jawa;-
-93250;Kampung Jawa Semenggok;-
-93250;Kampung Sandong;-
-93250;Kampung Segedup Jalan Segedup;-
-93250;Kampung Semeba Jalan Semeba;-
-93250;Kampung Seri Arjuna;-
-93250;Kampung Sinar Budi;-
-93250;Kampung Stapok;-
-93250;Kampung Stapok Cina;-
-93250;Kampung Tematu Jalan Batu Kitang;-
-93250;Kampung Tematu, Jalan Batu Kitang;-
-93250;Lapangan Terbang Antarabangsa Kuching;-
-93250;Lorong 1 (Batu Kawa);-
-93250;Lorong 2 (Batu Kawa);-
-93250;Lorong 3 (Batu Kawa);-
-93250;MJC Apartment & Condo Jalan Batu Kawa;-
-93250;MJC Commercial Centre Jalan Batu Kawa;-
-93250;Pasar Batu 10 (Jalan Penrissen);-
-93250;Pasar Batu 7 (Jalan Penrissen);-
-93250;Pasar Batu Kitang;-
-93250;Pasar Batu Kitang (Km 11);-
-93250;Pengkalan Baru;-
-93250;Persiaran Kingsway;-
-93250;Resettlement Scheme Kampung Jawa;-
-93250;Resettlement Scheme Stapok;-
-93250;Seventh Mile Bazaar;-
-93250;Taman Ann Siang;-
-93250;Taman Arang;-
-93250;Taman Aromatic;-
-93250;Taman Batu 12 Jalan Kuching/Serian Batu 12;-
-93250;Taman Batu 9;-
-93250;Taman Batu Kawa Heights;-
-93250;Taman Beautiful Jalan Field Force;-
-93250;Taman Beauty;-
-93250;Taman Bengoh;-
-93250;Taman Berjaya;-
-93250;Taman Berjaya Jalan Kalong Ningkan;-
-93250;Taman BJ;-
-93250;Taman Blessed Jalan Stapok Utara;-
-93250;Taman Bolder Built;-
-93250;Taman Brilliance;-
-93250;Taman Budi Jasa;-
-93250;Taman Buditra Jaya;-
-93250;Taman Bukit Stampin;-
-93250;Taman Bumiko;-
-93250;Taman Capital;-
-93250;Taman Carina Estate;-
-93250;Taman Cavery Jalan Kuching/Serian Batu 12;-
-93250;Taman Chai Yii;-
-93250;Taman Chia Teng Chew;-
-93250;Taman Chong;-
-93250;Taman Chong Kong;-
-93250;Taman Chuan Liaw Jalan Stakan Batu 7 1/2;-
-93250;Taman Chung Nion;-
-93250;Taman Cinmuk;-
-93250;Taman Contemporary;-
-93250;Taman Coral;-
-93250;Taman Country Hill;-
-93250;Taman Country Vale;-
-93250;Taman Cuaca;-
-93250;Taman Damansara;-
-93250;Taman Desa Moyan;-
-93250;Taman Desa Wira;-
-93250;Taman Dogan Jalan Dogan;-
-93250;Taman East Height;-
-93250;Taman Eden Field;-
-93250;Taman Eligen Villa Jalan Stapok Utara;-
-93250;Taman Emas;-
-93250;Taman Everbright Estate (Batu Kawa);-
-93250;Taman Everbright Park;-
-93250;Taman Fairview Height;-
-93250;Taman Fairyland Jalan Kuching/Serian Batu 12;-
-93250;Taman Flora Indah Jalan Arang;-
-93250;Taman Fook Nyen;-
-93250;Taman Fuyi;-
-93250;Taman Genesis;-
-93250;Taman GoldenView Jalan Puncak Borneo;-
-93250;Taman Grace;-
-93250;Taman Green Heights;-
-93250;Taman Green Ville;-
-93250;Taman Greenhill;-
-93250;Taman Greenland Villa;-
-93250;Taman Greenvilla;-
-93250;Taman Greenwood Park;-
-93250;Taman Haji Baki;-
-93250;Taman HDC (RPR Batu 12);-
-93250;Taman HDC (RPR Batu Kawa);-
-93250;Taman High Field Jalan Batu Kawa;-
-93250;Taman Hin Yu;-
-93250;Taman Hock Nion;-
-93250;Taman Hoi Lee;-
-93250;Taman Home Mart;-
-93250;Taman Home Park;-
-93250;Taman Hong Hong;-
-93250;Taman Hong Leong;-
-93250;Taman How Ching;-
-93250;Taman Hua Ling;-
-93250;Taman Hua Yan;-
-93250;Taman Iddylick;-
-93250;Taman Indah Height;-
-93250;Taman Indah Jaya;-
-93250;Taman Indah Landeh;-
-93250;Taman Indah Ria;-
-93250;Taman Ing Ling Jalan Kuching/Serian Batu 12;-
-93250;Taman Inspire;-
-93250;Taman Janting;-
-93250;Taman Kalien Ph. 1 - 6 Jalan Stakan Batu 7 1/2;-
-93250;Taman Ketika;-
-93250;Taman Khua Hua;-
-93250;Taman Kim Lee;-
-93250;Taman Kim Lee Jalan Semaba Lorong 9;-
-93250;Taman Kim Pang;-
-93250;Taman Kit Fah;-
-93250;Taman Kong Ping;-
-93250;Taman Kong Ping Height;-
-93250;Taman Kota Padawan;-
-93250;Taman Kuap;-
-93250;Taman Kwong Tiong;-
-93250;Taman Lai - Lai;-
-93250;Taman Landeh;-
-93250;Taman Lee Onn;-
-93250;Taman Lian Hua;-
-93250;Taman Lian Kwang;-
-93250;Taman Lilok;-
-93250;Taman Lok Thiam;-
-93250;Taman Lovely Land;-
-93250;Taman Lucky Hill Jalan Penrissen Batu 10;-
-93250;Taman Lung Foo;-
-93250;Taman Mawar (Jalan Arang);-
-93250;Taman Megajuta;-
-93250;Taman Mei Lee;-
-93250;Taman Metro;-
-93250;Taman Mewah;-
-93250;Taman Millinium;-
-93250;Taman MJC Mutiara;-
-93250;Taman Moyan Height;-
-93250;Taman Moyan Utama;-
-93250;Taman Mulbery;-
-93250;Taman Nam Hoi;-
-93250;Taman Nan Chi;-
-93250;Taman Olive;-
-93250;Taman Orchid (Jalan Arang Bara);-
-93250;Taman Paradise;-
-93250;Taman Parkview;-
-93250;Taman Pearl;-
-93250;Taman Pek Seng;-
-93250;Taman Penrissen;-
-93250;Taman Phoenix;-
-93250;Taman Princess;-
-93250;Taman Punica;-
-93250;Taman Putera Park;-
-93250;Taman Ramin Jalan Arang;-
-93250;Taman Range;-
-93250;Taman Regal;-
-93250;Taman Renggas Estate;-
-93250;Taman Richmond Hill;-
-93250;Taman Rimba Stapok;-
-93250;Taman Royal;-
-93250;Taman Saidu Khan;-
-93250;Taman Sakura Indah;-
-93250;Taman San Chin;-
-93250;Taman Sarmax;-
-93250;Taman Sasa;-
-93250;Taman Sati;-
-93250;Taman Sedegup Height;-
-93250;Taman Semaba Jalan Semaba Lorong 8;-
-93250;Taman Seng Goon;-
-93250;Taman Sentosa;-
-93250;Taman Seri Emas;-
-93250;Taman Shefford View;-
-93250;Taman Shing Yu;-
-93250;Taman Siwi;-
-93250;Taman Spring Field;-
-93250;Taman Sri Borneo;-
-93250;Taman Sri Cahaya;-
-93250;Taman Sri Moyan;-
-93250;Taman Sri Muhibbah;-
-93250;Taman Sri Segedup;-
-93250;Taman Stapok;-
-93250;Taman Stapok Avenue Jalan Stapok;-
-93250;Taman Stapok Central Jalan Stapok Central;-
-93250;Taman Stapok Estate Jalan Stapok Selatan;-
-93250;Taman Stapok Height Jalan Stapok Selatan;-
-93250;Taman Stapok Height Jalan stapok Utara;-
-93250;Taman STC;-
-93250;Taman Stella;-
-93250;Taman Stephen Yong Avenue;-
-93250;Taman Summerhill Villa Jalan Stapok Selatan;-
-93250;Taman Sunny Heights;-
-93250;Taman Sunny Hill;-
-93250;Taman Sunyeh;-
-93250;Taman Taipei;-
-93250;Taman Tiang Ling;-
-93250;Taman TJM;-
-93250;Taman Tropimas;-
-93250;Taman Ultra;-
-93250;Taman Union;-
-93250;Taman Victoria;-
-93250;Taman Victoria Jalan Satpok Utama;-
-93250;Taman Victory;-
-93250;Taman Wai Leong;-
-93250;Taman Wawasan;-
-93250;Taman WEC;-
-93250;Taman Wepac;-
-93250;Taman Wui Lee;-
-93250;Taman Xafa Jalan Penrissen Batu 7 1/2;-
-93250;Tenth Mile Bazaar;-
-93300;Jalan Berjaya;-
-93300;Jalan Cahaya;-
-93300;Jalan Central Barat;-
-93300;Jalan Central Esat/Ellis;-
-93300;Jalan Central Timur;-
-93300;Jalan Chawan;-
-93300;Jalan Chawan Hulu;-
-93300;Jalan Chong Kiun Kong;-
-93300;Jalan Datuk Bandar;-
-93300;Jalan Datuk Sim Kheng Hong;-
-93300;Jalan Ellis;-
-93300;Jalan Foochow 1;-
-93300;Jalan Foochow 2;-
-93300;Jalan Foochow Barat;-
-93300;Jalan Kuek Siok Hong;-
-93300;Jalan Ming Ching;-
-93300;Jalan Nyatoh;-
-93300;Jalan Parklane;-
-93300;Jalan Penyau;-
-93300;Jalan Rengas;-
-93300;Jalan Resak;-
-93300;Jalan Sekama;-
-93300;Jalan Sekama Utara;-
-93300;Jalan Sekama/Pending;-
-93300;Jalan Sinar;-
-93300;Jalan Suadi Haji Arshad;-
-93300;Jalan Tai Poo;-
-93300;Jalan Upper Chawan;-
-93300;Jalan Wan Abdul Rahman;-
-93300;Kampung Tabuan Foochow Jalan Foochow No. 1;-
-93300;Kuching By pass (Foochow);-
-93300;Lebuh Sekama;-
-93300;Lorong Goh Meng Teck;-
-93300;Lorong Park;-
-93300;Sekama Utara;-
-93300;Tabuan Ulu Chawan Cina;-
-93300;Taman Chung Hua;-
-93300;Taman Dirgahayu;-
-93300;Taman Fushing;-
-93300;Taman Futee;-
-93300;Taman Hawaii;-
-93300;Taman Joo Chuan (Jalan Ellis);-
-93300;Taman Kali;-
-93300;Taman Kenyalang;-
-93300;Taman Kim Fook;-
-93300;Taman Kuching;-
-93300;Taman Lein Kun;-
-93300;Taman Mei Teck;-
-93300;Taman Orchid Jalan Foochow No. 1;-
-93300;Taman Pecky;-
-93300;Taman Poh Hua;-
-93300;Taman Poh Ming;-
-93300;Taman Sin Juak;-
-93300;Taman Sung Hong;-
-93300;Taman Supreme;-
-93300;Taman Tabuan Supreme;-
-93300;Taman Three Hill;-
-93300;Taman Tungshi;-
-93300;Taman Yung Kong;-
-93350;Happy Valley;-
-93350;Hui Sing Heights;-
-93350;Jalan Bayor Bukit;-
-93350;Jalan Bintangor;-
-93350;Jalan Durian Burong;-
-93350;Jalan Geronggang;-
-93350;Jalan Hui Sing;-
-93350;Jalan Jelutong;-
-93350;Jalan Kedandi 11;-
-93350;Jalan Kedandi 14;-
-93350;Jalan Kempas;-
-93350;Jalan Kenny Hill;-
-93350;Jalan Keranji 1 - 6;-
-93350;Jalan Kruak;-
-93350;Jalan Laksamana Cheng Ho;-
-93350;Jalan Luis;-
-93350;Jalan Muara Tabuan;-
-93350;Jalan Murut;-
-93350;Jalan Seladah;-
-93350;Jalan Setia Raja;-
-93350;Jalan Sherip Mansor;-
-93350;Jalan Simpang Tiga (Main Road);-
-93350;Jalan Song;-
-93350;Jalan Stampin;-
-93350;Jalan Stampin Barat;-
-93350;Jalan Stampin Timur;-
-93350;Jalan Stutong Indah;-
-93350;Jalan Stutong Jaya;-
-93350;Jalan Tabuan Dayak;-
-93350;Jalan Tabuan Jaya;-
-93350;Jalan Temenggong Jugah;-
-93350;Jalan Tun Jugah;-
-93350;Jalan Upland;-
-93350;Jalan Urat Mata;-
-93350;Jalan Wan Alwi;-
-93350;Jalan Wan Alwi Tunku Ibrahim;-
-93350;Kampung Stampin;-
-93350;Kampung Tabuan Dayak;-
-93350;Kampung Tabuan Jaya;-
-93350;Kuching By pass (Km 7);-
-93350;Kuching By pass Stampin;-
-93350;Lorong Wan Alwi 5;-
-93350;Muara Tabuan Industrial Free Zone;-
-93350;Resettlement Schme Stutong;-
-93350;Samajaya Appartment, Jalan Setia Raja;-
-93350;Samajaya Comercial Centre, Jalan Setia Raja;-
-93350;Stutong Affordable Scheme (Phase 1 - 2);-
-93350;Tabuan Court Jalan Song;-
-93350;Tabuan Dayak;-
-93350;Tabuan Dusun;-
-93350;Tabuan Dusun Tengah;-
-93350;Tabuan Heights;-
-93350;Tabuan Jaya;-
-93350;Tabuan Jaya Tengah;-
-93350;Tabuan Lalang;-
-93350;Tabuan Stutong Jalan Setia Raja;-
-93350;Taman 7th Avenue Jalan Durian Burung;-
-93350;Taman Bahagia, Jalan Stampin;-
-93350;Taman Bayang;-
-93350;Taman Bayang Estate;-
-93350;Taman BDC;-
-93350;Taman BDC Stampin;-
-93350;Taman Beverly Heights;-
-93350;Taman Bintang;-
-93350;Taman Casamarbela;-
-93350;Taman Cemerlang;-
-93350;Taman Centurion 1;-
-93350;Taman Centurion 2;-
-93350;Taman Cinta Avenue;-
-93350;Taman Daya;-
-93350;Taman Desa Indah;-
-93350;Taman Desa Utara;-
-93350;Taman Durian Burung Jalan Durian Burung;-
-93350;Taman Esco Ville;-
-93350;Taman Everbright Jaya;-
-93350;Taman Fortune;-
-93350;Taman Gan Swee;-
-93350;Taman Gawing;-
-93350;Taman Golden Height Lorong Hui Sing 6;-
-93350;Taman Happy Valley;-
-93350;Taman Hartawan;-
-93350;Taman Height Estate Jalan Stutong;-
-93350;Taman Height Estate, Jalan Stutong;-
-93350;Taman Hua Lee;-
-93350;Taman Hui Sing;-
-93350;Taman Hui Sing Close;-
-93350;Taman Hui Sing Height;-
-93350;Taman Hui Sing Jaya;-
-93350;Taman Jade Villa Jalan Lapangan Terbang 5;-
-93350;Taman Jelita;-
-93350;Taman Julemas;-
-93350;Taman Jupit;-
-93350;Taman Kenny;-
-93350;Taman Kenny Hill;-
-93350;Taman Lee Ling ( Song);-
-93350;Taman Legend Hill;-
-93350;Taman Linang;-
-93350;Taman Linang Suboh;-
-93350;Taman Mabel;-
-93350;Taman Major;-
-93350;Taman Marble;-
-93350;Taman Meranja;-
-93350;Taman Mersing;-
-93350;Taman Million, Jalan Kempas;-
-93350;Taman Muara Tabuan;-
-93350;Taman Mutiara Permai;-
-93350;Taman Opulence;-
-93350;Taman Orchard;-
-93350;Taman Pelita Height Jalan BDC;-
-93350;Taman Phoning;-
-93350;Taman Pinery Villa;-
-93350;Taman Polarwood Lorong 5H5;-
-93350;Taman Progress;-
-93350;Taman Rosewood;-
-93350;Taman Satria Jaya;-
-93350;Taman Scenery Villa;-
-93350;Taman Sherip Mansor;-
-93350;Taman Sin Hai Min;-
-93350;Taman Sin Hai Min 1;-
-93350;Taman Sin Hai Min 2;-
-93350;Taman Sri Stutong Jalan Setia Raja;-
-93350;Taman Stampin Barat;-
-93350;Taman Stampin Heights;-
-93350;Taman Stutong Avenue;-
-93350;Taman Suboh;-
-93350;Taman Swee Lee;-
-93350;Taman Tabuan Desa;-
-93350;Taman Tabuan Dusun;-
-93350;Taman Tabuan Height Boulevard, Jalan Stutong;-
-93350;Taman Tabuan Height Drive, Jalan Stutong;-
-93350;Taman Tabuan Jaya;-
-93350;Taman Tabuan Jaya 1 & 2;-
-93350;Taman Tabuan Laru;-
-93350;Taman Woodland;-
-93350;Taman Yet Ho;-
-93350;Uplands (Deret Kedai);-
-93400;Jalan Abang Ateh;-
-93400;Jalan Abong Taip;-
-93400;Jalan Bintangor Besar;-
-93400;Jalan Bintangor Kecil;-
-93400;Jalan Bolhassan;-
-93400;Jalan Dagok Barat;-
-93400;Jalan Dagok Tengah;-
-93400;Jalan Dagok Timur;-
-93400;Jalan Datuk Ajibah Abol;-
-93400;Jalan Haji Bolhassan;-
-93400;Jalan Haji Kassan;-
-93400;Jalan Haji Mataim;-
-93400;Jalan Haji Mustapa Junit;-
-93400;Jalan Haji Taha;-
-93400;Jalan Jawa;-
-93400;Jalan Kulas;-
-93400;Jalan Kulas Barat;-
-93400;Jalan Kulas Tengah;-
-93400;Jalan Kulas Timur;-
-93400;Jalan Kulas Utara Dua;-
-93400;Jalan Laruh Barat;-
-93400;Jalan Laruh Tengah;-
-93400;Jalan Laruh Timur;-
-93400;Jalan Masjid;-
-93400;Jalan Medan Temple;-
-93400;Jalan Middle;-
-93400;Jalan Muda Hashim;-
-93400;Jalan Muhibbah;-
-93400;Jalan Nagor;-
-93400;Jalan Nanas;-
-93400;Jalan Nanas Barat;-
-93400;Jalan Ong Guan Poh;-
-93400;Jalan P. Ramlee;-
-93400;Jalan Paduka Sitom;-
-93400;Jalan Palm;-
-93400;Jalan Parit Lama;-
-93400;Jalan Parit Lama Barat;-
-93400;Jalan Parit Lama Tengah;-
-93400;Jalan Patingan;-
-93400;Jalan Patinggi Ali;-
-93400;Jalan Pisang;-
-93400;Jalan Pisang Selatan;-
-93400;Jalan Pisang Utara;-
-93400;Jalan Rambutan;-
-93400;Jalan Rubber;-
-93400;Jalan Rubber Barat;-
-93400;Jalan Satok;-
-93400;Jalan Satok - Pisang;-
-93400;Jalan Tanjong Selatan;-
-93400;Jalan Tanjung;-
-93400;Jalan Tengah;-
-93400;Kampung Bandarshah;-
-93400;Kampung Bintangor;-
-93400;Kampung Kudei;-
-93400;Kampung Kudei Rubber;-
-93400;Kampung Kudei Tengah;-
-93400;Kampung Masjid Jalan Datuk Ajibah Abol;-
-93400;Satok;-
-93400;Taman Diamond;-
-93400;Taman Evergreen;-
-93400;Taman Fair Park Jalan Nanas;-
-93400;Taman Friendship;-
-93400;Taman Happy;-
-93400;Taman Hong Kong;-
-93400;Taman Intan Jalan Nanas Barat;-
-93400;Taman Kiaw Ann;-
-93400;Taman Nanas;-
-93400;Taman Ong Guan Poh Jalan Green;-
-93400;Taman Ong Soon;-
-93400;Taman San San;-
-93400;Taman Sin Lian Hin;-
-93400;Taman Yen Jalan Nanas Barat;-
-93400;Wisma Satok;-
-93450;Bintawa Village;-
-93450;Jalan Abdul Rahim;-
-93450;Jalan Belian (Bintawa);-
-93450;Jalan Bengkel;-
-93450;Jalan Bintawa;-
-93450;Jalan Bintawa Tengah;-
-93450;Jalan Buruh;-
-93450;Jalan Cement Raya;-
-93450;Jalan Datuk Sim Kheng Hong Wharf;-
-93450;Jalan Datuk Wee Kheng Chiang;-
-93450;Jalan Datuk William Tan;-
-93450;Jalan Daya;-
-93450;Jalan Dermaga;-
-93450;Jalan Eng Ai;-
-93450;Jalan Gedung;-
-93450;Jalan Gubah;-
-93450;Jalan Jentera;-
-93450;Jalan Keluli;-
-93450;Jalan Kemajuan;-
-93450;Jalan Keruing;-
-93450;Jalan Kilang;-
-93450;Jalan Kisar;-
-93450;Jalan Kwong Lee Bank;-
-93450;Jalan Lentor;-
-93450;Jalan Loji;-
-93450;Jalan Lumba Kuda;-
-93450;Jalan Lumba Kuda Lorong 5;-
-93450;Jalan Meranti;-
-93450;Jalan Merbau;-
-93450;Jalan Merican;-
-93450;Jalan Mersawa;-
-93450;Jalan Noakes (1 & 2);-
-93450;Jalan Pangkalan;-
-93450;Jalan Peace;-
-93450;Jalan Pelabuhan;-
-93450;Jalan Pending;-
-93450;Jalan Pending / Sekama;-
-93450;Jalan Pending Lama;-
-93450;Jalan Perbadanan;-
-93450;Jalan Perdana;-
-93450;Jalan Peteri;-
-93450;Jalan Pinang;-
-93450;Jalan Sebor;-
-93450;Jalan Selangan Batu;-
-93450;Jalan Semangat;-
-93450;Jalan Semen Raya;-
-93450;Jalan Sentang;-
-93450;Jalan Sungai Apong;-
-93450;Jalan Sungai Biawak;-
-93450;Jalan Sungai Periok;-
-93450;Jalan Sungai Sekama;-
-93450;Jalan Swasta;-
-93450;Jalan Tambatan;-
-93450;Jalan Tekad;-
-93450;Jalan Tenaga;-
-93450;Jalan Tenun;-
-93450;Jalan Three Hill;-
-93450;Jalan Tun Abdul Rahim;-
-93450;Jalan Tun Razak;-
-93450;Jalan Utama;-
-93450;Jalan William Tan;-
-93450;Kampung Nelayan Bintawa;-
-93450;Kampung Sungai Apong;-
-93450;Kampung Sungai Periok;-
-93450;Kampung Tabuan (Lot No 3);-
-93450;Kampung Tabuan Hilir;-
-93450;Kampung Tabuan Hilir Seberang Sungai;-
-93450;Kampung Tabuan Lot;-
-93450;Kampung Tabuan Tengah;-
-93450;Kampung Tabuan Tengah Seberang Sungai;-
-93450;Kampung Tabuan Ulu;-
-93450;Kawasan Perindustrian Bintawa;-
-93450;Lebuh Chan Bee Kiew;-
-93450;Muara Tuang Industrial Zon;-
-93450;Pending;-
-93450;Pending Heights;-
-93450;Persiaran Kong Ming;-
-93450;Persiaran Poh Ming;-
-93450;Taman Arbi;-
-93450;Taman Henghua;-
-93450;Taman Kong Ann;-
-93450;Taman Kong Ming;-
-93450;Taman Mee Teck;-
-93450;Taman Pending Height;-
-93450;Taman River View;-
-93450;Taman Tabuan Park;-
-93500;TYT Yang Di Pertua Negeri Sarawak;-
-93502;YAB Ketua Menteri Sarawak;-
-93503;Setiausaha Kerajaan Negeri;-
-93504;Biro Bantuan Guaman;-
-93505;Biro Pengaduan Awam;-
-93506;Jabatan Kehakiman / Mahkamah Tinggi;-
-93507;Pusat Latihan Perkhidmatan Awam (Intan);-
-93508;Amanah Raya Berhad;-
-93514;Jabatan Perangkaan;-
-93516;Jabatan Pemegang Harta;-
-93517;Jabatan Perpaduan Negara;-
-93518;Jabatan Audit Negeri;-
-93519;Majlis Agama Islam Sarawak;-
-93520;Suruhanjaya Perkhidmatan Awam;-
-93520;Suruhanjaya Perkhidmatan Awam Persekutuan;-
-93527;Unit Pemodenan & Tenaga Manusia;-
-93529;Unit Penyelidikan Sosio Ekonomi;-
-93532;Jabatan Sumber Manusia;-
-93540;Jabatan Tenaga Rakyat;-
-93550;Jabatan Imigresen;-
-93551;Jabatan Pendaftaran Negara;-
-93552;Jabatan Pendaftar Pertubuhan;-
-93554;Percetakan Nasional Berhad;-
-93556;Jabatan Pertahanan Awam;-
-93558;Jabatan Penjara;-
-93560;Ketua Polis Negeri;-
-93564;Jabatan Kebajikan Masyarakat;-
-93566;Muzium Negeri Sarawak;-
-93570;Jabatan Belia Dan Sukan;-
-93572;Perpustakaan Awam Negeri;-
-93576;Jabatan Tanah Dan Galian;-
-93578;Jabatan Ukur & Pemetaan;-
-93582;Jabatan Kerja Raya;-
-93586;Hospital Kuching;-
-93590;Jabatan Kesihatan;-
-93592;Pegawai Kewangan Negeri;-
-93592;Pegawai Kewangan Persekutuan;-
-93594;Akauntan Negeri;-
-93596;Jabatan Kastam & Eksais Di Raja;-
-93600;Lembaga Hasil Dalam Negeri;-
-93604;Jabatan Pendidikan;-
-93606;Jabatan Kemajuan Masyarakat (Kemas);-
-93608;Jabatan Pembangunan Koperasi;-
-93609;Pejabat Mara Negeri;-
-93610;Bahagian Pelesenan - Kementerian Penerangan;-
-93612;Jabatan Penerangan;-
-93614;Jabatan Penyiaran;-
-93618;Jabatan Penerbangan Awam;-
-93619;Jabatan Laut;-
-93620;Jabatan Pengangkutan Jalan;-
-93626;Jabatan Pengairan Dan Saliran;-
-93628;Jabatan Perikanan;-
-93632;Jabatan Pertanian;-
-93634;Kementerian Pertahanan Sarawak;-
-93648;Jabatan Bomba & Penyelamat;-
-93658;Jabatan Kajibumi;-
-93660;Jabatan Perhutanan;-
-93661;Padi & Beras Nasional (Bernas);-
-93662;Jabatan Kajicuaca;-
-93670;Pos Malaysia Berhad;-
-93672;Telekom Malaysia Berhad;-
-93677;Penrissen Kem;-
-93690;Suruhanjaya Pilihanraya Negeri;-
-93694;Jabatan Kebudayaan Dan Kesenian;-
-93700;Kuching - Peti Surat  (1 - 11);-
-93700;Kuching - Peti Surat  (13 - 150);-
-93702;Kuching - Peti Surat  (151 - 250);-
-93704;Kuching - Peti Surat  (251 - 350);-
-93706;Kuching - Peti Surat  (351 - 399);-
-93708;Kuching - Peti Surat  (401 - 450);-
-93710;Kuching - Peti Surat  (451 - 481);-
-93710;Kuching - Peti Surat  (483 - 544);-
-93710;Kuching - Peti Surat  (546 - 550);-
-93712;Kuching - Peti Surat  (551 - 638);-
-93712;Kuching - Peti Surat  (640 - 650);-
-93714;Kuching - Peti Surat  (651 - 750);-
-93716;Kuching - Peti Surat  (751 - 850);-
-93718;Kuching - Peti Surat  (851 - 950);-
-93720;Kuching - Peti Surat  (951 - 1050);-
-93722;Kuching - Peti Surat  (1051 - 1147);-
-93722;Kuching - Peti Surat  (1149 - 1150);-
-93724;Kuching - Peti Surat  (1151 - 1250);-
-93726;Kuching - Peti Surat  (1251 - 1257);-
-93726;Kuching - Peti Surat  (1259 - 1350);-
-93728;Kuching - Peti Surat  (1351 - 1432);-
-93728;Kuching - Peti Surat  (1434 - 1450);-
-93730;Kuching - Peti Surat  (1451 - 1550);-
-93732;Kuching - Peti Surat  (1551 - 1650);-
-93734;Kuching - Peti Surat  (1651 - 1652);-
-93734;Kuching - Peti Surat  (1654 - 1750);-
-93736;Kuching - Peti Surat  (1751 - 1850);-
-93738;Kuching - Peti Surat  (1851 - 1950);-
-93740;Kuching - Peti Surat  (1951 - 2050);-
-93742;Kuching - Peti Surat  (2051 - 2150);-
-93744;Kuching - Peti Surat  (2151 - 2250);-
-93746;Kuching - Peti Surat  (2251 - 2350);-
-93748;Kuching - Peti Surat  (2351 - 2500);-
-93750;Kuching - Peti Surat  (2501 - 2600);-
-93752;Kuching - Peti Surat  (2601 - 2700);-
-93754;Kuching - Peti Surat  (2701 - 2840);-
-93756;Kuching - Peti Surat  (2841 - 2930);-
-93758;Kuching - Peti Surat  (2931 - 3040);-
-93760;Kuching - Peti Surat  (3041 - 3140);-
-93762;Kuching - Peti Surat  (3141 - 3240);-
-93764;Kuching - Peti Surat  (3241 & ke atas);-
-93900;Kuching - Peti Surat  12;-
-93902;Kuching - Peti Surat  400;-
-93904;Kuching - Peti Surat  482;-
-93906;Kuching - Peti Surat  545;-
-93908;Kuching - Peti Surat  639;-
-93910;Kuching - Peti Surat  1148;-
-93912;Kuching - Peti Surat  1258;-
-93914;Kuching - Peti Surat  1433;-
-93916;Kuching - Peti Surat  1653;-
-93990;Kuching - Beg Berkunci;-
-94000;Bau;-
-94000;Bau Lama;-
-94000;Buso;-
-94000;Jalan Black Smith;-
-94000;Jalan Bungalow;-
-94000;Jalan Datuk Temenggong Salau;-
-94000;Jalan Emas;-
-94000;Jalan Johari Sunchar;-
-94000;Jalan Lee Khoi Choon;-
-94000;Jalan Lee Nyan Foo;-
-94000;Jalan Ong Guan Cheng;-
-94000;Jalan Penghulu Durin;-
-94000;Jalan Selamat;-
-94000;Jambusan;-
-94000;Kampung Batu Spit;-
-94000;Kampung Bidi;-
-94000;Kampung Bogag;-
-94000;Kampung Boring;-
-94000;Kampung Buan;-
-94000;Kampung Duyoh;-
-94000;Kampung Grogo;-
-94000;Kampung Jugan;-
-94000;Kampung Kandis Baru;-
-94000;Kampung Kandis Lama;-
-94000;Kampung Keranji;-
-94000;Kampung Kopit;-
-94000;Kampung Lidah Tanah;-
-94000;Kampung Masjid;-
-94000;Kampung Melayu;-
-94000;Kampung Merembeh;-
-94000;Kampung Opar;-
-94000;Kampung Pangkalan;-
-94000;Kampung Pejiru;-
-94000;Kampung Pengkalan Tebang;-
-94000;Kampung Peninjau Baru;-
-94000;Kampung Peninjau Lama;-
-94000;Kampung Pinet;-
-94000;Kampung Podam;-
-94000;Kampung Puak;-
-94000;Kampung Rabak Rotan;-
-94000;Kampung Rumih;-
-94000;Kampung Sebobok;-
-94000;Kampung Sebuluh;-
-94000;Kampung Sega;-
-94000;Kampung Segubang;-
-94000;Kampung Serasot;-
-94000;Kampung Serikin;-
-94000;Kampung Seromah;-
-94000;Kampung Seropak;-
-94000;Kampung Skiat Baru;-
-94000;Kampung Skiat Lama;-
-94000;Kampung Skibang;-
-94000;Kampung Skio;-
-94000;Kampung Sogoh;-
-94000;Kampung Stass;-
-94000;Kampung Stenggang;-
-94000;Kampung Suba Bandar;-
-94000;Kampung Suba Bau;-
-94000;Kampung Suba Buan;-
-94000;Kampung Sungai Pinang;-
-94000;Kampung Tembawang;-
-94000;Kampung Tringgus;-
-94000;Krian;-
-94000;Krokong;-
-94000;Paku;-
-94000;Samchien;-
-94000;Sebuku;-
-94000;Seringgok;-
-94000;Siniawan;-
-94000;Taiton;-
-94000;Taman Dayu;-
-94000;Taman Limbang;-
-94000;Taman Mutiara;-
-94000;Tanjong Batu;-
-94000;Tanjong Durian;-
-94000;Tasik Biru;-
-94000;Tondong;-
-94007;Bau - Peti Surat;-
-94009;Bau - Beg Berkunci;-
-94200;Batu 15 Jalan Kuching Serian;-
-94200;Beratok;-
-94200;Kampung Endap;-
-94200;Kampung Siburan;-
-94200;Kampung Sungai Duuh;-
-94200;Siburan;-
-94200;Tapah;-
-94300;Jalan Muara Tuang (Hingga Km 3);-
-94300;Kampung Ampila;-
-94300;Kampung Bajo;-
-94300;Kampung Baru Samarahan;-
-94300;Kampung Lubok Mata;-
-94300;Kampung Mangka;-
-94300;Kampung Mata Parang;-
-94300;Kampung Melayu;-
-94300;Kampung Meranik;-
-94300;Kampung Merdang Lumut;-
-94300;Kampung Merdang Lumut Jalan Datuk Mohd Musa;-
-94300;Kampung Muara Tuang;-
-94300;Kampung Niup;-
-94300;Kampung Pengkalan Kuap Jalan Datuk Mohd Musa;-
-94300;Kampung Pinang;-
-94300;Kampung Plaie;-
-94300;Kampung Rambus;-
-94300;Kampung Semawang;-
-94300;Kampung Sindang;-
-94300;Kampung Sungai Mata;-
-94300;Kampung Tanjung Bundung;-
-94300;Kampung Tanjung Parang;-
-94300;Kampung Tanjung Tuang;-
-94300;Kota Samarahan;-
-94300;Taman Mustafa Jalan Datok Mohd Musa;-
-94300;UiTM Cawangan Sarawak Jalan Meranek;-
-94500;Jalan Blacksmith;-
-94500;Kampung Baru;-
-94500;Kampung Begak;-
-94500;Kampung Biawak;-
-94500;Kampung Dagang;-
-94500;Kampung Gerunggang;-
-94500;Kampung Klaoh;-
-94500;Kampung Perundang;-
-94500;Kampung Prian;-
-94500;Kampung Sebandi Matang;-
-94500;Kampung Sebemban;-
-94500;Kampung Sekambal;-
-94500;Kampung Seketi;-
-94500;Kampung Selampit;-
-94500;Kampung Seling Dayak;-
-94500;Kampung Seling Melayu;-
-94500;Kampung Sembawang;-
-94500;Kampung Sempadi;-
-94500;Kampung Semunin;-
-94500;Kampung Senibong;-
-94500;Kampung Serayan;-
-94500;Kampung Siar;-
-94500;Kampung Sileng Dayak;-
-94500;Kampung Sileng Melayu;-
-94500;Kampung Stunggang Dayak;-
-94500;Kampung Stunggang Melayu;-
-94500;Kampung Sungai Lundu;-
-94500;Kampung Temelan;-
-94500;Lundu;-
-94500;Sematan;-
-94500;Tanjung Datuk;-
-94507;Lundu - Peti Surat;-
-94509;Lundu - Beg Berkunci;-
-94600;Asajaya;-
-94600;Asajaya Bakong;-
-94600;Asajaya Laut;-
-94600;Asajaya Ulu;-
-94600;Kampung Iboi;-
-94600;Kampung Jaie;-
-94600;Kampung Jemukan;-
-94600;Kampung Moyan;-
-94600;Kampung Pelandok;-
-94600;Kampung Rangawan;-
-94600;Kampung Rebak;-
-94600;Kampung Sambir;-
-94600;Kampung Sampun Gerunggang;-
-94600;Kampung Sebandi Hilir;-
-94600;Kampung Sebandi Matang;-
-94600;Kampung Sebandi Ulu;-
-94600;Kampung Semera;-
-94600;Kampung Senangeh;-
-94600;Kampung Serpan Laut;-
-94600;Kampung Serpan Parit Ulu;-
-94600;Kampung Sungai Buluh;-
-94600;Kampung Sungai Putin;-
-94600;Kampung Tambirat;-
-94600;Kampung Tanjung Apong;-
-94600;Kampung Tanjung Kelaso;-
-94600;Kampung Tembirat;-
-94600;Kampung Terasi;-
-94600;Pendam;-
-94600;Sadong Jaya;-
-94650;Kabong;-
-94650;Kampung Alit;-
-94650;Kampung Hilir;-
-94650;Kampung Hulu;-
-94700;Jalan Serian - Sri Aman (Batu 68);-
-94700;Jalan Serian - Sri Aman (Km 109);-
-94700;Kampung Benat;-
-94700;Kampung Bintawa;-
-94700;Kampung Cina;-
-94700;Kampung Gedong;-
-94700;Kampung Gumpey Gedong;-
-94700;Kampung Jerok;-
-94700;Kampung Kakai;-
-94700;Kampung Lalang Gedong;-
-94700;Kampung Munggu Limo;-
-94700;Kampung Nyelitak;-
-94700;Kampung Pancur;-
-94700;Kampung Rasau;-
-94700;Kampung Sambal Apeng;-
-94700;Kampung Sambal Kruin;-
-94700;Kampung Serian Hilir & Hulu;-
-94700;Kampung Simpang Simunjan;-
-94700;Kampung Slabi;-
-94700;Kampung Spaoh Gedong;-
-94700;Kampung Sungai Pinang;-
-94700;Kampung Sungai Rawa;-
-94700;Kampung Tanah Putih;-
-94700;Kampung Tangga;-
-94700;Kampung Telagus;-
-94700;Kampung Terbat;-
-94700;Kedup;-
-94700;Serian;-
-94700;Tarat;-
-94707;Serian - Peti Surat;-
-94709;Serian - Beg Berkunci;-
-94750;Bunan Gega;-
-94750;Kampung Krusen;-
-94750;Kampung Pichin;-
-94750;Kampung Tebakang Dayak;-
-94750;Kampung Tebakang Melayu;-
-94750;Muara Mongkos;-
-94750;Tebakang;-
-94760;Tebedu;-
-94800;Gunung Ngeli;-
-94800;Kampung Kelaka;-
-94800;Kampung Lintang;-
-94800;Kampung Lubuk Punggor;-
-94800;Kampung Munggu Air;-
-94800;Kampung Munggu Bejit;-
-94800;Kampung Nanas;-
-94800;Kampung Regelam;-
-94800;Kampung Sageng;-
-94800;Kampung Sedilo;-
-94800;Kampung Tenggelam;-
-94800;Munggu Bejit;-
-94800;Sebangan;-
-94800;Simunjan;-
-94807;Simunjan - Peti Surat;-
-94809;Simunjan - Beg Berkunci;-
-94850;Jalan Sawmill;-
-94850;Kampung Baru;-
-94850;Kampung Hulu;-
-94850;Kampung Jeragan;-
-94850;Kampung Kelait;-
-94850;Kampung Lunying;-
-94850;Kampung Mamba;-
-94850;Kampung Masjid;-
-94850;Kampung Raba;-
-94850;Kampung Tanjong;-
-94850;Kampung Tebelu;-
-94850;Kampung Tuba;-
-94850;Sebuyau;-
-94900;Banting;-
-94900;Kampung Lingga;-
-94900;Kampung Semulong Ulu;-
-94900;Lingga;-
-94900;Semulong Ulu;-
-94950;Kampung Beladin;-
-94950;Kampung Hilir;-
-94950;Kampung Hulu;-
-94950;Kampung Tengah;-
-94950;Kampung Triso;-
-94950;Maludam;-
-94950;Pusa;-
-95000;Bakong;-
-95000;Batu Lintang;-
-95000;Batu Lintang Ulu Undop;-
-95000;Beting Maro;-
-95000;Bukit Begunan;-
-95000;Jalan Bayu;-
-95000;Jalan Belimbing;-
-95000;Jalan Berjaya;-
-95000;Jalan Brayun;-
-95000;Jalan Council;-
-95000;Jalan Datuk Tawi Sli;-
-95000;Jalan Datus;-
-95000;Jalan Durian;-
-95000;Jalan Foochow;-
-95000;Jalan Glumba;-
-95000;Jalan Hap Sing;-
-95000;Jalan Hollis;-
-95000;Jalan Hospital;-
-95000;Jalan Hujung Brayun;-
-95000;Jalan Hup Chung;-
-95000;Jalan Kampung Baru;-
-95000;Jalan Kampung Sri Wangi;-
-95000;Jalan Kejatau;-
-95000;Jalan Kelab;-
-95000;Jalan Laden;-
-95000;Jalan Litak;-
-95000;Jalan Market;-
-95000;Jalan Micheal Pilo;-
-95000;Jalan Muhibbah;-
-95000;Jalan Ningkan;-
-95000;Jalan Padri;-
-95000;Jalan Pasir Panas;-
-95000;Jalan Pasir Panas Hoping;-
-95000;Jalan Paya;-
-95000;Jalan Ping Ping;-
-95000;Jalan Resak;-
-95000;Jalan Residensi;-
-95000;Jalan Sabu;-
-95000;Jalan Sau Hui;-
-95000;Jalan Sembau;-
-95000;Jalan Stawang;-
-95000;Jalan Tapang;-
-95000;Jalan Tini;-
-95000;Kampung Baru;-
-95000;Kampung Baru Stumbin;-
-95000;Kampung Hilir;-
-95000;Kampung Hulu;-
-95000;Kampung Lemanak;-
-95000;Kampung Muhibbah;-
-95000;Kampung Sabu;-
-95000;Kampung Seri Wangni;-
-95000;Kampung STC;-
-95000;Kampung Tengah;-
-95000;Kampung Teratai;-
-95000;Lachau;-
-95000;Melugu;-
-95000;Pantu;-
-95000;Rumah Gilan;-
-95000;Selepong;-
-95000;Sembau;-
-95000;Simanggang;-
-95000;Sri Aman;-
-95000;Stumbin;-
-95000;Sungai Tenggang;-
-95000;Taman Azba;-
-95000;Taman Bayu;-
-95000;Taman Bestari;-
-95000;Taman Crystal;-
-95000;Taman Desa Indah;-
-95000;Taman Foochow;-
-95000;Taman Gamang Height;-
-95000;Taman Green Height;-
-95000;Taman Hoover Height;-
-95000;Taman King;-
-95000;Taman Kurniawan Ph.1-3;-
-95000;Taman Loon Coon;-
-95000;Taman Mayfair;-
-95000;Taman Norita;-
-95000;Taman Padri;-
-95000;Taman Pasir Panas Ph.1-2;-
-95000;Taman Sabu;-
-95000;Taman Sagam;-
-95000;Taman Siang;-
-95000;Taman Sing Sing;-
-95000;Taman Sri Gamang;-
-95000;Taman Sri Jaya;-
-95000;Taman Sri Mewah;-
-95000;Taman Tiara;-
-95000;Taman Vistaro;-
-95000;Taman Wawasan;-
-95000;Tanjung Bijat;-
-95000;Ulu Undop;-
-95007;Sri Aman - Peti Surat  (1 - 200);-
-95008;Sri Aman - Peti Surat  (201 & ke atas);-
-95009;Sri Aman - Beg Berkunci;-
-95300;Brayang;-
-95300;Jalan Mundu;-
-95300;Jalan Panjang;-
-95300;Jalan Sabit;-
-95300;Kampung Sabit;-
-95300;Lichok Seblak;-
-95300;Roban;-
-95300;Rumah Admond Kombong;-
-95300;Rumah Daud;-
-95300;Rumah Enggah;-
-95300;Rumah Entusan;-
-95300;Rumah Indu;-
-95300;Rumah Jenang;-
-95300;Rumah Kunchi;-
-95300;Rumah Latit;-
-95300;Rumah Nait;-
-95300;Rumah Raming Metong;-
-95300;Rumah Ramping;-
-95300;Rumah Saing;-
-95300;Rumah Sungka;-
-95400;Engkudu;-
-95400;Kaki Wong;-
-95400;Kalaka;-
-95400;Kampung Disso Hilir;-
-95400;Kampung Disso Hulu;-
-95400;Kampung Kaba;-
-95400;Kampung Krupok;-
-95400;Kampung Kupang;-
-95400;Kampung Lubok Renit Hilir;-
-95400;Kampung Masjid;-
-95400;Kampung Melanggo Baru;-
-95400;Kampung Melanggo Lama;-
-95400;Kampung Ng Malong;-
-95400;Krangan;-
-95400;Krian;-
-95400;Lubuk Kepayang;-
-95400;Nanga Atoi;-
-95400;Nanga Budu;-
-95400;Saratok;-
-95400;Simpang Tiga Sungai Barangan;-
-95400;Taman Metro Park;-
-95400;Taman Miniata;-
-95400;Taman Muhibbah;-
-95400;Taman Seroja Indah;-
-95400;Wong Limat;-
-95407;Saratok - Peti Surat;-
-95409;Saratok - Beg Berkunci;-
-95500;Debak;-
-95500;Kampung Babu;-
-95500;Kampung Bungey;-
-95500;Kampung Debak Laut;-
-95500;Kampung Lalang;-
-95500;Kampung Tuie;-
-95500;Saribas;-
-95600;Kampung Bungin;-
-95600;Kampung Hilir;-
-95600;Penom;-
-95600;Rumah Jali Ng Bangkit;-
-95600;Spaoh;-
-95700;Betong;-
-95700;Kampung Entanak;-
-95700;Kampung Hilir;-
-95700;Kampung Lempaong;-
-95700;Kampung Masjid;-
-95700;Kampung Tengah;-
-95700;Layar Bridge;-
-95700;Nanga Spak;-
-95700;Skrang;-
-95707;Betong - Peti Surat;-
-95709;Betong - Beg Berkunci;-
-95800;Engkilili;-
-95800;Kampung Melayu;-
-95900;Batang Ai;-
-95900;Kampung Kutai;-
-95900;Kampung Melayu;-
-95900;Lubuk Antu;-
-95900;Merindun;-
-95900;Nanga Mepi;-
-96000;Aup;-
-96000;Batang Lasa;-
-96000;Bawang Assan;-
-96000;Bukit Asek;-
-96000;Bukit Lan;-
-96000;Dudong;-
-96000;Durin;-
-96000;Engkalat;-
-96000;Engkio;-
-96000;Ensurai;-
-96000;Kampung Bahagia Jaya;-
-96000;Kampung Banyok;-
-96000;Kampung Bungan;-
-96000;Kampung Igan;-
-96000;Kampung Jeriah Baru;-
-96000;Kampung Sawai Dalat;-
-96000;Kampung Usaha Jaya;-
-96000;Kampung Usaha Jaya Baru;-
-96000;Lengan;-
-96000;Menyan;-
-96000;Naman;-
-96000;Nanga Baoh;-
-96000;Nanga Paloh;-
-96000;Nanga Tamin;-
-96000;Nanga Tepus Balingian;-
-96000;Nangka;-
-96000;Paradom;-
-96000;Pasai Siong;-
-96000;Pasar Stapang;-
-96000;Passin;-
-96000;Pelawan;-
-96000;Penasu;-
-96000;Pulai Kerto;-
-96000;Rajang Park;-
-96000;Rantau Panjang;-
-96000;Rassau;-
-96000;Salim;-
-96000;Sekuau;-
-96000;Selangau;-
-96000;Sengan;-
-96000;Sibintik;-
-96000;Sibu;-
-96000;Singat;-
-96000;Stabau;-
-96000;Sungai Bidut;-
-96000;Sungai Dasan;-
-96000;Sungai Empawah;-
-96000;Sungai Maaw;-
-96000;Sungai Nibong;-
-96000;Sungai Pak;-
-96000;Sungai Salim;-
-96000;Sungai Saoit;-
-96000;Sungai Teku;-
-96000;Sungai Telian;-
-96000;Taman Crystal;-
-96000;Taman Damai;-
-96000;Taman Grands Heights;-
-96000;Taman Harmoni;-
-96000;Taman Kenari;-
-96000;Taman Mutiara;-
-96000;Taman Paramount;-
-96000;Taman Pulau Li Hua;-
-96000;Taman Rajang;-
-96000;Taman Shan Shui;-
-96000;Taman Siti Nurbaya;-
-96000;Taman Soon Hup;-
-96000;Taman Swan;-
-96000;Taman Wawasan;-
-96000;Tanjung Kunyit;-
-96000;Tanjung Pan;-
-96000;Teluk Bango;-
-96000;Teluk Selalo;-
-96000;Tung Nam Poh;-
-96000;Ulu Lanang;-
-96007;Sibu - Peti Surat  (1 - 750);-
-96008;Sibu - Peti Surat  (751 & ke atas);-
-96009;Sibu - Beg Berkunci;-
-96100;Jakar;-
-96100;Pakan (Sarikei);-
-96100;Paloh;-
-96100;Repok;-
-96100;Sarikei;-
-96100;Selalang;-
-96100;Sungai Petai;-
-96107;Sarikei - Peti Surat 1 - 300;-
-96108;Sarikei - Peti Surat 301 & ke atas;-
-96109;Sarikei - Beg Berkunci;-
-96150;Belawai;-
-96150;Kampung Baru;-
-96150;Kampung Darat;-
-96150;Kampung Jerijeh Baru;-
-96150;Kampung Masjid Lama;-
-96150;Kampung Rejang;-
-96150;Kampung Tengah;-
-96150;Kampung Tepi Laut;-
-96150;Tanjung Manis;-
-96200;Batang Lasak;-
-96200;Bericakong;-
-96200;Betanak;-
-96200;Daro;-
-96200;Jalan Bina;-
-96200;Jalan Central;-
-96200;Jalan Itol;-
-96200;Kampung Bawang;-
-96200;Kampung Bruit;-
-96200;Kampung Kelian;-
-96200;Kampung Nan San;-
-96200;Kampung Nangar;-
-96200;Kampung Paloh;-
-96200;Kampung Penakong;-
-96200;Kampung Penuai;-
-96200;Kampung Penyipah;-
-96200;Kampung Saai;-
-96200;Kampung Sawai;-
-96200;Kampung Sebakau;-
-96200;Kampung Sebenak;-
-96200;Kampung Sedeo;-
-96200;Kampung Serdeng;-
-96200;Kampung Tebaang;-
-96200;Kampung Tekajong;-
-96200;Kampung Tikajong;-
-96200;Kampung Ulu Daro;-
-96200;Kelian;-
-96200;Mupong;-
-96200;Naga Kecil;-
-96200;Ng. Semah;-
-96200;Salah Kecil/Besar;-
-96250;Kampung Dagang;-
-96250;Kampung Jemoreng;-
-96250;Kampung Kuala Matu;-
-96250;Kampung Muut;-
-96250;Kampung Pasar Baru;-
-96250;Kampung Pasar Lama;-
-96250;Kampung Pergau;-
-96250;Kampung Sekaan Besar;-
-96250;Kampung Sekaan Kecil;-
-96250;Kampung Serakat;-
-96250;Kampung Tering;-
-96250;Kampung Tian;-
-96250;Matu;-
-96250;Telok Gelam;-
-96300;Dalat;-
-96300;Kampung Balan;-
-96300;Kampung Baru;-
-96300;Kampung Baru Cina;-
-96300;Kampung Brunei;-
-96300;Kampung Dalat Seberang;-
-96300;Kampung Hilir;-
-96300;Kampung Kekan;-
-96300;Kampung Klid;-
-96300;Kampung Medong;-
-96300;Kampung Narub;-
-96300;Kampung Sua;-
-96300;Kampung Sungai Anak;-
-96300;Kampung Sungai Kut Muara;-
-96300;Kampung Sungai Kut Tengah;-
-96300;Kampung Sungai Ud;-
-96300;Kampung Tanam;-
-96300;Kampung Tengah;-
-96300;Kampung The;-
-96300;Sungai Kut;-
-96307;Dalat - Peti Surat;-
-96309;Dalat - Beg Berkunci;-
-96350;Balingian;-
-96350;Kampung Baru;-
-96350;Kampung Lintang;-
-96350;Kampung Masjid;-
-96350;Kampung Pulat;-
-96350;Kampung Suyong;-
-96350;Kuala Balingian;-
-96400;Kampung Badengan;-
-96400;Kampung Boyan;-
-96400;Kampung Bunut;-
-96400;Kampung Datu;-
-96400;Kampung Jebungan;-
-96400;Kampung Judan;-
-96400;Kampung Litong;-
-96400;Kampung Penakub Permai;-
-96400;Kampung Penakub Ulu;-
-96400;Kampung Penipah;-
-96400;Kampung Petanak;-
-96400;Kampung Pewat;-
-96400;Kampung Pinang;-
-96400;Kampung Sau;-
-96400;Kampung Seri Tellian;-
-96400;Kampung Sesok;-
-96400;Kampung Sungai Alo;-
-96400;Kampung Sungai Ragei;-
-96400;Kampung Teh;-
-96400;Kampung Tellian Daya;-
-96400;Kampung Tellian Jaya;-
-96400;Kampung Tutus Ulu;-
-96400;Mukah;-
-96400;Nanga Kenyana;-
-96400;Nanga Selangau;-
-96400;Nanga Sikat;-
-96400;Nanga Taroh;-
-96400;Taman Boulevard;-
-96400;Taman Ching Ching;-
-96400;Taman Hong Leong;-
-96400;Taman King Sun;-
-96400;Taman Kubang Jaya;-
-96400;Taman Li Hua;-
-96400;Taman Muhibbah;-
-96400;Taman Pelita (1 - 4);-
-96400;Taman Yun Seng;-
-96410;Oya;-
-96500;Bakong;-
-96500;Bintangor;-
-96500;Kampung Penasu;-
-96500;Kampung Semop;-
-96500;Mador;-
-96500;Meradong;-
-96500;Nanga Semah;-
-96500;Narasit;-
-96500;Rumah Mura;-
-96500;Sungai Strass;-
-96500;Tanjong Genting;-
-96500;Tulai;-
-96500;Ulu Strass;-
-96507;Bintangor - Peti Surat  (1 - 140);-
-96508;Bintangor - Peti Surat  (141 & ke atas);-
-96509;Bintangor - Beg Berkunci;-
-96600;Julau;-
-96600;Nanga Ensiring;-
-96600;Nanga Entabai;-
-96600;Nanga Meluan;-
-96700;Kampung Hilir;-
-96700;Kampung Masjid;-
-96700;Kanowit;-
-96700;Nanga Dap;-
-96700;Nanga Jagau;-
-96700;Nanga Machan;-
-96700;Nanga Manggut;-
-96700;Nanga Ngemah;-
-96700;Nanga Tada;-
-96707;Kanowit - Peti Surat;-
-96709;Kanowit - Beg Berkunci;-
-96800;Baleh;-
-96800;Nanga Mujong;-
-96800;Nanga Merit;-
-96800;Nanga Gaat;-
-96800;Nanga Bena;-
-96800;Kapit;-
-96800;Kampung Bleteh;-
-96800;Kampung Baru;-
-96800;Jalan Abang Suhaili;-
-96800;Pelagus;-
-96807;Kapit - Peti Surat;-
-96809;Kapit - Beg Berkunci;-
-96850;Song;-
-96850;Nanga Bena;-
-96850;Nanga Bangkit;-
-96850;Katibas;-
-96850;Kampung Gelam;-
-96850;Kampung Cina;-
-96900;Long Segaham;-
-96900;Long Busang;-
-96900;Long Bah;-
-96900;Long Amo;-
-96900;Kampung Melayu;-
-96900;Belaga;-
-96900;Batu Keling;-
-96950;Kampung Long Nayan;-
-96950;Kampung Uma Badeng;-
-96950;Kampung Uma Bakah;-
-96950;Kampung Uma Balui Liko;-
-96950;Kampung Uma Balui Ukap;-
-96950;Kampung Uma Bawang;-
-96950;Kampung Long Bangan;-
-96950;Jabatan Tenaga Kerja ;-
-96950;Jabatan Pertanian;-
-96950;Jabatan Pendaftaran;-
-96950;Jabatan Kerja Raya (Waterboard);-
-96950;Tuai Rumah Sing;-
-96950;Sekolah Menengah Kebangsaan Sungai Asap;-
-96950;Kampung Uma Juman;-
-96950;Kampung Uma Belur;-
-96950;Kampung Uma Daro;-
-96950;Kampung Uma Kelab;-
-96950;Sekolah Kebangsaan Long Gang;-
-96950;Sekolah Kebangsaan Batu Keling;-
-96950;Sarawak Energy Bhd;-
-96950;Rumah Nyaring;-
-96950;Pejabat Pos Sungai Asap;-
-96950;Pejabat Daerah Kecil Sungai Asap;-
-96950;Majlis Daerah Kecil Sungai Asap;-
-96950;Klinik Kesihatan;-
-96950;Kampung Uma Ukit;-
-96950;Kampung Uma Penan;-
-96950;Kampung Uma Lesong;-
-96950;Kampung Uma Lahanan;-
-96950;Kampung Uma Kulit;-
-96950;Sekolah Kebangsaan Sambop;-
-97000;Kemena;-
-97000;Kampung Masjid;-
-97000;Kampung Tepak;-
-97000;Kampung Jepak;-
-97000;Kampung Dato;-
-97000;Kampung Dagang;-
-97000;Kampung Baru;-
-97000;Bintulu;-
-97000;Abang Galau;-
-97000;Universiti Pertanian Bintulu;-
-97000;Kampung Sinong;-
-97000;Kampung Sibiew;-
-97007;Bintulu - Peti Surat  (1 - 300);-
-97008;Bintulu - Peti Surat  (301 - 1500);-
-97009;Bintulu - Beg Berkunci;-
-97010;Bintulu - Peti Surat  (1501 - 2000);-
-97011;Bintulu - Peti Surat  (2001 - 2500);-
-97012;Bintulu - Peti Surat  (2501 - 3000);-
-97013;Bintulu - Peti Surat  (3001 - 3500);-
-97014;Bintulu - Peti Surat  (3501 - 4000);-
-97015;Bintulu - Peti Surat  (4001 & ke atas);-
-97100;Kampung Hilir;-
-97100;Kampung Masjid;-
-97100;Sebauh;-
-97100;Labang;-
-97100;Pandan;-
-97100;Tubau;-
-97200;Kampung Dagang;-
-97200;Kakus;-
-97200;Kampung Kuala Tatau;-
-97200;Nanga Tau;-
-97200;Kuala Tatau Bazaar;-
-97200;Tatau;-
-97200;Sangan Bazaar;-
-97300;Tanjung Kidurong;-
-98000;Ladang Tiga;-
-98000;Kampung Tuanku Abdul Rahman;-
-98000;Beluru;-
-98000;Sungai Rait;-
-98000;Senadin;-
-98000;Piasau;-
-98000;Morsjaya;-
-98000;Miri;-
-98000;Lambir;-
-98000;Kampung Kuala Baram;-
-98000;Dasing;-
-98000;Jalan Miri - Bintulu (Batu 26);-
-98000;Kampung Bakam;-
-98000;Kuala Baram;-
-98007;Miri - Peti Surat 1 - 750;-
-98008;Miri - Peti Surat 751 & ke atas;-
-98009;Miri - Beg Berkunci;-
-98050;Golden Hill (Jalan Hii Nguon Song);-
-98050;Bario;-
-98050;Baram;-
-98050;Kampung Padang Kerbau;-
-98050;Sungai Jaong;-
-98050;Jalan Kapitan Lim Ching Kiat;-
-98050;Jalan Setia;-
-98050;Marudi;-
-98050;RC Mission (Jalan Tem. Dato Oyong Lawai Jau);-
-98050;Lubuk Nibong;-
-98050;Taman Dah Yuh (Jalan Temenggong Gau Jau);-
-98050;Telang Usan;-
-98050;Long Teru;-
-98050;Kampung Permindahan (Jalan Muhibah) P1 & P2;-
-98050;Long Seridan;-
-98050;Kampung Baru (Jalan Dato Tuanku Abdul Rahman);-
-98050;Kampung Dagang;-
-98050;Kampung Narum;-
-98050;Long Akah;-
-98050;Long Atip;-
-98050;Long Lellang;-
-98057;Baram - Peti Surat  1 - 100;-
-98058;Baram - Peti Surat  101 & ke atas;-
-98059;Baram - Beg Berkunci;-
-98100;Lutong;-
-98107;Lutong - Peti Surat;-
-98109;Lutong - Beg Berkunci;-
-98150;Kampung Sebalik;-
-98150;Kampung Kuala Sibuti;-
-98150;Kampung Menjelin;-
-98150;Kampung Mutap;-
-98150;Kampung Subak;-
-98150;Kampung Sinop;-
-98150;Kampung Sepurau;-
-98150;Kampung Selanyau;-
-98150;Kampung Ranca-Ranca;-
-98150;Kampung Kuala Bakar;-
-98150;Kampung Keluru;-
-98150;Kampung Kelulit;-
-98150;Bekenu;-
-98150;Kampung Bekenu;-
-98150;Kampung Bulau;-
-98150;Kampung Bungai;-
-98150;Kampung Jangalas;-
-98150;Kampung Kayu Kapur;-
-98150;Kampung Kejapil;-
-98150;Kampung Satap;-
-98157;Bekenu - Peti Surat;-
-98159;Bekenu - Beg Berkunci;-
-98200;Kampung Sepupok;-
-98200;Sungai Sekerat;-
-98200;Batu Niah;-
-98200;Kampung Dagang;-
-98200;Kampung Masjid;-
-98200;Niah;-
-98200;Rumah Sawing;-
-98300;Long Lama;-
-98300;Lang Laput;-
-98300;Kampung Sungai Dua;-
-98300;Long Miri;-
-98300;Long Pilah;-
-98300;Kampung Sri Kenawan;-
-98300;Jalan 7 mile Round;-
-98700;Kampung Tuna;-
-98700;Kampung Ukong;-
-98700;Kampung Ulak;-
-98700;Kampung Uma Bawang;-
-98700;Kubong;-
-98700;Limbang;-
-98700;Pandaruan;-
-98700;Penganan;-
-98700;Taman Batu Biah;-
-98700;Taman Batu Keramat Jalan Kubong;-
-98700;Kampung Tendungan;-
-98700;Kampung Temiang;-
-98700;Kampung Sembiling;-
-98700;Kampung Sigantang;-
-98700;Kampung Sungai Poyan;-
-98700;Kampung Tababang;-
-98700;Kampung Tabahan;-
-98700;Kampung Tanjong;-
-98700;Kampung Tanjong Darat;-
-98700;Kampung Tanjong Rimau;-
-98700;Kampung Tanjong Ungar;-
-98700;Kampung Tedungan;-
-98700;Kampung Telabak;-
-98700;Taman Bunga Simpor Jalan Pekeliling;-
-98700;Taman Cahaya;-
-98700;Taman Piramid Jalan Kubong;-
-98700;Taman Poyan Jaya Jalan Kubong;-
-98700;Taman Pulo Bunga Jalan Kubong;-
-98700;Taman Riverway Park Jalan Kubong;-
-98700;Taman Sentosa;-
-98700;Taman St. Edmund Jalan Kubong;-
-98700;Taman Star Jalan Kubong;-
-98700;Taman Sungai Kaban Jalan Kubong;-
-98700;Taman Tasek Mas Jalan Kubong;-
-98700;Ukong;-
-98700;Taman Pertama Jalan Kubong;-
-98700;Taman Nyuk Lian;-
-98700;Taman Desa Pabahanan;-
-98700;Taman Haji Mohidin Jalan Pandaruan;-
-98700;Taman Happy Jalan Kubong;-
-98700;Taman Hen Yii Jalan Batu Biah;-
-98700;Taman Indah Jalan Pekeliling;-
-98700;Taman International Jalan Pandaruan;-
-98700;Taman Jayitek;-
-98700;Taman Kaban Jalan Kubong;-
-98700;Taman Lucky Jalan Kubong;-
-98700;Taman Ming Hock Jalan Batu Biah;-
-98700;Taman Lik Hin Jalan Pekeliling;-
-98700;Kampung Sebukang;-
-98700;Jalan Bangkita;-
-98700;Kampung Baru Kuala Berawan;-
-98700;Kampung Batu 2 1/2;-
-98700;Kampung Batu Bekarang;-
-98700;Kampung Batu Berawan;-
-98700;Kampung Batu Danau;-
-98700;Kampung Batu Kerang;-
-98700;Kampung Belading;-
-98700;Kampung Belimbing;-
-98700;Kampung Benuas;-
-98700;Jalan Wong Tsap Tsen;-
-98700;Kampung Bidang;-
-98700;Kampung Binjai;-
-98700;Kampung Buang Siol;-
-98700;Kampung Buangabai;-
-98700;Kampung Bukit Kota;-
-98700;Kampung Bukit Luba;-
-98700;Kampung Buluh Balui;-
-98700;Kampung Baru;-
-98700;Kampung Bangkuati;-
-98700;Kampung Bangkita;-
-98700;Jalan Buangsiol;-
-98700;Jalan Cempaka Utara;-
-98700;Jalan Kubong;-
-98700;Jalan Kubu;-
-98700;Jalan Maybank;-
-98700;Jalan Merdeka;-
-98700;Jalan Muhibbah;-
-98700;Jalan Pandaruan;-
-98700;Jalan Pegong;-
-98700;Jalan Rickettes;-
-98700;Jalan Tarap;-
-98700;Jalan Wayang;-
-98700;Kampung Agong Tua;-
-98700;Kampung Anak Bukit;-
-98700;Kampung Anak Tuno;-
-98700;Kampung Bakol;-
-98700;Kampung Bambangan;-
-98700;Kampung Bumbun;-
-98700;Kampung Bunga Raya;-
-98700;Kampung Cempaka;-
-98700;Kampung Meritam;-
-98700;Kampung Nauran;-
-98700;Kampung Pabahanan;-
-98700;Kampung Pahlawan;-
-98700;Kampung Pandak;-
-98700;Kampung Patiambun;-
-98700;Kampung Paya Mengeliong;-
-98700;Kampung Pekan Gurah;-
-98700;Kampung Merasan;-
-98700;Kampung Lubok Bidai;-
-98700;Kampung Lubok Lasa;-
-98700;Kampung Lubok Pangie;-
-98700;Kampung Lubok Piasau;-
-98700;Kampung Limpaki;-
-98700;Kampung Malagangai;-
-98700;Kampung Masjid;-
-98700;Kampung Medait;-
-98700;Kampung Mengatai;-
-98700;Kampung Pekan Jawa;-
-98700;Kampung Lembuak;-
-98700;Kampung Gadong;-
-98700;Kampung Gumaya;-
-98700;Kampung Imok;-
-98700;Kampung Indok;-
-98700;Kampung Ipai;-
-98700;Kampung Kelapa Mawar;-
-98700;Kampung Kuala Awang;-
-98700;Kampung Pelita (LCDA);-
-98700;Kampung Sayong;-
-98700;Kampung Sangkar;-
-98700;Kampung Pekan Madang;-
-98700;Kampung Pemukat;-
-98700;Kampung Penapak;-
-98700;Kampung Pendam;-
-98700;Kampung Petiambun;-
-98700;Kampung Pundut;-
-98700;Kampung Runggu;-
-98700;Kampung Limpaong;-
-98707;Limbang - Peti Surat 1 - 200;-
-98708;Limbang - Peti Surat 201 & ke atas;-
-98709;Limbang - Beg Berkunci;-
-98750;Nanga Medamit;-
-98800;Sundar;-
-98800;Kampung Aru;-
-98800;Kampung Awat-Awat;-
-98800;Kampung Baru;-
-98850;Kampung Belangsat;-
-98850;Kampung Air Terjun;-
-98850;Kampung Belimbing;-
-98850;Kampung Datu;-
-98850;Sungai Bangat;-
-98850;Kampung Batu Tiga;-
-98850;Kampung Batu Dua;-
-98850;Belakang Kedai;-
-98850;Long Sukang;-
-98850;Ba Kelalan;-
-98850;Awat-Awat;-
-98850;Kampung Empittied;-
-98850;Kampung Long Sebangang;-
-98850;Kampung Masjid;-
-98850;Sungai Berlipat;-
-98850;Sungai Seloating;-
-98850;Trusan;-
-98850;Tuaran;-
-98850;Kampung Pangi;-
-98850;Long Semadoh;-
-98850;Lawas;-
-98850;Kampung Temanggis;-
-98850;Kampung Merapok;-
-98850;Kampung Nor Islam;-
-98850;Kampung Pemukat;-
-98850;Kampung Punang;-
-98850;Kampung Sebangan Lawas;-
-98850;Kampung Sesco;-
-98850;Kampung Tanjong Batu;-
-98857;Lawas - Peti Surat;-
-98859;Lawas - Beg Berkunci;-
+<?php
+$sarawak = [
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Jalan Barrack'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Jalan Court House'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Jalan Crookshank'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Jalan Gambier'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Jalan Golflink'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Jalan Hokkien'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Jalan Hospital Timur'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Jalan Main Bazaar'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Jalan Maxwell'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Jalan Mcdougall'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Jalan Mosque'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Jalan Ong Kwan Hin'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Jalan Reservoir'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Jalan Rodway'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Jalan Tun Abang Haji Openg'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Jalan Wayang'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Jalan Were'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Ladang Ricketts'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Lebuh Bishopgate'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Lebuh Carpenter'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Lebuh China'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Lebuh Ewe Hai'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Lebuh Gartak'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Lebuh India'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Lebuh Java'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Lebuh Khoo Hun Yeang'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Lebuh Market'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Lebuh Power'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Lebuh Ulu China'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Lebuh Wayang 1'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Lebuh Wayang 2'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Lorong Ban Hock'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Lorong Carmelite'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Lorong Dock'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Lorong Gertak'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Lorong Kai Joo'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Lorong Masjid'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Lorong Mesjid India'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Pengkalan Jeti'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Persiaran Mill'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Taman Budaya'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Taman Oriental'],
+	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Taman Ricketts'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Bengoh'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Anah Rais'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Bako'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Baru Samarahan'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Beliong'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Bengoh Padawan'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Bratok'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Bukit Panchor'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Buntal'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Bunuk'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Geobilt'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Karu'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Lintang Baru'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Mambong'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Muhibah (Seberang Pending)'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Pasir Pandak'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Paya Mebi'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Rambungan'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Salak'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Sejingat'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Semadang'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Semedang'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Semilang'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Simpok'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Stoh'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Tapah'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kampung Terambol'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Kolong Lapan'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Muara Tebas'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Pantai Damai'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Santubong'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Semenggok (Batu 15)'],
+	[ 'state_id' => 13, 'code' => '93010', 'name' => 'Tiang Bekap'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Bintawa Batu'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Demak'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Demak Laut'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Gita Laut'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Gita Laut Tengah'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Astana'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Astana Lot'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Bako'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Bangau'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Belian'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Bukit Siol'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Bunga Cempaka (Kampung Gita)'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Bunga Engkodok (Kampung Gita)'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Bunga Kasturi (Kampung Gita)'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Bunga Kenanga (Kampung Gita)'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Bunga Melati (Kampung Gita)'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Bunga Melor (Kampung Gita)'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Bunga Raya (Kampung Gita)'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Bunga Rose (Kampung Gita)'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Bunga Tanjung (Kampung Gita)'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Bunga Teratai (Kampung Gita)'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Bunga Tiong (Kampung Gita)'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Bunga Tongkeng (Kampung Gita)'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Cederawasih'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Crocker'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Depo'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Enggang'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Field Force'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Gani'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Geruda'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Haji Sobeng'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Hashim Jaafar'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Helang'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Istana'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Istana Lama'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Juara'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Kenari'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Layang-Layang'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Matang'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Medang'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Melindo'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Menggeris'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Merak'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Merdeka'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Pedidi'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Perupok'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Piala'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Punai'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Pustaka'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Rajawali'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Saadon'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Samariang'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Samariang Batu'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Semarak'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Semariang'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Semariang Lot'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Sentubong'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Serunai'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Siol Kanan'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Siol Kandis'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Sultan Tengah'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Sungai Tengah Kolong'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Tan Sri Abang Ikhwan'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Tun Abdul Rahman Yakub'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Jalan Unggas'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Bintawa Hilir'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Bintawa Hulu'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Bintawa Tengah'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Boyan'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Gersik'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Gita Lama'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Gita Laut'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Heritage'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Kapitan Nandak'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Kolong 1'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Lada Pedas'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Laruh Scheme'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Lintang'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Malaysia Jaya'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Matang Batu 10'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Nangka (Jalan Matang)'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Panglima Seman'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Panglima Seman Hilir'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Panglima Seman Hulu'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Panglima Seman Lama'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Pinang Jawa'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Pulo Hilir'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Pulo Hulu'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Rampangi 1 - 3'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Semarang'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Semariang Batu'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Semariang Jaya (Fasa 1 - 2)'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Semariang Lama'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Semerah Padi'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Sinjan'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Siol Kandis Jalan Siol Kandis'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Stadium'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Sungai Bedil Besar'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Sungai Bedil Kecil'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Surabaya Hilir'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Surabaya Hulu'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Tanjung'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Tupong'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Tupong Astana'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Tupong Batu'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Tupong Hulu'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Tupong Jaya Jalan Merdeka'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Tupong Tengah'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kampung Wawasan Jaya'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kubah Ria'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Kuching Family Park'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Lorong 1 - 4 Jalan Istana'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Lorong Haji Babel'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Lorong Haji Said'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Lorong Mustaffa'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Lorong Penghulu Sudin'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Pengkalan Sapi'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Perumahan Rakyat Siol Kanan'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Petra Jaya'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Semarak Pinang Jawa'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Semariang'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Semariang Aman (Phase 1 - 2)'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Semariang Bandar Baru (Phase 1 - 5)'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Semerah Padi'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Siol Kandis'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Abrar'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Ah Boon'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Aichi'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Alamanda Indah'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Alifah'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Amina'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Anib'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Asiah, Jalan Siol Kandis'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Bahjah'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Bersinar'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Bowood'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Bukit Mawar (Kampung Gita)'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Bunga Akasia'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Bunga Melati'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Bunga Raya'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Bunga Wangi'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Carisa'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Cresent'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Demak'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Desa Guru'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Desa Matang'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Desa Matang Jalan Matang Batu 3'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Dusun Bayu'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Dusun Indah'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Emas'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Emas Jalan Depo'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Fah Tah'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Farhanas'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Fitrah'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Foong Joon'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Gemilang, Jalan Matang'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Gita Jaya'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Grandview, Jalan Matang Batu 8'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Green View'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Haji Arshad Jalan Helang'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Hamimas Jaya'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Harmoni'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Heng Guan'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Heritage'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Hijrah'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Hillside'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Hipni'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Hussein'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Ibni Hasyim'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Ichi'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Inai Jalan Matang Batu 2 1/2'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Indah Fasa 1 - 2'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Inspire'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Juta Ria'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Kandis'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Kenanga'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Kopidim'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Kopodim,Jalan Matang'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Kubah Jaya'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Lake Side Jalan Sultan Tengah'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Larender'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Layang - Layang'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Lebunda'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Lee Ling'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Long Seng'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Madehi'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Makmur'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Malihah'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Malihah Jaya'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Mastura'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Matang Avenue Jalan Matang'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Matang Baru'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Matang Height'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Matang Indah Jalan Matang'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Matang Jaya'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Mawar'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Melati'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Monah'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Muhibbah'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Murni'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Nestle Jalan Bakti'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Norjesnita'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Orchidwood'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Palma Indah'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Pandan Jaya'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Peaceful'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Pearl'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Peony'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman PJ Heights'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman PRC'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Puteri'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Puteri (Phase 1 - 3)'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Rafia'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Rasa Jaya'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Rasa Makmur'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Rassnorm'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Regent (Petra Jaya)'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Riverview'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Rose'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Ruhaya'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman S.K. Liew, Jalan Batu Kawa - Matang'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Sajoli'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Salma'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Sebah Height'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Sejijak'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Selasih Jalan Cenderawasih Lorong 1A'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Semariang Aman'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Sepakat Jaya'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Sepawie'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Seri Kandis'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Seri Semerah Padi'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Seri Sena'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Seri Usang'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Serira'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Setia'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Sheikh Ismail'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Sinar Serapi'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Sonia'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Sourabaya Indah'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Sri Jaya'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Sri Makmur'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Sri Malihah 2'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Sri Matang'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Sri Melaga'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Sri Melati'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Sri Perkasa'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Sri Serapi'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Sri Wangi'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Sukma'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Surabaya'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Suria Jaya'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Syn Syn'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Tanjong'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Tatai Kumang'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Teratai'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Trinora'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Tupong Jaya'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Unique'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Wangi Indah Jalan Simpor'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Wangsa'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Wirajaya Jalan Bukit Siol'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Won'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Won Baru'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Wummas'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Yen Yen'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Taman Yen Yen Park Jalan Matang'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Tinggian Demak'],
+	[ 'state_id' => 13, 'code' => '93050', 'name' => 'Tupong Jaya Jalan Merdeka'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Green Hill'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Abell'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Abell Utara'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Ang Cheng Ho'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Ban Hock'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Ban Hock Drive'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Blacksmith'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Borneo'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Bukit Mata'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Central Garden'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Chan Chin Ann'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Deshon'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Green Hill'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Mathies'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Nipah'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Padungan'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Padungan Utara'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Petanak'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Rumbia'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Song Kheng Hai'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Song Thian Cheok'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Sungai Padungan'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Tabuan (1 - 40)'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Temple'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Tukang Besi'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Jalan Tunku Abdul Rahman'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'KMC Terrace House'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Padungan Arcade'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Persiaran Lucky'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Rumah Pangsa MPK'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Taman Central'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Taman Goodland'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Taman Kereta'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Taman Padungan'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Taman Song Kheng Hai'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Taman Sri Sarawak'],
+	[ 'state_id' => 13, 'code' => '93100', 'name' => 'Wisma Pheonix'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Green Road'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Jalan Angsana'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Jalan Cross'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Jalan Emerald'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Jalan Gold Jade'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Jalan Green'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Jalan Intan'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Jalan Jambu'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Jalan Kapor'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Jalan Kapor Lorong 8'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Jalan Kepayang'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Jalan Keretapi'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Jalan Merdeka (Off Jalan Green)'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Jalan Ong Kee Hui'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Jalan Pisang Barat'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Jalan Poh Kwong Park'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Jalan Sungai Maong Baru'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Jalan Sungai Maong Hilir'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Jalan Sungai Maong Hulu'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Jalan Sungai Maong Tengah'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Jalan Swee Joo Park'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Kampung Sungai Maong'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Lebuh Sockalingam'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Lebuh Temple'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Lorong Bintang'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Lorong Bulan'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Lorong Chu Su'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Lorong Green 1'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Lorong Kim Kiat'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Lorong Kim Seng'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Lorong Maleng'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Lower Sungei Maong'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Persiaran Crooke'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Persiaran Rainbow'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Persiaran St Paul'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Sungai Maong Bharu'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Sungai Maong Hilir'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Sungai Maong Tengah'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Begawut'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Bigawa'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Charming'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Chin Siew'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Chong Hin'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Cloud'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Eastern'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Empire'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Exceller'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Federal'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Flourishing'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Hock Seng Lee'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Hongnion'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Hugrow'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Kapor'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Khee Moi'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman King Dom'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman KingBurg Home'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Kok Ban Hong'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Legendry Villa'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Lian Kwong'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Literature Villa'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Luxus'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Maong'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman May Ling'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Mimpi'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Pauline'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Pigawa'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Pisang'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Poh Kwong'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Prince'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Regent (Sungai Maong Tengah)'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Ros (Sungai Maong Tengah)'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Ruby'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Sentiasa'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Sin Sin'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Sky'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Stapok Height'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Star'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Sungai Maong'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Sunrise'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Swee Joo'],
+	[ 'state_id' => 13, 'code' => '93150', 'name' => 'Taman Wee & Wee'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Batu Lintang'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Halaman Kim San'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Bampfylde'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Batu Kinyang'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Batu Lintang'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Bidayuh'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Bisayah'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Bukit Antu'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Bukit Lintang'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Bukitan'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Chua Say Chat'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Datin Wee Siew Eng'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Datuk Hamdan'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Dusun'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Hua Joo'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Keretapi (Batu 3)'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Kolej'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Kumpang'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Lintang Park'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Lintang Selatan'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Lowlands'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Manggis'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Mendu'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Midland'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Midlands'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Nangka (Batu Lintang)'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Nyiur'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Ong Hup Leong'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Ong Tiang Swee'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Ridgeway'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Rock'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Rockview'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Simpang Tiga'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Tabuan (41 & ke atas)'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Tai Tshin Jar'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Thian Guan'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Tong Wei Tah'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Tun Ahmad Zaidi Adruce'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Wee Boon Ping'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Jalan Wee Seng Goon'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Kampung Simpang Tiga'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Kampung Simpang Tiga Jalan Mendu'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Kim San Court'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Laman Bong Chin'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Laman Rock'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Lintang Heights'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Lorong 1 - 3 Jalan Mendu'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Lorong Batu'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Lorong Batu Bata'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Lorong Karangan'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Lorong Kelikir'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Lorong Pasir'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Lorong Permata'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Lorong Rock'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Lorong Rock Terrace'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Lorong Tabuan'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Lorong Tabuan Timur'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Pasar Batu 3 Jalan Rock'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Pekan Batu 3'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Rock Terrace'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Sunny Estate'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Acme'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Bong Chin'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Bunga Teratai (Batu Lintang)'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Central (Jalan Rock)'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Dunwa'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Gan Swee Cho'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Ho San'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Hua Joo'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Hwata'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Intersar'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Iris'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Kelly'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Kim San'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Lintang'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Liong Seng'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Meng Meng'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Merlin'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Min Chu'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Ong Guan Tee'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Ridge'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Rock View'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Sentiasa'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Sun Valley'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Thian Guan'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Timberland'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Westwood'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Taman Wingli'],
+	[ 'state_id' => 13, 'code' => '93200', 'name' => 'Third Miles Bazaar'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Batu Kawa Commercial Centre'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Industrial Area Jalan Kuching/Serian Batu 13'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Arang'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Arang Barat'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Batu Kawa'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Batu Kawa - Matang'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Batu Kawa Lorong 3'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Batu Kawa/ Tondong'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Batu Kawa/Bau'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Batu Kitang'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Bayan'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Bengang'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Benggang'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Bukit Cahaya'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Burung Bunga Api'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Burung Kawok'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Burung Landas'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Burung Lilin'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Burung Rawa'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Chaya Batu 3'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Chong Jing Chong'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Datok Tawi Sli'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Datuk Mustapha'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Datuk Stephen Yong'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Dogan'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Dogan Arang'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Embok Tanah'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Ensing'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Golden Farm'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Hup Kee'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Kampung Kuap Batu 10'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Kangking'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Kangkok'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Ketek'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Ketitir'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Kong Ping'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Kopua'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Kuching - Serian (Km 23)'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Kunchit'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Landeh'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Lapangan Terbang Lama'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Lapangan Terbang Lrg 2 Dan 4'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Meng Chong'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Minggi'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Penrissen (Km 6 - 24)'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Penrissen Lama'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Puncak Borneo Km. 18-20'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Semeba'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Semenggok'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Sg Tapang Batu 7 - 7 1/2th'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Stakan'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Stampin Tengah'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Stapok'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Stephen Kalong Ningkan'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Stephen Yong'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Jalan Tawi Seli'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Kampung Batu Kitang'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Kampung Bumbok'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Kampung Haji Baki'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Kampung Jawa'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Kampung Jawa Semenggok'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Kampung Sandong'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Kampung Segedup Jalan Segedup'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Kampung Semeba Jalan Semeba'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Kampung Seri Arjuna'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Kampung Sinar Budi'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Kampung Stapok'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Kampung Stapok Cina'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Kampung Tematu Jalan Batu Kitang'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Kampung Tematu, Jalan Batu Kitang'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Lapangan Terbang Antarabangsa Kuching'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Lorong 1 (Batu Kawa)'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Lorong 2 (Batu Kawa)'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Lorong 3 (Batu Kawa)'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'MJC Apartment & Condo Jalan Batu Kawa'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'MJC Commercial Centre Jalan Batu Kawa'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Pasar Batu 10 (Jalan Penrissen)'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Pasar Batu 7 (Jalan Penrissen)'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Pasar Batu Kitang'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Pasar Batu Kitang (Km 11)'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Pengkalan Baru'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Persiaran Kingsway'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Resettlement Scheme Kampung Jawa'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Resettlement Scheme Stapok'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Seventh Mile Bazaar'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Ann Siang'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Arang'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Aromatic'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Batu 12 Jalan Kuching/Serian Batu 12'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Batu 9'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Batu Kawa Heights'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Beautiful Jalan Field Force'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Beauty'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Bengoh'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Berjaya'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Berjaya Jalan Kalong Ningkan'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman BJ'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Blessed Jalan Stapok Utara'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Bolder Built'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Brilliance'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Budi Jasa'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Buditra Jaya'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Bukit Stampin'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Bumiko'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Capital'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Carina Estate'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Cavery Jalan Kuching/Serian Batu 12'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Chai Yii'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Chia Teng Chew'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Chong'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Chong Kong'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Chuan Liaw Jalan Stakan Batu 7 1/2'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Chung Nion'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Cinmuk'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Contemporary'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Coral'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Country Hill'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Country Vale'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Cuaca'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Damansara'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Desa Moyan'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Desa Wira'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Dogan Jalan Dogan'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman East Height'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Eden Field'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Eligen Villa Jalan Stapok Utara'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Emas'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Everbright Estate (Batu Kawa)'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Everbright Park'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Fairview Height'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Fairyland Jalan Kuching/Serian Batu 12'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Flora Indah Jalan Arang'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Fook Nyen'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Fuyi'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Genesis'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman GoldenView Jalan Puncak Borneo'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Grace'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Green Heights'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Green Ville'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Greenhill'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Greenland Villa'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Greenvilla'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Greenwood Park'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Haji Baki'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman HDC (RPR Batu 12)'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman HDC (RPR Batu Kawa)'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman High Field Jalan Batu Kawa'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Hin Yu'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Hock Nion'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Hoi Lee'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Home Mart'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Home Park'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Hong Hong'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Hong Leong'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman How Ching'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Hua Ling'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Hua Yan'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Iddylick'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Indah Height'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Indah Jaya'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Indah Landeh'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Indah Ria'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Ing Ling Jalan Kuching/Serian Batu 12'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Inspire'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Janting'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Kalien Ph. 1 - 6 Jalan Stakan Batu 7 1/2'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Ketika'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Khua Hua'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Kim Lee'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Kim Lee Jalan Semaba Lorong 9'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Kim Pang'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Kit Fah'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Kong Ping'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Kong Ping Height'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Kota Padawan'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Kuap'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Kwong Tiong'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Lai - Lai'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Landeh'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Lee Onn'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Lian Hua'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Lian Kwang'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Lilok'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Lok Thiam'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Lovely Land'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Lucky Hill Jalan Penrissen Batu 10'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Lung Foo'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Mawar (Jalan Arang)'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Megajuta'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Mei Lee'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Metro'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Mewah'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Millinium'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman MJC Mutiara'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Moyan Height'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Moyan Utama'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Mulbery'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Nam Hoi'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Nan Chi'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Olive'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Orchid (Jalan Arang Bara)'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Paradise'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Parkview'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Pearl'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Pek Seng'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Penrissen'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Phoenix'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Princess'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Punica'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Putera Park'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Ramin Jalan Arang'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Range'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Regal'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Renggas Estate'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Richmond Hill'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Rimba Stapok'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Royal'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Saidu Khan'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Sakura Indah'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman San Chin'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Sarmax'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Sasa'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Sati'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Sedegup Height'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Semaba Jalan Semaba Lorong 8'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Seng Goon'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Sentosa'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Seri Emas'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Shefford View'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Shing Yu'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Siwi'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Spring Field'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Sri Borneo'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Sri Cahaya'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Sri Moyan'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Sri Muhibbah'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Sri Segedup'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Stapok'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Stapok Avenue Jalan Stapok'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Stapok Central Jalan Stapok Central'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Stapok Estate Jalan Stapok Selatan'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Stapok Height Jalan Stapok Selatan'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Stapok Height Jalan stapok Utara'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman STC'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Stella'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Stephen Yong Avenue'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Summerhill Villa Jalan Stapok Selatan'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Sunny Heights'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Sunny Hill'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Sunyeh'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Taipei'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Tiang Ling'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman TJM'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Tropimas'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Ultra'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Union'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Victoria'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Victoria Jalan Satpok Utama'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Victory'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Wai Leong'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Wawasan'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman WEC'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Wepac'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Wui Lee'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Taman Xafa Jalan Penrissen Batu 7 1/2'],
+	[ 'state_id' => 13, 'code' => '93250', 'name' => 'Tenth Mile Bazaar'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Berjaya'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Cahaya'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Central Barat'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Central Esat/Ellis'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Central Timur'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Chawan'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Chawan Hulu'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Chong Kiun Kong'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Datuk Bandar'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Datuk Sim Kheng Hong'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Ellis'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Foochow 1'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Foochow 2'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Foochow Barat'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Kuek Siok Hong'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Ming Ching'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Nyatoh'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Parklane'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Penyau'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Rengas'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Resak'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Sekama'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Sekama Utara'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Sekama/Pending'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Sinar'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Suadi Haji Arshad'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Tai Poo'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Upper Chawan'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Jalan Wan Abdul Rahman'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Kampung Tabuan Foochow Jalan Foochow No. 1'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Kuching By pass (Foochow)'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Lebuh Sekama'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Lorong Goh Meng Teck'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Lorong Park'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Sekama Utara'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Tabuan Ulu Chawan Cina'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Chung Hua'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Dirgahayu'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Fushing'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Futee'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Hawaii'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Joo Chuan (Jalan Ellis)'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Kali'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Kenyalang'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Kim Fook'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Kuching'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Lein Kun'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Mei Teck'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Orchid Jalan Foochow No. 1'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Pecky'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Poh Hua'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Poh Ming'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Sin Juak'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Sung Hong'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Supreme'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Tabuan Supreme'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Three Hill'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Tungshi'],
+	[ 'state_id' => 13, 'code' => '93300', 'name' => 'Taman Yung Kong'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Happy Valley'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Hui Sing Heights'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Bayor Bukit'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Bintangor'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Durian Burong'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Geronggang'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Hui Sing'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Jelutong'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Kedandi 11'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Kedandi 14'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Kempas'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Kenny Hill'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Keranji 1 - 6'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Kruak'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Laksamana Cheng Ho'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Luis'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Muara Tabuan'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Murut'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Seladah'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Setia Raja'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Sherip Mansor'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Simpang Tiga (Main Road)'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Song'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Stampin'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Stampin Barat'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Stampin Timur'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Stutong Indah'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Stutong Jaya'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Tabuan Dayak'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Tabuan Jaya'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Temenggong Jugah'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Tun Jugah'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Upland'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Urat Mata'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Wan Alwi'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Jalan Wan Alwi Tunku Ibrahim'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Kampung Stampin'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Kampung Tabuan Dayak'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Kampung Tabuan Jaya'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Kuching By pass (Km 7)'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Kuching By pass Stampin'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Lorong Wan Alwi 5'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Muara Tabuan Industrial Free Zone'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Resettlement Schme Stutong'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Samajaya Appartment, Jalan Setia Raja'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Samajaya Comercial Centre, Jalan Setia Raja'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Stutong Affordable Scheme (Phase 1 - 2)'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Tabuan Court Jalan Song'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Tabuan Dayak'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Tabuan Dusun'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Tabuan Dusun Tengah'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Tabuan Heights'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Tabuan Jaya'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Tabuan Jaya Tengah'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Tabuan Lalang'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Tabuan Stutong Jalan Setia Raja'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman 7th Avenue Jalan Durian Burung'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Bahagia, Jalan Stampin'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Bayang'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Bayang Estate'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman BDC'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman BDC Stampin'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Beverly Heights'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Bintang'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Casamarbela'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Cemerlang'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Centurion 1'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Centurion 2'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Cinta Avenue'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Daya'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Desa Indah'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Desa Utara'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Durian Burung Jalan Durian Burung'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Esco Ville'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Everbright Jaya'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Fortune'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Gan Swee'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Gawing'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Golden Height Lorong Hui Sing 6'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Happy Valley'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Hartawan'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Height Estate Jalan Stutong'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Height Estate, Jalan Stutong'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Hua Lee'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Hui Sing'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Hui Sing Close'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Hui Sing Height'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Hui Sing Jaya'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Jade Villa Jalan Lapangan Terbang 5'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Jelita'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Julemas'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Jupit'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Kenny'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Kenny Hill'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Lee Ling ( Song)'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Legend Hill'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Linang'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Linang Suboh'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Mabel'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Major'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Marble'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Meranja'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Mersing'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Million, Jalan Kempas'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Muara Tabuan'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Mutiara Permai'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Opulence'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Orchard'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Pelita Height Jalan BDC'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Phoning'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Pinery Villa'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Polarwood Lorong 5H5'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Progress'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Rosewood'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Satria Jaya'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Scenery Villa'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Sherip Mansor'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Sin Hai Min'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Sin Hai Min 1'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Sin Hai Min 2'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Sri Stutong Jalan Setia Raja'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Stampin Barat'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Stampin Heights'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Stutong Avenue'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Suboh'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Swee Lee'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Tabuan Desa'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Tabuan Dusun'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Tabuan Height Boulevard, Jalan Stutong'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Tabuan Height Drive, Jalan Stutong'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Tabuan Jaya'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Tabuan Jaya 1 & 2'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Tabuan Laru'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Woodland'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Taman Yet Ho'],
+	[ 'state_id' => 13, 'code' => '93350', 'name' => 'Uplands (Deret Kedai)'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Abang Ateh'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Abong Taip'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Bintangor Besar'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Bintangor Kecil'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Bolhassan'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Dagok Barat'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Dagok Tengah'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Dagok Timur'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Datuk Ajibah Abol'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Haji Bolhassan'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Haji Kassan'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Haji Mataim'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Haji Mustapa Junit'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Haji Taha'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Jawa'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Kulas'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Kulas Barat'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Kulas Tengah'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Kulas Timur'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Kulas Utara Dua'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Laruh Barat'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Laruh Tengah'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Laruh Timur'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Masjid'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Medan Temple'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Middle'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Muda Hashim'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Muhibbah'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Nagor'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Nanas'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Nanas Barat'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Ong Guan Poh'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan P. Ramlee'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Paduka Sitom'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Palm'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Parit Lama'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Parit Lama Barat'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Parit Lama Tengah'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Patingan'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Patinggi Ali'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Pisang'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Pisang Selatan'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Pisang Utara'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Rambutan'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Rubber'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Rubber Barat'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Satok'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Satok - Pisang'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Tanjong Selatan'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Tanjung'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Jalan Tengah'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Kampung Bandarshah'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Kampung Bintangor'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Kampung Kudei'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Kampung Kudei Rubber'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Kampung Kudei Tengah'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Kampung Masjid Jalan Datuk Ajibah Abol'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Satok'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Taman Diamond'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Taman Evergreen'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Taman Fair Park Jalan Nanas'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Taman Friendship'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Taman Happy'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Taman Hong Kong'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Taman Intan Jalan Nanas Barat'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Taman Kiaw Ann'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Taman Nanas'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Taman Ong Guan Poh Jalan Green'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Taman Ong Soon'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Taman San San'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Taman Sin Lian Hin'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Taman Yen Jalan Nanas Barat'],
+	[ 'state_id' => 13, 'code' => '93400', 'name' => 'Wisma Satok'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Bintawa Village'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Abdul Rahim'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Belian (Bintawa)'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Bengkel'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Bintawa'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Bintawa Tengah'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Buruh'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Cement Raya'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Datuk Sim Kheng Hong Wharf'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Datuk Wee Kheng Chiang'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Datuk William Tan'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Daya'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Dermaga'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Eng Ai'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Gedung'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Gubah'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Jentera'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Keluli'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Kemajuan'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Keruing'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Kilang'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Kisar'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Kwong Lee Bank'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Lentor'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Loji'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Lumba Kuda'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Lumba Kuda Lorong 5'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Meranti'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Merbau'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Merican'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Mersawa'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Noakes (1 & 2)'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Pangkalan'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Peace'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Pelabuhan'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Pending'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Pending / Sekama'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Pending Lama'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Perbadanan'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Perdana'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Peteri'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Pinang'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Sebor'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Selangan Batu'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Semangat'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Semen Raya'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Sentang'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Sungai Apong'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Sungai Biawak'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Sungai Periok'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Sungai Sekama'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Swasta'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Tambatan'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Tekad'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Tenaga'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Tenun'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Three Hill'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Tun Abdul Rahim'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Tun Razak'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan Utama'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Jalan William Tan'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Kampung Nelayan Bintawa'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Kampung Sungai Apong'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Kampung Sungai Periok'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Kampung Tabuan (Lot No 3)'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Kampung Tabuan Hilir'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Kampung Tabuan Hilir Seberang Sungai'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Kampung Tabuan Lot'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Kampung Tabuan Tengah'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Kampung Tabuan Tengah Seberang Sungai'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Kampung Tabuan Ulu'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Kawasan Perindustrian Bintawa'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Lebuh Chan Bee Kiew'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Muara Tuang Industrial Zon'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Pending'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Pending Heights'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Persiaran Kong Ming'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Persiaran Poh Ming'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Taman Arbi'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Taman Henghua'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Taman Kong Ann'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Taman Kong Ming'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Taman Mee Teck'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Taman Pending Height'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Taman River View'],
+	[ 'state_id' => 13, 'code' => '93450', 'name' => 'Taman Tabuan Park'],
+	[ 'state_id' => 13, 'code' => '93500', 'name' => 'TYT Yang Di Pertua Negeri Sarawak'],
+	[ 'state_id' => 13, 'code' => '93502', 'name' => 'YAB Ketua Menteri Sarawak'],
+	[ 'state_id' => 13, 'code' => '93503', 'name' => 'Setiausaha Kerajaan Negeri'],
+	[ 'state_id' => 13, 'code' => '93504', 'name' => 'Biro Bantuan Guaman'],
+	[ 'state_id' => 13, 'code' => '93505', 'name' => 'Biro Pengaduan Awam'],
+	[ 'state_id' => 13, 'code' => '93506', 'name' => 'Jabatan Kehakiman / Mahkamah Tinggi'],
+	[ 'state_id' => 13, 'code' => '93507', 'name' => 'Pusat Latihan Perkhidmatan Awam (Intan)'],
+	[ 'state_id' => 13, 'code' => '93508', 'name' => 'Amanah Raya Berhad'],
+	[ 'state_id' => 13, 'code' => '93514', 'name' => 'Jabatan Perangkaan'],
+	[ 'state_id' => 13, 'code' => '93516', 'name' => 'Jabatan Pemegang Harta'],
+	[ 'state_id' => 13, 'code' => '93517', 'name' => 'Jabatan Perpaduan Negara'],
+	[ 'state_id' => 13, 'code' => '93518', 'name' => 'Jabatan Audit Negeri'],
+	[ 'state_id' => 13, 'code' => '93519', 'name' => 'Majlis Agama Islam Sarawak'],
+	[ 'state_id' => 13, 'code' => '93520', 'name' => 'Suruhanjaya Perkhidmatan Awam'],
+	[ 'state_id' => 13, 'code' => '93520', 'name' => 'Suruhanjaya Perkhidmatan Awam Persekutuan'],
+	[ 'state_id' => 13, 'code' => '93527', 'name' => 'Unit Pemodenan & Tenaga Manusia'],
+	[ 'state_id' => 13, 'code' => '93529', 'name' => 'Unit Penyelidikan Sosio Ekonomi'],
+	[ 'state_id' => 13, 'code' => '93532', 'name' => 'Jabatan Sumber Manusia'],
+	[ 'state_id' => 13, 'code' => '93540', 'name' => 'Jabatan Tenaga Rakyat'],
+	[ 'state_id' => 13, 'code' => '93550', 'name' => 'Jabatan Imigresen'],
+	[ 'state_id' => 13, 'code' => '93551', 'name' => 'Jabatan Pendaftaran Negara'],
+	[ 'state_id' => 13, 'code' => '93552', 'name' => 'Jabatan Pendaftar Pertubuhan'],
+	[ 'state_id' => 13, 'code' => '93554', 'name' => 'Percetakan Nasional Berhad'],
+	[ 'state_id' => 13, 'code' => '93556', 'name' => 'Jabatan Pertahanan Awam'],
+	[ 'state_id' => 13, 'code' => '93558', 'name' => 'Jabatan Penjara'],
+	[ 'state_id' => 13, 'code' => '93560', 'name' => 'Ketua Polis Negeri'],
+	[ 'state_id' => 13, 'code' => '93564', 'name' => 'Jabatan Kebajikan Masyarakat'],
+	[ 'state_id' => 13, 'code' => '93566', 'name' => 'Muzium Negeri Sarawak'],
+	[ 'state_id' => 13, 'code' => '93570', 'name' => 'Jabatan Belia Dan Sukan'],
+	[ 'state_id' => 13, 'code' => '93572', 'name' => 'Perpustakaan Awam Negeri'],
+	[ 'state_id' => 13, 'code' => '93576', 'name' => 'Jabatan Tanah Dan Galian'],
+	[ 'state_id' => 13, 'code' => '93578', 'name' => 'Jabatan Ukur & Pemetaan'],
+	[ 'state_id' => 13, 'code' => '93582', 'name' => 'Jabatan Kerja Raya'],
+	[ 'state_id' => 13, 'code' => '93586', 'name' => 'Hospital Kuching'],
+	[ 'state_id' => 13, 'code' => '93590', 'name' => 'Jabatan Kesihatan'],
+	[ 'state_id' => 13, 'code' => '93592', 'name' => 'Pegawai Kewangan Negeri'],
+	[ 'state_id' => 13, 'code' => '93592', 'name' => 'Pegawai Kewangan Persekutuan'],
+	[ 'state_id' => 13, 'code' => '93594', 'name' => 'Akauntan Negeri'],
+	[ 'state_id' => 13, 'code' => '93596', 'name' => 'Jabatan Kastam & Eksais Di Raja'],
+	[ 'state_id' => 13, 'code' => '93600', 'name' => 'Lembaga Hasil Dalam Negeri'],
+	[ 'state_id' => 13, 'code' => '93604', 'name' => 'Jabatan Pendidikan'],
+	[ 'state_id' => 13, 'code' => '93606', 'name' => 'Jabatan Kemajuan Masyarakat (Kemas)'],
+	[ 'state_id' => 13, 'code' => '93608', 'name' => 'Jabatan Pembangunan Koperasi'],
+	[ 'state_id' => 13, 'code' => '93609', 'name' => 'Pejabat Mara Negeri'],
+	[ 'state_id' => 13, 'code' => '93610', 'name' => 'Bahagian Pelesenan - Kementerian Penerangan'],
+	[ 'state_id' => 13, 'code' => '93612', 'name' => 'Jabatan Penerangan'],
+	[ 'state_id' => 13, 'code' => '93614', 'name' => 'Jabatan Penyiaran'],
+	[ 'state_id' => 13, 'code' => '93618', 'name' => 'Jabatan Penerbangan Awam'],
+	[ 'state_id' => 13, 'code' => '93619', 'name' => 'Jabatan Laut'],
+	[ 'state_id' => 13, 'code' => '93620', 'name' => 'Jabatan Pengangkutan Jalan'],
+	[ 'state_id' => 13, 'code' => '93626', 'name' => 'Jabatan Pengairan Dan Saliran'],
+	[ 'state_id' => 13, 'code' => '93628', 'name' => 'Jabatan Perikanan'],
+	[ 'state_id' => 13, 'code' => '93632', 'name' => 'Jabatan Pertanian'],
+	[ 'state_id' => 13, 'code' => '93634', 'name' => 'Kementerian Pertahanan Sarawak'],
+	[ 'state_id' => 13, 'code' => '93648', 'name' => 'Jabatan Bomba & Penyelamat'],
+	[ 'state_id' => 13, 'code' => '93658', 'name' => 'Jabatan Kajibumi'],
+	[ 'state_id' => 13, 'code' => '93660', 'name' => 'Jabatan Perhutanan'],
+	[ 'state_id' => 13, 'code' => '93661', 'name' => 'Padi & Beras Nasional (Bernas)'],
+	[ 'state_id' => 13, 'code' => '93662', 'name' => 'Jabatan Kajicuaca'],
+	[ 'state_id' => 13, 'code' => '93670', 'name' => 'Pos Malaysia Berhad'],
+	[ 'state_id' => 13, 'code' => '93672', 'name' => 'Telekom Malaysia Berhad'],
+	[ 'state_id' => 13, 'code' => '93677', 'name' => 'Penrissen Kem'],
+	[ 'state_id' => 13, 'code' => '93690', 'name' => 'Suruhanjaya Pilihanraya Negeri'],
+	[ 'state_id' => 13, 'code' => '93694', 'name' => 'Jabatan Kebudayaan Dan Kesenian'],
+	[ 'state_id' => 13, 'code' => '93700', 'name' => 'Kuching - Peti Surat  (1 - 11)'],
+	[ 'state_id' => 13, 'code' => '93700', 'name' => 'Kuching - Peti Surat  (13 - 150)'],
+	[ 'state_id' => 13, 'code' => '93702', 'name' => 'Kuching - Peti Surat  (151 - 250)'],
+	[ 'state_id' => 13, 'code' => '93704', 'name' => 'Kuching - Peti Surat  (251 - 350)'],
+	[ 'state_id' => 13, 'code' => '93706', 'name' => 'Kuching - Peti Surat  (351 - 399)'],
+	[ 'state_id' => 13, 'code' => '93708', 'name' => 'Kuching - Peti Surat  (401 - 450)'],
+	[ 'state_id' => 13, 'code' => '93710', 'name' => 'Kuching - Peti Surat  (451 - 481)'],
+	[ 'state_id' => 13, 'code' => '93710', 'name' => 'Kuching - Peti Surat  (483 - 544)'],
+	[ 'state_id' => 13, 'code' => '93710', 'name' => 'Kuching - Peti Surat  (546 - 550)'],
+	[ 'state_id' => 13, 'code' => '93712', 'name' => 'Kuching - Peti Surat  (551 - 638)'],
+	[ 'state_id' => 13, 'code' => '93712', 'name' => 'Kuching - Peti Surat  (640 - 650)'],
+	[ 'state_id' => 13, 'code' => '93714', 'name' => 'Kuching - Peti Surat  (651 - 750)'],
+	[ 'state_id' => 13, 'code' => '93716', 'name' => 'Kuching - Peti Surat  (751 - 850)'],
+	[ 'state_id' => 13, 'code' => '93718', 'name' => 'Kuching - Peti Surat  (851 - 950)'],
+	[ 'state_id' => 13, 'code' => '93720', 'name' => 'Kuching - Peti Surat  (951 - 1050)'],
+	[ 'state_id' => 13, 'code' => '93722', 'name' => 'Kuching - Peti Surat  (1051 - 1147)'],
+	[ 'state_id' => 13, 'code' => '93722', 'name' => 'Kuching - Peti Surat  (1149 - 1150)'],
+	[ 'state_id' => 13, 'code' => '93724', 'name' => 'Kuching - Peti Surat  (1151 - 1250)'],
+	[ 'state_id' => 13, 'code' => '93726', 'name' => 'Kuching - Peti Surat  (1251 - 1257)'],
+	[ 'state_id' => 13, 'code' => '93726', 'name' => 'Kuching - Peti Surat  (1259 - 1350)'],
+	[ 'state_id' => 13, 'code' => '93728', 'name' => 'Kuching - Peti Surat  (1351 - 1432)'],
+	[ 'state_id' => 13, 'code' => '93728', 'name' => 'Kuching - Peti Surat  (1434 - 1450)'],
+	[ 'state_id' => 13, 'code' => '93730', 'name' => 'Kuching - Peti Surat  (1451 - 1550)'],
+	[ 'state_id' => 13, 'code' => '93732', 'name' => 'Kuching - Peti Surat  (1551 - 1650)'],
+	[ 'state_id' => 13, 'code' => '93734', 'name' => 'Kuching - Peti Surat  (1651 - 1652)'],
+	[ 'state_id' => 13, 'code' => '93734', 'name' => 'Kuching - Peti Surat  (1654 - 1750)'],
+	[ 'state_id' => 13, 'code' => '93736', 'name' => 'Kuching - Peti Surat  (1751 - 1850)'],
+	[ 'state_id' => 13, 'code' => '93738', 'name' => 'Kuching - Peti Surat  (1851 - 1950)'],
+	[ 'state_id' => 13, 'code' => '93740', 'name' => 'Kuching - Peti Surat  (1951 - 2050)'],
+	[ 'state_id' => 13, 'code' => '93742', 'name' => 'Kuching - Peti Surat  (2051 - 2150)'],
+	[ 'state_id' => 13, 'code' => '93744', 'name' => 'Kuching - Peti Surat  (2151 - 2250)'],
+	[ 'state_id' => 13, 'code' => '93746', 'name' => 'Kuching - Peti Surat  (2251 - 2350)'],
+	[ 'state_id' => 13, 'code' => '93748', 'name' => 'Kuching - Peti Surat  (2351 - 2500)'],
+	[ 'state_id' => 13, 'code' => '93750', 'name' => 'Kuching - Peti Surat  (2501 - 2600)'],
+	[ 'state_id' => 13, 'code' => '93752', 'name' => 'Kuching - Peti Surat  (2601 - 2700)'],
+	[ 'state_id' => 13, 'code' => '93754', 'name' => 'Kuching - Peti Surat  (2701 - 2840)'],
+	[ 'state_id' => 13, 'code' => '93756', 'name' => 'Kuching - Peti Surat  (2841 - 2930)'],
+	[ 'state_id' => 13, 'code' => '93758', 'name' => 'Kuching - Peti Surat  (2931 - 3040)'],
+	[ 'state_id' => 13, 'code' => '93760', 'name' => 'Kuching - Peti Surat  (3041 - 3140)'],
+	[ 'state_id' => 13, 'code' => '93762', 'name' => 'Kuching - Peti Surat  (3141 - 3240)'],
+	[ 'state_id' => 13, 'code' => '93764', 'name' => 'Kuching - Peti Surat  (3241 & ke atas)'],
+	[ 'state_id' => 13, 'code' => '93900', 'name' => 'Kuching - Peti Surat  12'],
+	[ 'state_id' => 13, 'code' => '93902', 'name' => 'Kuching - Peti Surat  400'],
+	[ 'state_id' => 13, 'code' => '93904', 'name' => 'Kuching - Peti Surat  482'],
+	[ 'state_id' => 13, 'code' => '93906', 'name' => 'Kuching - Peti Surat  545'],
+	[ 'state_id' => 13, 'code' => '93908', 'name' => 'Kuching - Peti Surat  639'],
+	[ 'state_id' => 13, 'code' => '93910', 'name' => 'Kuching - Peti Surat  1148'],
+	[ 'state_id' => 13, 'code' => '93912', 'name' => 'Kuching - Peti Surat  1258'],
+	[ 'state_id' => 13, 'code' => '93914', 'name' => 'Kuching - Peti Surat  1433'],
+	[ 'state_id' => 13, 'code' => '93916', 'name' => 'Kuching - Peti Surat  1653'],
+	[ 'state_id' => 13, 'code' => '93990', 'name' => 'Kuching - Beg Berkunci'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Bau'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Bau Lama'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Buso'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Jalan Black Smith'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Jalan Bungalow'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Jalan Datuk Temenggong Salau'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Jalan Emas'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Jalan Johari Sunchar'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Jalan Lee Khoi Choon'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Jalan Lee Nyan Foo'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Jalan Ong Guan Cheng'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Jalan Penghulu Durin'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Jalan Selamat'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Jambusan'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Batu Spit'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Bidi'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Bogag'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Boring'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Buan'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Duyoh'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Grogo'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Jugan'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Kandis Baru'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Kandis Lama'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Keranji'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Kopit'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Lidah Tanah'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Masjid'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Melayu'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Merembeh'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Opar'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Pangkalan'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Pejiru'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Pengkalan Tebang'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Peninjau Baru'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Peninjau Lama'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Pinet'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Podam'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Puak'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Rabak Rotan'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Rumih'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Sebobok'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Sebuluh'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Sega'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Segubang'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Serasot'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Serikin'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Seromah'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Seropak'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Skiat Baru'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Skiat Lama'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Skibang'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Skio'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Sogoh'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Stass'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Stenggang'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Suba Bandar'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Suba Bau'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Suba Buan'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Sungai Pinang'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Tembawang'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Kampung Tringgus'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Krian'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Krokong'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Paku'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Samchien'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Sebuku'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Seringgok'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Siniawan'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Taiton'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Taman Dayu'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Taman Limbang'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Taman Mutiara'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Tanjong Batu'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Tanjong Durian'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Tasik Biru'],
+	[ 'state_id' => 13, 'code' => '94000', 'name' => 'Tondong'],
+	[ 'state_id' => 13, 'code' => '94007', 'name' => 'Bau - Peti Surat'],
+	[ 'state_id' => 13, 'code' => '94009', 'name' => 'Bau - Beg Berkunci'],
+	[ 'state_id' => 13, 'code' => '94200', 'name' => 'Batu 15 Jalan Kuching Serian'],
+	[ 'state_id' => 13, 'code' => '94200', 'name' => 'Beratok'],
+	[ 'state_id' => 13, 'code' => '94200', 'name' => 'Kampung Endap'],
+	[ 'state_id' => 13, 'code' => '94200', 'name' => 'Kampung Siburan'],
+	[ 'state_id' => 13, 'code' => '94200', 'name' => 'Kampung Sungai Duuh'],
+	[ 'state_id' => 13, 'code' => '94200', 'name' => 'Siburan'],
+	[ 'state_id' => 13, 'code' => '94200', 'name' => 'Tapah'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Jalan Muara Tuang (Hingga Km 3)'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kampung Ampila'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kampung Bajo'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kampung Baru Samarahan'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kampung Lubok Mata'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kampung Mangka'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kampung Mata Parang'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kampung Melayu'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kampung Meranik'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kampung Merdang Lumut'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kampung Merdang Lumut Jalan Datuk Mohd Musa'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kampung Muara Tuang'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kampung Niup'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kampung Pengkalan Kuap Jalan Datuk Mohd Musa'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kampung Pinang'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kampung Plaie'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kampung Rambus'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kampung Semawang'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kampung Sindang'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kampung Sungai Mata'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kampung Tanjung Bundung'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kampung Tanjung Parang'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kampung Tanjung Tuang'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Kota Samarahan'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'Taman Mustafa Jalan Datok Mohd Musa'],
+	[ 'state_id' => 13, 'code' => '94300', 'name' => 'UiTM Cawangan Sarawak Jalan Meranek'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Jalan Blacksmith'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Baru'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Begak'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Biawak'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Dagang'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Gerunggang'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Klaoh'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Perundang'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Prian'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Sebandi Matang'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Sebemban'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Sekambal'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Seketi'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Selampit'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Seling Dayak'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Seling Melayu'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Sembawang'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Sempadi'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Semunin'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Senibong'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Serayan'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Siar'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Sileng Dayak'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Sileng Melayu'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Stunggang Dayak'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Stunggang Melayu'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Sungai Lundu'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Kampung Temelan'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Lundu'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Sematan'],
+	[ 'state_id' => 13, 'code' => '94500', 'name' => 'Tanjung Datuk'],
+	[ 'state_id' => 13, 'code' => '94507', 'name' => 'Lundu - Peti Surat'],
+	[ 'state_id' => 13, 'code' => '94509', 'name' => 'Lundu - Beg Berkunci'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Asajaya'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Asajaya Bakong'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Asajaya Laut'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Asajaya Ulu'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Iboi'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Jaie'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Jemukan'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Moyan'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Pelandok'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Rangawan'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Rebak'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Sambir'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Sampun Gerunggang'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Sebandi Hilir'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Sebandi Matang'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Sebandi Ulu'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Semera'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Senangeh'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Serpan Laut'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Serpan Parit Ulu'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Sungai Buluh'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Sungai Putin'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Tambirat'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Tanjung Apong'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Tanjung Kelaso'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Tembirat'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Kampung Terasi'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Pendam'],
+	[ 'state_id' => 13, 'code' => '94600', 'name' => 'Sadong Jaya'],
+	[ 'state_id' => 13, 'code' => '94650', 'name' => 'Kabong'],
+	[ 'state_id' => 13, 'code' => '94650', 'name' => 'Kampung Alit'],
+	[ 'state_id' => 13, 'code' => '94650', 'name' => 'Kampung Hilir'],
+	[ 'state_id' => 13, 'code' => '94650', 'name' => 'Kampung Hulu'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Jalan Serian - Sri Aman (Batu 68)'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Jalan Serian - Sri Aman (Km 109)'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Benat'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Bintawa'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Cina'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Gedong'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Gumpey Gedong'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Jerok'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Kakai'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Lalang Gedong'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Munggu Limo'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Nyelitak'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Pancur'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Rasau'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Sambal Apeng'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Sambal Kruin'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Serian Hilir & Hulu'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Simpang Simunjan'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Slabi'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Spaoh Gedong'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Sungai Pinang'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Sungai Rawa'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Tanah Putih'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Tangga'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Telagus'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kampung Terbat'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Kedup'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Serian'],
+	[ 'state_id' => 13, 'code' => '94700', 'name' => 'Tarat'],
+	[ 'state_id' => 13, 'code' => '94707', 'name' => 'Serian - Peti Surat'],
+	[ 'state_id' => 13, 'code' => '94709', 'name' => 'Serian - Beg Berkunci'],
+	[ 'state_id' => 13, 'code' => '94750', 'name' => 'Bunan Gega'],
+	[ 'state_id' => 13, 'code' => '94750', 'name' => 'Kampung Krusen'],
+	[ 'state_id' => 13, 'code' => '94750', 'name' => 'Kampung Pichin'],
+	[ 'state_id' => 13, 'code' => '94750', 'name' => 'Kampung Tebakang Dayak'],
+	[ 'state_id' => 13, 'code' => '94750', 'name' => 'Kampung Tebakang Melayu'],
+	[ 'state_id' => 13, 'code' => '94750', 'name' => 'Muara Mongkos'],
+	[ 'state_id' => 13, 'code' => '94750', 'name' => 'Tebakang'],
+	[ 'state_id' => 13, 'code' => '94760', 'name' => 'Tebedu'],
+	[ 'state_id' => 13, 'code' => '94800', 'name' => 'Gunung Ngeli'],
+	[ 'state_id' => 13, 'code' => '94800', 'name' => 'Kampung Kelaka'],
+	[ 'state_id' => 13, 'code' => '94800', 'name' => 'Kampung Lintang'],
+	[ 'state_id' => 13, 'code' => '94800', 'name' => 'Kampung Lubuk Punggor'],
+	[ 'state_id' => 13, 'code' => '94800', 'name' => 'Kampung Munggu Air'],
+	[ 'state_id' => 13, 'code' => '94800', 'name' => 'Kampung Munggu Bejit'],
+	[ 'state_id' => 13, 'code' => '94800', 'name' => 'Kampung Nanas'],
+	[ 'state_id' => 13, 'code' => '94800', 'name' => 'Kampung Regelam'],
+	[ 'state_id' => 13, 'code' => '94800', 'name' => 'Kampung Sageng'],
+	[ 'state_id' => 13, 'code' => '94800', 'name' => 'Kampung Sedilo'],
+	[ 'state_id' => 13, 'code' => '94800', 'name' => 'Kampung Tenggelam'],
+	[ 'state_id' => 13, 'code' => '94800', 'name' => 'Munggu Bejit'],
+	[ 'state_id' => 13, 'code' => '94800', 'name' => 'Sebangan'],
+	[ 'state_id' => 13, 'code' => '94800', 'name' => 'Simunjan'],
+	[ 'state_id' => 13, 'code' => '94807', 'name' => 'Simunjan - Peti Surat'],
+	[ 'state_id' => 13, 'code' => '94809', 'name' => 'Simunjan - Beg Berkunci'],
+	[ 'state_id' => 13, 'code' => '94850', 'name' => 'Jalan Sawmill'],
+	[ 'state_id' => 13, 'code' => '94850', 'name' => 'Kampung Baru'],
+	[ 'state_id' => 13, 'code' => '94850', 'name' => 'Kampung Hulu'],
+	[ 'state_id' => 13, 'code' => '94850', 'name' => 'Kampung Jeragan'],
+	[ 'state_id' => 13, 'code' => '94850', 'name' => 'Kampung Kelait'],
+	[ 'state_id' => 13, 'code' => '94850', 'name' => 'Kampung Lunying'],
+	[ 'state_id' => 13, 'code' => '94850', 'name' => 'Kampung Mamba'],
+	[ 'state_id' => 13, 'code' => '94850', 'name' => 'Kampung Masjid'],
+	[ 'state_id' => 13, 'code' => '94850', 'name' => 'Kampung Raba'],
+	[ 'state_id' => 13, 'code' => '94850', 'name' => 'Kampung Tanjong'],
+	[ 'state_id' => 13, 'code' => '94850', 'name' => 'Kampung Tebelu'],
+	[ 'state_id' => 13, 'code' => '94850', 'name' => 'Kampung Tuba'],
+	[ 'state_id' => 13, 'code' => '94850', 'name' => 'Sebuyau'],
+	[ 'state_id' => 13, 'code' => '94900', 'name' => 'Banting'],
+	[ 'state_id' => 13, 'code' => '94900', 'name' => 'Kampung Lingga'],
+	[ 'state_id' => 13, 'code' => '94900', 'name' => 'Kampung Semulong Ulu'],
+	[ 'state_id' => 13, 'code' => '94900', 'name' => 'Lingga'],
+	[ 'state_id' => 13, 'code' => '94900', 'name' => 'Semulong Ulu'],
+	[ 'state_id' => 13, 'code' => '94950', 'name' => 'Kampung Beladin'],
+	[ 'state_id' => 13, 'code' => '94950', 'name' => 'Kampung Hilir'],
+	[ 'state_id' => 13, 'code' => '94950', 'name' => 'Kampung Hulu'],
+	[ 'state_id' => 13, 'code' => '94950', 'name' => 'Kampung Tengah'],
+	[ 'state_id' => 13, 'code' => '94950', 'name' => 'Kampung Triso'],
+	[ 'state_id' => 13, 'code' => '94950', 'name' => 'Maludam'],
+	[ 'state_id' => 13, 'code' => '94950', 'name' => 'Pusa'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Bakong'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Batu Lintang'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Batu Lintang Ulu Undop'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Beting Maro'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Bukit Begunan'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Bayu'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Belimbing'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Berjaya'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Brayun'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Council'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Datuk Tawi Sli'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Datus'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Durian'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Foochow'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Glumba'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Hap Sing'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Hollis'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Hospital'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Hujung Brayun'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Hup Chung'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Kampung Baru'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Kampung Sri Wangi'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Kejatau'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Kelab'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Laden'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Litak'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Market'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Micheal Pilo'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Muhibbah'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Ningkan'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Padri'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Pasir Panas'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Pasir Panas Hoping'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Paya'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Ping Ping'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Resak'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Residensi'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Sabu'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Sau Hui'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Sembau'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Stawang'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Tapang'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Jalan Tini'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Kampung Baru'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Kampung Baru Stumbin'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Kampung Hilir'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Kampung Hulu'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Kampung Lemanak'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Kampung Muhibbah'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Kampung Sabu'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Kampung Seri Wangni'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Kampung STC'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Kampung Tengah'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Kampung Teratai'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Lachau'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Melugu'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Pantu'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Rumah Gilan'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Selepong'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Sembau'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Simanggang'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Sri Aman'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Stumbin'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Sungai Tenggang'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Azba'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Bayu'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Bestari'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Crystal'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Desa Indah'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Foochow'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Gamang Height'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Green Height'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Hoover Height'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman King'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Kurniawan Ph.1-3'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Loon Coon'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Mayfair'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Norita'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Padri'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Pasir Panas Ph.1-2'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Sabu'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Sagam'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Siang'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Sing Sing'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Sri Gamang'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Sri Jaya'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Sri Mewah'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Tiara'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Vistaro'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Taman Wawasan'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Tanjung Bijat'],
+	[ 'state_id' => 13, 'code' => '95000', 'name' => 'Ulu Undop'],
+	[ 'state_id' => 13, 'code' => '95007', 'name' => 'Sri Aman - Peti Surat  (1 - 200)'],
+	[ 'state_id' => 13, 'code' => '95008', 'name' => 'Sri Aman - Peti Surat  (201 & ke atas)'],
+	[ 'state_id' => 13, 'code' => '95009', 'name' => 'Sri Aman - Beg Berkunci'],
+	[ 'state_id' => 13, 'code' => '95300', 'name' => 'Brayang'],
+	[ 'state_id' => 13, 'code' => '95300', 'name' => 'Jalan Mundu'],
+	[ 'state_id' => 13, 'code' => '95300', 'name' => 'Jalan Panjang'],
+	[ 'state_id' => 13, 'code' => '95300', 'name' => 'Jalan Sabit'],
+	[ 'state_id' => 13, 'code' => '95300', 'name' => 'Kampung Sabit'],
+	[ 'state_id' => 13, 'code' => '95300', 'name' => 'Lichok Seblak'],
+	[ 'state_id' => 13, 'code' => '95300', 'name' => 'Roban'],
+	[ 'state_id' => 13, 'code' => '95300', 'name' => 'Rumah Admond Kombong'],
+	[ 'state_id' => 13, 'code' => '95300', 'name' => 'Rumah Daud'],
+	[ 'state_id' => 13, 'code' => '95300', 'name' => 'Rumah Enggah'],
+	[ 'state_id' => 13, 'code' => '95300', 'name' => 'Rumah Entusan'],
+	[ 'state_id' => 13, 'code' => '95300', 'name' => 'Rumah Indu'],
+	[ 'state_id' => 13, 'code' => '95300', 'name' => 'Rumah Jenang'],
+	[ 'state_id' => 13, 'code' => '95300', 'name' => 'Rumah Kunchi'],
+	[ 'state_id' => 13, 'code' => '95300', 'name' => 'Rumah Latit'],
+	[ 'state_id' => 13, 'code' => '95300', 'name' => 'Rumah Nait'],
+	[ 'state_id' => 13, 'code' => '95300', 'name' => 'Rumah Raming Metong'],
+	[ 'state_id' => 13, 'code' => '95300', 'name' => 'Rumah Ramping'],
+	[ 'state_id' => 13, 'code' => '95300', 'name' => 'Rumah Saing'],
+	[ 'state_id' => 13, 'code' => '95300', 'name' => 'Rumah Sungka'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Engkudu'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Kaki Wong'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Kalaka'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Kampung Disso Hilir'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Kampung Disso Hulu'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Kampung Kaba'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Kampung Krupok'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Kampung Kupang'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Kampung Lubok Renit Hilir'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Kampung Masjid'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Kampung Melanggo Baru'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Kampung Melanggo Lama'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Kampung Ng Malong'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Krangan'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Krian'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Lubuk Kepayang'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Nanga Atoi'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Nanga Budu'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Saratok'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Simpang Tiga Sungai Barangan'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Taman Metro Park'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Taman Miniata'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Taman Muhibbah'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Taman Seroja Indah'],
+	[ 'state_id' => 13, 'code' => '95400', 'name' => 'Wong Limat'],
+	[ 'state_id' => 13, 'code' => '95407', 'name' => 'Saratok - Peti Surat'],
+	[ 'state_id' => 13, 'code' => '95409', 'name' => 'Saratok - Beg Berkunci'],
+	[ 'state_id' => 13, 'code' => '95500', 'name' => 'Debak'],
+	[ 'state_id' => 13, 'code' => '95500', 'name' => 'Kampung Babu'],
+	[ 'state_id' => 13, 'code' => '95500', 'name' => 'Kampung Bungey'],
+	[ 'state_id' => 13, 'code' => '95500', 'name' => 'Kampung Debak Laut'],
+	[ 'state_id' => 13, 'code' => '95500', 'name' => 'Kampung Lalang'],
+	[ 'state_id' => 13, 'code' => '95500', 'name' => 'Kampung Tuie'],
+	[ 'state_id' => 13, 'code' => '95500', 'name' => 'Saribas'],
+	[ 'state_id' => 13, 'code' => '95600', 'name' => 'Kampung Bungin'],
+	[ 'state_id' => 13, 'code' => '95600', 'name' => 'Kampung Hilir'],
+	[ 'state_id' => 13, 'code' => '95600', 'name' => 'Penom'],
+	[ 'state_id' => 13, 'code' => '95600', 'name' => 'Rumah Jali Ng Bangkit'],
+	[ 'state_id' => 13, 'code' => '95600', 'name' => 'Spaoh'],
+	[ 'state_id' => 13, 'code' => '95700', 'name' => 'Betong'],
+	[ 'state_id' => 13, 'code' => '95700', 'name' => 'Kampung Entanak'],
+	[ 'state_id' => 13, 'code' => '95700', 'name' => 'Kampung Hilir'],
+	[ 'state_id' => 13, 'code' => '95700', 'name' => 'Kampung Lempaong'],
+	[ 'state_id' => 13, 'code' => '95700', 'name' => 'Kampung Masjid'],
+	[ 'state_id' => 13, 'code' => '95700', 'name' => 'Kampung Tengah'],
+	[ 'state_id' => 13, 'code' => '95700', 'name' => 'Layar Bridge'],
+	[ 'state_id' => 13, 'code' => '95700', 'name' => 'Nanga Spak'],
+	[ 'state_id' => 13, 'code' => '95700', 'name' => 'Skrang'],
+	[ 'state_id' => 13, 'code' => '95707', 'name' => 'Betong - Peti Surat'],
+	[ 'state_id' => 13, 'code' => '95709', 'name' => 'Betong - Beg Berkunci'],
+	[ 'state_id' => 13, 'code' => '95800', 'name' => 'Engkilili'],
+	[ 'state_id' => 13, 'code' => '95800', 'name' => 'Kampung Melayu'],
+	[ 'state_id' => 13, 'code' => '95900', 'name' => 'Batang Ai'],
+	[ 'state_id' => 13, 'code' => '95900', 'name' => 'Kampung Kutai'],
+	[ 'state_id' => 13, 'code' => '95900', 'name' => 'Kampung Melayu'],
+	[ 'state_id' => 13, 'code' => '95900', 'name' => 'Lubuk Antu'],
+	[ 'state_id' => 13, 'code' => '95900', 'name' => 'Merindun'],
+	[ 'state_id' => 13, 'code' => '95900', 'name' => 'Nanga Mepi'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Aup'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Batang Lasa'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Bawang Assan'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Bukit Asek'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Bukit Lan'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Dudong'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Durin'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Engkalat'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Engkio'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Ensurai'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Kampung Bahagia Jaya'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Kampung Banyok'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Kampung Bungan'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Kampung Igan'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Kampung Jeriah Baru'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Kampung Sawai Dalat'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Kampung Usaha Jaya'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Kampung Usaha Jaya Baru'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Lengan'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Menyan'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Naman'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Nanga Baoh'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Nanga Paloh'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Nanga Tamin'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Nanga Tepus Balingian'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Nangka'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Paradom'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Pasai Siong'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Pasar Stapang'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Passin'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Pelawan'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Penasu'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Pulai Kerto'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Rajang Park'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Rantau Panjang'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Rassau'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Salim'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Sekuau'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Selangau'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Sengan'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Sibintik'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Sibu'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Singat'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Stabau'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Sungai Bidut'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Sungai Dasan'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Sungai Empawah'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Sungai Maaw'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Sungai Nibong'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Sungai Pak'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Sungai Salim'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Sungai Saoit'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Sungai Teku'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Sungai Telian'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Taman Crystal'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Taman Damai'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Taman Grands Heights'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Taman Harmoni'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Taman Kenari'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Taman Mutiara'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Taman Paramount'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Taman Pulau Li Hua'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Taman Rajang'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Taman Shan Shui'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Taman Siti Nurbaya'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Taman Soon Hup'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Taman Swan'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Taman Wawasan'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Tanjung Kunyit'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Tanjung Pan'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Teluk Bango'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Teluk Selalo'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Tung Nam Poh'],
+	[ 'state_id' => 13, 'code' => '96000', 'name' => 'Ulu Lanang'],
+	[ 'state_id' => 13, 'code' => '96007', 'name' => 'Sibu - Peti Surat  (1 - 750)'],
+	[ 'state_id' => 13, 'code' => '96008', 'name' => 'Sibu - Peti Surat  (751 & ke atas)'],
+	[ 'state_id' => 13, 'code' => '96009', 'name' => 'Sibu - Beg Berkunci'],
+	[ 'state_id' => 13, 'code' => '96100', 'name' => 'Jakar'],
+	[ 'state_id' => 13, 'code' => '96100', 'name' => 'Pakan (Sarikei)'],
+	[ 'state_id' => 13, 'code' => '96100', 'name' => 'Paloh'],
+	[ 'state_id' => 13, 'code' => '96100', 'name' => 'Repok'],
+	[ 'state_id' => 13, 'code' => '96100', 'name' => 'Sarikei'],
+	[ 'state_id' => 13, 'code' => '96100', 'name' => 'Selalang'],
+	[ 'state_id' => 13, 'code' => '96100', 'name' => 'Sungai Petai'],
+	[ 'state_id' => 13, 'code' => '96107', 'name' => 'Sarikei - Peti Surat 1 - 300'],
+	[ 'state_id' => 13, 'code' => '96108', 'name' => 'Sarikei - Peti Surat 301 & ke atas'],
+	[ 'state_id' => 13, 'code' => '96109', 'name' => 'Sarikei - Beg Berkunci'],
+	[ 'state_id' => 13, 'code' => '96150', 'name' => 'Belawai'],
+	[ 'state_id' => 13, 'code' => '96150', 'name' => 'Kampung Baru'],
+	[ 'state_id' => 13, 'code' => '96150', 'name' => 'Kampung Darat'],
+	[ 'state_id' => 13, 'code' => '96150', 'name' => 'Kampung Jerijeh Baru'],
+	[ 'state_id' => 13, 'code' => '96150', 'name' => 'Kampung Masjid Lama'],
+	[ 'state_id' => 13, 'code' => '96150', 'name' => 'Kampung Rejang'],
+	[ 'state_id' => 13, 'code' => '96150', 'name' => 'Kampung Tengah'],
+	[ 'state_id' => 13, 'code' => '96150', 'name' => 'Kampung Tepi Laut'],
+	[ 'state_id' => 13, 'code' => '96150', 'name' => 'Tanjung Manis'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Batang Lasak'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Bericakong'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Betanak'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Daro'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Jalan Bina'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Jalan Central'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Jalan Itol'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Kampung Bawang'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Kampung Bruit'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Kampung Kelian'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Kampung Nan San'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Kampung Nangar'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Kampung Paloh'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Kampung Penakong'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Kampung Penuai'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Kampung Penyipah'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Kampung Saai'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Kampung Sawai'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Kampung Sebakau'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Kampung Sebenak'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Kampung Sedeo'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Kampung Serdeng'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Kampung Tebaang'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Kampung Tekajong'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Kampung Tikajong'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Kampung Ulu Daro'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Kelian'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Mupong'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Naga Kecil'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Ng. Semah'],
+	[ 'state_id' => 13, 'code' => '96200', 'name' => 'Salah Kecil/Besar'],
+	[ 'state_id' => 13, 'code' => '96250', 'name' => 'Kampung Dagang'],
+	[ 'state_id' => 13, 'code' => '96250', 'name' => 'Kampung Jemoreng'],
+	[ 'state_id' => 13, 'code' => '96250', 'name' => 'Kampung Kuala Matu'],
+	[ 'state_id' => 13, 'code' => '96250', 'name' => 'Kampung Muut'],
+	[ 'state_id' => 13, 'code' => '96250', 'name' => 'Kampung Pasar Baru'],
+	[ 'state_id' => 13, 'code' => '96250', 'name' => 'Kampung Pasar Lama'],
+	[ 'state_id' => 13, 'code' => '96250', 'name' => 'Kampung Pergau'],
+	[ 'state_id' => 13, 'code' => '96250', 'name' => 'Kampung Sekaan Besar'],
+	[ 'state_id' => 13, 'code' => '96250', 'name' => 'Kampung Sekaan Kecil'],
+	[ 'state_id' => 13, 'code' => '96250', 'name' => 'Kampung Serakat'],
+	[ 'state_id' => 13, 'code' => '96250', 'name' => 'Kampung Tering'],
+	[ 'state_id' => 13, 'code' => '96250', 'name' => 'Kampung Tian'],
+	[ 'state_id' => 13, 'code' => '96250', 'name' => 'Matu'],
+	[ 'state_id' => 13, 'code' => '96250', 'name' => 'Telok Gelam'],
+	[ 'state_id' => 13, 'code' => '96300', 'name' => 'Dalat'],
+	[ 'state_id' => 13, 'code' => '96300', 'name' => 'Kampung Balan'],
+	[ 'state_id' => 13, 'code' => '96300', 'name' => 'Kampung Baru'],
+	[ 'state_id' => 13, 'code' => '96300', 'name' => 'Kampung Baru Cina'],
+	[ 'state_id' => 13, 'code' => '96300', 'name' => 'Kampung Brunei'],
+	[ 'state_id' => 13, 'code' => '96300', 'name' => 'Kampung Dalat Seberang'],
+	[ 'state_id' => 13, 'code' => '96300', 'name' => 'Kampung Hilir'],
+	[ 'state_id' => 13, 'code' => '96300', 'name' => 'Kampung Kekan'],
+	[ 'state_id' => 13, 'code' => '96300', 'name' => 'Kampung Klid'],
+	[ 'state_id' => 13, 'code' => '96300', 'name' => 'Kampung Medong'],
+	[ 'state_id' => 13, 'code' => '96300', 'name' => 'Kampung Narub'],
+	[ 'state_id' => 13, 'code' => '96300', 'name' => 'Kampung Sua'],
+	[ 'state_id' => 13, 'code' => '96300', 'name' => 'Kampung Sungai Anak'],
+	[ 'state_id' => 13, 'code' => '96300', 'name' => 'Kampung Sungai Kut Muara'],
+	[ 'state_id' => 13, 'code' => '96300', 'name' => 'Kampung Sungai Kut Tengah'],
+	[ 'state_id' => 13, 'code' => '96300', 'name' => 'Kampung Sungai Ud'],
+	[ 'state_id' => 13, 'code' => '96300', 'name' => 'Kampung Tanam'],
+	[ 'state_id' => 13, 'code' => '96300', 'name' => 'Kampung Tengah'],
+	[ 'state_id' => 13, 'code' => '96300', 'name' => 'Kampung The'],
+	[ 'state_id' => 13, 'code' => '96300', 'name' => 'Sungai Kut'],
+	[ 'state_id' => 13, 'code' => '96307', 'name' => 'Dalat - Peti Surat'],
+	[ 'state_id' => 13, 'code' => '96309', 'name' => 'Dalat - Beg Berkunci'],
+	[ 'state_id' => 13, 'code' => '96350', 'name' => 'Balingian'],
+	[ 'state_id' => 13, 'code' => '96350', 'name' => 'Kampung Baru'],
+	[ 'state_id' => 13, 'code' => '96350', 'name' => 'Kampung Lintang'],
+	[ 'state_id' => 13, 'code' => '96350', 'name' => 'Kampung Masjid'],
+	[ 'state_id' => 13, 'code' => '96350', 'name' => 'Kampung Pulat'],
+	[ 'state_id' => 13, 'code' => '96350', 'name' => 'Kampung Suyong'],
+	[ 'state_id' => 13, 'code' => '96350', 'name' => 'Kuala Balingian'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Kampung Badengan'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Kampung Boyan'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Kampung Bunut'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Kampung Datu'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Kampung Jebungan'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Kampung Judan'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Kampung Litong'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Kampung Penakub Permai'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Kampung Penakub Ulu'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Kampung Penipah'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Kampung Petanak'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Kampung Pewat'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Kampung Pinang'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Kampung Sau'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Kampung Seri Tellian'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Kampung Sesok'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Kampung Sungai Alo'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Kampung Sungai Ragei'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Kampung Teh'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Kampung Tellian Daya'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Kampung Tellian Jaya'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Kampung Tutus Ulu'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Mukah'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Nanga Kenyana'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Nanga Selangau'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Nanga Sikat'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Nanga Taroh'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Taman Boulevard'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Taman Ching Ching'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Taman Hong Leong'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Taman King Sun'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Taman Kubang Jaya'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Taman Li Hua'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Taman Muhibbah'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Taman Pelita (1 - 4)'],
+	[ 'state_id' => 13, 'code' => '96400', 'name' => 'Taman Yun Seng'],
+	[ 'state_id' => 13, 'code' => '96410', 'name' => 'Oya'],
+	[ 'state_id' => 13, 'code' => '96500', 'name' => 'Bakong'],
+	[ 'state_id' => 13, 'code' => '96500', 'name' => 'Bintangor'],
+	[ 'state_id' => 13, 'code' => '96500', 'name' => 'Kampung Penasu'],
+	[ 'state_id' => 13, 'code' => '96500', 'name' => 'Kampung Semop'],
+	[ 'state_id' => 13, 'code' => '96500', 'name' => 'Mador'],
+	[ 'state_id' => 13, 'code' => '96500', 'name' => 'Meradong'],
+	[ 'state_id' => 13, 'code' => '96500', 'name' => 'Nanga Semah'],
+	[ 'state_id' => 13, 'code' => '96500', 'name' => 'Narasit'],
+	[ 'state_id' => 13, 'code' => '96500', 'name' => 'Rumah Mura'],
+	[ 'state_id' => 13, 'code' => '96500', 'name' => 'Sungai Strass'],
+	[ 'state_id' => 13, 'code' => '96500', 'name' => 'Tanjong Genting'],
+	[ 'state_id' => 13, 'code' => '96500', 'name' => 'Tulai'],
+	[ 'state_id' => 13, 'code' => '96500', 'name' => 'Ulu Strass'],
+	[ 'state_id' => 13, 'code' => '96507', 'name' => 'Bintangor - Peti Surat  (1 - 140)'],
+	[ 'state_id' => 13, 'code' => '96508', 'name' => 'Bintangor - Peti Surat  (141 & ke atas)'],
+	[ 'state_id' => 13, 'code' => '96509', 'name' => 'Bintangor - Beg Berkunci'],
+	[ 'state_id' => 13, 'code' => '96600', 'name' => 'Julau'],
+	[ 'state_id' => 13, 'code' => '96600', 'name' => 'Nanga Ensiring'],
+	[ 'state_id' => 13, 'code' => '96600', 'name' => 'Nanga Entabai'],
+	[ 'state_id' => 13, 'code' => '96600', 'name' => 'Nanga Meluan'],
+	[ 'state_id' => 13, 'code' => '96700', 'name' => 'Kampung Hilir'],
+	[ 'state_id' => 13, 'code' => '96700', 'name' => 'Kampung Masjid'],
+	[ 'state_id' => 13, 'code' => '96700', 'name' => 'Kanowit'],
+	[ 'state_id' => 13, 'code' => '96700', 'name' => 'Nanga Dap'],
+	[ 'state_id' => 13, 'code' => '96700', 'name' => 'Nanga Jagau'],
+	[ 'state_id' => 13, 'code' => '96700', 'name' => 'Nanga Machan'],
+	[ 'state_id' => 13, 'code' => '96700', 'name' => 'Nanga Manggut'],
+	[ 'state_id' => 13, 'code' => '96700', 'name' => 'Nanga Ngemah'],
+	[ 'state_id' => 13, 'code' => '96700', 'name' => 'Nanga Tada'],
+	[ 'state_id' => 13, 'code' => '96707', 'name' => 'Kanowit - Peti Surat'],
+	[ 'state_id' => 13, 'code' => '96709', 'name' => 'Kanowit - Beg Berkunci'],
+	[ 'state_id' => 13, 'code' => '96800', 'name' => 'Baleh'],
+	[ 'state_id' => 13, 'code' => '96800', 'name' => 'Nanga Mujong'],
+	[ 'state_id' => 13, 'code' => '96800', 'name' => 'Nanga Merit'],
+	[ 'state_id' => 13, 'code' => '96800', 'name' => 'Nanga Gaat'],
+	[ 'state_id' => 13, 'code' => '96800', 'name' => 'Nanga Bena'],
+	[ 'state_id' => 13, 'code' => '96800', 'name' => 'Kapit'],
+	[ 'state_id' => 13, 'code' => '96800', 'name' => 'Kampung Bleteh'],
+	[ 'state_id' => 13, 'code' => '96800', 'name' => 'Kampung Baru'],
+	[ 'state_id' => 13, 'code' => '96800', 'name' => 'Jalan Abang Suhaili'],
+	[ 'state_id' => 13, 'code' => '96800', 'name' => 'Pelagus'],
+	[ 'state_id' => 13, 'code' => '96807', 'name' => 'Kapit - Peti Surat'],
+	[ 'state_id' => 13, 'code' => '96809', 'name' => 'Kapit - Beg Berkunci'],
+	[ 'state_id' => 13, 'code' => '96850', 'name' => 'Song'],
+	[ 'state_id' => 13, 'code' => '96850', 'name' => 'Nanga Bena'],
+	[ 'state_id' => 13, 'code' => '96850', 'name' => 'Nanga Bangkit'],
+	[ 'state_id' => 13, 'code' => '96850', 'name' => 'Katibas'],
+	[ 'state_id' => 13, 'code' => '96850', 'name' => 'Kampung Gelam'],
+	[ 'state_id' => 13, 'code' => '96850', 'name' => 'Kampung Cina'],
+	[ 'state_id' => 13, 'code' => '96900', 'name' => 'Long Segaham'],
+	[ 'state_id' => 13, 'code' => '96900', 'name' => 'Long Busang'],
+	[ 'state_id' => 13, 'code' => '96900', 'name' => 'Long Bah'],
+	[ 'state_id' => 13, 'code' => '96900', 'name' => 'Long Amo'],
+	[ 'state_id' => 13, 'code' => '96900', 'name' => 'Kampung Melayu'],
+	[ 'state_id' => 13, 'code' => '96900', 'name' => 'Belaga'],
+	[ 'state_id' => 13, 'code' => '96900', 'name' => 'Batu Keling'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Kampung Long Nayan'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Kampung Uma Badeng'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Kampung Uma Bakah'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Kampung Uma Balui Liko'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Kampung Uma Balui Ukap'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Kampung Uma Bawang'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Kampung Long Bangan'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Jabatan Tenaga Kerja '],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Jabatan Pertanian'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Jabatan Pendaftaran'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Jabatan Kerja Raya (Waterboard)'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Tuai Rumah Sing'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Sekolah Menengah Kebangsaan Sungai Asap'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Kampung Uma Juman'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Kampung Uma Belur'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Kampung Uma Daro'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Kampung Uma Kelab'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Sekolah Kebangsaan Long Gang'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Sekolah Kebangsaan Batu Keling'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Sarawak Energy Bhd'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Rumah Nyaring'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Pejabat Pos Sungai Asap'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Pejabat Daerah Kecil Sungai Asap'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Majlis Daerah Kecil Sungai Asap'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Klinik Kesihatan'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Kampung Uma Ukit'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Kampung Uma Penan'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Kampung Uma Lesong'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Kampung Uma Lahanan'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Kampung Uma Kulit'],
+	[ 'state_id' => 13, 'code' => '96950', 'name' => 'Sekolah Kebangsaan Sambop'],
+	[ 'state_id' => 13, 'code' => '97000', 'name' => 'Kemena'],
+	[ 'state_id' => 13, 'code' => '97000', 'name' => 'Kampung Masjid'],
+	[ 'state_id' => 13, 'code' => '97000', 'name' => 'Kampung Tepak'],
+	[ 'state_id' => 13, 'code' => '97000', 'name' => 'Kampung Jepak'],
+	[ 'state_id' => 13, 'code' => '97000', 'name' => 'Kampung Dato'],
+	[ 'state_id' => 13, 'code' => '97000', 'name' => 'Kampung Dagang'],
+	[ 'state_id' => 13, 'code' => '97000', 'name' => 'Kampung Baru'],
+	[ 'state_id' => 13, 'code' => '97000', 'name' => 'Bintulu'],
+	[ 'state_id' => 13, 'code' => '97000', 'name' => 'Abang Galau'],
+	[ 'state_id' => 13, 'code' => '97000', 'name' => 'Universiti Pertanian Bintulu'],
+	[ 'state_id' => 13, 'code' => '97000', 'name' => 'Kampung Sinong'],
+	[ 'state_id' => 13, 'code' => '97000', 'name' => 'Kampung Sibiew'],
+	[ 'state_id' => 13, 'code' => '97007', 'name' => 'Bintulu - Peti Surat  (1 - 300)'],
+	[ 'state_id' => 13, 'code' => '97008', 'name' => 'Bintulu - Peti Surat  (301 - 1500)'],
+	[ 'state_id' => 13, 'code' => '97009', 'name' => 'Bintulu - Beg Berkunci'],
+	[ 'state_id' => 13, 'code' => '97010', 'name' => 'Bintulu - Peti Surat  (1501 - 2000)'],
+	[ 'state_id' => 13, 'code' => '97011', 'name' => 'Bintulu - Peti Surat  (2001 - 2500)'],
+	[ 'state_id' => 13, 'code' => '97012', 'name' => 'Bintulu - Peti Surat  (2501 - 3000)'],
+	[ 'state_id' => 13, 'code' => '97013', 'name' => 'Bintulu - Peti Surat  (3001 - 3500)'],
+	[ 'state_id' => 13, 'code' => '97014', 'name' => 'Bintulu - Peti Surat  (3501 - 4000)'],
+	[ 'state_id' => 13, 'code' => '97015', 'name' => 'Bintulu - Peti Surat  (4001 & ke atas)'],
+	[ 'state_id' => 13, 'code' => '97100', 'name' => 'Kampung Hilir'],
+	[ 'state_id' => 13, 'code' => '97100', 'name' => 'Kampung Masjid'],
+	[ 'state_id' => 13, 'code' => '97100', 'name' => 'Sebauh'],
+	[ 'state_id' => 13, 'code' => '97100', 'name' => 'Labang'],
+	[ 'state_id' => 13, 'code' => '97100', 'name' => 'Pandan'],
+	[ 'state_id' => 13, 'code' => '97100', 'name' => 'Tubau'],
+	[ 'state_id' => 13, 'code' => '97200', 'name' => 'Kampung Dagang'],
+	[ 'state_id' => 13, 'code' => '97200', 'name' => 'Kakus'],
+	[ 'state_id' => 13, 'code' => '97200', 'name' => 'Kampung Kuala Tatau'],
+	[ 'state_id' => 13, 'code' => '97200', 'name' => 'Nanga Tau'],
+	[ 'state_id' => 13, 'code' => '97200', 'name' => 'Kuala Tatau Bazaar'],
+	[ 'state_id' => 13, 'code' => '97200', 'name' => 'Tatau'],
+	[ 'state_id' => 13, 'code' => '97200', 'name' => 'Sangan Bazaar'],
+	[ 'state_id' => 13, 'code' => '97300', 'name' => 'Tanjung Kidurong'],
+	[ 'state_id' => 13, 'code' => '98000', 'name' => 'Ladang Tiga'],
+	[ 'state_id' => 13, 'code' => '98000', 'name' => 'Kampung Tuanku Abdul Rahman'],
+	[ 'state_id' => 13, 'code' => '98000', 'name' => 'Beluru'],
+	[ 'state_id' => 13, 'code' => '98000', 'name' => 'Sungai Rait'],
+	[ 'state_id' => 13, 'code' => '98000', 'name' => 'Senadin'],
+	[ 'state_id' => 13, 'code' => '98000', 'name' => 'Piasau'],
+	[ 'state_id' => 13, 'code' => '98000', 'name' => 'Morsjaya'],
+	[ 'state_id' => 13, 'code' => '98000', 'name' => 'Miri'],
+	[ 'state_id' => 13, 'code' => '98000', 'name' => 'Lambir'],
+	[ 'state_id' => 13, 'code' => '98000', 'name' => 'Kampung Kuala Baram'],
+	[ 'state_id' => 13, 'code' => '98000', 'name' => 'Dasing'],
+	[ 'state_id' => 13, 'code' => '98000', 'name' => 'Jalan Miri - Bintulu (Batu 26)'],
+	[ 'state_id' => 13, 'code' => '98000', 'name' => 'Kampung Bakam'],
+	[ 'state_id' => 13, 'code' => '98000', 'name' => 'Kuala Baram'],
+	[ 'state_id' => 13, 'code' => '98007', 'name' => 'Miri - Peti Surat 1 - 750'],
+	[ 'state_id' => 13, 'code' => '98008', 'name' => 'Miri - Peti Surat 751 & ke atas'],
+	[ 'state_id' => 13, 'code' => '98009', 'name' => 'Miri - Beg Berkunci'],
+	[ 'state_id' => 13, 'code' => '98050', 'name' => 'Golden Hill (Jalan Hii Nguon Song)'],
+	[ 'state_id' => 13, 'code' => '98050', 'name' => 'Bario'],
+	[ 'state_id' => 13, 'code' => '98050', 'name' => 'Baram'],
+	[ 'state_id' => 13, 'code' => '98050', 'name' => 'Kampung Padang Kerbau'],
+	[ 'state_id' => 13, 'code' => '98050', 'name' => 'Sungai Jaong'],
+	[ 'state_id' => 13, 'code' => '98050', 'name' => 'Jalan Kapitan Lim Ching Kiat'],
+	[ 'state_id' => 13, 'code' => '98050', 'name' => 'Jalan Setia'],
+	[ 'state_id' => 13, 'code' => '98050', 'name' => 'Marudi'],
+	[ 'state_id' => 13, 'code' => '98050', 'name' => 'RC Mission (Jalan Tem. Dato Oyong Lawai Jau)'],
+	[ 'state_id' => 13, 'code' => '98050', 'name' => 'Lubuk Nibong'],
+	[ 'state_id' => 13, 'code' => '98050', 'name' => 'Taman Dah Yuh (Jalan Temenggong Gau Jau)'],
+	[ 'state_id' => 13, 'code' => '98050', 'name' => 'Telang Usan'],
+	[ 'state_id' => 13, 'code' => '98050', 'name' => 'Long Teru'],
+	[ 'state_id' => 13, 'code' => '98050', 'name' => 'Kampung Permindahan (Jalan Muhibah) P1 & P2'],
+	[ 'state_id' => 13, 'code' => '98050', 'name' => 'Long Seridan'],
+	[ 'state_id' => 13, 'code' => '98050', 'name' => 'Kampung Baru (Jalan Dato Tuanku Abdul Rahman)'],
+	[ 'state_id' => 13, 'code' => '98050', 'name' => 'Kampung Dagang'],
+	[ 'state_id' => 13, 'code' => '98050', 'name' => 'Kampung Narum'],
+	[ 'state_id' => 13, 'code' => '98050', 'name' => 'Long Akah'],
+	[ 'state_id' => 13, 'code' => '98050', 'name' => 'Long Atip'],
+	[ 'state_id' => 13, 'code' => '98050', 'name' => 'Long Lellang'],
+	[ 'state_id' => 13, 'code' => '98057', 'name' => 'Baram - Peti Surat  1 - 100'],
+	[ 'state_id' => 13, 'code' => '98058', 'name' => 'Baram - Peti Surat  101 & ke atas'],
+	[ 'state_id' => 13, 'code' => '98059', 'name' => 'Baram - Beg Berkunci'],
+	[ 'state_id' => 13, 'code' => '98100', 'name' => 'Lutong'],
+	[ 'state_id' => 13, 'code' => '98107', 'name' => 'Lutong - Peti Surat'],
+	[ 'state_id' => 13, 'code' => '98109', 'name' => 'Lutong - Beg Berkunci'],
+	[ 'state_id' => 13, 'code' => '98150', 'name' => 'Kampung Sebalik'],
+	[ 'state_id' => 13, 'code' => '98150', 'name' => 'Kampung Kuala Sibuti'],
+	[ 'state_id' => 13, 'code' => '98150', 'name' => 'Kampung Menjelin'],
+	[ 'state_id' => 13, 'code' => '98150', 'name' => 'Kampung Mutap'],
+	[ 'state_id' => 13, 'code' => '98150', 'name' => 'Kampung Subak'],
+	[ 'state_id' => 13, 'code' => '98150', 'name' => 'Kampung Sinop'],
+	[ 'state_id' => 13, 'code' => '98150', 'name' => 'Kampung Sepurau'],
+	[ 'state_id' => 13, 'code' => '98150', 'name' => 'Kampung Selanyau'],
+	[ 'state_id' => 13, 'code' => '98150', 'name' => 'Kampung Ranca-Ranca'],
+	[ 'state_id' => 13, 'code' => '98150', 'name' => 'Kampung Kuala Bakar'],
+	[ 'state_id' => 13, 'code' => '98150', 'name' => 'Kampung Keluru'],
+	[ 'state_id' => 13, 'code' => '98150', 'name' => 'Kampung Kelulit'],
+	[ 'state_id' => 13, 'code' => '98150', 'name' => 'Bekenu'],
+	[ 'state_id' => 13, 'code' => '98150', 'name' => 'Kampung Bekenu'],
+	[ 'state_id' => 13, 'code' => '98150', 'name' => 'Kampung Bulau'],
+	[ 'state_id' => 13, 'code' => '98150', 'name' => 'Kampung Bungai'],
+	[ 'state_id' => 13, 'code' => '98150', 'name' => 'Kampung Jangalas'],
+	[ 'state_id' => 13, 'code' => '98150', 'name' => 'Kampung Kayu Kapur'],
+	[ 'state_id' => 13, 'code' => '98150', 'name' => 'Kampung Kejapil'],
+	[ 'state_id' => 13, 'code' => '98150', 'name' => 'Kampung Satap'],
+	[ 'state_id' => 13, 'code' => '98157', 'name' => 'Bekenu - Peti Surat'],
+	[ 'state_id' => 13, 'code' => '98159', 'name' => 'Bekenu - Beg Berkunci'],
+	[ 'state_id' => 13, 'code' => '98200', 'name' => 'Kampung Sepupok'],
+	[ 'state_id' => 13, 'code' => '98200', 'name' => 'Sungai Sekerat'],
+	[ 'state_id' => 13, 'code' => '98200', 'name' => 'Batu Niah'],
+	[ 'state_id' => 13, 'code' => '98200', 'name' => 'Kampung Dagang'],
+	[ 'state_id' => 13, 'code' => '98200', 'name' => 'Kampung Masjid'],
+	[ 'state_id' => 13, 'code' => '98200', 'name' => 'Niah'],
+	[ 'state_id' => 13, 'code' => '98200', 'name' => 'Rumah Sawing'],
+	[ 'state_id' => 13, 'code' => '98300', 'name' => 'Long Lama'],
+	[ 'state_id' => 13, 'code' => '98300', 'name' => 'Lang Laput'],
+	[ 'state_id' => 13, 'code' => '98300', 'name' => 'Kampung Sungai Dua'],
+	[ 'state_id' => 13, 'code' => '98300', 'name' => 'Long Miri'],
+	[ 'state_id' => 13, 'code' => '98300', 'name' => 'Long Pilah'],
+	[ 'state_id' => 13, 'code' => '98300', 'name' => 'Kampung Sri Kenawan'],
+	[ 'state_id' => 13, 'code' => '98300', 'name' => 'Jalan 7 mile Round'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Tuna'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Ukong'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Ulak'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Uma Bawang'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kubong'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Limbang'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Pandaruan'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Penganan'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Batu Biah'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Batu Keramat Jalan Kubong'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Tendungan'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Temiang'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Sembiling'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Sigantang'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Sungai Poyan'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Tababang'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Tabahan'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Tanjong'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Tanjong Darat'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Tanjong Rimau'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Tanjong Ungar'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Tedungan'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Telabak'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Bunga Simpor Jalan Pekeliling'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Cahaya'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Piramid Jalan Kubong'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Poyan Jaya Jalan Kubong'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Pulo Bunga Jalan Kubong'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Riverway Park Jalan Kubong'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Sentosa'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman St. Edmund Jalan Kubong'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Star Jalan Kubong'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Sungai Kaban Jalan Kubong'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Tasek Mas Jalan Kubong'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Ukong'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Pertama Jalan Kubong'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Nyuk Lian'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Desa Pabahanan'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Haji Mohidin Jalan Pandaruan'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Happy Jalan Kubong'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Hen Yii Jalan Batu Biah'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Indah Jalan Pekeliling'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman International Jalan Pandaruan'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Jayitek'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Kaban Jalan Kubong'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Lucky Jalan Kubong'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Ming Hock Jalan Batu Biah'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Taman Lik Hin Jalan Pekeliling'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Sebukang'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Jalan Bangkita'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Baru Kuala Berawan'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Batu 2 1/2'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Batu Bekarang'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Batu Berawan'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Batu Danau'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Batu Kerang'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Belading'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Belimbing'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Benuas'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Jalan Wong Tsap Tsen'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Bidang'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Binjai'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Buang Siol'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Buangabai'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Bukit Kota'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Bukit Luba'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Buluh Balui'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Baru'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Bangkuati'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Bangkita'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Jalan Buangsiol'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Jalan Cempaka Utara'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Jalan Kubong'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Jalan Kubu'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Jalan Maybank'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Jalan Merdeka'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Jalan Muhibbah'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Jalan Pandaruan'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Jalan Pegong'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Jalan Rickettes'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Jalan Tarap'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Jalan Wayang'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Agong Tua'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Anak Bukit'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Anak Tuno'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Bakol'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Bambangan'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Bumbun'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Bunga Raya'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Cempaka'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Meritam'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Nauran'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Pabahanan'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Pahlawan'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Pandak'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Patiambun'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Paya Mengeliong'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Pekan Gurah'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Merasan'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Lubok Bidai'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Lubok Lasa'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Lubok Pangie'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Lubok Piasau'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Limpaki'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Malagangai'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Masjid'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Medait'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Mengatai'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Pekan Jawa'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Lembuak'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Gadong'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Gumaya'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Imok'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Indok'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Ipai'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Kelapa Mawar'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Kuala Awang'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Pelita (LCDA)'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Sayong'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Sangkar'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Pekan Madang'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Pemukat'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Penapak'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Pendam'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Petiambun'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Pundut'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Runggu'],
+	[ 'state_id' => 13, 'code' => '98700', 'name' => 'Kampung Limpaong'],
+	[ 'state_id' => 13, 'code' => '98707', 'name' => 'Limbang - Peti Surat 1 - 200'],
+	[ 'state_id' => 13, 'code' => '98708', 'name' => 'Limbang - Peti Surat 201 & ke atas'],
+	[ 'state_id' => 13, 'code' => '98709', 'name' => 'Limbang - Beg Berkunci'],
+	[ 'state_id' => 13, 'code' => '98750', 'name' => 'Nanga Medamit'],
+	[ 'state_id' => 13, 'code' => '98800', 'name' => 'Sundar'],
+	[ 'state_id' => 13, 'code' => '98800', 'name' => 'Kampung Aru'],
+	[ 'state_id' => 13, 'code' => '98800', 'name' => 'Kampung Awat-Awat'],
+	[ 'state_id' => 13, 'code' => '98800', 'name' => 'Kampung Baru'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Kampung Belangsat'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Kampung Air Terjun'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Kampung Belimbing'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Kampung Datu'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Sungai Bangat'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Kampung Batu Tiga'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Kampung Batu Dua'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Belakang Kedai'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Long Sukang'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Ba Kelalan'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Awat-Awat'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Kampung Empittied'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Kampung Long Sebangang'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Kampung Masjid'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Sungai Berlipat'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Sungai Seloating'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Trusan'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Tuaran'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Kampung Pangi'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Long Semadoh'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Lawas'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Kampung Temanggis'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Kampung Merapok'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Kampung Nor Islam'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Kampung Pemukat'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Kampung Punang'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Kampung Sebangan Lawas'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Kampung Sesco'],
+	[ 'state_id' => 13, 'code' => '98850', 'name' => 'Kampung Tanjong Batu'],
+	[ 'state_id' => 13, 'code' => '98857', 'name' => 'Lawas - Peti Surat'],
+	[ 'state_id' => 13, 'code' => '98859', 'name' => 'Lawas - Beg Berkunci']
+];

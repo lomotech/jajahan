@@ -5721,5 +5721,5 @@ $kelatan = [
 	[ 'state_id' => 3, 'code' => '18500', 'name' => 'Temangan Lama'],
 	[ 'state_id' => 3, 'code' => '18500', 'name' => 'To Chanor'],
 	[ 'state_id' => 3, 'code' => '18500', 'name' => 'Tok Bok'],
-	[ 'state_id' => 3, 'code' => '18500', 'name' => 'Wakaf Bata Gelong Gajah'],
+	[ 'state_id' => 3, 'code' => '18500', 'name' => 'Wakaf Bata Gelong Gajah']
 ];

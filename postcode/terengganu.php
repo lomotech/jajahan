@@ -1,1645 +1,1649 @@
-20000;Hotel Tanjung Vista;-
-20000;Jalan Istana Kolam;-
-20000;Jalan Kota;-
-20000;Jalan Ladang Sekolah;-
-20000;Jalan Nesan Empat;-
-20000;Jalan Petani;-
-20000;Jalan Sultan Sulaiman;-
-20000;Jalan Sultan Zainal Abidin;-
-20000;Kampung Aur;-
-20000;Kampung Bangsal;-
-20000;Kampung Daik;-
-20000;Kampung Dalam Bata;-
-20000;Kampung Dato Penglima Perang;-
-20000;Kampung Kolam;-
-20000;Kampung Ladang Cicar;-
-20000;Kampung Ladang Mengabang;-
-20000;Kampung Ladang Pasar;-
-20000;Kampung Ladang Sekolah;-
-20000;Kampung Ladang Titian;-
-20000;Kampung Pantai Haji Kasim;-
-20000;Kampung Petani;-
-20000;Kampung Rakyat;-
-20000;Kampung Surau Haji Mat Tokey;-
-20000;Kampung Surau Telok;-
-20000;Kampung Surau Tok She;-
-20000;Kampung Tanjong (Km 1.5);-
-20000;Kampung Tanjong Paya;-
-20000;Kampung Tanjong Surau Besar;-
-20000;Kampung Tanjong Surau Pasir;-
-20000;Kampung Tanjung Batu Satu;-
-20000;Kampung Tanjung Mengabang;-
-20000;Lorong Bemban;-
-20000;Perbadanan Pembangunan Bandar;-
-20000;Taman Petani;-
-20050;Jalan Kelantan (Hingga Km 6);-
-20050;Jalan Pulau Musang;-
-20050;Kampung Banggol Chempedak;-
-20050;Kampung Banggol Katong;-
-20050;Kampung Banggol Lalang;-
-20050;Kampung Banggol Tok Ku;-
-20050;Kampung Baru Serada;-
-20050;Kampung Beladau Selat;-
-20050;Kampung Belukar Sukai;-
-20050;Kampung Bukit Kubang Jambu;-
-20050;Kampung Durian Burong;-
-20050;Kampung Dusun Melintang;-
-20050;Kampung Gelugor Haji Tahir;-
-20050;Kampung Gelugor Kedai;-
-20050;Kampung Gelugor Raja;-
-20050;Kampung Gong Pauh;-
-20050;Kampung Gong Pipit;-
-20050;Kampung Kedai Kepong;-
-20050;Kampung Kepong;-
-20050;Kampung Kuala Bekah;-
-20050;Kampung Kuala Bekah Pasar;-
-20050;Kampung Kubang Bakong;-
-20050;Kampung Kubang Bujok;-
-20050;Kampung Kubang Kura;-
-20050;Kampung Kubang Parit;-
-20050;Kampung Kubang Tangga;-
-20050;Kampung Kubang Terap;-
-20050;Kampung Melintang;-
-20050;Kampung Merbau Patah;-
-20050;Kampung Padang Sena;-
-20050;Kampung Pak Pa;-
-20050;Kampung Paloh Masjid;-
-20050;Kampung Paloh Sekolah;-
-20050;Kampung Paloh Sungai Kiat;-
-20050;Kampung Paloh Tok Ku;-
-20050;Kampung Paloh Tuan Sulong;-
-20050;Kampung Panji;-
-20050;Kampung Pengadang Baru;-
-20050;Kampung Pengkalan Setar;-
-20050;Kampung Pulau Musang;-
-20050;Kampung Pulau Rusa;-
-20050;Kampung Pulau Rusa Masjid;-
-20050;Kampung Pulau Rusa Rang;-
-20050;Kampung Pulau Rusa Sekolah;-
-20050;Kampung Pulau Rusa Wan Nik;-
-20050;Kampung Serada;-
-20050;Kampung Sungai Pinang;-
-20050;Kampung Sungai Rengas;-
-20050;Kampung Telok Paku;-
-20050;Kampung Tirok;-
-20050;Kampung Titian Hangus;-
-20050;Kampung Tok Badir;-
-20050;Kampung Tok Jamal;-
-20050;Kampung Tok Kaya;-
-20050;Kampung Tuan Nong;-
-20050;Kampung Wakaf  Beruas;-
-20050;Kampung Wakaf Che Kapor;-
-20050;Kampung Wakaf Mempelam;-
-20050;Taman Seri Paloh;-
-20050;Taman Setia Durian Burong;-
-20100;Jalan Bandar;-
-20100;Jalan Banggol;-
-20100;Jalan Belakang Kampung China;-
-20100;Jalan Jail;-
-20100;Jalan Kampung Dalam;-
-20100;Jalan Kampung Tiong;-
-20100;Jalan Kubor;-
-20100;Jalan Masjid Abidin;-
-20100;Jalan Pantai;-
-20100;Jalan Syed Hussein;-
-20100;Jalan Tok Lam;-
-20100;Kampung Banggol;-
-20100;Kampung Jail;-
-20100;Kampung Masjid;-
-20100;Kampung Paya Keladi;-
-20100;Kampung Surau Puteh;-
-20100;Kampung Surau Wan Su;-
-20100;Kampung Telaga Panchor;-
-20100;Kampung Tiong;-
-20100;Kedai Payang;-
-20100;Komplek Niaga Paya Bunga;-
-20100;Lorong Haji Jamil;-
-20100;Penguatkuasa Akta Penanaman Padi;-
-20100;Pusat Perniagaan Paya Keladi;-
-20200;Jabatan Bekalan Air;-
-20200;Jabatan Hal Ehwal Kesatuan Sekerja;-
-20200;Jabatan Hutan Daerah Terengganu Utara;-
-20200;Jalan Pejabat;-
-20200;Jalan Sultan Ismail;-
-20200;Jawatankuasa Keselamatan Negeri;-
-20200;Kampung Paya Bunga;-
-20200;Lembaga Kemajuan Perindustrian (MIDA);-
-20200;Lembaga Pasaran & Perusahaan Getah;-
-20200;Lembaga Pelesenan Kenderaan (LPKP);-
-20200;Lembaga Pelesenan Minyak Sawit;-
-20200;Lembaga Pemasaran Pertanian;-
-20200;Lembaga Tabung Haji;-
-20200;Majlis Perbandaran Kuala Terengganu;-
-20200;Muasasah Gadaian Islam;-
-20200;Pejabat Pelancungan Malaysia  (TDC);-
-20200;Perbadanan Kemajuan Iktisad Negeri Terengganu;-
-20200;Pusat Khidmat Kontraktor;-
-20200;Unit Kontrak Penyelenggaraan & Bumiputera;-
-20200;Unit Perpaduan Ummah;-
-20200;Wisma Persekutuan;-
-20300;Jabatan Pertanian Daerah;-
-20300;Jalan Air Jernih;-
-20300;Jalan Batas Baru;-
-20300;Jalan Cherong Lanjut;-
-20300;Jalan Hilir;-
-20300;Jalan Kota Lama;-
-20300;Jalan Mengadang Akar;-
-20300;Jalan Sultan Omar;-
-20300;Jalan Syed Zain;-
-20300;Jalan Tekukor;-
-20300;Kampung Balik Bukit;-
-20300;Kampung Batas Baru;-
-20300;Kampung Bukit Jambol;-
-20300;Kampung Paya Tok Ber;-
-20300;Kampung Pengadang Akar;-
-20300;Kampung Pulau Kambing;-
-20300;Kampung Titian Lembut;-
-20300;Pejabat Felda;-
-20300;Pejabat Shah Bandar Pantai Timur;-
-20300;Taman Dalya;-
-20300;Taman Hajjah Kelsom;-
-20300;Taman Terkukur;-
-20300;Yayasan Terengganu;-
-20400;Jalan Dato Amar;-
-20400;Jalan Haji Busu;-
-20400;Jalan Hospital;-
-20400;Jalan Kamaruddin;-
-20400;Jalan Kenanga;-
-20400;Jalan Peranginan;-
-20400;Jalan Pusara;-
-20400;Jalan Sultan Mahmud;-
-20400;Kampung Banggol Tok Mudin;-
-20400;Kampung Batu Burok;-
-20400;Kampung Gong Kemunting;-
-20400;Kampung Kolam Kuala Ibai;-
-20400;Kampung Kuala Ibai;-
-20400;Kampung Ladang Hospital;-
-20400;Kampung Ladang Sheikh Ibrahim;-
-20400;Kampung Ladang Sihat;-
-20400;Kampung Masjid Batu Burok;-
-20400;Kampung Mengabang Tengah;-
-20400;Kampung Mengabang Tengah Masjid;-
-20400;Kampung Pantai Kuala Ibai;-
-20400;Kampung Telok Tok Adis;-
-20400;Lembaga Tembakau Negara;-
-20400;Lorong Budiman;-
-20400;Lorong Haji Da;-
-20400;Lorong Pandan;-
-20400;Lorong Temasya Pantai;-
-20400;Taman Jaya;-
-20400;Taman Purnama;-
-20400;Taman Salimor 2;-
-20400;Taman Seri Pantai;-
-20500;DYMM Sultan Terengganu;-
-20502;Biro Tata Negara Terengganu;-
-20502;YAB Menteri Besar Terengganu;-
-20503;Majlis Sukan Negeri;-
-20503;Setiausaha Kerajaan Negeri;-
-20503;Unit Perancang Ekonomi;-
-20504;Biro Bantuan Guaman;-
-20505;Biro Pengaduan Awam;-
-20506;Mahkamah Tinggi;-
-20508;Amanah Raya Berhad;-
-20512;Penasihat Undang-Undang Negeri;-
-20514;Jabatan Perangkaan;-
-20516;Jabatan Pemegang Harta;-
-20517;Jabatan Perpaduan Negara;-
-20518;Ketua Audit Negeri;-
-20519;Majlis Agama Islam Terengganu;-
-20520;SuruhanJaya Perkhidmatan Awam;-
-20532;Jabatan Sumber Manusia;-
-20534;Jabatan Kilang & Jentera;-
-20536;Jabatan Perhubungan Perusahaan;-
-20538;Jabatan Keselamatan Sosial (Perkeso);-
-20540;Jabatan Tenaga Rakyat;-
-20542;Pendaftar Kesatuan Sekerja;-
-20546;Pejabat Rela Negeri;-
-20548;Jabatan Hal Ehwal Orang Asli;-
-20550;Jabatan Imigresen;-
-20551;Jabatan Pendaftaran Negara;-
-20552;Jabatan Pendaftar Pertubuhan;-
-20554;Percetakan Nasional Berhad;-
-20556;Jabatan Pertahanan Awam;-
-20560;Ketua Polis Negeri;-
-20564;Jabatan Kebajikan Masyarakat;-
-20566;Jabatan Muzium;-
-20568;Jabatan Arkib Negara;-
-20570;Jabatan Belia Dan Sukan;-
-20570;Pusat Latihan Belia Negeri;-
-20572;Perpustakaan Awam Negeri;-
-20576;Jabatan Tanah Dan Galian;-
-20578;Jabatan Ukur & Pemetaan;-
-20582;Jabatan Kerja Raya;-
-20586;Hospital Kuala Terengganu;-
-20590;Jabatan Kesihatan;-
-20592;Jabatan Penilaian Harta;-
-20592;Pegawai Kewangan Negeri;-
-20596;Akauntan Negeri;-
-20596;Jabatan Kastam & Eksais Di Raja;-
-20600;Lembaga Hasil Dalam Negeri;-
-20604;Jabatan Pendidikan;-
-20604;Ketua Nazir Sekolah Persekutuan;-
-20606;Jabatan Kemajuan Masyarakat (Kemas);-
-20608;Jabatan Pembangunan Koperasi;-
-20609;Pejabat Mara Negeri;-
-20610;Bahagian Pelesenan - Kementerian Penerangan;-
-20612;Jabatan Penerangan;-
-20614;Jabatan Penyiaran;-
-20618;Jabatan Penerbangan Awam;-
-20620;Jabatan Pengangkutan Jalan;-
-20622;Penguatkuasa Kementerian Perdagangan Dalam Negeri;-
-20626;Jabatan Pengairan Dan Saliran;-
-20628;Jabatan Perikanan;-
-20630;Jabatan Haiwan;-
-20632;Jabatan Pertanian;-
-20646;Jabatan Perancang Bandar Dan Desa;-
-20648;Jabatan Bomba & Penyelamat;-
-20656;Jabatan Galian;-
-20658;Jabatan Kajibumi;-
-20660;Jabatan Perhutanan;-
-20661;Padi & Beras Nasional (Bernas);-
-20662;Jabatan Alam Sekitar Negeri;-
-20662;Jabatan Kajicuaca;-
-20662;Jabatan Kimia;-
-20664;Jabatan Perhilitan;-
-20668;Jabatan Telekom Timur;-
-20670;Pos Malaysia Berhad;-
-20672;Telekom Malaysia Berhad;-
-20673;Tenaga Nasional Berhad;-
-20674;Pegawai Kemajuan Negeri;-
-20676;Jabatan Agama Islam Terengganu;-
-20680;Dewan Undangan Negeri;-
-20690;Suruhanjaya Pilihan Raya Negeri;-
-20698;Kumpulan Wang Simpanan Pekerja;-
-20700;Kuala Terengganu - Peti surat   1 - 3;-
-20700;Kuala Terengganu - Peti surat 19 - 42;-
-20700;Kuala Terengganu - Peti surat 44 - 49;-
-20700;Kuala Terengganu - Peti surat 5 - 17;-
-20700;Kuala Terengganu - Peti surat 52 - 55;-
-20700;Kuala Terengganu - Peti surat 58 - 62;-
-20700;Kuala Terengganu - Peti surat 64;-
-20700;Kuala Terengganu - Peti surat 69 - 80;-
-20710;Kuala Terengganu - Peti surat 123 - 125;-
-20710;Kuala Terengganu - Peti surat 128 - 160;-
-20710;Kuala Terengganu - Peti surat 81 - 89;-
-20710;Kuala Terengganu - Peti surat 91- 121;-
-20720;Kuala Terengganu - Peti surat 161  & ke atas;-
-20900;Kuala Terengganu - Peti surat  4;-
-20902;Kuala Terengganu - Peti surat 18;-
-20904;Kuala Terengganu - Peti surat 43;-
-20906;Kuala Terengganu - Peti surat 50;-
-20908;Kuala Terengganu - Peti surat 51;-
-20910;Kuala Terengganu - Peti surat 56;-
-20912;Kuala Terengganu - Peti surat 57;-
-20914;Kuala Terengganu - Peti surat 63;-
-20916;Kuala Terengganu - Peti surat 65;-
-20918;Kuala Terengganu - Peti surat 66;-
-20920;Kuala Terengganu - Peti surat 67;-
-20922;Kuala Terengganu - Peti surat 68;-
-20924;Kuala Terengganu - Peti surat 90;-
-20926;Kuala Terengganu - Peti surat 122;-
-20928;Kuala Terengganu - Peti surat 126;-
-20930;Kuala Terengganu - Peti surat 127;-
-20990;Kuala Terengganu - Beg berkunci;-
-21000;Chabang Tiga;-
-21000;Jalan Hiliran Masjid;-
-21000;Jalan Kosong Ferry;-
-21000;Jalan Kuala Hiliran;-
-21000;Jalan Losong Masjid;-
-21000;Jalan Seb Baroh Kanan;-
-21000;Jalan Siakap;-
-21000;Kampung Bukit Losong;-
-21000;Kampung Bukit Tangki Ayer;-
-21000;Kampung Hiliran Binjai Besar;-
-21000;Kampung Hiliran Masjid;-
-21000;Kampung Hiliran Parit Gali;-
-21000;Kampung Hiliran Surau Baru;-
-21000;Kampung Kubang Buyong;-
-21000;Kampung Lorong Salak;-
-21000;Kampung Losong Atap Zing;-
-21000;Kampung Losong Bata;-
-21000;Kampung Losong Dato Amar;-
-21000;Kampung Losong Ebeng;-
-21000;Kampung Losong Haji Awang;-
-21000;Kampung Losong Haji Long Hakim;-
-21000;Kampung Losong Haji Mohd;-
-21000;Kampung Losong Haji Su;-
-21000;Kampung Losong Haji Wan Nawang;-
-21000;Kampung Losong Masjid;-
-21000;Kampung Losong Megat Husain;-
-21000;Kampung Losong Pak Bas;-
-21000;Kampung Losong Panglima Perang;-
-21000;Kampung Losong Pasir;-
-21000;Kampung Losong Tangkol Hijau;-
-21000;Kampung Makam Lama;-
-21000;Kampung Masjid Tok Ku;-
-21000;Kampung Padang Hiliran;-
-21000;Kampung Pulau Sekati;-
-21000;Kampung Seberang Baroh;-
-21000;Kampung Seberang Baroh Belukar;-
-21000;Kampung Seberang Baroh Taliair;-
-21000;Kampung Tok Ku;-
-21000;Kuala Hiliran;-
-21000;Kubang Buyong;-
-21000;Lorong Ciku;-
-21000;Lorong Limau;-
-21000;Lorong Makam Lama;-
-21000;Lorong Radio Malaysia;-
-21000;Lorong Stesen Pemancar RTM;-
-21000;Losong Feri Kiri;-
-21000;Losong Haji Long;-
-21000;Losong Haji Mat Shafie;-
-21000;Losong Lebai Salleh;-
-21000;Losong Sekolah;-
-21000;Losong Tepas Mahmud;-
-21000;Pulau Pak Mat;-
-21000;Pulau Wan Man;-
-21000;Simpang Tok Ku;-
-21009;Chabang Tiga - Beg berkunci;-
-21010;Kampung Bari Besar;-
-21010;Kampung Gong Arang;-
-21010;Kampung Mengabang;-
-21010;Kampung Rhu Tapai;-
-21010;Kampung Telaga Papan;-
-21020;Jalan Batu Rakit;-
-21020;Jalan Merang;-
-21020;Kampung Bari Besar;-
-21020;Kampung Darat Tok Wail;-
-21020;Kampung Dusun Durian;-
-21020;Kampung Gelong Gajah;-
-21020;Kampung Kubor Timah;-
-21020;Kampung Maras;-
-21020;Kampung Medan Cengal;-
-21020;Kampung Mengabang Bakong;-
-21020;Kampung Mengabang Lekar;-
-21020;Kampung Mengabang Panjang;-
-21020;Kampung Mengabang Telong;-
-21020;Kampung Padang Kemunting;-
-21020;Kampung Pagar Besi;-
-21020;Kampung Pancur Kuin;-
-21020;Kampung Pengkalan Atap;-
-21020;Kampung Sungai Pimpin;-
-21020;Kampung Taman Hijrah;-
-21020;Kampung Tanjung Kedepan;-
-21020;Kampung Telaga Putat;-
-21020;PPRT Ru Tapai;-
-21020;Taman Perumahan Lembah Bidong;-
-21020;Tapah;-
-21030;Jalan Bakti Simpang Tiga Kubang Badak;-
-21030;Jalan Sekolah Rendah Gong Badak;-
-21030;Kampung Gong Benjok;-
-21030;Kampung Gong Datok;-
-21030;Kampung Kubang Badak (Jalan Pantai);-
-21030;Kampung Pak Tuyu;-
-21030;Kampung Tanjong Gelang;-
-21030;Kampung Wakaf Cagak;-
-21030;Kampung Wakaf Tengah;-
-21030;Maktab Perguruan Kuala Terengganu;-
-21030;Maktab Rendah Sains Mara;-
-21030;Mengabang Telipot;-
-21030;Simpang Tiga Kubang Badak;-
-21030;Taman Baiduri;-
-21030;Taman Indah Wangsa;-
-21030;Taman Seri Nenas;-
-21040;Kampung Bukit Chempedak;-
-21040;Kampung Bukit Kolam;-
-21040;Kampung Cherang Gajah;-
-21040;Kampung Durian Guling;-
-21040;Kampung Jerong Surau;-
-21040;Kampung Jerong Tuan;-
-21040;Kampung Kayu Arang;-
-21040;Kampung Kuala Bekah (Pengkalan Berangan);-
-21040;Kampung Lubok Batu (Wakaf Tapai);-
-21040;Kampung Pengkalan Berangan;-
-21040;Kampung Tanggol;-
-21040;Kampung Tapu;-
-21040;Kampung Temala;-
-21040;Kampung Wakaf Tapai;-
-21040;Pusat  Perikanan & Sains;-
-21060;Kampung Alor Gemia;-
-21060;Kampung Banggol Nyour;-
-21060;Kampung Bukit ChemPaka;-
-21060;Kampung Bukit Guntong;-
-21060;Kampung Bukit Kubor;-
-21060;Kampung Bukit Nangka;-
-21060;Kampung Bukit Nenas;-
-21060;Kampung Gemuroh;-
-21060;Kampung Jeram Hilir;-
-21060;Kampung Jeram Hulu;-
-21060;Kampung Padang Baloh;-
-21060;Kampung Padang Hangus;-
-21060;Kampung Pagar Ubi;-
-21060;Kampung Pondok Lalang;-
-21060;Kampung Raja Tepoh;-
-21060;Kampung Sungai Ikan;-
-21060;Kampung Tepoh;-
-21060;Kampung Tok Ban;-
-21060;Kampung Wakaf Gomok;-
-21060;Tepoh;-
-21070;Atas Tol;-
-21070;Kampung Alor;-
-21070;Kampung Alor Tempoyak;-
-21070;Kampung Atas Tol;-
-21070;Kampung Bawah Atas Tol;-
-21070;Kampung Kedai Buloh;-
-21070;Kampung Titian Baharu;-
-21080;Chendering;-
-21080;Institut Latihan Perikanan;-
-21080;Institut Piawaian Malaysia (SIRIM);-
-21080;Kampung Belukar Jambu;-
-21080;Kampung Bukit Batu Puteh;-
-21080;Kampung Bukit Chendering;-
-21080;Kampung Chendering;-
-21080;Kampung Ketapang;-
-21080;Kampung Kubang Ikan;-
-21080;Kampung Laut;-
-21080;Kampung Pengkalan Raja Wali;-
-21080;Kampung Raja Chendering;-
-21080;Kampung Rusila;-
-21080;Kampung Sendong;-
-21080;Kampung Wakaf Tok Keh;-
-21080;Kubang Ikan;-
-21080;Lembaga Kemajuan Ikan (LKIM);-
-21080;Pusat Penyelidikan Ikan;-
-21080;Rusila;-
-21080;Taman Aquarius;-
-21080;Taman Desa Jaya;-
-21080;Taman Medan Jaya;-
-21080;Taman Permin Jaya;-
-21090;Pulau Redang;-
-21100;Bukit Besar;-
-21100;Gong Kapas;-
-21100;Jalan Bukit Kechil;-
-21100;Jalan Dato Bentara Setia;-
-21100;Jalan Gong Penaga;-
-21100;Jalan Ibrahim;-
-21100;Jalan Panji Alam;-
-21100;Jalan Pintasan;-
-21100;Jalan Sultan Mohamad;-
-21100;Kampung Bukit Bayas;-
-21100;Kampung Bukit Besar;-
-21100;Kampung Bukit Depu;-
-21100;Kampung Bukit Kechil;-
-21100;Kampung Bukit Tanah;-
-21100;Kampung Cik Damat;-
-21100;Kampung Gelong Bilal;-
-21100;Kampung Gong Baru;-
-21100;Kampung Gong Kapas;-
-21100;Kampung Gong Nangka;-
-21100;Kampung Gong Pak Maseh;-
-21100;Kampung Gong Parit;-
-21100;Kampung Gong Penaga;-
-21100;Kampung Gong Tok Nasek;-
-21100;Kampung Kubor Kechil;-
-21100;Kampung Nibong;-
-21100;Kampung Padang;-
-21100;Kampung Pasir Panjang;-
-21100;Kampung Paya Jambol;-
-21100;Kampung Seberang Bukit Bayas;-
-21100;Kampung Sungai Durhaka;-
-21100;Lorong Beringin;-
-21100;Lorong Gemia Rendang;-
-21100;Lorong Jambu;-
-21100;Lorong Kemunting;-
-21100;Lorong Masjid Haji Kadir;-
-21100;Lorong Masjid Raja;-
-21100;Lorong Paya Jambol;-
-21100;Lorong Sagu;-
-21100;Lorong Surau Baharu;-
-21100;Lorong Tembesu;-
-21100;Lorong Tunku Ahmad;-
-21100;Pusat Membeli Belah Giant;-
-21100;Sekolah Menengah Sains Kuala Terengganu;-
-21100;Taman Budaya;-
-21100;Taman Had;-
-21100;Taman Salimor 1;-
-21100;Taman Telok Adis Indah;-
-21109;Gong Kapas - Beg berkunci;-
-21200;Batu Enam;-
-21200;Belara;-
-21200;Binjai Manis;-
-21200;Jalan Kelantan (Km 7 - 13);-
-21200;Kampung Banggol Ayer Lilih;-
-21200;Kampung Banggol Dama;-
-21200;Kampung Banggol Limau;-
-21200;Kampung Banggol Manir;-
-21200;Kampung Banggol Tuan Muda;-
-21200;Kampung Baru Tetambah;-
-21200;Kampung Batu Hampar;-
-21200;Kampung Batu Lapan;-
-21200;Kampung Beladau Kolam;-
-21200;Kampung Bukit Datu;-
-21200;Kampung Bukit Kandis;-
-21200;Kampung Bukit Petiti Belara;-
-21200;Kampung Bukit Seraman;-
-21200;Kampung Bukit Tok Ris;-
-21200;Kampung Bukit Tumboh;-
-21200;Kampung Bukit Tunggal;-
-21200;Kampung Buloh Gading;-
-21200;Kampung Durian Mas;-
-21200;Kampung Dusun;-
-21200;Kampung Dusun Pinang;-
-21200;Kampung Dusun Tembakan;-
-21200;Kampung Gong Kijang;-
-21200;Kampung Gong Pak Damak;-
-21200;Kampung Gong Sentol;-
-21200;Kampung Jeram;-
-21200;Kampung Kebor Ayer;-
-21200;Kampung Kebor Besar;-
-21200;Kampung Kedai Manir;-
-21200;Kampung Kesom;-
-21200;Kampung Kesom Che Nordin;-
-21200;Kampung Kesom Padang Tambak;-
-21200;Kampung Kota;-
-21200;Kampung Kuala Belara;-
-21200;Kampung Kubang Bujok;-
-21200;Kampung Kubang Ikan;-
-21200;Kampung Kubang Jela;-
-21200;Kampung Kubang Tepak;-
-21200;Kampung Masjid Haji Hussin;-
-21200;Kampung Padang Machang;-
-21200;Kampung Padang Tenger;-
-21200;Kampung Padang Ujib;-
-21200;Kampung Pak Katak;-
-21200;Kampung Parit Dicap;-
-21200;Kampung Pasir Tebakang;-
-21200;Kampung Paya Datu;-
-21200;Kampung Paya Limau Amas;-
-21200;Kampung Pelam;-
-21200;Kampung Pengkalan Arang;-
-21200;Kampung Pengkalan Batu;-
-21200;Kampung Peradong;-
-21200;Kampung Petai Bubus;-
-21200;Kampung Pujuk;-
-21200;Kampung Pulau Bahagia;-
-21200;Kampung Seberang Bukit Tumboh;-
-21200;Kampung Seberang Tuan Chik Haji;-
-21200;Kampung Sekati;-
-21200;Kampung Serdang Baru;-
-21200;Kampung Tanah Lot (Batu 8);-
-21200;Kampung Tanjong Bunut;-
-21200;Kampung Tanjong Sabtu;-
-21200;Kampung Tanjung Serdang;-
-21200;Kampung Tebauk;-
-21200;Kampung Telari;-
-21200;Kampung Telok Menara;-
-21200;Kampung Telok Pasu;-
-21200;Kampung Tengah;-
-21200;Kampung Tetambah;-
-21200;Kampung Tok Harun;-
-21200;Kampung Tualang;-
-21200;Kampung Wakaf Tembesu;-
-21200;Manir;-
-21209;Manir - Beg berkunci;-
-21210;Kampung Bukit Aman;-
-21210;Kampung Bukit Lawan;-
-21210;Kampung Bukit Tadok;-
-21210;Kampung Chepoh;-
-21210;Kampung Getang;-
-21210;Kampung Kubang Palas;-
-21210;Kampung Lubok Batu (Kuala Telemong);-
-21210;Kampung Naga Mengulor;-
-21210;Kampung Pulau Manis (Kuala Telemong);-
-21210;Kampung Tanjong Mesah;-
-21210;Kampung Tok Iman Lapar;-
-21220;Kuala Telemong;-
-21300;Batalion 104 Infanteri;-
-21300;Batalion 18 RAMD;-
-21300;Batu 12 (Jalan Gong Badak);-
-21300;IBN PGA 9 Kubang Badak;-
-21300;Jalan Maskayu;-
-21300;Jalan Pak Yusof;-
-21300;Jalan Tanah Lot Wakaf Tembusu;-
-21300;Jalan Tok Jembal;-
-21300;Kampung Alor Kuda Bukit Tok Beng;-
-21300;Kampung Banggol Buloh;-
-21300;Kampung Banggol Pauh;-
-21300;Kampung Banggol Putat;-
-21300;Kampung Baru Pusu Tiga;-
-21300;Kampung Baru Seberang Takir;-
-21300;Kampung Baru Tok Mer;-
-21300;Kampung Batu 13 (Jalan Lapangan Terbang);-
-21300;Kampung Bukit Tok Beng;-
-21300;Kampung Duyong;-
-21300;Kampung Duyong Haji Muda;-
-21300;Kampung Duyong Kecil;-
-21300;Kampung Duyun Haji Umar;-
-21300;Kampung Duyung Besar;-
-21300;Kampung Gong Badak;-
-21300;Kampung Gong Katut;-
-21300;Kampung Gong Kuin;-
-21300;Kampung Guchil;-
-21300;Kampung Hujung Tanjung Luang;-
-21300;Kampung Hulur Takur;-
-21300;Kampung Kayu Kelat;-
-21300;Kampung Kebun Melaka;-
-21300;Kampung Kelantan;-
-21300;Kampung Kubang Badak;-
-21300;Kampung Padang Ulu Takir;-
-21300;Kampung Pak Tijah;-
-21300;Kampung Paya Putat;-
-21300;Kampung Pengkalan Belat;-
-21300;Kampung Pengkalan Titian;-
-21300;Kampung Pulau Duyung;-
-21300;Kampung Pulau Ketam;-
-21300;Kampung Seberang Tok Abu;-
-21300;Kampung Sepetir;-
-21300;Kampung Tanah Lot Telok Ketapang;-
-21300;Kampung Tanjong Jaafar;-
-21300;Kampung Telaga Batin;-
-21300;Kampung Telaga Daing;-
-21300;Kampung Telok Ketapang;-
-21300;Kampung Tok Jembal;-
-21300;Kampung Tok Mer;-
-21300;Kampung Ujung Pasir Puteh;-
-21300;Kubang Badak;-
-21300;Lapangan Terbang Sultan Mahmud;-
-21300;Percetakan Yayasan Islam;-
-21300;Rumah Murah 100;-
-21300;Rumah Murah 62;-
-21300;Rumah Murah Gong Badak;-
-21300;Rumah Murah Telaga Daing;-
-21300;Seberang Takir;-
-21300;Taman Desa Permai;-
-21300;Taman Gong Badak;-
-21300;Taman Jaya (Seberang Takir);-
-21300;Taman Salwa;-
-21300;Taman Setia Damai;-
-21300;Tanah Lot Batu 10;-
-21300;Zon Perindustrian Gong Badak;-
-21309;Seberang Takir - Beg berkunci;-
-21400;Bukit Payong;-
-21400;Kampung Alor Limbat;-
-21400;Kampung Banggol Kapas;-
-21400;Kampung Banggol Tasek;-
-21400;Kampung Binjai Bongkok;-
-21400;Kampung Kubang Belukar;-
-21400;Kampung Kubang Panjang;-
-21400;Kampung Mak Kemas;-
-21400;Kampung Nyut-Nyut;-
-21400;Kampung Padang Ayer Deras;-
-21400;Kampung Padang Kabar;-
-21400;Kampung Padang Mengkuang;-
-21400;Kampung Padang Midin;-
-21400;Kampung Pak Madah;-
-21400;Kampung Pantai Ali;-
-21400;Kampung Pasir Tinggi;-
-21400;Kampung Rawai;-
-21400;Kampung Tasek;-
-21400;Kampung Tebakang;-
-21400;Kampung Telaga Mengkudu;-
-21400;Kampung Undang;-
-21400;Kampung Wakaf Dua;-
-21400;Rejimen 512 - Askar Wataniah;-
-21400;Taman Koperasi;-
-21400;Taman Mewah;-
-21400;Taman Padang Midin;-
-21450;Chalok;-
-21450;Felda Chalok;-
-21450;Felda Chalok Barat;-
-21450;Kampung Batu Hampar (Chalok);-
-21450;Kampung Bukit Kecil;-
-21450;Kampung Bukit Layak;-
-21450;Kampung Bukit Mak Jintan;-
-21450;Kampung Bukit Merah;-
-21450;Kampung Bukit Mok Som;-
-21450;Kampung Bukit Pinang;-
-21450;Kampung Bukit Putera;-
-21450;Kampung Bukit Tok Hat;-
-21450;Kampung Chabang Bari;-
-21450;Kampung Chalok Barat;-
-21450;Kampung Gong Terap Chalok;-
-21450;Kampung Jelapang;-
-21450;Kampung Kubang Puyu;-
-21450;Kampung Lubuk Panjang;-
-21450;Kampung Rahmat;-
-21450;Kampung Sungai Lerek;-
-21450;Kampung Sungai Pinang;-
-21450;Kampung Sungai Rakit;-
-21450;Kampung Tapah;-
-21450;Kampung Ulu Chalok;-
-21450;Kubang Puyu;-
-21450;Taman Tasek;-
-21500;Alor Lik;-
-21500;Kampung Banggol Setor;-
-21500;Kampung Batu 28;-
-21500;Kampung Batu 30;-
-21500;Kampung Bukit Mundok;-
-21500;Kampung Bukit Nenas;-
-21500;Kampung Bukit Sungai Tong;-
-21500;Kampung Jaya Sungai Tong;-
-21500;Kampung Jelapang;-
-21500;Kampung Kuala Tayor;-
-21500;Kampung Langkap;-
-21500;Kampung Nibong;-
-21500;Kampung Nibong Sungai Tong;-
-21500;Kampung Pak Ba;-
-21500;Kampung Payong;-
-21500;Kampung Pelong;-
-21500;Kampung Pengkalan Merbau;-
-21500;Kampung Simpang Langkap;-
-21500;Kampung Sungai Bari;-
-21500;Kampung Tayor Tengah;-
-21500;Ladang Bari;-
-21500;LKTP Belara;-
-21500;Pakoh Jaya;-
-21500;Seri Langkap;-
-21500;Sungai Lerak;-
-21500;Sungai Tong;-
-21600;Alor Gali;-
-21600;Alor Tuman;-
-21600;Asing;-
-21600;Barat;-
-21600;Bukit Baharu;-
-21600;Bukit Gegading;-
-21600;Bukit Jejulong;-
-21600;Bukit Kulim;-
-21600;Bukit Parit;-
-21600;Durian Penjara;-
-21600;Gong Beris;-
-21600;Jabatan Penjara;-
-21600;Kampung Batangan;-
-21600;Kampung Bukit Gasing;-
-21600;Kampung Gong Nangka;-
-21600;Kampung Jenang;-
-21600;Kampung Kayu Kelat;-
-21600;Kampung Kelulut;-
-21600;Kampung Kijing;-
-21600;Kampung Masjid Haji Said;-
-21600;Kampung Pantai Seberang Marang;-
-21600;Kampung Paya;-
-21600;Kampung Ru Dua;-
-21600;Kampung Ru Muda;-
-21600;Kampung Ru Rendang;-
-21600;Kampung Sentul Patah;-
-21600;Kampung Star Kiri;-
-21600;Kampung Sungai Kerak;-
-21600;Kampung Surau Haji Ibrahim;-
-21600;Kampung Surau Haji Mat;-
-21600;Kampung Tuman;-
-21600;Ladang Fikri;-
-21600;Marang;-
-21600;Pengkalan Kuin;-
-21600;Pulau Kerengga;-
-21600;Rambai Jantan;-
-21600;Setar Kanan;-
-21600;Taman Hidayah;-
-21600;Taman Kalongan Melor;-
-21600;Taman Kernia Jaya;-
-21600;Taman Laila;-
-21600;Taman Mas Murni (Fasa 1 & 2);-
-21600;Taman Perpindahan Sungai Kerak;-
-21600;Taman Perumahan Kelulut;-
-21600;Taman Perumahan Perkaya;-
-21600;Temiang Ulu;-
-21600;Teratak Batu;-
-21610;Jambu Bongkok;-
-21610;Kampung Durian Pulut Merchang;-
-21610;Kampung Gong Balai;-
-21610;Kampung Gong Kassim;-
-21610;Kampung Jambu Bongkok;-
-21610;Kampung Padang Pauh;-
-21610;Kampung Pasir Puteh;-
-21610;Kampung Tok Fakir Merchang;-
-21610;Merchang;-
-21700;Binjai Kertas;-
-21700;Kampung Alor Kiambang;-
-21700;Kampung Basung;-
-21700;Kampung Batu 23;-
-21700;Kampung Batu 23 (Jalan Kuala Berang);-
-21700;Kampung Batu 24;-
-21700;Kampung Baung;-
-21700;Kampung Binjai Kertas;-
-21700;Kampung Bukit Acheh;-
-21700;Kampung Bukit Beruang;-
-21700;Kampung Bukit Biah;-
-21700;Kampung Bukit Gemuruh;-
-21700;Kampung Bukit Martiya;-
-21700;Kampung Bukit Tok Bat;-
-21700;Kampung Buloh;-
-21700;Kampung Butut;-
-21700;Kampung Capu;-
-21700;Kampung Cekering;-
-21700;Kampung Ceting;-
-21700;Kampung Dura;-
-21700;Kampung Durian Bador;-
-21700;Kampung Dusun;-
-21700;Kampung Gaong;-
-21700;Kampung Gerdong;-
-21700;Kampung Hulu Sat;-
-21700;Kampung Jenagor;-
-21700;Kampung Kemat;-
-21700;Kampung Kepah;-
-21700;Kampung Kuala Akub;-
-21700;Kampung Kuala Jeneris;-
-21700;Kampung Kuala Menjing;-
-21700;Kampung Kuala Ping;-
-21700;Kampung Kuala Por;-
-21700;Kampung Kuala Pueh;-
-21700;Kampung Langgar;-
-21700;Kampung Langgar Hilir;-
-21700;Kampung Langgar Hulu;-
-21700;Kampung Lubuk Pait;-
-21700;Kampung Matang;-
-21700;Kampung Nasi Dingin;-
-21700;Kampung Nibong;-
-21700;Kampung Padang Ipoh;-
-21700;Kampung Padang Lebak;-
-21700;Kampung Padang Setebu;-
-21700;Kampung Padang Star;-
-21700;Kampung Pasir Dula;-
-21700;Kampung Pasir Nering;-
-21700;Kampung Pasir Nyior;-
-21700;Kampung Pasir Pelata;-
-21700;Kampung Pasir Sipor;-
-21700;Kampung Pauh;-
-21700;Kampung Payang Kayu;-
-21700;Kampung Pelandan;-
-21700;Kampung Pengkalan Star;-
-21700;Kampung Pulau Kudat;-
-21700;Kampung Rahmat;-
-21700;Kampung Sekayu;-
-21700;Kampung Sungai Berua;-
-21700;Kampung Sungai Ular;-
-21700;Kampung Tajin;-
-21700;Kampung Tanjong Baru;-
-21700;Kampung Tapah;-
-21700;Kampung Telaga;-
-21700;Kampung Temir;-
-21700;Kampung Tengkawang;-
-21700;Kampung Teris;-
-21700;Kampung Tok Bintang;-
-21700;Kampung Tok Lawik;-
-21700;Kenyir;-
-21700;Kuala Berang;-
-21700;Kuala Jeneris;-
-21700;Kuala Menjing;-
-21700;Kuala Ping;-
-21700;Kuala Pueh;-
-21700;Matang;-
-21700;Sungai Gawi;-
-21700;Ulu Sat;-
-21800;Ajil;-
-21800;Bukit Jabar;-
-21800;Bukit Pachat;-
-21800;Cherang Nibong;-
-21800;Durian Kassim;-
-21800;Felda Bukit Bading;-
-21800;Felda Mengkawang;-
-21800;Felda Tersat;-
-21800;Kampung Ajal;-
-21800;Kampung Baru Ajil;-
-21800;Kampung Batu 18;-
-21800;Kampung Batu 21;-
-21800;Kampung Belukar Bukit;-
-21800;Kampung Betong;-
-21800;Kampung Bukit Apit;-
-21800;Kampung Bukit Ara;-
-21800;Kampung Bukit Biman;-
-21800;Kampung Bukit Perah;-
-21800;Kampung Bukit Perpat;-
-21800;Kampung Chenderong Balai;-
-21800;Kampung Chenderong Lebam;-
-21800;Kampung Datuk Amar;-
-21800;Kampung Durian Rendang;-
-21800;Kampung Gunong;-
-21800;Kampung Jabar;-
-21800;Kampung Jak;-
-21800;Kampung Jerlang;-
-21800;Kampung Kolam Ajil;-
-21800;Kampung Kua;-
-21800;Kampung Lerek;-
-21800;Kampung Lubok Periok;-
-21800;Kampung Machang;-
-21800;Kampung Matang;-
-21800;Kampung Menerong;-
-21800;Kampung Panggong;-
-21800;Kampung Penek;-
-21800;Kampung Pengkalan Ajal;-
-21800;Kampung Peris;-
-21800;Kampung Pulai Api;-
-21800;Kampung Setia Jaya;-
-21800;Kampung Sungai Siput;-
-21800;Kampung Tok Gebok;-
-21800;Kampung Tok Rendok;-
-21800;Kampung Tulang Daing;-
-21800;Menerung;-
-21810;Kampung Baru Sungai Binjai;-
-21810;Kampung Jaya Baru Nasri;-
-21810;Kampung Landas;-
-21810;Kampung Pelar;-
-21810;Kampung Peroh;-
-21810;Kampung Tok Dor;-
-21820;Felda Jerangau Barat;-
-21820;Kampung Baru Mardi;-
-21820;Kampung Batu 32;-
-21820;Kampung Landas Estate;-
-21820;LKTP Bukit Bading;-
-22000;Alor Lintah;-
-22000;Balik Bukit;-
-22000;Bukit Kenak;-
-22000;Bukit Puteri;-
-22000;Felda Selaseh;-
-22000;Gong Nering;-
-22000;Jerteh;-
-22000;Kampung Alor Belanga;-
-22000;Kampung Alor Keladi;-
-22000;Kampung Alor Selising;-
-22000;Kampung Awek Darau;-
-22000;Kampung Ayer Terjun;-
-22000;Kampung Baru;-
-22000;Kampung Baruh Mesin;-
-22000;Kampung Berhala Tambun;-
-22000;Kampung Beris Pak Abu;-
-22000;Kampung Bukit China;-
-22000;Kampung Bukit Tempurong;-
-22000;Kampung Cerang Melintang;-
-22000;Kampung Dalam Huma;-
-22000;Kampung Darau;-
-22000;Kampung Denger;-
-22000;Kampung Durian Merkah;-
-22000;Kampung Durian Telor;-
-22000;Kampung Gegar Batang;-
-22000;Kampung Gerai Muda;-
-22000;Kampung Gerai Tua;-
-22000;Kampung Gong Badang;-
-22000;Kampung Gong Bukit Kenak;-
-22000;Kampung Gong Chenerai;-
-22000;Kampung Gong Duek;-
-22000;Kampung Gong Guchil;-
-22000;Kampung Gong Jaga;-
-22000;Kampung Gong Mat Som;-
-22000;Kampung Gong Nangka;-
-22000;Kampung Gong Pak Cheng;-
-22000;Kampung Gong Pasir;-
-22000;Kampung Gong Penaga;-
-22000;Kampung Gong Rengas;-
-22000;Kampung Gong Tanah Merah;-
-22000;Kampung Gong Terap;-
-22000;Kampung Hutan Nangka;-
-22000;Kampung Kolam Jerteh;-
-22000;Kampung Kubang Bemban;-
-22000;Kampung Lao Lok;-
-22000;Kampung Lapan Kejor;-
-22000;Kampung Lapan Kotak;-
-22000;Kampung Lubok Kawah;-
-22000;Kampung Nyior Tujuh;-
-22000;Kampung Padang Landak;-
-22000;Kampung Padang Luas;-
-22000;Kampung Pak Da Malik;-
-22000;Kampung Pak Wong;-
-22000;Kampung Paroh;-
-22000;Kampung Pasir Akar;-
-22000;Kampung Pekakok;-
-22000;Kampung Pelagat;-
-22000;Kampung Pengkalan Setol;-
-22000;Kampung Pondok Paku;-
-22000;Kampung Pulai Rimau;-
-22000;Kampung Pulau Panjang;-
-22000;Kampung Pulau Ribu;-
-22000;Kampung Pusu Tinggi;-
-22000;Kampung Seberang Panggong;-
-22000;Kampung Tanah Merah;-
-22000;Kampung Tanjong Alir;-
-22000;Kampung Tasek;-
-22000;Kampung Tasek Mengkuang;-
-22000;Kampung Telaga Nibong;-
-22000;Kampung Telok;-
-22000;Kampung Tok Dat;-
-22000;Kampung Tok Motong;-
-22000;Kerandang;-
-22000;LKTP Jerangau;-
-22000;Pasir Akar;-
-22000;Pulau Berangan;-
-22000;Taman Bakti;-
-22000;Taman Desa Aman;-
-22000;Taman Desa Saujana;-
-22000;Taman Desa Sepakat;-
-22000;Taman Desa Tani;-
-22000;Taman Desa Tanjung;-
-22000;Taman Jaya;-
-22000;Taman Pelagat;-
-22000;Taman Saujana;-
-22000;Taman Seri Nering;-
-22000;Taman Seri Sepakat;-
-22000;Taman Teratur;-
-22000;Taman Tuah;-
-22000;Tok Kundur;-
-22000;TUDM Bukit Putri;-
-22010;Bukit Payong (Jerteh);-
-22010;Felcra Keruak;-
-22010;Kampung Bekok;-
-22010;Kampung Belaoh;-
-22010;Kampung Bukit Mali;-
-22010;Kampung Bukit Payong;-
-22010;Kampung Cawangan;-
-22010;Kampung Dengir Tenang;-
-22010;Kampung Keruak;-
-22010;Kampung Kuala Sayak;-
-22010;Kampung La;-
-22010;Kampung Mata Ayer;-
-22010;Kampung Padang Bual;-
-22010;Kampung Panchor;-
-22010;Kampung Seberang Lalang;-
-22020;Apal;-
-22020;Bukit Jerok;-
-22020;Jabi;-
-22020;Kampung Anak Ikan;-
-22020;Kampung Anak Musang;-
-22020;Kampung Bakat;-
-22020;Kampung Baru Tok Dor;-
-22020;Kampung Gong Lilit;-
-22020;Kampung Gong Pasir Jabi;-
-22020;Kampung Gong Pasir Oh;-
-22020;Kampung Gong Penaga Jabi;-
-22020;Kampung Kepala Gajah;-
-22020;Kampung Kuala Lubang;-
-22020;Kampung Lay Out (Jabi);-
-22020;Kampung Oh;-
-22020;Kampung Padang Lengkuas;-
-22020;Kampung Pasir Tawar;-
-22020;Kampung Pohon Tar;-
-22020;Kampung Pulau Kala;-
-22020;Kampung Renek;-
-22020;Kampung Tempinis;-
-22020;Kampung Tok Dor;-
-22020;LKTP Tenang;-
-22100;Balik Bukit;-
-22100;Bukit Kemudu;-
-22100;Bukit Pari;-
-22100;Bukit Pelong;-
-22100;Jalan Penarek;-
-22100;Jalan Ulu Serdang;-
-22100;Kampung Alor Pasir;-
-22100;Kampung Alor Serdang;-
-22100;Kampung Apek;-
-22100;Kampung Bahagia;-
-22100;Kampung Banggol;-
-22100;Kampung Bari Kecil;-
-22100;Kampung Besut;-
-22100;Kampung Bintang;-
-22100;Kampung Bukit Pelong;-
-22100;Kampung Bukit Swee;-
-22100;Kampung Buloh;-
-22100;Kampung Buruk;-
-22100;Kampung Che Long;-
-22100;Kampung Che Mohd;-
-22100;Kampung Guntong;-
-22100;Kampung Guntong Dalam;-
-22100;Kampung Guntong Luar;-
-22100;Kampung Kederang;-
-22100;Kampung Kuari Batu;-
-22100;Kampung Nyatok;-
-22100;Kampung Padang;-
-22100;Kampung Padang Serai;-
-22100;Kampung Pak Kancil;-
-22100;Kampung Panchor Merah;-
-22100;Kampung Pancur Merah;-
-22100;Kampung Permaisuri;-
-22100;Kampung Seri Bayas;-
-22100;Kampung Tasek;-
-22100;Kampung Ulu Kekabu;-
-22100;Kampung Ulu Seladang;-
-22100;Perumahan Binjai Manis;-
-22107;Permaisuri - Peti surat;-
-22109;Permaisuri - Beg berkunci;-
-22110;Kampung Beris Tokku;-
-22110;Kampung Fikri;-
-22110;Kampung Gong Batu;-
-22110;Kampung Saujana;-
-22110;Kuala Setiu Baru;-
-22110;Kuala Setiu Lama;-
-22110;Lorong Saga;-
-22110;Lorong Saga Saujana;-
-22110;Lorong Seliat Saujana;-
-22110;Lorong Senandong;-
-22110;Lorong Senandong Saujana;-
-22110;Lorong Senayong;-
-22110;Lorong Senayong Saujana;-
-22110;Lorong Siakap;-
-22110;Lorong Siakap Saujana;-
-22110;Lorong Silat;-
-22120;Jalan Aman;-
-22120;Jalan Aman Rhu Sepuluh Penarek;-
-22120;Jalan Bahagia;-
-22120;Jalan Bahagia Rhu Sepuluh Penarek;-
-22120;Jalan Makmur;-
-22120;Jalan Makmur Rhu Sepuluh Penarek;-
-22120;Kampung Bari Kecil;-
-22120;Kampung Baru Penarek;-
-22120;Kampung Bukit Chalok Penarek;-
-22120;Kampung Mangkok;-
-22120;Kampung Penarek;-
-22120;Kampung Penarik;-
-22120;Setiu;-
-22200;Alor Lintang;-
-22200;Besut;-
-22200;Bukit Tanah;-
-22200;Gong Bayor;-
-22200;Gong Jelutong;-
-22200;Gong Medang;-
-22200;Kampung Alor Simpol;-
-22200;Kampung Amir;-
-22200;Kampung Ayer Tawar;-
-22200;Kampung Baru Ayer Tawar;-
-22200;Kampung Baru Batu Tumboh;-
-22200;Kampung Baru Gong Bayor;-
-22200;Kampung Beting Lintang;-
-22200;Kampung Gelang Mas;-
-22200;Kampung Gong Kepas;-
-22200;Kampung Gong Machang;-
-22200;Kampung Gong Tiang Layar;-
-22200;Kampung Gong Tiong;-
-22200;Kampung Keluang;-
-22200;Kampung Laha;-
-22200;Kampung Laman;-
-22200;Kampung Lohor;-
-22200;Kampung Padang Baloh;-
-22200;Kampung Pak Kiang;-
-22200;Kampung Parit;-
-22200;Kampung Paya Rawa;-
-22200;Kampung Pengkalan Nyireh;-
-22200;Kampung Pinang;-
-22200;Kampung Raja Besut;-
-22200;Kampung Rhu Sepuluh;-
-22200;Kampung Sentosa;-
-22200;Kampung Tok Fakir Besut;-
-22200;Kampung Tok Pek;-
-22200;Kampung Wakaf Kubor;-
-22200;Kedeper;-
-22200;Kubang Ikan;-
-22200;Pak Mentosa;-
-22200;Pekan Sehari Tembila;-
-22200;Pengkalan Kubor;-
-22200;Pengkalan Teras;-
-22200;Seberang Kastam;-
-22200;Seberang Limbongan;-
-22200;Teluk Kubor;-
-22200;Tembila;-
-22300;Alor Pak Ndok;-
-22300;Alor Peroi;-
-22300;Alor Pisang;-
-22300;Alor Teratai;-
-22300;Beris Alor Peroi;-
-22300;Beris Alor Pisang;-
-22300;Beris Cawat;-
-22300;Gong Manok;-
-22300;Gong Nering;-
-22300;Gong Surau;-
-22300;Kampung Baru;-
-22300;Kampung Beris Panggong;-
-22300;Kampung Gertak Seratus;-
-22300;Kampung Kayu Kelat;-
-22300;Kampung Lampu;-
-22300;Kampung Nail;-
-22300;Kampung Nangka;-
-22300;Kampung Paya;-
-22300;Kampung Sungai;-
-22300;Kampung Tengah (Kuala Besut);-
-22300;Kampung Timur;-
-22300;Kuala Bedah;-
-22300;Kuala Besut;-
-22300;Pacakan;-
-22300;Pulau Perhentian;-
-22300;Pulau Salim;-
-22300;Teluk Budu;-
-22300;Tok Saboh;-
-22307;Kuala Besut - Peti surat;-
-22309;Kuala Besut - Beg berkunci;-
-23000;Alor Rekan Bemban;-
-23000;Bangunan Abdullah Osman;-
-23000;Bangunan Haji Wahab;-
-23000;Bangunan Maidam;-
-23000;Bangunan Yayasan Islam;-
-23000;Bukit Tok Bilal;-
-23000;Dungun;-
-23000;Dungun (Batu 48);-
-23000;Dungun Beach Resort;-
-23000;Jongok Batu;-
-23000;Kalongan Intan;-
-23000;Kampung Alor Jejawi;-
-23000;Kampung Alor Tembusu;-
-23000;Kampung Bahagia Tok Kah;-
-23000;Kampung Balai Besar;-
-23000;Kampung Batu Enam;-
-23000;Kampung Batu Lima;-
-23000;Kampung Batu Puteh;-
-23000;Kampung Batu Tiong;-
-23000;Kampung Batu Tujuh;-
-23000;Kampung Binjai;-
-23000;Kampung Bukit Belah;-
-23000;Kampung Bukit Merah Padang Pulut;-
-23000;Kampung Bukit Murai;-
-23000;Kampung Bukit Pauh;-
-23000;Kampung Bukit Tok Bilal;-
-23000;Kampung Che Lijah;-
-23000;Kampung Delong;-
-23000;Kampung Gong Pasir;-
-23000;Kampung Jongkok Batu;-
-23000;Kampung Kemudi;-
-23000;Kampung Padang Jambu;-
-23000;Kampung Padang Pulut;-
-23000;Kampung Pak Sabah;-
-23000;Kampung Peladang;-
-23000;Kampung Pulau Serai;-
-23000;Kampung Raja Wali;-
-23000;Kampung Rantau Abang;-
-23000;Kampung Rhu Batil;-
-23000;Kampung Serdang;-
-23000;Kampung Sukur;-
-23000;Kampung Sungai Pimpin;-
-23000;Kampung Talong;-
-23000;Kampung Tanjong Batu;-
-23000;Kampung Tanjong Pagar;-
-23000;Kampung Tanjong Pati;-
-23000;Kampung Tok Kah;-
-23000;Kompleks Perniagaan Sura Gate;-
-23000;Kuala Dungun;-
-23000;Kuala Jengal;-
-23000;Kumpal;-
-23000;Padang Pulut;-
-23000;Pasir Raja;-
-23000;Rantau Abang;-
-23000;Seberang Pintasan;-
-23000;Sukur;-
-23000;Sura Gate;-
-23000;Sura Hujong;-
-23000;Talong;-
-23000;Taman Alina;-
-23000;Taman Anggerik;-
-23000;Taman Anjaria;-
-23000;Taman Bersekutu;-
-23000;Taman Bijaya Sura;-
-23000;Taman Bukit Bauk 1,2;-
-23000;Taman Bukit Catak;-
-23000;Taman Bunga Raya;-
-23000;Taman Cempaka;-
-23000;Taman Cenderawasih;-
-23000;Taman Delima;-
-23000;Taman Gemilang;-
-23000;Taman Gong Pasir;-
-23000;Taman Haji Idris;-
-23000;Taman Harmoni;-
-23000;Taman Himiran;-
-23000;Taman Intan;-
-23000;Taman Jaya;-
-23000;Taman Jejawi;-
-23000;Taman Kurnia Jaya;-
-23000;Taman Mas Intan;-
-23000;Taman Mawar;-
-23000;Taman Melati;-
-23000;Taman Melor;-
-23000;Taman Melor 4 Fasa 2;-
-23000;Taman Mesra;-
-23000;Taman Murni;-
-23000;Taman Mutiara;-
-23000;Taman Norlida;-
-23000;Taman Omar Al Khatab;-
-23000;Taman Pantai Sura;-
-23000;Taman Pelangi 1 & 2;-
-23000;Taman Perdana Bukit Catak;-
-23000;Taman Permint Indah;-
-23000;Taman Rakyat;-
-23000;Taman Raya;-
-23000;Taman Ros;-
-23000;Taman Rumbia;-
-23000;Taman Saeda;-
-23000;Taman Selasih Perdana;-
-23000;Taman Seri Dungun;-
-23000;Taman Setia;-
-23000;Taman Sri Bayu;-
-23000;Taman Sri Intan;-
-23000;Taman Sri Tanjung;-
-23000;Taman Sri Warisan;-
-23000;Taman Sura;-
-23000;Taman Sura Jaya;-
-23000;Taman Sura Jetty;-
-23000;Taman Sura Perdana;-
-23000;Taman Sura Permai;-
-23000;Taman Sura Tengah 1;-
-23000;Taman Sutera;-
-23000;Taman Telok Lipat;-
-23000;Taman Wahyu;-
-23000;Taman Zaharah;-
-23000;Tanjung Jara Beach Resort;-
-23007;Dungun - Peti surat;-
-23009;Dungun - Beg berkunci;-
-23050;Kampung Baru Kuala Abang;-
-23050;Kampung Kertas Pulas;-
-23050;Kampung Kuala Abang;-
-23050;Kampung Kubang Putat;-
-23050;Kampung Kubang Temiang;-
-23100;Jalan Besar Paka;-
-23100;Jalan Klinik;-
-23100;Jalan Santong;-
-23100;Kampung Air Hitam;-
-23100;Kampung Baru Paka;-
-23100;Kampung Baru Tebing Tembah;-
-23100;Kampung Bukit Merah;-
-23100;Kampung Cacar;-
-23100;Kampung Cacar Baru;-
-23100;Kampung Durian Mentangau;-
-23100;Kampung Gemia;-
-23100;Kampung Layout Cacar;-
-23100;Kampung Limbong;-
-23100;Kampung Masjid;-
-23100;Kampung Nyior;-
-23100;Kampung Pantai Laut;-
-23100;Kampung Pinang Merah;-
-23100;Kampung Santong;-
-23100;Kampung Seberang Alor;-
-23100;Kampung Tebing Tembah;-
-23100;Kampung Tok Harun;-
-23100;Kampung Wakaf Hijau;-
-23100;Paka;-
-23200;Bukit Besi;-
-23200;Dendang;-
-23200;Jerangau;-
-23200;Kampung Baru;-
-23200;Kampung Besol;-
-23200;Kampung Jerangau;-
-23200;Kampung Kubur;-
-23200;Pinang;-
-23200;Rasau;-
-23300;Bandar Ketengah Jaya;-
-23300;Felda Kerteh (1 - 6);-
-23300;Kampung Padang Lalang;-
-23400;Al Muktafi Billah Shah;-
-24000;Bakau Tinggi;-
-24000;Binjai;-
-24000;Bukit Kuang;-
-24000;Cukai;-
-24000;Desa Darul Iman;-
-24000;Dusun Nyior;-
-24000;Geliga Permai;-
-24000;Jalan Abdul Rahman;-
-24000;Jalan Air Puteh;-
-24000;Jalan Che Teng;-
-24000;Jalan Da Omar;-
-24000;Jalan Datok;-
-24000;Jalan Feri Lama;-
-24000;Jalan Hospital;-
-24000;Jalan Injin Gergaji;-
-24000;Jalan Jakar;-
-24000;Jalan Kenanga;-
-24000;Jalan Kubang Kurus;-
-24000;Jalan Mak Dayang;-
-24000;Jalan Masjid Lama;-
-24000;Jalan Pasar;-
-24000;Jalan Penghiburan;-
-24000;Jalan Sulaiman;-
-24000;Jalan Taha;-
-24000;Jalan Teratai;-
-24000;Kampung Air;-
-24000;Kampung Bakau Tinggi;-
-24000;Kampung Banggol Kanan;-
-24000;Kampung Banggol Kiri;-
-24000;Kampung Batu 4 (Binjai);-
-24000;Kampung Belakang Esso;-
-24000;Kampung Belakang Hospital;-
-24000;Kampung Besut;-
-24000;Kampung Bukit Kuang;-
-24000;Kampung Bukit Mentok;-
-24000;Kampung Cina;-
-24000;Kampung Darat Olong;-
-24000;Kampung Dusun Nyior;-
-24000;Kampung Fikri;-
-24000;Kampung Geliga;-
-24000;Kampung Geliga Baru;-
-24000;Kampung Geliga Besar;-
-24000;Kampung Geliga Haji Ali;-
-24000;Kampung Geliga Jambatan;-
-24000;Kampung Geliga Mengambang;-
-24000;Kampung Gong Limau;-
-24000;Kampung Gong Pauh;-
-24000;Kampung Jabur Kubur;-
-24000;Kampung Jaya;-
-24000;Kampung Kuala Kemaman;-
-24000;Kampung Lot Seri Jaya;-
-24000;Kampung Mak Chili;-
-24000;Kampung Mak Cili Paya;-
-24000;Kampung Mak Dayang;-
-24000;Kampung Padang Lalang;-
-24000;Kampung Paman;-
-24000;Kampung Pancor;-
-24000;Kampung Pandan;-
-24000;Kampung Pasir Minal;-
-24000;Kampung Paya Berenjut;-
-24000;Kampung Pengkalan Binjai;-
-24000;Kampung Pengkalan Cicar;-
-24000;Kampung Pengkalan Pandan;-
-24000;Kampung Pulau Tempurong;-
-24000;Kampung Sungai Pinang;-
-24000;Kampung Tanah Lot Geliga;-
-24000;Kampung Tempurong;-
-24000;Kampung Tengah;-
-24000;Kampung Tuan;-
-24000;Kampung Wakaf Jambu;-
-24000;Kuala Kemaman;-
-24000;Padang Lalang;-
-24000;Pasir Minar;-
-24000;Pengkalan Binjai;-
-24000;Pengkalan Cicar;-
-24000;Pengkalan Sir;-
-24000;Pulau Tempurong;-
-24000;Taman Air Puteh;-
-24000;Taman Anggerik;-
-24000;Taman Bahagia;-
-24000;Taman Baiduri;-
-24000;Taman Bakar Daud;-
-24000;Taman Berjaya;-
-24000;Taman Bersekutu;-
-24000;Taman Bukit Mentok;-
-24000;Taman Bunga Tanjung;-
-24000;Taman Cempaka;-
-24000;Taman Cendana;-
-24000;Taman Chua Ah Kee;-
-24000;Taman Cukai;-
-24000;Taman Cukai Utama;-
-24000;Taman Dahlia;-
-24000;Taman Darul Iman;-
-24000;Taman Darul Iman 1;-
-24000;Taman Darul Iman 2;-
-24000;Taman Darul Iman 3;-
-24000;Taman Dataran Geliga;-
-24000;Taman Delima;-
-24000;Taman Desa Awana;-
-24000;Taman Desa Cukai;-
-24000;Taman Desa Impian;-
-24000;Taman Desa Permai 1;-
-24000;Taman Desa Permai 2;-
-24000;Taman Desa Sentosa;-
-24000;Taman Desa Seri Geliga;-
-24000;Taman Geliga;-
-24000;Taman Geliga Besar;-
-24000;Taman Geliga Maju;-
-24000;Taman Geliga Sakti;-
-24000;Taman Ghulam;-
-24000;Taman Gong Pauh;-
-24000;Taman Haji Hamzah;-
-24000;Taman Haji Wan Ngah;-
-24000;Taman Haji Yaacob;-
-24000;Taman Idaman;-
-24000;Taman Indah;-
-24000;Taman Intan;-
-24000;Taman Isora;-
-24000;Taman Itafah;-
-24000;Taman Jakar Jaya;-
-24000;Taman Kediaman Indah;-
-24000;Taman Kekwa;-
-24000;Taman Kemaman;-
-24000;Taman Kenari;-
-24000;Taman Lembah Geliga;-
-24000;Taman LGL;-
-24000;Taman Lim Guan Lim;-
-24000;Taman Maheran;-
-24000;Taman Mak Cili;-
-24000;Taman Mat Nor;-
-24000;Taman Mawar;-
-24000;Taman Melor;-
-24000;Taman Melor 2;-
-24000;Taman Merpati;-
-24000;Taman Mohd Nor;-
-24000;Taman Muda;-
-24000;Taman Muhibbah;-
-24000;Taman Pantai;-
-24000;Taman Peladang;-
-24000;Taman Pelangi;-
-24000;Taman Permai Jaya;-
-24000;Taman Perumahan Haji Ismail;-
-24000;Taman Perumahan Perwaja;-
-24000;Taman Rahmat;-
-24000;Taman Samudra;-
-24000;Taman Sangsura;-
-24000;Taman Selera;-
-24000;Taman Seri Cukai;-
-24000;Taman Seri Geliga;-
-24000;Taman Seri Indah;-
-24000;Taman Seri Jakar;-
-24000;Taman Seri Jaya;-
-24000;Taman Seri Kalongan;-
-24000;Taman Seri Kalongan 2;-
-24000;Taman Seri Kemaman;-
-24000;Taman Seri Pandan;-
-24000;Taman Seri Pandan 2;-
-24000;Taman Seri Pauh;-
-24000;Taman Si Buyung;-
-24000;Taman Taja;-
-24000;Tanjung Berhala;-
-24000;Teluk Kalong;-
-24000;Teluk Puchong;-
-24000;Tok Kapor;-
-24000;Zon Perindustrian Jakar (1 & 2);-
-24007;Cukai - Peti surat;-
-24009;Cukai - Beg berkunci;-
-24050;Arkid Mara;-
-24050;Ayer Puteh;-
-24050;Dadong;-
-24050;Kampung Baran;-
-24050;Kampung Batu 14;-
-24050;Kampung Batu 16;-
-24050;Kampung Habib Mohsin;-
-24050;Kampung Hilir Pasir Gajah;-
-24050;Kampung Hulu;-
-24050;Kampung Hulu Pasir Gajah;-
-24050;Kampung Hulu Seberang Tayor;-
-24050;Kampung Kubang Kurus;-
-24050;Kampung Laut Pasir Gajah;-
-24050;Kampung Sungai Mas;-
-24050;Kampung Tanah Lot Ayer Puteh;-
-24050;Kampung Tanah Lot Pasir Gajah;-
-24050;Kampung Tengah Pasir Gajah;-
-24050;Ladang Tebak;-
-24050;Padang Kubu;-
-24050;Pasir Gajah;-
-24050;RKT Seberang Tayor;-
-24050;Seberang Tayor;-
-24050;Ceneh;-
-24050;Ceneh Baru;-
-24050;Cerul Baru;-
-24060;Kampung Yak Yah;-
-24060;Lot 144;-
-24060;Neram;-
-24060;Neram I;-
-24100;Kampung Atas Tebing;-
-24100;Kampung Baru Bukit Anak Dara;-
-24100;Kampung Baru Kanan;-
-24100;Kampung Baru Titian Berayong;-
-24100;Kampung Beris Nenas;-
-24100;Kampung Bukit Anak Dara;-
-24100;Kampung Bukit Sembilan;-
-24100;Kampung Che Wan;-
-24100;Kampung Darat Air Puteh;-
-24100;Kampung Darat Haji Awang;-
-24100;Kampung Darat Kijal;-
-24100;Kampung Darat Penunjuk;-
-24100;Kampung Darat Stesyen Bawah;-
-24100;Kampung Ibai;-
-24100;Kampung Ibok;-
-24100;Kampung Jong Berlaboh;-
-24100;Kampung Lasir Darat Kijal;-
-24100;Kampung Masjid (Kijal);-
-24100;Kampung Mentauh;-
-24100;Kampung Meraga Beris;-
-24100;Kampung Padang Kemunting;-
-24100;Kampung Pantai Penunjuk;-
-24100;Kampung Penunjuk;-
-24100;Kampung Pondok Limau;-
-24100;Kampung Pondok Paska;-
-24100;Kampung Simpang Bukit Kemuning;-
-24100;Kampung Simpang Empat;-
-24100;Kampung Tengah;-
-24100;Kampung Tengah Bawah Tebing;-
-24100;Kampung Tengah Ibok;-
-24100;Kampung Tengah Pantai;-
-24100;Kampung Titian Berayong;-
-24100;Kijal;-
-24100;Kijal Beach Resort;-
-24100;Simpang Pelatoh;-
-24100;Teladas;-
-24107;Kijal - Peti surat;-
-24109;Kijal - Beg berkunci;-
-24200;Ayer Jerneh;-
-24200;Bandar D;-
-24200;Kampung Baru Semanyor;-
-24200;Kampung Batu 6 1/2 (Ayer Jerneh);-
-24200;Kampung Bukit Kijang;-
-24200;Kampung Bukit Pak Long;-
-24200;Kampung Bukit Teruna Payoh;-
-24200;Kampung Gong Chengal;-
-24200;Kampung Loke Kod Ayer Jernih;-
-24200;Kampung Melayu Ayer Jerneh;-
-24200;Kampung Padang;-
-24200;Kampung Payoh;-
-24200;Kampung Seberang Payoh;-
-24200;Kampung Semanyor;-
-24200;Kemasek;-
-24200;Seri Bandi;-
-24200;Taman Wan Adnan;-
-24207;Kemasek - Peti surat;-
-24209;Kemasek - Beg berkunci;-
-24300;Bandar Baru;-
-24300;EstateTengah / Petronas;-
-24300;Jalan Besar;-
-24300;Jalan Chabang;-
-24300;Jalan Federal;-
-24300;Kampung Api Rokok;-
-24300;Kampung Bangsal Arang;-
-24300;Kampung Baru;-
-24300;Kampung Baru Chabang;-
-24300;Kampung Batu Puteh;-
-24300;Kampung Bukit Pahang Estate;-
-24300;Kampung Cabang;-
-24300;Kampung Gelugor;-
-24300;Kampung Kolam Austasia;-
-24300;Kampung Labohan;-
-24300;Kampung Padang Bola;-
-24300;Kampung Pengkalan Ranggon;-
-24300;Kampung Ranggon Estate;-
-24300;Kampung Seberang Lalang;-
-24300;Kampung Telaga Papan;-
-24300;Kampung Tengah;-
-24300;Kerteh;-
-24300;Kompleks Rantau Petronas;-
-24300;Nyor Matel;-
-24300;Rantau Petronas;-
+<?php
+
+$terengganu = [
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Hotel Tanjung Vista'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Jalan Istana Kolam'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Jalan Kota'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Jalan Ladang Sekolah'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Jalan Nesan Empat'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Jalan Petani'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Jalan Sultan Sulaiman'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Jalan Sultan Zainal Abidin'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Aur'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Bangsal'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Daik'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Dalam Bata'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Dato Penglima Perang'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Kolam'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Ladang Cicar'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Ladang Mengabang'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Ladang Pasar'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Ladang Sekolah'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Ladang Titian'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Pantai Haji Kasim'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Petani'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Rakyat'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Surau Haji Mat Tokey'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Surau Telok'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Surau Tok She'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Tanjong (Km 1.5)'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Tanjong Paya'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Tanjong Surau Besar'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Tanjong Surau Pasir'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Tanjung Batu Satu'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Kampung Tanjung Mengabang'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Lorong Bemban'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Perbadanan Pembangunan Bandar'],
+	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Taman Petani'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Jalan Kelantan (Hingga Km 6)'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Jalan Pulau Musang'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Banggol Chempedak'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Banggol Katong'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Banggol Lalang'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Banggol Tok Ku'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Baru Serada'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Beladau Selat'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Belukar Sukai'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Bukit Kubang Jambu'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Durian Burong'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Dusun Melintang'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Gelugor Haji Tahir'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Gelugor Kedai'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Gelugor Raja'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Gong Pauh'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Gong Pipit'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Kedai Kepong'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Kepong'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Kuala Bekah'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Kuala Bekah Pasar'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Kubang Bakong'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Kubang Bujok'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Kubang Kura'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Kubang Parit'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Kubang Tangga'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Kubang Terap'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Melintang'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Merbau Patah'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Padang Sena'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Pak Pa'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Paloh Masjid'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Paloh Sekolah'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Paloh Sungai Kiat'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Paloh Tok Ku'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Paloh Tuan Sulong'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Panji'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Pengadang Baru'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Pengkalan Setar'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Pulau Musang'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Pulau Rusa'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Pulau Rusa Masjid'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Pulau Rusa Rang'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Pulau Rusa Sekolah'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Pulau Rusa Wan Nik'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Serada'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Sungai Pinang'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Sungai Rengas'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Telok Paku'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Tirok'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Titian Hangus'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Tok Badir'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Tok Jamal'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Tok Kaya'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Tuan Nong'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Wakaf  Beruas'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Wakaf Che Kapor'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Kampung Wakaf Mempelam'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Taman Seri Paloh'],
+	[ 'state_id' => 11, 'code' => '20050', 'name' => 'Taman Setia Durian Burong'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Jalan Bandar'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Jalan Banggol'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Jalan Belakang Kampung China'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Jalan Jail'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Jalan Kampung Dalam'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Jalan Kampung Tiong'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Jalan Kubor'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Jalan Masjid Abidin'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Jalan Pantai'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Jalan Syed Hussein'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Jalan Tok Lam'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Kampung Banggol'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Kampung Jail'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Kampung Masjid'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Kampung Paya Keladi'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Kampung Surau Puteh'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Kampung Surau Wan Su'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Kampung Telaga Panchor'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Kampung Tiong'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Kedai Payang'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Komplek Niaga Paya Bunga'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Lorong Haji Jamil'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Penguatkuasa Akta Penanaman Padi'],
+	[ 'state_id' => 11, 'code' => '20100', 'name' => 'Pusat Perniagaan Paya Keladi'],
+	[ 'state_id' => 11, 'code' => '20200', 'name' => 'Jabatan Bekalan Air'],
+	[ 'state_id' => 11, 'code' => '20200', 'name' => 'Jabatan Hal Ehwal Kesatuan Sekerja'],
+	[ 'state_id' => 11, 'code' => '20200', 'name' => 'Jabatan Hutan Daerah Terengganu Utara'],
+	[ 'state_id' => 11, 'code' => '20200', 'name' => 'Jalan Pejabat'],
+	[ 'state_id' => 11, 'code' => '20200', 'name' => 'Jalan Sultan Ismail'],
+	[ 'state_id' => 11, 'code' => '20200', 'name' => 'Jawatankuasa Keselamatan Negeri'],
+	[ 'state_id' => 11, 'code' => '20200', 'name' => 'Kampung Paya Bunga'],
+	[ 'state_id' => 11, 'code' => '20200', 'name' => 'Lembaga Kemajuan Perindustrian (MIDA)'],
+	[ 'state_id' => 11, 'code' => '20200', 'name' => 'Lembaga Pasaran & Perusahaan Getah'],
+	[ 'state_id' => 11, 'code' => '20200', 'name' => 'Lembaga Pelesenan Kenderaan (LPKP)'],
+	[ 'state_id' => 11, 'code' => '20200', 'name' => 'Lembaga Pelesenan Minyak Sawit'],
+	[ 'state_id' => 11, 'code' => '20200', 'name' => 'Lembaga Pemasaran Pertanian'],
+	[ 'state_id' => 11, 'code' => '20200', 'name' => 'Lembaga Tabung Haji'],
+	[ 'state_id' => 11, 'code' => '20200', 'name' => 'Majlis Perbandaran Kuala Terengganu'],
+	[ 'state_id' => 11, 'code' => '20200', 'name' => 'Muasasah Gadaian Islam'],
+	[ 'state_id' => 11, 'code' => '20200', 'name' => 'Pejabat Pelancungan Malaysia  (TDC)'],
+	[ 'state_id' => 11, 'code' => '20200', 'name' => 'Perbadanan Kemajuan Iktisad Negeri Terengganu'],
+	[ 'state_id' => 11, 'code' => '20200', 'name' => 'Pusat Khidmat Kontraktor'],
+	[ 'state_id' => 11, 'code' => '20200', 'name' => 'Unit Kontrak Penyelenggaraan & Bumiputera'],
+	[ 'state_id' => 11, 'code' => '20200', 'name' => 'Unit Perpaduan Ummah'],
+	[ 'state_id' => 11, 'code' => '20200', 'name' => 'Wisma Persekutuan'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Jabatan Pertanian Daerah'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Jalan Air Jernih'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Jalan Batas Baru'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Jalan Cherong Lanjut'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Jalan Hilir'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Jalan Kota Lama'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Jalan Mengadang Akar'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Jalan Sultan Omar'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Jalan Syed Zain'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Jalan Tekukor'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Kampung Balik Bukit'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Kampung Batas Baru'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Kampung Bukit Jambol'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Kampung Paya Tok Ber'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Kampung Pengadang Akar'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Kampung Pulau Kambing'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Kampung Titian Lembut'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Pejabat Felda'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Pejabat Shah Bandar Pantai Timur'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Taman Dalya'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Taman Hajjah Kelsom'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Taman Terkukur'],
+	[ 'state_id' => 11, 'code' => '20300', 'name' => 'Yayasan Terengganu'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Jalan Dato Amar'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Jalan Haji Busu'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Jalan Hospital'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Jalan Kamaruddin'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Jalan Kenanga'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Jalan Peranginan'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Jalan Pusara'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Jalan Sultan Mahmud'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Kampung Banggol Tok Mudin'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Kampung Batu Burok'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Kampung Gong Kemunting'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Kampung Kolam Kuala Ibai'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Kampung Kuala Ibai'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Kampung Ladang Hospital'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Kampung Ladang Sheikh Ibrahim'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Kampung Ladang Sihat'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Kampung Masjid Batu Burok'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Kampung Mengabang Tengah'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Kampung Mengabang Tengah Masjid'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Kampung Pantai Kuala Ibai'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Kampung Telok Tok Adis'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Lembaga Tembakau Negara'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Lorong Budiman'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Lorong Haji Da'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Lorong Pandan'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Lorong Temasya Pantai'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Taman Jaya'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Taman Purnama'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Taman Salimor 2'],
+	[ 'state_id' => 11, 'code' => '20400', 'name' => 'Taman Seri Pantai'],
+	[ 'state_id' => 11, 'code' => '20500', 'name' => 'DYMM Sultan Terengganu'],
+	[ 'state_id' => 11, 'code' => '20502', 'name' => 'Biro Tata Negara Terengganu'],
+	[ 'state_id' => 11, 'code' => '20502', 'name' => 'YAB Menteri Besar Terengganu'],
+	[ 'state_id' => 11, 'code' => '20503', 'name' => 'Majlis Sukan Negeri'],
+	[ 'state_id' => 11, 'code' => '20503', 'name' => 'Setiausaha Kerajaan Negeri'],
+	[ 'state_id' => 11, 'code' => '20503', 'name' => 'Unit Perancang Ekonomi'],
+	[ 'state_id' => 11, 'code' => '20504', 'name' => 'Biro Bantuan Guaman'],
+	[ 'state_id' => 11, 'code' => '20505', 'name' => 'Biro Pengaduan Awam'],
+	[ 'state_id' => 11, 'code' => '20506', 'name' => 'Mahkamah Tinggi'],
+	[ 'state_id' => 11, 'code' => '20508', 'name' => 'Amanah Raya Berhad'],
+	[ 'state_id' => 11, 'code' => '20512', 'name' => 'Penasihat Undang-Undang Negeri'],
+	[ 'state_id' => 11, 'code' => '20514', 'name' => 'Jabatan Perangkaan'],
+	[ 'state_id' => 11, 'code' => '20516', 'name' => 'Jabatan Pemegang Harta'],
+	[ 'state_id' => 11, 'code' => '20517', 'name' => 'Jabatan Perpaduan Negara'],
+	[ 'state_id' => 11, 'code' => '20518', 'name' => 'Ketua Audit Negeri'],
+	[ 'state_id' => 11, 'code' => '20519', 'name' => 'Majlis Agama Islam Terengganu'],
+	[ 'state_id' => 11, 'code' => '20520', 'name' => 'SuruhanJaya Perkhidmatan Awam'],
+	[ 'state_id' => 11, 'code' => '20532', 'name' => 'Jabatan Sumber Manusia'],
+	[ 'state_id' => 11, 'code' => '20534', 'name' => 'Jabatan Kilang & Jentera'],
+	[ 'state_id' => 11, 'code' => '20536', 'name' => 'Jabatan Perhubungan Perusahaan'],
+	[ 'state_id' => 11, 'code' => '20538', 'name' => 'Jabatan Keselamatan Sosial (Perkeso)'],
+	[ 'state_id' => 11, 'code' => '20540', 'name' => 'Jabatan Tenaga Rakyat'],
+	[ 'state_id' => 11, 'code' => '20542', 'name' => 'Pendaftar Kesatuan Sekerja'],
+	[ 'state_id' => 11, 'code' => '20546', 'name' => 'Pejabat Rela Negeri'],
+	[ 'state_id' => 11, 'code' => '20548', 'name' => 'Jabatan Hal Ehwal Orang Asli'],
+	[ 'state_id' => 11, 'code' => '20550', 'name' => 'Jabatan Imigresen'],
+	[ 'state_id' => 11, 'code' => '20551', 'name' => 'Jabatan Pendaftaran Negara'],
+	[ 'state_id' => 11, 'code' => '20552', 'name' => 'Jabatan Pendaftar Pertubuhan'],
+	[ 'state_id' => 11, 'code' => '20554', 'name' => 'Percetakan Nasional Berhad'],
+	[ 'state_id' => 11, 'code' => '20556', 'name' => 'Jabatan Pertahanan Awam'],
+	[ 'state_id' => 11, 'code' => '20560', 'name' => 'Ketua Polis Negeri'],
+	[ 'state_id' => 11, 'code' => '20564', 'name' => 'Jabatan Kebajikan Masyarakat'],
+	[ 'state_id' => 11, 'code' => '20566', 'name' => 'Jabatan Muzium'],
+	[ 'state_id' => 11, 'code' => '20568', 'name' => 'Jabatan Arkib Negara'],
+	[ 'state_id' => 11, 'code' => '20570', 'name' => 'Jabatan Belia Dan Sukan'],
+	[ 'state_id' => 11, 'code' => '20570', 'name' => 'Pusat Latihan Belia Negeri'],
+	[ 'state_id' => 11, 'code' => '20572', 'name' => 'Perpustakaan Awam Negeri'],
+	[ 'state_id' => 11, 'code' => '20576', 'name' => 'Jabatan Tanah Dan Galian'],
+	[ 'state_id' => 11, 'code' => '20578', 'name' => 'Jabatan Ukur & Pemetaan'],
+	[ 'state_id' => 11, 'code' => '20582', 'name' => 'Jabatan Kerja Raya'],
+	[ 'state_id' => 11, 'code' => '20586', 'name' => 'Hospital Kuala Terengganu'],
+	[ 'state_id' => 11, 'code' => '20590', 'name' => 'Jabatan Kesihatan'],
+	[ 'state_id' => 11, 'code' => '20592', 'name' => 'Jabatan Penilaian Harta'],
+	[ 'state_id' => 11, 'code' => '20592', 'name' => 'Pegawai Kewangan Negeri'],
+	[ 'state_id' => 11, 'code' => '20596', 'name' => 'Akauntan Negeri'],
+	[ 'state_id' => 11, 'code' => '20596', 'name' => 'Jabatan Kastam & Eksais Di Raja'],
+	[ 'state_id' => 11, 'code' => '20600', 'name' => 'Lembaga Hasil Dalam Negeri'],
+	[ 'state_id' => 11, 'code' => '20604', 'name' => 'Jabatan Pendidikan'],
+	[ 'state_id' => 11, 'code' => '20604', 'name' => 'Ketua Nazir Sekolah Persekutuan'],
+	[ 'state_id' => 11, 'code' => '20606', 'name' => 'Jabatan Kemajuan Masyarakat (Kemas)'],
+	[ 'state_id' => 11, 'code' => '20608', 'name' => 'Jabatan Pembangunan Koperasi'],
+	[ 'state_id' => 11, 'code' => '20609', 'name' => 'Pejabat Mara Negeri'],
+	[ 'state_id' => 11, 'code' => '20610', 'name' => 'Bahagian Pelesenan - Kementerian Penerangan'],
+	[ 'state_id' => 11, 'code' => '20612', 'name' => 'Jabatan Penerangan'],
+	[ 'state_id' => 11, 'code' => '20614', 'name' => 'Jabatan Penyiaran'],
+	[ 'state_id' => 11, 'code' => '20618', 'name' => 'Jabatan Penerbangan Awam'],
+	[ 'state_id' => 11, 'code' => '20620', 'name' => 'Jabatan Pengangkutan Jalan'],
+	[ 'state_id' => 11, 'code' => '20622', 'name' => 'Penguatkuasa Kementerian Perdagangan Dalam Negeri'],
+	[ 'state_id' => 11, 'code' => '20626', 'name' => 'Jabatan Pengairan Dan Saliran'],
+	[ 'state_id' => 11, 'code' => '20628', 'name' => 'Jabatan Perikanan'],
+	[ 'state_id' => 11, 'code' => '20630', 'name' => 'Jabatan Haiwan'],
+	[ 'state_id' => 11, 'code' => '20632', 'name' => 'Jabatan Pertanian'],
+	[ 'state_id' => 11, 'code' => '20646', 'name' => 'Jabatan Perancang Bandar Dan Desa'],
+	[ 'state_id' => 11, 'code' => '20648', 'name' => 'Jabatan Bomba & Penyelamat'],
+	[ 'state_id' => 11, 'code' => '20656', 'name' => 'Jabatan Galian'],
+	[ 'state_id' => 11, 'code' => '20658', 'name' => 'Jabatan Kajibumi'],
+	[ 'state_id' => 11, 'code' => '20660', 'name' => 'Jabatan Perhutanan'],
+	[ 'state_id' => 11, 'code' => '20661', 'name' => 'Padi & Beras Nasional (Bernas)'],
+	[ 'state_id' => 11, 'code' => '20662', 'name' => 'Jabatan Alam Sekitar Negeri'],
+	[ 'state_id' => 11, 'code' => '20662', 'name' => 'Jabatan Kajicuaca'],
+	[ 'state_id' => 11, 'code' => '20662', 'name' => 'Jabatan Kimia'],
+	[ 'state_id' => 11, 'code' => '20664', 'name' => 'Jabatan Perhilitan'],
+	[ 'state_id' => 11, 'code' => '20668', 'name' => 'Jabatan Telekom Timur'],
+	[ 'state_id' => 11, 'code' => '20670', 'name' => 'Pos Malaysia Berhad'],
+	[ 'state_id' => 11, 'code' => '20672', 'name' => 'Telekom Malaysia Berhad'],
+	[ 'state_id' => 11, 'code' => '20673', 'name' => 'Tenaga Nasional Berhad'],
+	[ 'state_id' => 11, 'code' => '20674', 'name' => 'Pegawai Kemajuan Negeri'],
+	[ 'state_id' => 11, 'code' => '20676', 'name' => 'Jabatan Agama Islam Terengganu'],
+	[ 'state_id' => 11, 'code' => '20680', 'name' => 'Dewan Undangan Negeri'],
+	[ 'state_id' => 11, 'code' => '20690', 'name' => 'Suruhanjaya Pilihan Raya Negeri'],
+	[ 'state_id' => 11, 'code' => '20698', 'name' => 'Kumpulan Wang Simpanan Pekerja'],
+	[ 'state_id' => 11, 'code' => '20700', 'name' => 'Kuala Terengganu - Peti surat   1 - 3'],
+	[ 'state_id' => 11, 'code' => '20700', 'name' => 'Kuala Terengganu - Peti surat 19 - 42'],
+	[ 'state_id' => 11, 'code' => '20700', 'name' => 'Kuala Terengganu - Peti surat 44 - 49'],
+	[ 'state_id' => 11, 'code' => '20700', 'name' => 'Kuala Terengganu - Peti surat 5 - 17'],
+	[ 'state_id' => 11, 'code' => '20700', 'name' => 'Kuala Terengganu - Peti surat 52 - 55'],
+	[ 'state_id' => 11, 'code' => '20700', 'name' => 'Kuala Terengganu - Peti surat 58 - 62'],
+	[ 'state_id' => 11, 'code' => '20700', 'name' => 'Kuala Terengganu - Peti surat 64'],
+	[ 'state_id' => 11, 'code' => '20700', 'name' => 'Kuala Terengganu - Peti surat 69 - 80'],
+	[ 'state_id' => 11, 'code' => '20710', 'name' => 'Kuala Terengganu - Peti surat 123 - 125'],
+	[ 'state_id' => 11, 'code' => '20710', 'name' => 'Kuala Terengganu - Peti surat 128 - 160'],
+	[ 'state_id' => 11, 'code' => '20710', 'name' => 'Kuala Terengganu - Peti surat 81 - 89'],
+	[ 'state_id' => 11, 'code' => '20710', 'name' => 'Kuala Terengganu - Peti surat 91- 121'],
+	[ 'state_id' => 11, 'code' => '20720', 'name' => 'Kuala Terengganu - Peti surat 161  & ke atas'],
+	[ 'state_id' => 11, 'code' => '20900', 'name' => 'Kuala Terengganu - Peti surat  4'],
+	[ 'state_id' => 11, 'code' => '20902', 'name' => 'Kuala Terengganu - Peti surat 18'],
+	[ 'state_id' => 11, 'code' => '20904', 'name' => 'Kuala Terengganu - Peti surat 43'],
+	[ 'state_id' => 11, 'code' => '20906', 'name' => 'Kuala Terengganu - Peti surat 50'],
+	[ 'state_id' => 11, 'code' => '20908', 'name' => 'Kuala Terengganu - Peti surat 51'],
+	[ 'state_id' => 11, 'code' => '20910', 'name' => 'Kuala Terengganu - Peti surat 56'],
+	[ 'state_id' => 11, 'code' => '20912', 'name' => 'Kuala Terengganu - Peti surat 57'],
+	[ 'state_id' => 11, 'code' => '20914', 'name' => 'Kuala Terengganu - Peti surat 63'],
+	[ 'state_id' => 11, 'code' => '20916', 'name' => 'Kuala Terengganu - Peti surat 65'],
+	[ 'state_id' => 11, 'code' => '20918', 'name' => 'Kuala Terengganu - Peti surat 66'],
+	[ 'state_id' => 11, 'code' => '20920', 'name' => 'Kuala Terengganu - Peti surat 67'],
+	[ 'state_id' => 11, 'code' => '20922', 'name' => 'Kuala Terengganu - Peti surat 68'],
+	[ 'state_id' => 11, 'code' => '20924', 'name' => 'Kuala Terengganu - Peti surat 90'],
+	[ 'state_id' => 11, 'code' => '20926', 'name' => 'Kuala Terengganu - Peti surat 122'],
+	[ 'state_id' => 11, 'code' => '20928', 'name' => 'Kuala Terengganu - Peti surat 126'],
+	[ 'state_id' => 11, 'code' => '20930', 'name' => 'Kuala Terengganu - Peti surat 127'],
+	[ 'state_id' => 11, 'code' => '20990', 'name' => 'Kuala Terengganu - Beg berkunci'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Chabang Tiga'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Jalan Hiliran Masjid'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Jalan Kosong Ferry'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Jalan Kuala Hiliran'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Jalan Losong Masjid'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Jalan Seb Baroh Kanan'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Jalan Siakap'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Bukit Losong'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Bukit Tangki Ayer'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Hiliran Binjai Besar'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Hiliran Masjid'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Hiliran Parit Gali'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Hiliran Surau Baru'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Kubang Buyong'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Lorong Salak'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Losong Atap Zing'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Losong Bata'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Losong Dato Amar'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Losong Ebeng'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Losong Haji Awang'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Losong Haji Long Hakim'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Losong Haji Mohd'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Losong Haji Su'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Losong Haji Wan Nawang'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Losong Masjid'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Losong Megat Husain'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Losong Pak Bas'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Losong Panglima Perang'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Losong Pasir'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Losong Tangkol Hijau'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Makam Lama'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Masjid Tok Ku'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Padang Hiliran'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Pulau Sekati'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Seberang Baroh'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Seberang Baroh Belukar'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Seberang Baroh Taliair'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kampung Tok Ku'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kuala Hiliran'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Kubang Buyong'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Lorong Ciku'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Lorong Limau'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Lorong Makam Lama'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Lorong Radio Malaysia'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Lorong Stesen Pemancar RTM'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Losong Feri Kiri'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Losong Haji Long'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Losong Haji Mat Shafie'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Losong Lebai Salleh'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Losong Sekolah'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Losong Tepas Mahmud'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Pulau Pak Mat'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Pulau Wan Man'],
+	[ 'state_id' => 11, 'code' => '21000', 'name' => 'Simpang Tok Ku'],
+	[ 'state_id' => 11, 'code' => '21009', 'name' => 'Chabang Tiga - Beg berkunci'],
+	[ 'state_id' => 11, 'code' => '21010', 'name' => 'Kampung Bari Besar'],
+	[ 'state_id' => 11, 'code' => '21010', 'name' => 'Kampung Gong Arang'],
+	[ 'state_id' => 11, 'code' => '21010', 'name' => 'Kampung Mengabang'],
+	[ 'state_id' => 11, 'code' => '21010', 'name' => 'Kampung Rhu Tapai'],
+	[ 'state_id' => 11, 'code' => '21010', 'name' => 'Kampung Telaga Papan'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Jalan Batu Rakit'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Jalan Merang'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Kampung Bari Besar'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Kampung Darat Tok Wail'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Kampung Dusun Durian'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Kampung Gelong Gajah'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Kampung Kubor Timah'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Kampung Maras'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Kampung Medan Cengal'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Kampung Mengabang Bakong'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Kampung Mengabang Lekar'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Kampung Mengabang Panjang'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Kampung Mengabang Telong'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Kampung Padang Kemunting'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Kampung Pagar Besi'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Kampung Pancur Kuin'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Kampung Pengkalan Atap'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Kampung Sungai Pimpin'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Kampung Taman Hijrah'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Kampung Tanjung Kedepan'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Kampung Telaga Putat'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'PPRT Ru Tapai'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Taman Perumahan Lembah Bidong'],
+	[ 'state_id' => 11, 'code' => '21020', 'name' => 'Tapah'],
+	[ 'state_id' => 11, 'code' => '21030', 'name' => 'Jalan Bakti Simpang Tiga Kubang Badak'],
+	[ 'state_id' => 11, 'code' => '21030', 'name' => 'Jalan Sekolah Rendah Gong Badak'],
+	[ 'state_id' => 11, 'code' => '21030', 'name' => 'Kampung Gong Benjok'],
+	[ 'state_id' => 11, 'code' => '21030', 'name' => 'Kampung Gong Datok'],
+	[ 'state_id' => 11, 'code' => '21030', 'name' => 'Kampung Kubang Badak (Jalan Pantai)'],
+	[ 'state_id' => 11, 'code' => '21030', 'name' => 'Kampung Pak Tuyu'],
+	[ 'state_id' => 11, 'code' => '21030', 'name' => 'Kampung Tanjong Gelang'],
+	[ 'state_id' => 11, 'code' => '21030', 'name' => 'Kampung Wakaf Cagak'],
+	[ 'state_id' => 11, 'code' => '21030', 'name' => 'Kampung Wakaf Tengah'],
+	[ 'state_id' => 11, 'code' => '21030', 'name' => 'Maktab Perguruan Kuala Terengganu'],
+	[ 'state_id' => 11, 'code' => '21030', 'name' => 'Maktab Rendah Sains Mara'],
+	[ 'state_id' => 11, 'code' => '21030', 'name' => 'Mengabang Telipot'],
+	[ 'state_id' => 11, 'code' => '21030', 'name' => 'Simpang Tiga Kubang Badak'],
+	[ 'state_id' => 11, 'code' => '21030', 'name' => 'Taman Baiduri'],
+	[ 'state_id' => 11, 'code' => '21030', 'name' => 'Taman Indah Wangsa'],
+	[ 'state_id' => 11, 'code' => '21030', 'name' => 'Taman Seri Nenas'],
+	[ 'state_id' => 11, 'code' => '21040', 'name' => 'Kampung Bukit Chempedak'],
+	[ 'state_id' => 11, 'code' => '21040', 'name' => 'Kampung Bukit Kolam'],
+	[ 'state_id' => 11, 'code' => '21040', 'name' => 'Kampung Cherang Gajah'],
+	[ 'state_id' => 11, 'code' => '21040', 'name' => 'Kampung Durian Guling'],
+	[ 'state_id' => 11, 'code' => '21040', 'name' => 'Kampung Jerong Surau'],
+	[ 'state_id' => 11, 'code' => '21040', 'name' => 'Kampung Jerong Tuan'],
+	[ 'state_id' => 11, 'code' => '21040', 'name' => 'Kampung Kayu Arang'],
+	[ 'state_id' => 11, 'code' => '21040', 'name' => 'Kampung Kuala Bekah (Pengkalan Berangan)'],
+	[ 'state_id' => 11, 'code' => '21040', 'name' => 'Kampung Lubok Batu (Wakaf Tapai)'],
+	[ 'state_id' => 11, 'code' => '21040', 'name' => 'Kampung Pengkalan Berangan'],
+	[ 'state_id' => 11, 'code' => '21040', 'name' => 'Kampung Tanggol'],
+	[ 'state_id' => 11, 'code' => '21040', 'name' => 'Kampung Tapu'],
+	[ 'state_id' => 11, 'code' => '21040', 'name' => 'Kampung Temala'],
+	[ 'state_id' => 11, 'code' => '21040', 'name' => 'Kampung Wakaf Tapai'],
+	[ 'state_id' => 11, 'code' => '21040', 'name' => 'Pusat  Perikanan & Sains'],
+	[ 'state_id' => 11, 'code' => '21060', 'name' => 'Kampung Alor Gemia'],
+	[ 'state_id' => 11, 'code' => '21060', 'name' => 'Kampung Banggol Nyour'],
+	[ 'state_id' => 11, 'code' => '21060', 'name' => 'Kampung Bukit ChemPaka'],
+	[ 'state_id' => 11, 'code' => '21060', 'name' => 'Kampung Bukit Guntong'],
+	[ 'state_id' => 11, 'code' => '21060', 'name' => 'Kampung Bukit Kubor'],
+	[ 'state_id' => 11, 'code' => '21060', 'name' => 'Kampung Bukit Nangka'],
+	[ 'state_id' => 11, 'code' => '21060', 'name' => 'Kampung Bukit Nenas'],
+	[ 'state_id' => 11, 'code' => '21060', 'name' => 'Kampung Gemuroh'],
+	[ 'state_id' => 11, 'code' => '21060', 'name' => 'Kampung Jeram Hilir'],
+	[ 'state_id' => 11, 'code' => '21060', 'name' => 'Kampung Jeram Hulu'],
+	[ 'state_id' => 11, 'code' => '21060', 'name' => 'Kampung Padang Baloh'],
+	[ 'state_id' => 11, 'code' => '21060', 'name' => 'Kampung Padang Hangus'],
+	[ 'state_id' => 11, 'code' => '21060', 'name' => 'Kampung Pagar Ubi'],
+	[ 'state_id' => 11, 'code' => '21060', 'name' => 'Kampung Pondok Lalang'],
+	[ 'state_id' => 11, 'code' => '21060', 'name' => 'Kampung Raja Tepoh'],
+	[ 'state_id' => 11, 'code' => '21060', 'name' => 'Kampung Sungai Ikan'],
+	[ 'state_id' => 11, 'code' => '21060', 'name' => 'Kampung Tepoh'],
+	[ 'state_id' => 11, 'code' => '21060', 'name' => 'Kampung Tok Ban'],
+	[ 'state_id' => 11, 'code' => '21060', 'name' => 'Kampung Wakaf Gomok'],
+	[ 'state_id' => 11, 'code' => '21060', 'name' => 'Tepoh'],
+	[ 'state_id' => 11, 'code' => '21070', 'name' => 'Atas Tol'],
+	[ 'state_id' => 11, 'code' => '21070', 'name' => 'Kampung Alor'],
+	[ 'state_id' => 11, 'code' => '21070', 'name' => 'Kampung Alor Tempoyak'],
+	[ 'state_id' => 11, 'code' => '21070', 'name' => 'Kampung Atas Tol'],
+	[ 'state_id' => 11, 'code' => '21070', 'name' => 'Kampung Bawah Atas Tol'],
+	[ 'state_id' => 11, 'code' => '21070', 'name' => 'Kampung Kedai Buloh'],
+	[ 'state_id' => 11, 'code' => '21070', 'name' => 'Kampung Titian Baharu'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Chendering'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Institut Latihan Perikanan'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Institut Piawaian Malaysia (SIRIM)'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Kampung Belukar Jambu'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Kampung Bukit Batu Puteh'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Kampung Bukit Chendering'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Kampung Chendering'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Kampung Ketapang'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Kampung Kubang Ikan'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Kampung Laut'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Kampung Pengkalan Raja Wali'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Kampung Raja Chendering'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Kampung Rusila'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Kampung Sendong'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Kampung Wakaf Tok Keh'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Kubang Ikan'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Lembaga Kemajuan Ikan (LKIM)'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Pusat Penyelidikan Ikan'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Rusila'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Taman Aquarius'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Taman Desa Jaya'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Taman Medan Jaya'],
+	[ 'state_id' => 11, 'code' => '21080', 'name' => 'Taman Permin Jaya'],
+	[ 'state_id' => 11, 'code' => '21090', 'name' => 'Pulau Redang'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Bukit Besar'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Gong Kapas'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Jalan Bukit Kechil'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Jalan Dato Bentara Setia'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Jalan Gong Penaga'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Jalan Ibrahim'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Jalan Panji Alam'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Jalan Pintasan'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Jalan Sultan Mohamad'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Kampung Bukit Bayas'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Kampung Bukit Besar'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Kampung Bukit Depu'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Kampung Bukit Kechil'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Kampung Bukit Tanah'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Kampung Cik Damat'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Kampung Gelong Bilal'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Kampung Gong Baru'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Kampung Gong Kapas'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Kampung Gong Nangka'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Kampung Gong Pak Maseh'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Kampung Gong Parit'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Kampung Gong Penaga'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Kampung Gong Tok Nasek'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Kampung Kubor Kechil'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Kampung Nibong'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Kampung Padang'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Kampung Pasir Panjang'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Kampung Paya Jambol'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Kampung Seberang Bukit Bayas'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Kampung Sungai Durhaka'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Lorong Beringin'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Lorong Gemia Rendang'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Lorong Jambu'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Lorong Kemunting'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Lorong Masjid Haji Kadir'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Lorong Masjid Raja'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Lorong Paya Jambol'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Lorong Sagu'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Lorong Surau Baharu'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Lorong Tembesu'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Lorong Tunku Ahmad'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Pusat Membeli Belah Giant'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Sekolah Menengah Sains Kuala Terengganu'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Taman Budaya'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Taman Had'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Taman Salimor 1'],
+	[ 'state_id' => 11, 'code' => '21100', 'name' => 'Taman Telok Adis Indah'],
+	[ 'state_id' => 11, 'code' => '21109', 'name' => 'Gong Kapas - Beg berkunci'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Batu Enam'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Belara'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Binjai Manis'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Jalan Kelantan (Km 7 - 13)'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Banggol Ayer Lilih'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Banggol Dama'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Banggol Limau'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Banggol Manir'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Banggol Tuan Muda'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Baru Tetambah'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Batu Hampar'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Batu Lapan'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Beladau Kolam'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Bukit Datu'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Bukit Kandis'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Bukit Petiti Belara'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Bukit Seraman'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Bukit Tok Ris'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Bukit Tumboh'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Bukit Tunggal'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Buloh Gading'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Durian Mas'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Dusun'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Dusun Pinang'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Dusun Tembakan'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Gong Kijang'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Gong Pak Damak'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Gong Sentol'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Jeram'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Kebor Ayer'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Kebor Besar'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Kedai Manir'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Kesom'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Kesom Che Nordin'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Kesom Padang Tambak'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Kota'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Kuala Belara'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Kubang Bujok'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Kubang Ikan'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Kubang Jela'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Kubang Tepak'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Masjid Haji Hussin'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Padang Machang'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Padang Tenger'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Padang Ujib'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Pak Katak'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Parit Dicap'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Pasir Tebakang'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Paya Datu'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Paya Limau Amas'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Pelam'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Pengkalan Arang'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Pengkalan Batu'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Peradong'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Petai Bubus'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Pujuk'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Pulau Bahagia'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Seberang Bukit Tumboh'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Seberang Tuan Chik Haji'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Sekati'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Serdang Baru'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Tanah Lot (Batu 8)'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Tanjong Bunut'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Tanjong Sabtu'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Tanjung Serdang'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Tebauk'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Telari'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Telok Menara'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Telok Pasu'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Tengah'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Tetambah'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Tok Harun'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Tualang'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Kampung Wakaf Tembesu'],
+	[ 'state_id' => 11, 'code' => '21200', 'name' => 'Manir'],
+	[ 'state_id' => 11, 'code' => '21209', 'name' => 'Manir - Beg berkunci'],
+	[ 'state_id' => 11, 'code' => '21210', 'name' => 'Kampung Bukit Aman'],
+	[ 'state_id' => 11, 'code' => '21210', 'name' => 'Kampung Bukit Lawan'],
+	[ 'state_id' => 11, 'code' => '21210', 'name' => 'Kampung Bukit Tadok'],
+	[ 'state_id' => 11, 'code' => '21210', 'name' => 'Kampung Chepoh'],
+	[ 'state_id' => 11, 'code' => '21210', 'name' => 'Kampung Getang'],
+	[ 'state_id' => 11, 'code' => '21210', 'name' => 'Kampung Kubang Palas'],
+	[ 'state_id' => 11, 'code' => '21210', 'name' => 'Kampung Lubok Batu (Kuala Telemong)'],
+	[ 'state_id' => 11, 'code' => '21210', 'name' => 'Kampung Naga Mengulor'],
+	[ 'state_id' => 11, 'code' => '21210', 'name' => 'Kampung Pulau Manis (Kuala Telemong)'],
+	[ 'state_id' => 11, 'code' => '21210', 'name' => 'Kampung Tanjong Mesah'],
+	[ 'state_id' => 11, 'code' => '21210', 'name' => 'Kampung Tok Iman Lapar'],
+	[ 'state_id' => 11, 'code' => '21220', 'name' => 'Kuala Telemong'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Batalion 104 Infanteri'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Batalion 18 RAMD'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Batu 12 (Jalan Gong Badak)'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'IBN PGA 9 Kubang Badak'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Jalan Maskayu'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Jalan Pak Yusof'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Jalan Tanah Lot Wakaf Tembusu'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Jalan Tok Jembal'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Alor Kuda Bukit Tok Beng'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Banggol Buloh'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Banggol Pauh'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Banggol Putat'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Baru Pusu Tiga'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Baru Seberang Takir'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Baru Tok Mer'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Batu 13 (Jalan Lapangan Terbang)'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Bukit Tok Beng'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Duyong'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Duyong Haji Muda'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Duyong Kecil'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Duyun Haji Umar'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Duyung Besar'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Gong Badak'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Gong Katut'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Gong Kuin'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Guchil'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Hujung Tanjung Luang'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Hulur Takur'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Kayu Kelat'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Kebun Melaka'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Kelantan'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Kubang Badak'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Padang Ulu Takir'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Pak Tijah'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Paya Putat'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Pengkalan Belat'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Pengkalan Titian'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Pulau Duyung'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Pulau Ketam'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Seberang Tok Abu'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Sepetir'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Tanah Lot Telok Ketapang'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Tanjong Jaafar'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Telaga Batin'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Telaga Daing'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Telok Ketapang'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Tok Jembal'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Tok Mer'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kampung Ujung Pasir Puteh'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Kubang Badak'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Lapangan Terbang Sultan Mahmud'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Percetakan Yayasan Islam'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Rumah Murah 100'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Rumah Murah 62'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Rumah Murah Gong Badak'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Rumah Murah Telaga Daing'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Seberang Takir'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Taman Desa Permai'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Taman Gong Badak'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Taman Jaya (Seberang Takir)'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Taman Salwa'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Taman Setia Damai'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Tanah Lot Batu 10'],
+	[ 'state_id' => 11, 'code' => '21300', 'name' => 'Zon Perindustrian Gong Badak'],
+	[ 'state_id' => 11, 'code' => '21309', 'name' => 'Seberang Takir - Beg berkunci'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Bukit Payong'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Kampung Alor Limbat'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Kampung Banggol Kapas'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Kampung Banggol Tasek'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Kampung Binjai Bongkok'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Kampung Kubang Belukar'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Kampung Kubang Panjang'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Kampung Mak Kemas'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Kampung Nyut-Nyut'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Kampung Padang Ayer Deras'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Kampung Padang Kabar'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Kampung Padang Mengkuang'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Kampung Padang Midin'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Kampung Pak Madah'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Kampung Pantai Ali'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Kampung Pasir Tinggi'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Kampung Rawai'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Kampung Tasek'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Kampung Tebakang'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Kampung Telaga Mengkudu'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Kampung Undang'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Kampung Wakaf Dua'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Rejimen 512 - Askar Wataniah'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Taman Koperasi'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Taman Mewah'],
+	[ 'state_id' => 11, 'code' => '21400', 'name' => 'Taman Padang Midin'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Chalok'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Felda Chalok'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Felda Chalok Barat'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Kampung Batu Hampar (Chalok)'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Kampung Bukit Kecil'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Kampung Bukit Layak'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Kampung Bukit Mak Jintan'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Kampung Bukit Merah'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Kampung Bukit Mok Som'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Kampung Bukit Pinang'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Kampung Bukit Putera'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Kampung Bukit Tok Hat'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Kampung Chabang Bari'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Kampung Chalok Barat'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Kampung Gong Terap Chalok'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Kampung Jelapang'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Kampung Kubang Puyu'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Kampung Lubuk Panjang'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Kampung Rahmat'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Kampung Sungai Lerek'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Kampung Sungai Pinang'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Kampung Sungai Rakit'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Kampung Tapah'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Kampung Ulu Chalok'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Kubang Puyu'],
+	[ 'state_id' => 11, 'code' => '21450', 'name' => 'Taman Tasek'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Alor Lik'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Kampung Banggol Setor'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Kampung Batu 28'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Kampung Batu 30'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Kampung Bukit Mundok'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Kampung Bukit Nenas'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Kampung Bukit Sungai Tong'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Kampung Jaya Sungai Tong'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Kampung Jelapang'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Kampung Kuala Tayor'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Kampung Langkap'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Kampung Nibong'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Kampung Nibong Sungai Tong'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Kampung Pak Ba'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Kampung Payong'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Kampung Pelong'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Kampung Pengkalan Merbau'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Kampung Simpang Langkap'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Kampung Sungai Bari'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Kampung Tayor Tengah'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Ladang Bari'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'LKTP Belara'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Pakoh Jaya'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Seri Langkap'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Sungai Lerak'],
+	[ 'state_id' => 11, 'code' => '21500', 'name' => 'Sungai Tong'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Alor Gali'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Alor Tuman'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Asing'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Barat'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Bukit Baharu'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Bukit Gegading'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Bukit Jejulong'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Bukit Kulim'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Bukit Parit'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Durian Penjara'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Gong Beris'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Jabatan Penjara'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Kampung Batangan'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Kampung Bukit Gasing'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Kampung Gong Nangka'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Kampung Jenang'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Kampung Kayu Kelat'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Kampung Kelulut'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Kampung Kijing'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Kampung Masjid Haji Said'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Kampung Pantai Seberang Marang'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Kampung Paya'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Kampung Ru Dua'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Kampung Ru Muda'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Kampung Ru Rendang'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Kampung Sentul Patah'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Kampung Star Kiri'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Kampung Sungai Kerak'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Kampung Surau Haji Ibrahim'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Kampung Surau Haji Mat'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Kampung Tuman'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Ladang Fikri'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Marang'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Pengkalan Kuin'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Pulau Kerengga'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Rambai Jantan'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Setar Kanan'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Taman Hidayah'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Taman Kalongan Melor'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Taman Kernia Jaya'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Taman Laila'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Taman Mas Murni (Fasa 1 & 2)'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Taman Perpindahan Sungai Kerak'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Taman Perumahan Kelulut'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Taman Perumahan Perkaya'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Temiang Ulu'],
+	[ 'state_id' => 11, 'code' => '21600', 'name' => 'Teratak Batu'],
+	[ 'state_id' => 11, 'code' => '21610', 'name' => 'Jambu Bongkok'],
+	[ 'state_id' => 11, 'code' => '21610', 'name' => 'Kampung Durian Pulut Merchang'],
+	[ 'state_id' => 11, 'code' => '21610', 'name' => 'Kampung Gong Balai'],
+	[ 'state_id' => 11, 'code' => '21610', 'name' => 'Kampung Gong Kassim'],
+	[ 'state_id' => 11, 'code' => '21610', 'name' => 'Kampung Jambu Bongkok'],
+	[ 'state_id' => 11, 'code' => '21610', 'name' => 'Kampung Padang Pauh'],
+	[ 'state_id' => 11, 'code' => '21610', 'name' => 'Kampung Pasir Puteh'],
+	[ 'state_id' => 11, 'code' => '21610', 'name' => 'Kampung Tok Fakir Merchang'],
+	[ 'state_id' => 11, 'code' => '21610', 'name' => 'Merchang'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Binjai Kertas'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Alor Kiambang'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Basung'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Batu 23'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Batu 23 (Jalan Kuala Berang)'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Batu 24'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Baung'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Binjai Kertas'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Bukit Acheh'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Bukit Beruang'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Bukit Biah'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Bukit Gemuruh'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Bukit Martiya'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Bukit Tok Bat'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Buloh'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Butut'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Capu'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Cekering'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Ceting'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Dura'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Durian Bador'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Dusun'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Gaong'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Gerdong'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Hulu Sat'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Jenagor'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Kemat'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Kepah'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Kuala Akub'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Kuala Jeneris'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Kuala Menjing'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Kuala Ping'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Kuala Por'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Kuala Pueh'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Langgar'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Langgar Hilir'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Langgar Hulu'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Lubuk Pait'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Matang'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Nasi Dingin'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Nibong'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Padang Ipoh'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Padang Lebak'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Padang Setebu'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Padang Star'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Pasir Dula'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Pasir Nering'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Pasir Nyior'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Pasir Pelata'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Pasir Sipor'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Pauh'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Payang Kayu'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Pelandan'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Pengkalan Star'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Pulau Kudat'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Rahmat'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Sekayu'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Sungai Berua'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Sungai Ular'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Tajin'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Tanjong Baru'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Tapah'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Telaga'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Temir'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Tengkawang'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Teris'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Tok Bintang'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kampung Tok Lawik'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kenyir'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kuala Berang'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kuala Jeneris'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kuala Menjing'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kuala Ping'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Kuala Pueh'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Matang'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Sungai Gawi'],
+	[ 'state_id' => 11, 'code' => '21700', 'name' => 'Ulu Sat'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Ajil'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Bukit Jabar'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Bukit Pachat'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Cherang Nibong'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Durian Kassim'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Felda Bukit Bading'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Felda Mengkawang'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Felda Tersat'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Ajal'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Baru Ajil'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Batu 18'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Batu 21'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Belukar Bukit'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Betong'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Bukit Apit'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Bukit Ara'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Bukit Biman'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Bukit Perah'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Bukit Perpat'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Chenderong Balai'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Chenderong Lebam'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Datuk Amar'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Durian Rendang'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Gunong'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Jabar'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Jak'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Jerlang'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Kolam Ajil'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Kua'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Lerek'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Lubok Periok'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Machang'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Matang'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Menerong'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Panggong'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Penek'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Pengkalan Ajal'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Peris'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Pulai Api'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Setia Jaya'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Sungai Siput'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Tok Gebok'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Tok Rendok'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Kampung Tulang Daing'],
+	[ 'state_id' => 11, 'code' => '21800', 'name' => 'Menerung'],
+	[ 'state_id' => 11, 'code' => '21810', 'name' => 'Kampung Baru Sungai Binjai'],
+	[ 'state_id' => 11, 'code' => '21810', 'name' => 'Kampung Jaya Baru Nasri'],
+	[ 'state_id' => 11, 'code' => '21810', 'name' => 'Kampung Landas'],
+	[ 'state_id' => 11, 'code' => '21810', 'name' => 'Kampung Pelar'],
+	[ 'state_id' => 11, 'code' => '21810', 'name' => 'Kampung Peroh'],
+	[ 'state_id' => 11, 'code' => '21810', 'name' => 'Kampung Tok Dor'],
+	[ 'state_id' => 11, 'code' => '21820', 'name' => 'Felda Jerangau Barat'],
+	[ 'state_id' => 11, 'code' => '21820', 'name' => 'Kampung Baru Mardi'],
+	[ 'state_id' => 11, 'code' => '21820', 'name' => 'Kampung Batu 32'],
+	[ 'state_id' => 11, 'code' => '21820', 'name' => 'Kampung Landas Estate'],
+	[ 'state_id' => 11, 'code' => '21820', 'name' => 'LKTP Bukit Bading'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Alor Lintah'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Balik Bukit'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Bukit Kenak'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Bukit Puteri'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Felda Selaseh'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Gong Nering'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Jerteh'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Alor Belanga'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Alor Keladi'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Alor Selising'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Awek Darau'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Ayer Terjun'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Baru'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Baruh Mesin'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Berhala Tambun'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Beris Pak Abu'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Bukit China'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Bukit Tempurong'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Cerang Melintang'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Dalam Huma'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Darau'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Denger'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Durian Merkah'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Durian Telor'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Gegar Batang'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Gerai Muda'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Gerai Tua'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Gong Badang'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Gong Bukit Kenak'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Gong Chenerai'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Gong Duek'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Gong Guchil'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Gong Jaga'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Gong Mat Som'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Gong Nangka'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Gong Pak Cheng'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Gong Pasir'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Gong Penaga'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Gong Rengas'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Gong Tanah Merah'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Gong Terap'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Hutan Nangka'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Kolam Jerteh'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Kubang Bemban'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Lao Lok'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Lapan Kejor'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Lapan Kotak'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Lubok Kawah'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Nyior Tujuh'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Padang Landak'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Padang Luas'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Pak Da Malik'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Pak Wong'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Paroh'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Pasir Akar'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Pekakok'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Pelagat'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Pengkalan Setol'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Pondok Paku'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Pulai Rimau'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Pulau Panjang'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Pulau Ribu'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Pusu Tinggi'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Seberang Panggong'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Tanah Merah'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Tanjong Alir'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Tasek'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Tasek Mengkuang'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Telaga Nibong'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Telok'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Tok Dat'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kampung Tok Motong'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Kerandang'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'LKTP Jerangau'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Pasir Akar'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Pulau Berangan'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Taman Bakti'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Taman Desa Aman'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Taman Desa Saujana'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Taman Desa Sepakat'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Taman Desa Tani'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Taman Desa Tanjung'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Taman Jaya'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Taman Pelagat'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Taman Saujana'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Taman Seri Nering'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Taman Seri Sepakat'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Taman Teratur'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Taman Tuah'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'Tok Kundur'],
+	[ 'state_id' => 11, 'code' => '22000', 'name' => 'TUDM Bukit Putri'],
+	[ 'state_id' => 11, 'code' => '22010', 'name' => 'Bukit Payong (Jerteh)'],
+	[ 'state_id' => 11, 'code' => '22010', 'name' => 'Felcra Keruak'],
+	[ 'state_id' => 11, 'code' => '22010', 'name' => 'Kampung Bekok'],
+	[ 'state_id' => 11, 'code' => '22010', 'name' => 'Kampung Belaoh'],
+	[ 'state_id' => 11, 'code' => '22010', 'name' => 'Kampung Bukit Mali'],
+	[ 'state_id' => 11, 'code' => '22010', 'name' => 'Kampung Bukit Payong'],
+	[ 'state_id' => 11, 'code' => '22010', 'name' => 'Kampung Cawangan'],
+	[ 'state_id' => 11, 'code' => '22010', 'name' => 'Kampung Dengir Tenang'],
+	[ 'state_id' => 11, 'code' => '22010', 'name' => 'Kampung Keruak'],
+	[ 'state_id' => 11, 'code' => '22010', 'name' => 'Kampung Kuala Sayak'],
+	[ 'state_id' => 11, 'code' => '22010', 'name' => 'Kampung La'],
+	[ 'state_id' => 11, 'code' => '22010', 'name' => 'Kampung Mata Ayer'],
+	[ 'state_id' => 11, 'code' => '22010', 'name' => 'Kampung Padang Bual'],
+	[ 'state_id' => 11, 'code' => '22010', 'name' => 'Kampung Panchor'],
+	[ 'state_id' => 11, 'code' => '22010', 'name' => 'Kampung Seberang Lalang'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'Apal'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'Bukit Jerok'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'Jabi'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'Kampung Anak Ikan'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'Kampung Anak Musang'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'Kampung Bakat'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'Kampung Baru Tok Dor'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'Kampung Gong Lilit'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'Kampung Gong Pasir Jabi'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'Kampung Gong Pasir Oh'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'Kampung Gong Penaga Jabi'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'Kampung Kepala Gajah'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'Kampung Kuala Lubang'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'Kampung Lay Out (Jabi)'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'Kampung Oh'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'Kampung Padang Lengkuas'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'Kampung Pasir Tawar'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'Kampung Pohon Tar'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'Kampung Pulau Kala'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'Kampung Renek'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'Kampung Tempinis'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'Kampung Tok Dor'],
+	[ 'state_id' => 11, 'code' => '22020', 'name' => 'LKTP Tenang'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Balik Bukit'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Bukit Kemudu'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Bukit Pari'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Bukit Pelong'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Jalan Penarek'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Jalan Ulu Serdang'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Alor Pasir'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Alor Serdang'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Apek'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Bahagia'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Banggol'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Bari Kecil'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Besut'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Bintang'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Bukit Pelong'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Bukit Swee'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Buloh'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Buruk'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Che Long'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Che Mohd'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Guntong'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Guntong Dalam'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Guntong Luar'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Kederang'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Kuari Batu'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Nyatok'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Padang'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Padang Serai'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Pak Kancil'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Panchor Merah'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Pancur Merah'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Permaisuri'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Seri Bayas'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Tasek'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Ulu Kekabu'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Kampung Ulu Seladang'],
+	[ 'state_id' => 11, 'code' => '22100', 'name' => 'Perumahan Binjai Manis'],
+	[ 'state_id' => 11, 'code' => '22107', 'name' => 'Permaisuri - Peti surat'],
+	[ 'state_id' => 11, 'code' => '22109', 'name' => 'Permaisuri - Beg berkunci'],
+	[ 'state_id' => 11, 'code' => '22110', 'name' => 'Kampung Beris Tokku'],
+	[ 'state_id' => 11, 'code' => '22110', 'name' => 'Kampung Fikri'],
+	[ 'state_id' => 11, 'code' => '22110', 'name' => 'Kampung Gong Batu'],
+	[ 'state_id' => 11, 'code' => '22110', 'name' => 'Kampung Saujana'],
+	[ 'state_id' => 11, 'code' => '22110', 'name' => 'Kuala Setiu Baru'],
+	[ 'state_id' => 11, 'code' => '22110', 'name' => 'Kuala Setiu Lama'],
+	[ 'state_id' => 11, 'code' => '22110', 'name' => 'Lorong Saga'],
+	[ 'state_id' => 11, 'code' => '22110', 'name' => 'Lorong Saga Saujana'],
+	[ 'state_id' => 11, 'code' => '22110', 'name' => 'Lorong Seliat Saujana'],
+	[ 'state_id' => 11, 'code' => '22110', 'name' => 'Lorong Senandong'],
+	[ 'state_id' => 11, 'code' => '22110', 'name' => 'Lorong Senandong Saujana'],
+	[ 'state_id' => 11, 'code' => '22110', 'name' => 'Lorong Senayong'],
+	[ 'state_id' => 11, 'code' => '22110', 'name' => 'Lorong Senayong Saujana'],
+	[ 'state_id' => 11, 'code' => '22110', 'name' => 'Lorong Siakap'],
+	[ 'state_id' => 11, 'code' => '22110', 'name' => 'Lorong Siakap Saujana'],
+	[ 'state_id' => 11, 'code' => '22110', 'name' => 'Lorong Silat'],
+	[ 'state_id' => 11, 'code' => '22120', 'name' => 'Jalan Aman'],
+	[ 'state_id' => 11, 'code' => '22120', 'name' => 'Jalan Aman Rhu Sepuluh Penarek'],
+	[ 'state_id' => 11, 'code' => '22120', 'name' => 'Jalan Bahagia'],
+	[ 'state_id' => 11, 'code' => '22120', 'name' => 'Jalan Bahagia Rhu Sepuluh Penarek'],
+	[ 'state_id' => 11, 'code' => '22120', 'name' => 'Jalan Makmur'],
+	[ 'state_id' => 11, 'code' => '22120', 'name' => 'Jalan Makmur Rhu Sepuluh Penarek'],
+	[ 'state_id' => 11, 'code' => '22120', 'name' => 'Kampung Bari Kecil'],
+	[ 'state_id' => 11, 'code' => '22120', 'name' => 'Kampung Baru Penarek'],
+	[ 'state_id' => 11, 'code' => '22120', 'name' => 'Kampung Bukit Chalok Penarek'],
+	[ 'state_id' => 11, 'code' => '22120', 'name' => 'Kampung Mangkok'],
+	[ 'state_id' => 11, 'code' => '22120', 'name' => 'Kampung Penarek'],
+	[ 'state_id' => 11, 'code' => '22120', 'name' => 'Kampung Penarik'],
+	[ 'state_id' => 11, 'code' => '22120', 'name' => 'Setiu'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Alor Lintang'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Besut'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Bukit Tanah'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Gong Bayor'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Gong Jelutong'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Gong Medang'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Alor Simpol'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Amir'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Ayer Tawar'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Baru Ayer Tawar'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Baru Batu Tumboh'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Baru Gong Bayor'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Beting Lintang'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Gelang Mas'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Gong Kepas'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Gong Machang'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Gong Tiang Layar'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Gong Tiong'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Keluang'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Laha'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Laman'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Lohor'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Padang Baloh'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Pak Kiang'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Parit'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Paya Rawa'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Pengkalan Nyireh'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Pinang'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Raja Besut'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Rhu Sepuluh'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Sentosa'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Tok Fakir Besut'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Tok Pek'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kampung Wakaf Kubor'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kedeper'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Kubang Ikan'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Pak Mentosa'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Pekan Sehari Tembila'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Pengkalan Kubor'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Pengkalan Teras'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Seberang Kastam'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Seberang Limbongan'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Teluk Kubor'],
+	[ 'state_id' => 11, 'code' => '22200', 'name' => 'Tembila'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Alor Pak Ndok'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Alor Peroi'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Alor Pisang'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Alor Teratai'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Beris Alor Peroi'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Beris Alor Pisang'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Beris Cawat'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Gong Manok'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Gong Nering'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Gong Surau'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Kampung Baru'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Kampung Beris Panggong'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Kampung Gertak Seratus'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Kampung Kayu Kelat'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Kampung Lampu'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Kampung Nail'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Kampung Nangka'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Kampung Paya'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Kampung Sungai'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Kampung Tengah (Kuala Besut)'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Kampung Timur'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Kuala Bedah'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Kuala Besut'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Pacakan'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Pulau Perhentian'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Pulau Salim'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Teluk Budu'],
+	[ 'state_id' => 11, 'code' => '22300', 'name' => 'Tok Saboh'],
+	[ 'state_id' => 11, 'code' => '22307', 'name' => 'Kuala Besut - Peti surat'],
+	[ 'state_id' => 11, 'code' => '22309', 'name' => 'Kuala Besut - Beg berkunci'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Alor Rekan Bemban'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Bangunan Abdullah Osman'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Bangunan Haji Wahab'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Bangunan Maidam'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Bangunan Yayasan Islam'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Bukit Tok Bilal'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Dungun'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Dungun (Batu 48)'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Dungun Beach Resort'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Jongok Batu'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kalongan Intan'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Alor Jejawi'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Alor Tembusu'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Bahagia Tok Kah'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Balai Besar'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Batu Enam'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Batu Lima'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Batu Puteh'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Batu Tiong'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Batu Tujuh'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Binjai'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Bukit Belah'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Bukit Merah Padang Pulut'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Bukit Murai'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Bukit Pauh'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Bukit Tok Bilal'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Che Lijah'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Delong'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Gong Pasir'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Jongkok Batu'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Kemudi'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Padang Jambu'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Padang Pulut'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Pak Sabah'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Peladang'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Pulau Serai'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Raja Wali'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Rantau Abang'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Rhu Batil'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Serdang'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Sukur'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Sungai Pimpin'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Talong'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Tanjong Batu'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Tanjong Pagar'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Tanjong Pati'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kampung Tok Kah'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kompleks Perniagaan Sura Gate'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kuala Dungun'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kuala Jengal'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Kumpal'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Padang Pulut'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Pasir Raja'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Rantau Abang'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Seberang Pintasan'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Sukur'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Sura Gate'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Sura Hujong'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Talong'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Alina'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Anggerik'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Anjaria'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Bersekutu'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Bijaya Sura'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Bukit Bauk 1,2'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Bukit Catak'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Bunga Raya'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Cempaka'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Cenderawasih'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Delima'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Gemilang'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Gong Pasir'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Haji Idris'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Harmoni'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Himiran'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Intan'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Jaya'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Jejawi'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Kurnia Jaya'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Mas Intan'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Mawar'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Melati'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Melor'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Melor 4 Fasa 2'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Mesra'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Murni'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Mutiara'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Norlida'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Omar Al Khatab'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Pantai Sura'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Pelangi 1 & 2'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Perdana Bukit Catak'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Permint Indah'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Rakyat'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Raya'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Ros'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Rumbia'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Saeda'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Selasih Perdana'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Seri Dungun'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Setia'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Sri Bayu'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Sri Intan'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Sri Tanjung'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Sri Warisan'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Sura'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Sura Jaya'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Sura Jetty'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Sura Perdana'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Sura Permai'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Sura Tengah 1'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Sutera'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Telok Lipat'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Wahyu'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Taman Zaharah'],
+	[ 'state_id' => 11, 'code' => '23000', 'name' => 'Tanjung Jara Beach Resort'],
+	[ 'state_id' => 11, 'code' => '23007', 'name' => 'Dungun - Peti surat'],
+	[ 'state_id' => 11, 'code' => '23009', 'name' => 'Dungun - Beg berkunci'],
+	[ 'state_id' => 11, 'code' => '23050', 'name' => 'Kampung Baru Kuala Abang'],
+	[ 'state_id' => 11, 'code' => '23050', 'name' => 'Kampung Kertas Pulas'],
+	[ 'state_id' => 11, 'code' => '23050', 'name' => 'Kampung Kuala Abang'],
+	[ 'state_id' => 11, 'code' => '23050', 'name' => 'Kampung Kubang Putat'],
+	[ 'state_id' => 11, 'code' => '23050', 'name' => 'Kampung Kubang Temiang'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Jalan Besar Paka'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Jalan Klinik'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Jalan Santong'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Kampung Air Hitam'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Kampung Baru Paka'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Kampung Baru Tebing Tembah'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Kampung Bukit Merah'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Kampung Cacar'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Kampung Cacar Baru'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Kampung Durian Mentangau'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Kampung Gemia'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Kampung Layout Cacar'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Kampung Limbong'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Kampung Masjid'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Kampung Nyior'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Kampung Pantai Laut'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Kampung Pinang Merah'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Kampung Santong'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Kampung Seberang Alor'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Kampung Tebing Tembah'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Kampung Tok Harun'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Kampung Wakaf Hijau'],
+	[ 'state_id' => 11, 'code' => '23100', 'name' => 'Paka'],
+	[ 'state_id' => 11, 'code' => '23200', 'name' => 'Bukit Besi'],
+	[ 'state_id' => 11, 'code' => '23200', 'name' => 'Dendang'],
+	[ 'state_id' => 11, 'code' => '23200', 'name' => 'Jerangau'],
+	[ 'state_id' => 11, 'code' => '23200', 'name' => 'Kampung Baru'],
+	[ 'state_id' => 11, 'code' => '23200', 'name' => 'Kampung Besol'],
+	[ 'state_id' => 11, 'code' => '23200', 'name' => 'Kampung Jerangau'],
+	[ 'state_id' => 11, 'code' => '23200', 'name' => 'Kampung Kubur'],
+	[ 'state_id' => 11, 'code' => '23200', 'name' => 'Pinang'],
+	[ 'state_id' => 11, 'code' => '23200', 'name' => 'Rasau'],
+	[ 'state_id' => 11, 'code' => '23300', 'name' => 'Bandar Ketengah Jaya'],
+	[ 'state_id' => 11, 'code' => '23300', 'name' => 'Felda Kerteh (1 - 6)'],
+	[ 'state_id' => 11, 'code' => '23300', 'name' => 'Kampung Padang Lalang'],
+	[ 'state_id' => 11, 'code' => '23400', 'name' => 'Al Muktafi Billah Shah'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Bakau Tinggi'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Binjai'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Bukit Kuang'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Cukai'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Desa Darul Iman'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Dusun Nyior'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Geliga Permai'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Jalan Abdul Rahman'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Jalan Air Puteh'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Jalan Che Teng'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Jalan Da Omar'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Jalan Datok'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Jalan Feri Lama'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Jalan Hospital'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Jalan Injin Gergaji'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Jalan Jakar'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Jalan Kenanga'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Jalan Kubang Kurus'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Jalan Mak Dayang'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Jalan Masjid Lama'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Jalan Pasar'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Jalan Penghiburan'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Jalan Sulaiman'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Jalan Taha'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Jalan Teratai'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Air'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Bakau Tinggi'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Banggol Kanan'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Banggol Kiri'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Batu 4 (Binjai)'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Belakang Esso'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Belakang Hospital'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Besut'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Bukit Kuang'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Bukit Mentok'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Cina'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Darat Olong'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Dusun Nyior'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Fikri'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Geliga'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Geliga Baru'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Geliga Besar'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Geliga Haji Ali'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Geliga Jambatan'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Geliga Mengambang'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Gong Limau'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Gong Pauh'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Jabur Kubur'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Jaya'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Kuala Kemaman'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Lot Seri Jaya'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Mak Chili'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Mak Cili Paya'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Mak Dayang'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Padang Lalang'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Paman'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Pancor'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Pandan'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Pasir Minal'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Paya Berenjut'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Pengkalan Binjai'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Pengkalan Cicar'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Pengkalan Pandan'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Pulau Tempurong'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Sungai Pinang'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Tanah Lot Geliga'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Tempurong'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Tengah'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Tuan'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kampung Wakaf Jambu'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Kuala Kemaman'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Padang Lalang'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Pasir Minar'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Pengkalan Binjai'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Pengkalan Cicar'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Pengkalan Sir'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Pulau Tempurong'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Air Puteh'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Anggerik'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Bahagia'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Baiduri'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Bakar Daud'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Berjaya'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Bersekutu'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Bukit Mentok'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Bunga Tanjung'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Cempaka'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Cendana'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Chua Ah Kee'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Cukai'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Cukai Utama'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Dahlia'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Darul Iman'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Darul Iman 1'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Darul Iman 2'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Darul Iman 3'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Dataran Geliga'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Delima'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Desa Awana'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Desa Cukai'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Desa Impian'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Desa Permai 1'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Desa Permai 2'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Desa Sentosa'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Desa Seri Geliga'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Geliga'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Geliga Besar'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Geliga Maju'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Geliga Sakti'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Ghulam'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Gong Pauh'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Haji Hamzah'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Haji Wan Ngah'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Haji Yaacob'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Idaman'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Indah'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Intan'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Isora'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Itafah'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Jakar Jaya'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Kediaman Indah'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Kekwa'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Kemaman'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Kenari'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Lembah Geliga'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman LGL'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Lim Guan Lim'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Maheran'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Mak Cili'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Mat Nor'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Mawar'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Melor'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Melor 2'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Merpati'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Mohd Nor'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Muda'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Muhibbah'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Pantai'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Peladang'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Pelangi'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Permai Jaya'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Perumahan Haji Ismail'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Perumahan Perwaja'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Rahmat'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Samudra'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Sangsura'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Selera'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Seri Cukai'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Seri Geliga'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Seri Indah'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Seri Jakar'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Seri Jaya'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Seri Kalongan'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Seri Kalongan 2'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Seri Kemaman'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Seri Pandan'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Seri Pandan 2'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Seri Pauh'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Si Buyung'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Taman Taja'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Tanjung Berhala'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Teluk Kalong'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Teluk Puchong'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Tok Kapor'],
+	[ 'state_id' => 11, 'code' => '24000', 'name' => 'Zon Perindustrian Jakar (1 & 2)'],
+	[ 'state_id' => 11, 'code' => '24007', 'name' => 'Cukai - Peti surat'],
+	[ 'state_id' => 11, 'code' => '24009', 'name' => 'Cukai - Beg berkunci'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Arkid Mara'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Ayer Puteh'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Dadong'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Kampung Baran'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Kampung Batu 14'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Kampung Batu 16'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Kampung Habib Mohsin'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Kampung Hilir Pasir Gajah'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Kampung Hulu'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Kampung Hulu Pasir Gajah'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Kampung Hulu Seberang Tayor'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Kampung Kubang Kurus'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Kampung Laut Pasir Gajah'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Kampung Sungai Mas'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Kampung Tanah Lot Ayer Puteh'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Kampung Tanah Lot Pasir Gajah'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Kampung Tengah Pasir Gajah'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Ladang Tebak'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Padang Kubu'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Pasir Gajah'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'RKT Seberang Tayor'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Seberang Tayor'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Ceneh'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Ceneh Baru'],
+	[ 'state_id' => 11, 'code' => '24050', 'name' => 'Cerul Baru'],
+	[ 'state_id' => 11, 'code' => '24060', 'name' => 'Kampung Yak Yah'],
+	[ 'state_id' => 11, 'code' => '24060', 'name' => 'Lot 144'],
+	[ 'state_id' => 11, 'code' => '24060', 'name' => 'Neram'],
+	[ 'state_id' => 11, 'code' => '24060', 'name' => 'Neram I'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Atas Tebing'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Baru Bukit Anak Dara'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Baru Kanan'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Baru Titian Berayong'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Beris Nenas'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Bukit Anak Dara'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Bukit Sembilan'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Che Wan'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Darat Air Puteh'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Darat Haji Awang'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Darat Kijal'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Darat Penunjuk'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Darat Stesyen Bawah'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Ibai'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Ibok'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Jong Berlaboh'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Lasir Darat Kijal'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Masjid (Kijal)'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Mentauh'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Meraga Beris'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Padang Kemunting'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Pantai Penunjuk'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Penunjuk'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Pondok Limau'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Pondok Paska'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Simpang Bukit Kemuning'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Simpang Empat'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Tengah'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Tengah Bawah Tebing'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Tengah Ibok'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Tengah Pantai'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kampung Titian Berayong'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kijal'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Kijal Beach Resort'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Simpang Pelatoh'],
+	[ 'state_id' => 11, 'code' => '24100', 'name' => 'Teladas'],
+	[ 'state_id' => 11, 'code' => '24107', 'name' => 'Kijal - Peti surat'],
+	[ 'state_id' => 11, 'code' => '24109', 'name' => 'Kijal - Beg berkunci'],
+	[ 'state_id' => 11, 'code' => '24200', 'name' => 'Ayer Jerneh'],
+	[ 'state_id' => 11, 'code' => '24200', 'name' => 'Bandar D'],
+	[ 'state_id' => 11, 'code' => '24200', 'name' => 'Kampung Baru Semanyor'],
+	[ 'state_id' => 11, 'code' => '24200', 'name' => 'Kampung Batu 6 1/2 (Ayer Jerneh)'],
+	[ 'state_id' => 11, 'code' => '24200', 'name' => 'Kampung Bukit Kijang'],
+	[ 'state_id' => 11, 'code' => '24200', 'name' => 'Kampung Bukit Pak Long'],
+	[ 'state_id' => 11, 'code' => '24200', 'name' => 'Kampung Bukit Teruna Payoh'],
+	[ 'state_id' => 11, 'code' => '24200', 'name' => 'Kampung Gong Chengal'],
+	[ 'state_id' => 11, 'code' => '24200', 'name' => 'Kampung Loke Kod Ayer Jernih'],
+	[ 'state_id' => 11, 'code' => '24200', 'name' => 'Kampung Melayu Ayer Jerneh'],
+	[ 'state_id' => 11, 'code' => '24200', 'name' => 'Kampung Padang'],
+	[ 'state_id' => 11, 'code' => '24200', 'name' => 'Kampung Payoh'],
+	[ 'state_id' => 11, 'code' => '24200', 'name' => 'Kampung Seberang Payoh'],
+	[ 'state_id' => 11, 'code' => '24200', 'name' => 'Kampung Semanyor'],
+	[ 'state_id' => 11, 'code' => '24200', 'name' => 'Kemasek'],
+	[ 'state_id' => 11, 'code' => '24200', 'name' => 'Seri Bandi'],
+	[ 'state_id' => 11, 'code' => '24200', 'name' => 'Taman Wan Adnan'],
+	[ 'state_id' => 11, 'code' => '24207', 'name' => 'Kemasek - Peti surat'],
+	[ 'state_id' => 11, 'code' => '24209', 'name' => 'Kemasek - Beg berkunci'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Bandar Baru'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'EstateTengah / Petronas'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Jalan Besar'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Jalan Chabang'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Jalan Federal'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Kampung Api Rokok'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Kampung Bangsal Arang'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Kampung Baru'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Kampung Baru Chabang'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Kampung Batu Puteh'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Kampung Bukit Pahang Estate'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Kampung Cabang'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Kampung Gelugor'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Kampung Kolam Austasia'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Kampung Labohan'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Kampung Padang Bola'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Kampung Pengkalan Ranggon'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Kampung Ranggon Estate'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Kampung Seberang Lalang'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Kampung Telaga Papan'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Kampung Tengah'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Kerteh'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Kompleks Rantau Petronas'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Nyor Matel'],
+	[ 'state_id' => 11, 'code' => '24300', 'name' => 'Rantau Petronas']
+];

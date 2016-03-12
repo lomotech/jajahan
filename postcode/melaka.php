@@ -2860,5 +2860,5 @@ $perlis = [
     [ 'state_id' => 4, 'code' => '78300', 'name' => 'Jalan Thamby Chik Karim'],
     [ 'state_id' => 4, 'code' => '78300', 'name' => 'Jalan Talip Hassan'],
     [ 'state_id' => 4, 'code' => '78307', 'name' => 'Masjid Tanah - Peti Surat'],
-    [ 'state_id' => 4, 'code' => '78309', 'name' => 'Masjid Tanah - Beg berkunci'],
+    [ 'state_id' => 4, 'code' => '78309', 'name' => 'Masjid Tanah - Beg berkunci']
 ];
