@@ -1,4 +1,10 @@
 <?php
+
+/**
+ * @author    syafiq <syafiq@my-sands.com>
+ * @since     1.3
+ * retrive date 12 Mac 2016
+ */
 $perak = [
 	[ 'state_id' => 8, 'code' => '30000', 'name' => 'Bangunan Kerajaan Negeri'],
 	[ 'state_id' => 8, 'code' => '30000', 'name' => 'Bangunan Perak Darul Ridzuan'],

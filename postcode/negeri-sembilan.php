@@ -1,4 +1,10 @@
 <?php
+
+/**
+ * @author    syafiq <syafiq@my-sands.com>
+ * @since     1.3
+ * retrive date 12 Mac 2016
+ */
 $negeriSembilan = [
 	[ 'state_id' => 5, 'code' => '70000', 'name' => 'Pusat Perniagaan Templer'],
 	[ 'state_id' => 5, 'code' => '70100', 'name' => 'Taman Bukit Punca Emas'],

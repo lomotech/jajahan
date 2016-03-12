@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * @author    syafiq <syafiq@my-sands.com>
+ * @since     1.3
+ * retrive date 12 Mac 2016
+ */
 $terengganu = [
 	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Hotel Tanjung Vista'],
 	[ 'state_id' => 11, 'code' => '20000', 'name' => 'Jalan Istana Kolam'],

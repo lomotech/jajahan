@@ -2,9 +2,10 @@
 
 /**
  * @author    syafiq <syafiq@my-sands.com>
- * @since     1.0.0
+ * @since     1.0
  * retrive date 15 January 2016
  */
+
 /**
  * subdistrict - mukim.
  * sddsa: Kategori Data > Data Generik > Organisasi > Kod Bandar
@@ -46,6 +47,7 @@ $items = [
     ['id' => '090070', 'name' => 'PEKAN KUALA PERLIS', 'district_id' => '0900'],
     // ['id' => '090071', 'name' => '??', 'district_id' => '0900'],
     ['id' => '090072', 'name' => 'PEKAN KAKI BUKIT', 'district_id' => '0900'],
+
     /*
      * kedah
      */
@@ -99,6 +101,7 @@ $items = [
     ['id' => '020170', 'name' => 'PEKAN ALOR JANGGUS', 'district_id' => '0201'],
     ['id' => '020172', 'name' => 'PEKAN KOTA SARANG SEMUT', 'district_id' => '0201'],
     ['id' => '020175', 'name' => 'PEKAN GUNUNG', 'district_id' => '0201'],
+
     /*
      * === KUBANG PASU
      */
@@ -140,6 +143,7 @@ $items = [
     ['id' => '020290', 'name' => 'PEKAN SINTOK', 'district_id' => '0202'],
     ['id' => '020291', 'name' => 'PEKAN NAPOH', 'district_id' => '0202'],
     ['id' => '020292', 'name' => 'PEKAN SUNGAI KOROK', 'district_id' => '0202'],
+
     /*
      * === PADANG TERAP
      */
@@ -163,6 +167,7 @@ $items = [
     ['id' => '020373', 'name' => 'PEKAN BUKIT TEMBAGA', 'district_id' => '0203'],
     ['id' => '020374', 'name' => 'PEKAN PADANG SANAI', 'district_id' => '0203'],
     ['id' => '020375', 'name' => 'PEKAN KAMPUNG TANJUNG', 'district_id' => '0203'],
+
     /*
      * === LANGKAWI
      */
@@ -177,6 +182,7 @@ $items = [
     ['id' => '020442', 'name' => 'BANDAR PADANG LALANG', 'district_id' => '0204'],
 
     ['id' => '020472', 'name' => 'PEKAN TELOK DATAI', 'district_id' => '0204'],
+
     /*
      * === KUALA MUDA - data tiada dalam sddsa. retrive from statistics.gov.my
      */
@@ -196,6 +202,7 @@ $items = [
     ['id' => '020514', 'name' => 'SUNGAI PASIR', 'district_id' => '0205'],
     ['id' => '020515', 'name' => 'SUNGAI PETANI', 'district_id' => '0205'],
     ['id' => '020516', 'name' => 'TELOI KIRI', 'district_id' => '0205'],
+
     /*
      * === YAN
      */
@@ -212,6 +219,7 @@ $items = [
     ['id' => '020672', 'name' => 'PEKAN SUNGAI LIMAU DALAM', 'district_id' => '0206'],
     ['id' => '020674', 'name' => 'PEKAN TEROI', 'district_id' => '0206'],
     ['id' => '020675', 'name' => 'PEKAN SINGKIR', 'district_id' => '0206'],
+
     /*
      * === SIK
      */
@@ -225,6 +233,7 @@ $items = [
     ['id' => '020773', 'name' => 'PEKAN GULAU', 'district_id' => '0207'],
     ['id' => '020774', 'name' => 'PEKAN GAJAH PUTEH', 'district_id' => '0207'],
     ['id' => '020775', 'name' => 'PEKAN CHAROK PADANG', 'district_id' => '0207'],
+
     /*
      * === BALING
      */
@@ -248,6 +257,7 @@ $items = [
     ['id' => '020878', 'name' => 'PEKAN PARIT PANJANG', 'district_id' => '0208'],
     ['id' => '020879', 'name' => 'PEKAN KAMPUNG LALANG', 'district_id' => '0208'],
     ['id' => '020880', 'name' => 'PEKAN MALAU', 'district_id' => '0208'],
+
     /*
      * === KULIM
      */
@@ -279,6 +289,7 @@ $items = [
     ['id' => '020975', 'name' => 'PEKAN SUNGAI KARANGAN', 'district_id' => '0209'],
     ['id' => '020976', 'name' => 'PEKAN SUNGAI KOB', 'district_id' => '0209'],
     ['id' => '020977', 'name' => 'PEKAN PADANG MEHA', 'district_id' => '0209'],
+
     /*
      * === BANDAR BAHARU
      */
@@ -297,6 +308,7 @@ $items = [
     ['id' => '021071', 'name' => 'PEKAN SELAMA', 'district_id' => '0210'],
     ['id' => '021072', 'name' => 'PEKAN SUNGAI KECIL ILLIR', 'district_id' => '0210'],
     ['id' => '021073', 'name' => 'PEKAN RELAU', 'district_id' => '0210'],
+
     /*
      * === PENDANG
      */
@@ -318,6 +330,7 @@ $items = [
     ['id' => '021174', 'name' => 'PEKAN KOBAH', 'district_id' => '0211'],
     ['id' => '021175', 'name' => 'PEKAN KAMPUNG BARU', 'district_id' => '0211'],
     ['id' => '021176', 'name' => 'PEKAN SUNGAI TIANG', 'district_id' => '0211'],
+
     /*
      * === POKOK SENA
      */
@@ -329,6 +342,7 @@ $items = [
     ['id' => '021240', 'name' => 'BANDAR POKOK SENA', 'district_id' => '0212'],
 
     ['id' => '021270', 'name' => 'PEKAN KEBUN 500', 'district_id' => '0212'],
+
     /*
      * kelantan
      */
@@ -378,6 +392,7 @@ $items = [
     ['id' => '030140', 'name' => 'BANDAR BACHOK', 'district_id' => '0301'],
     
     ['id' => '030170', 'name' => 'PEKAN JELAWAT', 'district_id' => '0301'],
+
     /*
      * === KOTA BHARU
      */
@@ -490,6 +505,7 @@ $items = [
     ['id' => '030291', 'name' => 'BANDAR BARU KUBANG KERIAN', 'district_id' => '0302'],
 
     ['id' => '030295', 'name' => 'PEKAN MULONG', 'district_id' => '0302'],
+
     /*
      * === MACHANG
      */
@@ -527,6 +543,7 @@ $items = [
     
     // ['id' => '030370', 'name' => '??', 'district_id' => '0303'], - deprecated?
     ['id' => '030371', 'name' => 'PEKAN TEMANGAN', 'district_id' => '0303'],
+
     /*
      * === PASIR MAS
      */
@@ -591,6 +608,7 @@ $items = [
     ['id' => '030450', 'name' => 'BANDAR PASIR MAS', 'district_id' => '0304'],
 
     ['id' => '030470', 'name' => 'PEKAN RANTAU PANJANG', 'district_id' => '0304'],
+
     /*
      * === PASIR PUTEH
      */
@@ -639,6 +657,7 @@ $items = [
     ['id' => '030540', 'name' => 'BANDAR PASIR PUTEH', 'district_id' => '0305'],
     
     ['id' => '030570', 'name' => 'PEKAN SELINSING', 'district_id' => '0305'],
+
     /*
      * === TANAH MERAH
      */
@@ -663,6 +682,7 @@ $items = [
     ['id' => '030617', 'name' => 'TEBING TINGGI', 'district_id' => '0306'],
 
     ['id' => '030640', 'name' => 'BANDAR TANAH MERAH', 'district_id' => '0306'],
+
     /*
      * === TUMPAT
      */
@@ -704,6 +724,7 @@ $items = [
     ['id' => '030729', 'name' => 'WAKAF DELIMA', 'district_id' => '0307'],
     
     ['id' => '030740', 'name' => 'BANDAR TUMPAT', 'district_id' => '0307'],
+
     /*
      * === GUA MUSANG
      */
@@ -721,6 +742,7 @@ $items = [
     ['id' => '030809', 'name' => 'RENOK', 'district_id' => '0308'],
 
     ['id' => '030840', 'name' => 'BANDAR GUA MUSANG', 'district_id' => '0308'],
+
     /*
      * === 0309 MISSING SUBDISTRICT
      */
@@ -747,6 +769,7 @@ $items = [
     ['id' => '031015', 'name' => 'TELEKONG', 'district_id' => '0310'],
 
     ['id' => '031040', 'name' => 'BANDAR KUALA KRAI', 'district_id' => '0310'],
+
     /*
      * === JELI
      */
@@ -760,6 +783,7 @@ $items = [
     ['id' => '031105', 'name' => 'KALAI', 'district_id' => '0311'],
     ['id' => '031106', 'name' => 'KUALA BALAH', 'district_id' => '0311'],
     ['id' => '031107', 'name' => 'LUBOK BONGOR', 'district_id' => '0311'],
+
     /*
      * === KECIL LOJING
      */
@@ -816,6 +840,7 @@ $items = [
     ['id' => '110170', 'name' => 'PEKAN JERTIH', 'district_id' => '1101'],
     ['id' => '110171', 'name' => 'PEKAN KAMPUNG RAJA', 'district_id' => '1101'],
     ['id' => '110172', 'name' => 'PEKAN KUALA BESUT', 'district_id' => '1101'],
+
     /*
      * === DUNGUN
      */
@@ -834,6 +859,7 @@ $items = [
     ['id' => '110240', 'name' => 'BANDAR DUNGUN', 'district_id' => '1102'],
 
     ['id' => '110270', 'name' => 'PEKAN KUALA PAKA', 'district_id' => '1102'],
+
     /*
      * === KEMAMAN
      */
@@ -856,6 +882,7 @@ $items = [
     ['id' => '110371', 'name' => 'PEKAN AIR PUTIH' 'district_id' => '1103'],
     ['id' => '110372', 'name' => 'PEKAN KEMASIK' 'district_id' => '1103'],
     ['id' => '110373', 'name' => 'PEKAN KIJAL' 'district_id' => '1103'],
+
     /*
      * === KUALA TERENGGANU
      */
@@ -888,6 +915,7 @@ $items = [
 
     // ['id' => '110470', 'name' => '??', 'district_id' => '1104'],
     ['id' => '110471', 'name' => 'PEKAN CABANG TIGA', 'district_id' => '1104'],
+
     /*
      * === HULU TERENGGANU
      */
@@ -902,6 +930,7 @@ $items = [
     ['id' => '110509', 'name' => 'TERSAT', 'district_id' => '1105'],
 
     ['id' => '110570', 'name' => 'PEKAN KUALA BERANG', 'district_id' => '1105'],
+
     /*
      * === MARANG
      */
@@ -914,6 +943,7 @@ $items = [
 
     ['id' => '110670', 'name' => 'PEKAN MARANG', 'district_id' => '1106'],
     ['id' => '110671', 'name' => 'PEKAN bukit payung', 'district_id' => '1106'],
+
     /*
      * === SETIU
      */
@@ -980,6 +1010,7 @@ $items = [
 
     ['id' => '070240', 'name' => 'BANDAR BUTTERWORTH', 'district_id' => '0702'],
     ['id' => '070241', 'name' => 'BANDAR KEPALA BATAS', 'district_id' => '0702'],
+
     /*
      * === SEBERANG PRAI SELATAN
      */
@@ -1002,6 +1033,7 @@ $items = [
 
     ['id' => '070340', 'name' => 'BANDAR NIBONG TEBAL', 'district_id' => '0703'],
     ['id' => '070341', 'name' => 'BANDAR SUNGAI BAKAP', 'district_id' => '0703'],
+
     /*
      * === TIMUR LAUT
      */
@@ -1022,6 +1054,7 @@ $items = [
     ['id' => '070446', 'name' => 'BANDAR TANJONG BUNGAH', 'district_id' => '0704'],
     ['id' => '070447', 'name' => 'BANDAR TANJONG TOKONG', 'district_id' => '0704'],
     ['id' => '070448', 'name' => 'BANDAR TANJONG PINANG', 'district_id' => '0704'],
+
     /*
      * === BARAT DAYA
      */
@@ -1082,6 +1115,7 @@ $items = [
     ['id' => '080176', 'name' => 'PEKAN TAPAH ROAD', 'district_id' => '0801'],
     ['id' => '080177', 'name' => 'PEKAN TEMOH STATION', 'district_id' => '0801'],
     ['id' => '080178', 'name' => 'PEKAN TEROLAK', 'district_id' => '0801'],
+
     /*
      * === MANJUNG (DINDING)
      */
@@ -1108,6 +1142,7 @@ $items = [
     ['id' => '080282', 'name' => 'PEKAN SEGARI', 'district_id' => '0802'],
     ['id' => '080283', 'name' => 'PEKAN SITIAWAN', 'district_id' => '0802'],
     ['id' => '080284', 'name' => 'PEKAN SUNGAI PINANG KECHIL', 'district_id' => '0802'],
+
     /*
      * === KINTA
      */
@@ -1142,6 +1177,7 @@ $items = [
     // ['id' => '080372', 'name' => '??', 'district_id' => '0803'],
     ['id' => '080373', 'name' => 'PEKAN SIMPANG PULAI', 'district_id' => '0803'],
     ['id' => '080374', 'name' => 'PEKAN TANJONG TUALANG', 'district_id' => '0803'],
+
     /*
      * === KERIAN
      */
@@ -1163,6 +1199,7 @@ $items = [
     ['id' => '080473', 'name' => 'PEKAN SIMPANG LIMA', 'district_id' => '0804'],
     ['id' => '080474', 'name' => 'PEKAN SUNGAI GEDONG', 'district_id' => '0804'],
     ['id' => '080475', 'name' => 'PEKAN TANJONG PIANDANG', 'district_id' => '0804'],
+
     /*
      * === KUALA KANGSAR
      */
@@ -1187,6 +1224,7 @@ $items = [
     ['id' => '080575', 'name' => 'PEKAN MANONG', 'district_id' => '0805'],
     ['id' => '080576', 'name' => 'PEKAN PADANG RENGAS', 'district_id' => '0805'],
     ['id' => '080577', 'name' => 'PEKAN SALAK', 'district_id' => '0805'],
+
     /*
      * === LARUT DAN MATANG
      */
@@ -1215,6 +1253,7 @@ $items = [
     ['id' => '080672', 'name' => 'PEKAN PONDOK TANJONG', 'district_id' => '0806'],
     ['id' => '080673', 'name' => 'PEKAN SIMPANG', 'district_id' => '0806'],
     ['id' => '080674', 'name' => 'PEKAN TERUNG', 'district_id' => '0806'],
+
     /*
      * === HILIR PERAK
      */
@@ -1243,6 +1282,7 @@ $items = [
     ['id' => '080780', 'name' => 'PEKAN SIMPANG EMPAT', 'district_id' => '0807'],
     ['id' => '080781', 'name' => 'PEKAN SIMPANT TIGA (RUNGKUP)', 'district_id' => '0807'],
     ['id' => '080782', 'name' => 'PEKAN SUNGAI SUMUN', 'district_id' => '0807'],
+
     /*
      * === ULU PERAK
      */
@@ -1262,6 +1302,7 @@ $items = [
     ['id' => '080842', 'name' => 'BANDAR PENGKALAN HULU', 'district_id' => '0808'],
     ['id' => '080843', 'name' => 'BANDAR LAWN', 'district_id' => '0808'],
     ['id' => '080844', 'name' => 'BANDAR LENGGONG', 'district_id' => '0808'],
+
     /*
      * === SELAMA
      */
@@ -1273,6 +1314,7 @@ $items = [
 
     ['id' => '080970', 'name' => 'PEKAN RANTAU PANJANG', 'district_id' => '0809'],
     ['id' => '080971', 'name' => 'PEKAN SUNGAI BAYUR', 'district_id' => '0809'],
+
     /*
      * === PERAK TENGAH
      */
@@ -1296,6 +1338,7 @@ $items = [
     ['id' => '081072', 'name' => 'PEKAN KOTA SETIA', 'district_id' => '0810'],
     ['id' => '081073', 'name' => 'PEKAN PARIT', 'district_id' => '0810'],
     ['id' => '081074', 'name' => 'PEKAN TANJONG BELANJA', 'district_id' => '0810'],
+
     /*
      * === KAMPAR
      */
@@ -1307,6 +1350,7 @@ $items = [
 
     ['id' => '081170', 'name' => 'PEKAN KOTA BAHARU', 'district_id' => '0811'],
     ['id' => '081171', 'name' => 'PEKAN MALIM NAWAR', 'district_id' => '0811'],
+
     /*
      * === MUALLIM
      */
@@ -1326,6 +1370,7 @@ $items = [
 
     // ['id' => '060170', 'name' => '??', 'district_id' => '0601'],
     ['id' => '060171', 'name' => 'PEKAN TELEMONG', 'district_id' => '0601'],
+
     /*
      * === CAMERON HIGHLANDS
      */
@@ -1338,6 +1383,7 @@ $items = [
     ['id' => '060270', 'name' => 'PEKAN BERINCHANG', 'district_id' => '0602'],
     ['id' => '060271', 'name' => 'PEKAN LUBOK TAMANG', 'district_id' => '0602'],
     ['id' => '060272', 'name' => 'PEKAN RINGLET', 'district_id' => '0602'],
+
     /*
      * === JERANTUT
      */
@@ -1356,6 +1402,7 @@ $items = [
 
     ['id' => '060370', 'name' => 'PEKAN KUALA TEMBELING', 'district_id' => '0603'],
     ['id' => '060371', 'name' => 'PEKAN JERANSANG', 'district_id' => '0603'],
+
     /*
      * === KUANTAN
      */
@@ -1371,6 +1418,7 @@ $items = [
 
     ['id' => '060470', 'name' => 'PEKAN BESERAH', 'district_id' => '0604'],
     ['id' => '060471', 'name' => 'PEKAN TANJNG LUMPUR', 'district_id' => '0604'],
+
     /*
      * === LIPIS
      */
@@ -1397,6 +1445,7 @@ $items = [
     ['id' => '060577', 'name' => 'PEKAN RPSB KG. PAGAR', 'district_id' => '0605'],
     ['id' => '060578', 'name' => 'PEKAN MERAPUH', 'district_id' => '0605'],
     ['id' => '060579', 'name' => 'PEKAN KECHAU TUI', 'district_id' => '0605'],
+
     /*
      * === PEKAN
      */
@@ -1416,6 +1465,7 @@ $items = [
 
     ['id' => '060670', 'name' => 'PEKAN KUALA PAHANG', 'district_id' => '0606'],
     ['id' => '060671', 'name' => 'PEKAN NENASI', 'district_id' => '0606'],
+
     /*
      * === RAUB
      */
@@ -1433,6 +1483,7 @@ $items = [
     ['id' => '060707', 'name' => 'PEKAN CHEROH', 'district_id' => '0607'],
     ['id' => '060707', 'name' => 'PEKAN DONG', 'district_id' => '0607'],
     ['id' => '060707', 'name' => 'PEKAN TRANUM', 'district_id' => '0607'],
+
     /*
      * === TEMERLOH
      */
@@ -1453,6 +1504,7 @@ $items = [
     ['id' => '060871', 'name' => 'PEKAN KERDAU', 'district_id' => '0608'],
     ['id' => '060872', 'name' => 'PEKAN KUALA KERAU', 'district_id' => '0608'],
     ['id' => '060873', 'name' => 'LANCHANG', 'district_id' => '0608'],
+
     /*
      * === ROMPIN
      */
@@ -1474,6 +1526,7 @@ $items = [
 
     ['id' => '060970', 'name' => 'PEKAN KUALA ROMPIN', 'district_id' => '0609'],
     ['id' => '060971', 'name' => 'PEKAN TIOMAN', 'district_id' => '0609'],
+
     /*
      * === MARAN
      */
@@ -1486,6 +1539,7 @@ $items = [
 
     ['id' => '061070', 'name' => 'PEKAN CHENOR', 'district_id' => '0610'],
     ['id' => '061072', 'name' => 'PEKAN SRI JAYA', 'district_id' => '0610'],
+
     /*
      * === BERA
      */
@@ -1519,6 +1573,7 @@ $items = [
     ['id' => '100173', 'name' => 'PEKAN TELOK MENEGUN', 'district_id' => '1001'],
     ['id' => '100174', 'name' => 'PEKAN BATU EMPAT', 'district_id' => '1001'],
     ['id' => '100175', 'name' => 'PEKAN PANDAMARAN', 'district_id' => '1001'],
+
     /*
      * === KUALA LANGAT
      */
@@ -1553,6 +1608,7 @@ $items = [
     ['id' => '100284', 'name' => 'PEKAN TELOK DATOK', 'district_id' => '1002'],
     ['id' => '100286', 'name' => 'PEKAN TONGKAH', 'district_id' => '1002'],
     ['id' => '100287', 'name' => 'PEKAN TELOK', 'district_id' => '1002'],
+
     /*
      * === 1003 ??? // deprecated?
      */
@@ -1593,6 +1649,7 @@ $items = [
     // ['id' => '100489', 'name' => '??', 'district_id' => '1004'], // deprecated?
     // ['id' => '100490', 'name' => '??', 'district_id' => '1004'], // deprecated?
     ['id' => '100491', 'name' => 'PEKAN BESTARI JAYA', 'district_id' => '1004'],
+
     /*
      * === SABAK BERNAM
      */
@@ -1617,6 +1674,7 @@ $items = [
     ['id' => '100582', 'name' => 'PEKAN SUNGAI BESAR', 'district_id' => '1005'],
     ['id' => '100583', 'name' => 'PEKAN SUNGAI HAJI DORANI', 'district_id' => '1005'],
     ['id' => '100584', 'name' => 'PEKAN SUNGAI NIBONG', 'district_id' => '1005'],
+
     /*
      * === ULU LANGAT
      */
@@ -1663,6 +1721,7 @@ $items = [
     ['id' => '100691', 'name' => 'PEKAN SUNGAI KEMBONG BERANANG', 'district_id' => '1006'],
     ['id' => '100692', 'name' => 'PEKAN SUNGAI LUI', 'district_id' => '1006'],
     ['id' => '100693', 'name' => 'PEKAN SUNGAI MAKAU', 'district_id' => '1006'],
+
     /*
      * === ULU SELANGOR
      */
@@ -1694,6 +1753,7 @@ $items = [
     ['id' => '100770', 'name' => 'PEKAN KERLING', 'district_id' => '1007'],
     ['id' => '100771', 'name' => 'PEKAN PERETAK', 'district_id' => '1007'],
     ['id' => '100772', 'name' => 'PEKAN SIMPANG SUNGAI CHOH', 'district_id' => '1007'],
+
     /*
      * === PETALING
      */
@@ -1736,6 +1796,7 @@ $items = [
     ['id' => '100890', 'name' => 'PEKAN PUCHONG PERDANA', 'district_id' => '1008'],
     ['id' => '100891', 'name' => 'PEKAN SUBANG', 'district_id' => '1008'],
     ['id' => '100892', 'name' => 'PEKAN SUBANG JAYA', 'district_id' => '1008'],
+
     /*
     /*
      * === GOMBAK
@@ -1764,6 +1825,7 @@ $items = [
     ['id' => '100975', 'name' => 'PEKAN PENGKALAN KUNDANG', 'district_id' => '1009'],
     ['id' => '100976', 'name' => 'PEKAN SUNGAI BULOH', 'district_id' => '1009'],
     ['id' => '100977', 'name' => 'PEKAN TEMPLER', 'district_id' => '1009'],
+
     /*
      * === SEPANG
      */
@@ -1841,6 +1903,7 @@ $items = [
     ['id' => '050174', 'name' => 'PEKAN SIMPANG PERTANG', 'district_id' => '0501'],
     ['id' => '050175', 'name' => 'PEKAN PETALING', 'district_id' => '0501'],
     ['id' => '050176', 'name' => 'PEKAN SUNGAI MUNTOH', 'district_id' => '0501'],
+
     /*
      * === KUALA PILAH
      */
@@ -1869,6 +1932,7 @@ $items = [
     ['id' => '050211', 'name' => 'PEKAN MELANG', 'district_id' => '0502'],
     ['id' => '050211', 'name' => 'PEKAN AR MAWANG', 'district_id' => '0502'],
     ['id' => '050211', 'name' => 'PEKAN DANGI BARU', 'district_id' => '0502'],
+
     /*
      * === PORT DICKSON
      */
@@ -1895,6 +1959,7 @@ $items = [
     ['id' => '050381', 'name' => 'PEKAN TANAH MERAH UTARA', 'district_id' => '0503'],
     ['id' => '050382', 'name' => 'PEKAN TANAH MERAH SELATAN', 'district_id' => '0503'],
     ['id' => '050383', 'name' => 'PEKAN JEMIMA', 'district_id' => '0503'],
+
     /*
      * === REMBAU
      */
@@ -1928,6 +1993,7 @@ $items = [
     ['id' => '050477', 'name' => 'PEKAN SERI KOTA', 'district_id' => '0504'],
     ['id' => '050478', 'name' => 'PEKAN SERI KENDONG', 'district_id' => '0504'],
     ['id' => '050479', 'name' => 'PEKAN MERBAU SEMBILAN', 'district_id' => '0504'],
+
     /*
      * === SEREMBAN
      */
@@ -1997,6 +2063,7 @@ $items = [
     ['id' => '050676', 'name' => 'PEKAN PASIR BESAR', 'district_id' => '0506'],
     ['id' => '050677', 'name' => 'PEKAN REPAH PERMAI', 'district_id' => '0506'],
     ['id' => '050678', 'name' => 'PEKAN REPAH JAYA', 'district_id' => '0506'],
+
     /*
      * === JEMPOL
      */
@@ -2067,6 +2134,7 @@ $items = [
     ['id' => '040176', 'name' => 'PEKAN SUNGAI UDANG', 'district_id' => '0401'],
     ['id' => '040177', 'name' => 'PEKAN TANGGA BATU', 'district_id' => '0401'],
     ['id' => '040178', 'name' => 'PEKAN TANJONG KLING', 'district_id' => '0401'],
+
     /*
      * === JASIN
      */
@@ -2103,6 +2171,7 @@ $items = [
     ['id' => '040276', 'name' => 'PEKAN SELANDAR', 'district_id' => '0402'],
     ['id' => '040277', 'name' => 'PEKAN SEMPANG BEKOH', 'district_id' => '0402'],
     ['id' => '040278', 'name' => 'PEKAN SUNGAI RAMBAI', 'district_id' => '0402'],
+
     /*
      * === ALOR GAJAR
      */
@@ -2189,6 +2258,7 @@ $items = [
     // ['id' => '010209', 'name' => 'BANDAR JOHOR BAHRU', 'district_id' => '0102'],
 
     ['id' => '010240', 'name' => 'BANDAR JOHOR BAHRU', 'district_id' => '0102'],
+
     /*
      * === kluang
      */
@@ -2204,6 +2274,7 @@ $items = [
     ['id' => '010340', 'name' => 'BANDAR KLUANG', 'district_id' => '0103'],
     ['id' => '010341', 'name' => 'BANDAR PALOH', 'district_id' => '0103'],
     ['id' => '010342', 'name' => 'BANDAR RENGAM', 'district_id' => '0103'],
+
     /*
      * === kota tinggi
      */
@@ -2219,6 +2290,7 @@ $items = [
     ['id' => '010410', 'name' => 'TANJUNG SURAT', 'district_id' => '0104'],
 
     ['id' => '010440', 'name' => 'BANDAR KOTA TINGGI', 'district_id' => '0104'],
+
     /*
      * === mersing
      */
@@ -2241,6 +2313,7 @@ $items = [
     ['id' => '010541', 'name' => 'BANDAR MERSING', 'district_id' => '0105'],
     ['id' => '010542', 'name' => 'BANDAR MERSING KANAN', 'district_id' => '0105'],
     ['id' => '010543', 'name' => 'BANDAR PADANG ENDAU', 'district_id' => '0105'],
+
     /*
      * === muar
      */
@@ -2269,6 +2342,7 @@ $items = [
     ['id' => '010643', 'name' => 'BANDAR PARIT JAWA', 'district_id' => '0106'],
 
     ['id' => '010670', 'name' => 'PEKAN BUKIT PASIR', 'district_id' => '0106'],
+
     /*
      * === pontian
      */
@@ -2288,6 +2362,7 @@ $items = [
     ['id' => '010741', 'name' => 'BANDAR PONTIAN KECHIL', 'district_id' => '0107'],
 
     ['id' => '010770', 'name' => 'PEKAN PEKAN NENAS', 'district_id' => '0107'],
+
     /*
      * === segamat
      */
@@ -2312,6 +2387,7 @@ $items = [
     ['id' => '010845', 'name' => 'BANDAR SEGAMAT', 'district_id' => '0108'],
 
     ['id' => '010870', 'name' => 'PEKAN GEMAS BAHRU', 'district_id' => '0108'],
+
     /*
      * === kulaijaya // upgrade from kulai since 2008 - http://www.utusan.com.my/utusan/info.asp?y=2008&dt=0622&pub=Utusan_Malaysia&sec=Johor&pg=wj_01.htm
      */
@@ -2321,6 +2397,7 @@ $items = [
     ['id' => '010904', 'name' => 'BUKIT BATU', 'district_id' => '0109'],
 
     ['id' => '010940', 'name' => 'BANDAR KULAI', 'district_id' => '0109'],
+
     /*
      * === ledang // upgrade since 2008
      */
@@ -2338,14 +2415,17 @@ $items = [
     ['id' => '011044', 'name' => 'BANDAR TANGKAK', 'district_id' => '0110'],
 
     ['id' => '011070', 'name' => 'PEKAN GRISEK', 'district_id' => '0110'],
+
     /*
      * 0112: MISSING DAERAH
      */
     // ['id' => '011205', 'name' => 'JABI', 'district_id' => '0110'],
+
     /*
      * labuan
      */
     ['id' => '150101', 'name' => 'LABUAN', 'district_id' => '1501'],
+
     /*
      * sabah http://www.sabah.gov.my/pd.trn/mukim.html
      */
@@ -2360,14 +2440,17 @@ $items = [
     ['id' => '120106', 'name' => 'SEPANGGAR', 'district_id' => '1201'],
     ['id' => '120107', 'name' => 'TANJUNG ARU', 'district_id' => '1201'],
     ['id' => '120108', 'name' => 'TELIPOK', 'district_id' => '1201'],
+
     /*
      * === PAPAR
      */
     ['id' => '020301', 'name' => '', 'district_id' => '0203'],
+
     /*
      * === KOTA BELUD
      */
     ['id' => '020301', 'name' => '', 'district_id' => '0203'],
+
     /*
      * === TUARAN 
      */
@@ -2387,66 +2470,82 @@ $items = [
     ['id' => '120414', 'name' => 'TOPOKON', 'district_id' => '1204'],
     ['id' => '120415', 'name' => 'TUARAN BANDAR', 'district_id' => '1204'],
     ['id' => '120416', 'name' => 'TAMPARULI', 'district_id' => '1204'],
+
     /*
      * === KUDAT
      */
     ['id' => '020301', 'name' => '', 'district_id' => '0203'],
+
     /*
      * === RANAU
      */
     ['id' => '020301', 'name' => '', 'district_id' => '0203'],
+
     /*
      * === SANDAKAN
      */
     ['id' => '020301', 'name' => '', 'district_id' => '0203'],
+
     /*
      * === LABUK & SUGUT
      */
     ['id' => '020301', 'name' => '', 'district_id' => '0203'],
+
     /*
      * === KINABATANGAN
      */
     ['id' => '020301', 'name' => '', 'district_id' => '0203'],
+
     /*
      * === TAWAU
      */
     ['id' => '020301', 'name' => '', 'district_id' => '0203'],
+
     /*
      * === LAHAD DATU
      */
     ['id' => '020301', 'name' => '', 'district_id' => '0203'],
+
     /*
      * === SEMPORNA
      */
     ['id' => '020301', 'name' => '', 'district_id' => '0203'],
+
     /*
      * === KENINGAU
      */
     ['id' => '020301', 'name' => '', 'district_id' => '0203'],
+
     /*
      * === TAMBUNAN
      */
     ['id' => '020301', 'name' => '', 'district_id' => '0203'],
+
     /*
      * === PENSIANGAN
      */
     ['id' => '020301', 'name' => '', 'district_id' => '0203'],
+
     /*
      * === TENOM
      */
     ['id' => '020301', 'name' => '', 'district_id' => '0203'],
+
     /*
      * === BEAUFORT
      */
     ['id' => '121701', 'name' => 'MEMBAKUT', 'district_id' => '1217'],
+
     /*
      * === KUALA PENYU
      */
     ['id' => '121801', 'name' => '', 'district_id' => '1218'],
+
     /*
      * === SIPITANG
      */
     ['id' => '020301', 'name' => '', 'district_id' => '1219'],
+
     /*
      * === PENAMPANG
      */
@@ -2455,18 +2554,22 @@ $items = [
      * === KOTA MARUDU
      */
     ['id' => '020301', 'name' => '', 'district_id' => '1221'],
+
     /*
      * === KUNAK
      */
     ['id' => '020301', 'name' => '', 'district_id' => '1222'],
+
     /*
      * === TONGOD
      */
     ['id' => '020301', 'name' => '', 'district_id' => '1223'],
+
     /*
      * === PUTATAN
      */
     ['id' => '020301', 'name' => '', 'district_id' => '1224'],
+
     /*
      * sarawak
      */
@@ -2522,6 +2625,7 @@ $items = [
     ['id' => '130176', 'name' => 'BANDAR SIBURAN', 'district_id' => '1301'],
     ['id' => '130177', 'name' => 'BANDAR TERBAT', 'district_id' => '1301'],
     ['id' => '130178', 'name' => 'BANDAR JALAN BATU 17, JALAN SENGGANG', 'district_id' => '1301'],
+
     /*
      * === SRI AMAN
      */
@@ -2549,6 +2653,7 @@ $items = [
     ['id' => '130271', 'name' => 'BANDAR SKRANG', 'district_id' => '1302'],
     ['id' => '130272', 'name' => 'BANDAR MELUGU', 'district_id' => '1302'],
     ['id' => '130273', 'name' => 'BANDAR SABU', 'district_id' => '1302'],
+
     /*
      * === SIBU
      */
@@ -2584,6 +2689,7 @@ $items = [
     ['id' => '130366', 'name' => 'BANDAR NGEMAH', 'district_id' => '1303'],
     ['id' => '130368', 'name' => 'BANDAR SENGAYAN', 'district_id' => '1303'],
     ['id' => '130380', 'name' => 'BANDAR SIBINTEK', 'district_id' => '1303'],
+
     /*
      * === MIRI
      */
@@ -2600,6 +2706,7 @@ $items = [
     ['id' => '130457', 'name' => 'TUTOH', 'district_id' => '1304'],
     ['id' => '130458', 'name' => 'PATAH', 'district_id' => '1304'],
     ['id' => '130459', 'name' => 'LEPU LEJU', 'district_id' => '1304'],
+
     /*
      * === LIMBANG
      */
@@ -2624,6 +2731,7 @@ $items = [
     ['id' => '130519', 'name' => 'LONG SEMADO', 'district_id' => '1305'],
     ['id' => '130520', 'name' => 'BAKALALAN', 'district_id' => '1305'],
     ['id' => '130521', 'name' => 'BATU LAWI', 'district_id' => '1305'],
+
     /*
      * === SARIKEI
      */
@@ -2642,6 +2750,7 @@ $items = [
     ['id' => '130674', 'name' => 'BANDAR SELALANG', 'district_id' => '1306'],
     ['id' => '130677', 'name' => 'GUNUNG AYER', 'district_id' => '1306'],
     ['id' => '130692', 'name' => 'BINATANG', 'district_id' => '1306'],
+
     /*
      * === KAPIT
      */
@@ -2671,6 +2780,7 @@ $items = [
     ['id' => '130789', 'name' => 'MURUM', 'district_id' => '1307'],
     ['id' => '130790', 'name' => 'PUNAN', 'district_id' => '1307'],
     ['id' => '130791', 'name' => 'DANUM', 'district_id' => '1307'],
+
     /*
      * === SAMARAHAN
      */
@@ -2705,6 +2815,7 @@ $items = [
     ['id' => '130854', 'name' => 'BANDAR SEBANGAN', 'district_id' => '1308'],
     ['id' => '130865', 'name' => 'BANDAR TEBELU', 'district_id' => '1308'],
     ['id' => '130877', 'name' => 'BANDAR TERBAT', 'district_id' => '1308'],
+
     /*
      * === BINTULU 
      */
@@ -2726,6 +2837,7 @@ $items = [
     ['id' => '130948', 'name' => 'KAKUS', 'district_id' => '1309'],
     ['id' => '130954', 'name' => 'JELALONG', 'district_id' => '1309'],
     ['id' => '130955', 'name' => 'BINIA', 'district_id' => '1309'],
+
     /*
      * === MUKAH
      */

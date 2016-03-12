@@ -1,4 +1,10 @@
 <?php
+
+/**
+ * @author    syafiq <syafiq@my-sands.com>
+ * @since     1.3
+ * retrive date 12 Mac 2016
+ */
 $johor = [
 	[ 'state_id' => 1, 'code' => '79000', 'name' => 'Puteri Harbour'],
 	[ 'state_id' => 1, 'code' => '79200', 'name' => 'Taman Nusantara Prima'],

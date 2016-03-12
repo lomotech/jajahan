@@ -1,4 +1,10 @@
 <?php
+
+/**
+ * @author    syafiq <syafiq@my-sands.com>
+ * @since     1.3
+ * retrive date 12 Mac 2016
+ */
 $selangor = [
 	[ 'state_id' => 10, 'code' => '40000', 'name' => 'Pusat Perdagangan Azalea'],
 	[ 'state_id' => 10, 'code' => '40000', 'name' => 'Menara Sinergi'],

@@ -1,11 +1,9 @@
  <?php
 /**
  * @author    syafiq <syafiq@my-sands.com>
- * @since     1.1.0 build 43ec40
- * @version   1.1.0 build 43ec40
- * @copyright 2015 syafiq
- * @filesource
+ * @since     1.1
  */
+
 /**
  * gender - jantina.
  * sddsa : Kategori Data > Data Generik > Biodata > Kod Jantina

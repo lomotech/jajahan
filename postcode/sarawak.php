@@ -1,4 +1,10 @@
 <?php
+
+/**
+ * @author    syafiq <syafiq@my-sands.com>
+ * @since     1.3
+ * retrive date 12 Mac 2016
+ */
 $sarawak = [
 	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Jalan Barrack'],
 	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Jalan Court House'],

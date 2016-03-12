@@ -2,7 +2,7 @@
 
 /**
  * @author    syafiq <syafiq@my-sands.com>
- * @since     1.0.0
+ * @since     1.0
  * retrive date 15 January 2016
  */
 
@@ -16,6 +16,7 @@ $items = [
      * perlis - Perlis tiada daerah.
      */
     ['id' => '0900', 'state_id' => '9', 'name' => 'PERLIS', 'code_3' => 'PER'],
+
     /*
      * kedah
      */
@@ -31,6 +32,7 @@ $items = [
     ['id' => '0210', 'state_id' => '2', 'name' => 'BANDAR BAHARU', 'code_3' => 'BBA'],
     ['id' => '0211', 'state_id' => '2', 'name' => 'PENDANG', 'code_3' => 'PEN'],
     ['id' => '0212', 'state_id' => '2', 'name' => 'POKOK SENA', 'code_3' => 'PSE'],
+
     /*
      * kelantan
      */
@@ -46,6 +48,7 @@ $items = [
     ['id' => '0310', 'state_id' => '3', 'name' => 'KUALA KRAI', 'code_3' => 'KKR'],
     ['id' => '0311', 'state_id' => '3', 'name' => 'JELI', 'code_3' => 'JEL'],
     ['id' => '0312', 'state_id' => '3', 'name' => 'KECIL LOJING', 'code_3' => 'KLO'],
+
     /*
      * terengganu
      */
@@ -56,6 +59,7 @@ $items = [
     ['id' => '1105', 'state_id' => '11', 'name' => 'HULU TERENGGANU', 'code_3' => 'HTE'],
     ['id' => '1106', 'state_id' => '11', 'name' => 'MARANG', 'code_3' => 'MAR'],
     ['id' => '1107', 'state_id' => '11', 'name' => 'SETIU', 'code_3' => 'SET'],
+
     /*
      * pulau pinang
      */
@@ -64,6 +68,7 @@ $items = [
     ['id' => '0703', 'state_id' => '7', 'name' => 'SEBERANG PERAI SELATAN', 'code_3' => 'SPS'],
     ['id' => '0704', 'state_id' => '7', 'name' => 'TIMOR LAUT', 'code_3' => 'TLA'],
     ['id' => '0705', 'state_id' => '7', 'name' => 'BARAT DAYA', 'code_3' => 'BDA'],
+
     /*
      * perak
      */
@@ -79,6 +84,7 @@ $items = [
     ['id' => '0810', 'state_id' => '8', 'name' => 'PERAK TENGAH', 'code_3' => 'PTE'],
     ['id' => '0811', 'state_id' => '8', 'name' => 'KAMPAR', 'code_3' => 'KAM'],
     // ['id' => '0812', 'state_id' => '8', 'name' => 'MUALLIM', 'code_3' => 'MUL'],
+
     /*
      * pahang
      */
@@ -93,6 +99,7 @@ $items = [
     ['id' => '0609', 'state_id' => '6', 'name' => 'ROMPIN', 'code_3' => 'ROM'],
     ['id' => '0610', 'state_id' => '6', 'name' => 'MARAN', 'code_3' => 'MAR'],
     ['id' => '0611', 'state_id' => '6', 'name' => 'BERA', 'code_3' => 'BER'],
+
     /*
      * selangor
      */
@@ -106,14 +113,17 @@ $items = [
     ['id' => '1008', 'state_id' => '10', 'name' => 'PETALING', 'code_3' => 'PET'],
     ['id' => '1009', 'state_id' => '10', 'name' => 'GOMBAK', 'code_3' => 'GOM'],
     ['id' => '1010', 'state_id' => '10', 'name' => 'SEPANG', 'code_3' => 'SEP'],
+
     /*
      * kuala lumpur - tiada daerah.
      */
     ['id' => '1400', 'state_id' => '14', 'name' => 'W. P. KUALA LUMPUR', 'code_3' => 'WPK'],
+
     /*
      * putrajaya
      */
     ['id' => '1601', 'state_id' => '16', 'name' => 'W. P. PUTRAJAYA', 'code_3' => 'WPP'],
+
     /*
      * negeri sembilan
      */
@@ -124,12 +134,14 @@ $items = [
     ['id' => '0505', 'state_id' => '4', 'name' => 'SEREMBAN', 'code_3' => 'SER'],
     ['id' => '0506', 'state_id' => '4', 'name' => 'TAMPIN', 'code_3' => 'TAM'],
     ['id' => '0507', 'state_id' => '4', 'name' => 'JEMPOL', 'code_3' => 'JEM'],
+
     /*
      * melaka
      */
     ['id' => '0401', 'state_id' => '4', 'name' => 'MELAKA TENGAH', 'code_3' => 'MTE'],
     ['id' => '0402', 'state_id' => '4', 'name' => 'JASIN', 'code_3' => 'JAS'],
     ['id' => '0403', 'state_id' => '4', 'name' => 'ALOR GAJAH', 'code_3' => 'AGA'],
+
     /*
      * johor
      */
@@ -143,10 +155,12 @@ $items = [
     ['id' => '0108', 'state_id' => '1', 'name' => 'SEGAMAT', 'code_3' => 'SEG'],
     ['id' => '0109', 'state_id' => '1', 'name' => 'KULAIJAYA', 'code_3' => 'KUL'],
     ['id' => '0110', 'state_id' => '1', 'name' => 'LEDANG', 'code_3' => 'LED'],
+
     /*
      * labuan - tiada daerah
      */
     ['id' => '1500', 'state_id' => '15', 'name' => 'W. P. LABUAN', 'code_3' => 'WPL'],
+
     /*
      * sabah
      */
@@ -177,6 +191,7 @@ $items = [
     ['id' => '1224', 'state_id' => '12', 'name' => 'KUNAK', 'code_3' => 'KUN'],
     ['id' => '1225', 'state_id' => '12', 'name' => 'TONGOD', 'code_3' => 'TON'],
     ['id' => '1226', 'state_id' => '12', 'name' => 'PUTATAN', 'code_3' => 'PUT'],
+
     /*
      * sarawak
      */

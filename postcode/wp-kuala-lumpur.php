@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * @author    syafiq <syafiq@my-sands.com>
+ * @since     1.3
+ * retrive date 12 Mac 2016
+ */
 $wpKualaLumpur = [
 	[ 'state_id' => 14, 'code' => '50000', 'name' => 'Bangunan Bangkok Bank'],
 	[ 'state_id' => 14, 'code' => '50000', 'name' => 'Jalan Balai Polis'],

@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * @author    syafiq <syafiq@my-sands.com>
+ * @since     1.3
+ * retrive date 12 Mac 2016
+ */
 $sabah = [
 	[ 'state_id' => 12, 'code' => '88000', 'name' => 'Bangunan Asia City'],
 	[ 'state_id' => 12, 'code' => '88000', 'name' => 'Bangunan Bank Negara'],

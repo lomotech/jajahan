@@ -2,13 +2,9 @@
 
 /**
  * @author    syafiq <syafiq@my-sands.com>
- * retrive date 11 Mar 2016
+ * @since     1.3
+ * retrive date 12 Mac 2016
  */
-/**
- * postcode
- */
-
-
 $perlis = [
     [ 'state_id' => 4, 'code' => '75000', 'name' => 'Bandar Hilir'],
     [ 'state_id' => 4, 'code' => '75000', 'name' => 'Bangunan Tabung Haji'],

@@ -2,10 +2,8 @@
 
 /**
  * @author    syafiq <syafiq@my-sands.com>
- * retrive date 11 Mar 2016
- */
-/**
- * postcode
+ * @since     1.3
+ * retrive date 12 Mac 2016
  */
 $kelatan = [
 	[ 'state_id' => 3, 'code' => '15000', 'name' => 'Amanah Saham Nasional'],

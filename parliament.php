@@ -2,11 +2,9 @@
 
 /**
  * @author    syafiq <syafiq@my-sands.com>
- * @since     1.0.0 build eccadc
- * @version   1.0.0 build 521f7d
- * @copyright 2014 syafiq
- * @filesource
+ * @since     1.0.0
  */
+
 /**
  * parliamen - parlimen.
  * sddsa: Kategori Data > Data Generik > Organisasi > Kod Kawasan Parlimen

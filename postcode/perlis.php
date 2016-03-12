@@ -2,13 +2,9 @@
 
 /**
  * @author    syafiq <syafiq@my-sands.com>
- * retrive date 11 Mar 2016
+ * @since     1.3
+ * retrive date 12 Mac 2016
  */
-/**
- * postcode
- */
-
-
 $perlis = [
     [ 'state_id' => 9, 'code' => '01000', 'name' => 'Taman Jawi Matang' ],
     [ 'state_id' => 9, 'code' => '01000', 'name' => 'Taman Desa Bintong' ],

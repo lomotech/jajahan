@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * @author    syafiq <syafiq@my-sands.com>
+ * @since     1.0.0
+ */
+
 $items = [
 	[ 'id' => 004, 'name' => "Afghanistan", 'iso_3166_2' => 'AF', 'iso_3166_3' => 'AFG' ],
     [ 'id' => 008, 'name' => "Albania", 'iso_3166_2' => 'AL', 'iso_3166_3' => 'ALB' ],

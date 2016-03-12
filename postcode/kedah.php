@@ -1,4 +1,10 @@
 <?php
+
+/**
+ * @author    syafiq <syafiq@my-sands.com>
+ * @since     1.3
+ * retrive date 12 Mac 2016
+ */
 $kedah = [
 	[ 'state_id' => 2, 'name' => '05000', 'name' => 'Jalan Istana Lama'],
 	[ 'state_id' => 2, 'name' => '05000', 'name' => 'Jalan Kampung Baru'],

@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * @author    syafiq <syafiq@my-sands.com>
+ * @since     1.3
+ * retrive date 12 Mac 2016
+ */
 $pahang = [
 	[ 'state_id' => 6, 'code' => '25000', 'name' => 'Bangunan LKNP'],
 	[ 'state_id' => 6, 'code' => '25000', 'name' => 'Biro Tata Negara Pahang'],

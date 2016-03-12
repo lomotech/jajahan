@@ -1,4 +1,10 @@
 <?php
+
+/**
+ * @author    syafiq <syafiq@my-sands.com>
+ * @since     1.3
+ * retrive date 12 Mac 2016
+ */
 $wpLabuan = [
 	[ 'state_id' => 15, 'code' => '87010', 'name' => 'Labuan - Peti surat 80001 - 80100' ],
 	[ 'state_id' => 15, 'code' => '87011', 'name' => 'Labuan - Peti surat 80101 - 80200' ],

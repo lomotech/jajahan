@@ -2,11 +2,9 @@
 
 /**
  * @author    syafiq <syafiq@my-sands.com>
- * @since     1.0.0 build 6fdb10
- * @version   1.1.0 build 43ec40
- * @copyright 2014 syafiq
- * @filesource
+ * @since     1.0
  */
+
 /**
  * dun - dewan undangan negeri.
  * sddsa: Kategori Data > Data Generik > Organisasi > Kod Dewan Undangan Negeri
