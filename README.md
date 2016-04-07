@@ -28,6 +28,8 @@ Jajahan adalah senarai alternatif untuk negeri, daerah, mukim, dun, bahagian, pa
 	- Malas & tiada keperluan sendiri buat masa ni. Sebab mengikut spesifikasi pengguna, ada beberapa situasi akan berlainan daripada yang SDDSA ada terutamanya pecahan daerah / zon kawalan.
 
 ##changelog
+####1.3.1
+- Bank.
 
 ###1.3
 - Poskod.
