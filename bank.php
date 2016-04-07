@@ -7,7 +7,7 @@
 $items = [
 	[ 'name' => 'Affin Bank' ],
 	[ 'name' => 'Agro Bank' ],
-	[ 'name' => 'Al Rajhi ' ],
+	[ 'name' => 'Al Rajhi Bank' ],
 	[ 'name' => 'Alliance Bank' ],
 	[ 'name' => 'AmBank' ],
 	[ 'name' => 'Bangkok Bank' ],
