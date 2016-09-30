@@ -151,7 +151,7 @@ $items = [
   /*
    * terengganu
    */
-  ['id' => '03301', 'parliament_id' => '03300', 'kerusi_id' => 'N.01', 'state_id' => '11state_id' => '11', 'name' => 'KUALA BESUT'],
+  ['id' => '03301', 'parliament_id' => '03300', 'kerusi_id' => 'N.01', 'state_id' => '11', 'name' => 'KUALA BESUT'],
   ['id' => '03302', 'parliament_id' => '03300', 'kerusi_id' => 'N.02', 'state_id' => '11', 'name' => 'KOTA PUTERA'],
   ['id' => '03303', 'parliament_id' => '03300', 'kerusi_id' => 'N.03', 'state_id' => '11', 'name' => 'JERTIH'],
   ['id' => '03304', 'parliament_id' => '03300', 'kerusi_id' => 'N.04', 'state_id' => '11', 'name' => 'HULU BESUT'],
