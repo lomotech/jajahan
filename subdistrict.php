@@ -876,12 +876,12 @@ $items = [
     ['id' => '110311', 'name' => 'TEBAK', 'district_id' => '1103'],
     ['id' => '110312', 'name' => 'TELUK KALUNG', 'district_id' => '1103'],
 
-    ['id' => '110340', 'name' => 'BANDAR CUKAI' 'district_id' => '1103'],
+    ['id' => '110340', 'name' => 'BANDAR CUKAI', 'district_id' => '1103'],
 
-    ['id' => '110370', 'name' => 'PEKAN AIR JERNIH' 'district_id' => '1103'],
-    ['id' => '110371', 'name' => 'PEKAN AIR PUTIH' 'district_id' => '1103'],
-    ['id' => '110372', 'name' => 'PEKAN KEMASIK' 'district_id' => '1103'],
-    ['id' => '110373', 'name' => 'PEKAN KIJAL' 'district_id' => '1103'],
+    ['id' => '110370', 'name' => 'PEKAN AIR JERNIH', 'district_id' => '1103'],
+    ['id' => '110371', 'name' => 'PEKAN AIR PUTIH', 'district_id' => '1103'],
+    ['id' => '110372', 'name' => 'PEKAN KEMASIK', 'district_id' => '1103'],
+    ['id' => '110373', 'name' => 'PEKAN KIJAL', 'district_id' => '1103'],
 
     /*
      * === KUALA TERENGGANU
