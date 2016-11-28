@@ -27,8 +27,10 @@ Jajahan adalah senarai alternatif untuk negeri, daerah, mukim, dun, bahagian, pa
     - Malas & tiada keperluan sendiri buat masa ni. Sebab mengikut spesifikasi pengguna, ada beberapa situasi akan berlainan daripada yang SDDSA ada terutamanya pecahan daerah / zon kawalan.
 
 ## changelog
+
 ### 1.0
 - Senarai data asas state, district, subdistrict daripada SDDSA.
+
 ### 1.1
 - Tambah beberapa data subdistrict daripada beberapa sumber luar.
 - Masukkan data education
@@ -40,7 +42,9 @@ Jajahan adalah senarai alternatif untuk negeri, daerah, mukim, dun, bahagian, pa
 
 ### 1.3
 - Poskod.
+
 #### 1.3.1
 - Bank.
+
 #### 1.3.2
 - Bank sekarang adalah bank + institusi kewangan yang ada kod swift dalam malaysia. retrive daripada [theswictcodes](https://www.theswiftcodes.com/malaysia).
