@@ -1,16 +1,15 @@
-#jajahan
-=======
+# jajahan
 
-##intro
+## intro
 Jajahan adalah senarai alternatif untuk negeri, daerah, mukim, dun, bahagian, parlimen di dalam Malaysia. Tujuan asal adalah untuk digunakan di dalam sistem sebagai fix data yang tidak perlu masuk ke database kerana pertukarannya amat sedikit mengikut masa.
 
-##sumber data
-- sddsa.mampu.gov.my - data tak ada link dengan antara entiti. ada update dari masa ke semasa.
-- statistics.gov.my - tidak lengkap dan out of date.
-- www.sabah.gov.my - tidak lengkap dan out of date.
+## sumber data
+- [sddsa](http://sddsa.mampu.gov.my) - data tak ada link dengan antara entiti. ada update dari masa ke semasa.
+- [statistic.gov,my](http://statistics.gov.my) - tidak lengkap dan out of date.
+- [sabah.gov.my](http://www.sabah.gov.my) - tidak lengkap dan out of date.
 
-##info
-- Tarikh retrive : 15 Januari 2016.
+## info
+- Tarikh retrive : 28 November 2016.
 - Jangan pernah percaya kepada kod daripada SDDSA. Kod tersebut hanya rujukan kerana selalu bertukar. untuk kegunaan jangka panjang letak id sendiri terutamanya subdistrict.
 - Data subdistrict ada tiga jenis:
    1. mukim
@@ -21,27 +20,27 @@ Jajahan adalah senarai alternatif untuk negeri, daerah, mukim, dun, bahagian, pa
 - Data untuk subdistrict **SARAWAK** ditukar kepada bahasa Malaysia.
 - Data untuk poskod **NEGERI SEMBILAN** dalam SDDSA salah. Ada data duplicate kepada PAHANG. Cherry-picked.
 
-###Q&A
+### Q&A
 1. Kenapa tak buat dalam JSON?
-	- Sebab guna Eloquent dalam Laravel. Maka array lebih mudah. Untuk collection ataupun seeding.
+    - Sebab guna Eloquent dalam Laravel. Maka array lebih mudah. Untuk collection ataupun seeding.
 2. Kenapa tak buat API?
-	- Malas & tiada keperluan sendiri buat masa ni. Sebab mengikut spesifikasi pengguna, ada beberapa situasi akan berlainan daripada yang SDDSA ada terutamanya pecahan daerah / zon kawalan.
+    - Malas & tiada keperluan sendiri buat masa ni. Sebab mengikut spesifikasi pengguna, ada beberapa situasi akan berlainan daripada yang SDDSA ada terutamanya pecahan daerah / zon kawalan.
 
-##changelog
-####1.3.1
-- Bank.
+## changelog
+### 1.0
+- Senarai data asas state, district, subdistrict daripada SDDSA.
+### 1.1
+- Tambah beberapa data subdistrict daripada beberapa sumber luar.
+- Masukkan data education
 
-###1.3
-- Poskod.
-
-###1.2
+### 1.2
 - Tambah kecil loging, kelantan 0312.
 - Swap subdistrict hulu terengganu, terengganu & marang, terengganu.
 - Tambah & betulkan data subdistrict. 
 
-###1.1
-- Tambah beberapa data subdistrict daripada beberapa sumber luar.
-- Masukkan data education
-
-###1.0
-- Senarai data asas state, district, subdistrict daripada SDDSA.
+### 1.3
+- Poskod.
+#### 1.3.1
+- Bank.
+#### 1.3.2
+- Bank sekarang adalah bank + institusi kewangan yang ada kod swift dalam malaysia. retrive daripada [theswictcodes](https://www.theswiftcodes.com/malaysia).
