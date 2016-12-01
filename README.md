@@ -48,3 +48,6 @@ Jajahan adalah senarai alternatif untuk negeri, daerah, mukim, dun, bahagian, pa
 
 #### 1.3.2
 - Bank sekarang adalah bank + institusi kewangan yang ada kod swift dalam malaysia. retrive daripada [theswictcodes](https://www.theswiftcodes.com/malaysia).
+
+#### 1.3.3
+- Tambah bank code pada bank list. Untuk mudahkan kerja untuk pecahkan antara bank dan branch.
