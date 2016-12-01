@@ -3,6 +3,8 @@
  * @author: syafiq <syafiq@my-sands.com>
  * senarai bank & institusi kewangan dalam malaysia + swift code
  * is_listed = 1 // senarai bank yang Sands guna dalam sistem.
+ *
+ * json format: https://gist.github.com/shah253kt/3c6ba00c881740f3c55f50c40319561e
  */
  
 $items = [
