@@ -5,6 +5,8 @@
  * is_listed = 1 // senarai bank yang Sands guna dalam sistem.
  *
  * json format: https://gist.github.com/shah253kt/3c6ba00c881740f3c55f50c40319561e
+ * swift_code = swift code daripada swiftcode/malaysia
+ * bank_code = 4 kod awal daripada swift code atau sddsa bank code kalau tiada
  */
  
 $items = [
