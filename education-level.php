@@ -1,11 +1,9 @@
- <?php
+<?php
 /**
  * @author    syafiq <syafiq@my-sands.com>
- * @since     1.1
- */
-
-/**
- * gender - taraf pendidikan tertinggi.
+ * 
+ * Taraf pendidikan dalam malaysia
+ * 
  * sddsa : Kategori Data > Data Generik > Biodata > Kod Kelulusan Tertinggi Pendidikan
  */
 $items = [

@@ -1,0 +1,117 @@
+<?php
+/**
+ * @author    syafiq <syafiq@my-sands.com>
+ *
+ * 1 digit pertama mewakili kod bidang pengajian (broad field)
+ * 1 digit kedua mewakil kod bidang pengajian narrow field
+ * 1 digit terakhir mewakili kod bidang pengajian detailed field
+ * 
+ * sddsa : Kategori Data > Pelajaran > Kod Bidang Pengajian (Detail Field) > Kod Bidang Pengajian (Detail Field)
+ */
+$items = [
+    [ 'code' => "010", 'education_narrow_id' => '01', 'name' => "BROAD GENERAL PROGRAMMES" ],
+    [ 'code' => "080", 'education_narrow_id' => '08', 'name' => "LITERACY ALITERACY AND NUMERACY" ],
+    [ 'code' => "090", 'education_narrow_id' => '09', 'name' => "PPERSONAL SKILLS" ],
+
+    [ 'code' => "140", 'education_narrow_id' => '14', 'name' => "TEACHER TRAINING AND EDUCATION SCIENCE (BROAD PROGRAMMES)" ],
+    [ 'code' => "141", 'education_narrow_id' => '14', 'name' => "TEACHING AND TRAINING" ],
+    [ 'code' => "142", 'education_narrow_id' => '14', 'name' => "EDUCATION SCIENCE" ],
+    [ 'code' => "143", 'education_narrow_id' => '14', 'name' => "TRAINING FOR PRE-SCHOOL TEACHERS" ],
+    [ 'code' => "144", 'education_narrow_id' => '14', 'name' => "TRAINING FOR TEACHERS AT BASIC LEVELS" ],
+    [ 'code' => "146", 'education_narrow_id' => '14', 'name' => "TRAINING FOR TEACHERS OF VOCATIONAL SUBJECTS" ],
+
+    [ 'code' => "210", 'education_narrow_id' => '21', 'name' => "ARTS (BROAD PROGRAMMES)*" ],
+    [ 'code' => "211", 'education_narrow_id' => '21', 'name' => "FINE ARTS" ],
+    [ 'code' => "213", 'education_narrow_id' => '21', 'name' => "AUDIO-VISUAL TECHNIQUES AND MEDIA PRODUCTION" ],
+    [ 'code' => "214", 'education_narrow_id' => '21', 'name' => "DESIGN" ],
+    [ 'code' => "215", 'education_narrow_id' => '21', 'name' => "CRAFT SKILLS" ],
+    [ 'code' => "220", 'education_narrow_id' => '22', 'name' => "HUMANITIES (BROAD PROGRAMMES)*" ],
+    [ 'code' => "222", 'education_narrow_id' => '22', 'name' => "LANGUAGES" ],
+    [ 'code' => "223", 'education_narrow_id' => '22', 'name' => "NATIONAL LANGUAGE" ],
+    [ 'code' => "224", 'education_narrow_id' => '22', 'name' => "OTHER LANGUAGES" ],
+    [ 'code' => "225", 'education_narrow_id' => '22', 'name' => "HISTORY AND ARCHAEOLOGY" ],
+    [ 'code' => "226", 'education_narrow_id' => '22', 'name' => "PHILOSOPHY AND ETHICS" ],
+    [ 'code' => "227", 'education_narrow_id' => '22', 'name' => "HISTORY, PHILOSOPHY AND RELATED SUBJECTS" ],
+
+    [ 'code' => "310", 'education_narrow_id' => '31', 'name' => "SOCIAL AND BEHAVIOURAL SCIENCE (BROAD PROGRAMMES)*" ],
+    [ 'code' => "311", 'education_narrow_id' => '31', 'name' => "PSYCHOLOGY" ],
+    [ 'code' => "312", 'education_narrow_id' => '31', 'name' => "SOCIOLOGY AND CULTURAL STUDIES" ],
+    [ 'code' => "313", 'education_narrow_id' => '31', 'name' => "POLITICAL SCIENCE AND CIVICS" ],
+    [ 'code' => "314", 'education_narrow_id' => '31', 'name' => "ECONOMICS" ],
+    [ 'code' => "321", 'education_narrow_id' => '32', 'name' => "JOURNALISM AND REPORTING" ],
+    [ 'code' => "322", 'education_narrow_id' => '32', 'name' => "LIBRARY, INFORMATION, ARCHIVE" ],
+    [ 'code' => "340", 'education_narrow_id' => '34', 'name' => "BUSINESS AND ADMINISTRATION (BROAD PROGRAMMES)*" ],
+    [ 'code' => "341", 'education_narrow_id' => '34', 'name' => "WHOLESALE AND RETAIL SALES" ],
+    [ 'code' => "342", 'education_narrow_id' => '34', 'name' => "MARKETING AND ADVERTISING" ],
+    [ 'code' => "343", 'education_narrow_id' => '34', 'name' => "FINANCE, BANKING, INSURANCE" ],
+    [ 'code' => "344", 'education_narrow_id' => '34', 'name' => "ACCOUNTING AND TAXATION" ],
+    [ 'code' => "345", 'education_narrow_id' => '34', 'name' => "MANAGEMENT AND ADMINISTRATION" ],
+    [ 'code' => "346", 'education_narrow_id' => '34', 'name' => "SECRETARIAL AND OFFICE WORK" ],
+    [ 'code' => "347", 'education_narrow_id' => '34', 'name' => "WORKING LIFE" ],
+    [ 'code' => "380", 'education_narrow_id' => '38', 'name' => "LAW" ],
+    [ 'code' => "381", 'education_narrow_id' => '38', 'name' => "SYARIAH LAW" ],
+
+    [ 'code' => "421", 'education_narrow_id' => '42', 'name' => "BIOLOGY AND BIOCHEMISTRY" ],
+    [ 'code' => "422", 'education_narrow_id' => '42', 'name' => "ENVIRONMENTAL SCIENCE" ],
+    [ 'code' => "440", 'education_narrow_id' => '44', 'name' => "PHYSICAL SCIENCE (BROAD PROGRAMMES)*" ],
+    [ 'code' => "441", 'education_narrow_id' => '44', 'name' => "PHYSIC" ],
+    [ 'code' => "442", 'education_narrow_id' => '44', 'name' => "CHEMISTRY" ],
+    [ 'code' => "443", 'education_narrow_id' => '44', 'name' => "EARTH SCIENCE" ],
+    [ 'code' => "461", 'education_narrow_id' => '46', 'name' => "MATHEMATICS" ],
+    [ 'code' => "462", 'education_narrow_id' => '46', 'name' => "STATISTICS" ],
+    [ 'code' => "481", 'education_narrow_id' => '48', 'name' => "COMPUTER SCIENCE" ],
+    [ 'code' => "482", 'education_narrow_id' => '48', 'name' => "COMPUTER USE" ],
+
+    [ 'code' => "520", 'education_narrow_id' => '52', 'name' => "ENGINEERING AND ENGINEERING TRADES (BROAD PROGRAMMES)*" ],
+    [ 'code' => "521", 'education_narrow_id' => '52', 'name' => "MECHANICS AND METAL WORK" ],
+    [ 'code' => "522", 'education_narrow_id' => '52', 'name' => "ELECTRICITY AND ENERGY" ],
+    [ 'code' => "523", 'education_narrow_id' => '52', 'name' => "ELECTRONICS AND AUTOMATION" ],
+    [ 'code' => "524", 'education_narrow_id' => '52', 'name' => "CHEMICAL AND PROCESS" ],
+    [ 'code' => "525", 'education_narrow_id' => '52', 'name' => "MOTOR VEHICLES, SHIPS AND AIRCRAFT" ],
+    [ 'code' => "526", 'education_narrow_id' => '52', 'name' => "CIVIL ENGINEERING" ],
+    [ 'code' => "527", 'education_narrow_id' => '52', 'name' => "MATERIAL ENGINEERING" ],
+    [ 'code' => "540", 'education_narrow_id' => '54', 'name' => "MANUFACTURING AND PROCESSING (BROAD PROGRAMMES)*" ],
+    [ 'code' => "541", 'education_narrow_id' => '54', 'name' => "FOOD PROCESSING" ],
+    [ 'code' => "542", 'education_narrow_id' => '54', 'name' => "TEXTILES, CLOTHES, FOOTWEAR AND LEATHER" ],
+    [ 'code' => "543", 'education_narrow_id' => '54', 'name' => "MATERIALS (WOOD, PAPER, PLASTIC, GLASS)" ],
+    [ 'code' => "544", 'education_narrow_id' => '54', 'name' => "MINING AND EXTRACTION" ],
+    [ 'code' => "545", 'education_narrow_id' => '54', 'name' => "APPLIED SCIENCE" ],
+    [ 'code' => "581", 'education_narrow_id' => '58', 'name' => "ARCHITECTURE AND TOWN PLANNING" ],
+    [ 'code' => "582", 'education_narrow_id' => '58', 'name' => "BUILDING" ],
+
+    [ 'code' => "620", 'education_narrow_id' => '62', 'name' => "AGRICULTURE, FORESTRY AND FISHERY (BROAD PROGRAMMES)*" ],
+    [ 'code' => "621", 'education_narrow_id' => '62', 'name' => "CROP AND LIVESTOCK PRODUCTION" ],
+    [ 'code' => "622", 'education_narrow_id' => '62', 'name' => "HORTICULTURE" ],
+    [ 'code' => "623", 'education_narrow_id' => '62', 'name' => "FORESTRY" ],
+    [ 'code' => "624", 'education_narrow_id' => '62', 'name' => "FISHERIES" ],
+    [ 'code' => "641", 'education_narrow_id' => '64', 'name' => "VETERINARY" ],
+
+    [ 'code' => "720", 'education_narrow_id' => '72', 'name' => "HEALTH (BROAD PROGRAMMES)*" ],
+    [ 'code' => "721", 'education_narrow_id' => '72', 'name' => "MEDICINE" ],
+    [ 'code' => "722", 'education_narrow_id' => '72', 'name' => "MEDICAL SERVICES" ],
+    [ 'code' => "723", 'education_narrow_id' => '72', 'name' => "NURSING AND CARING" ],
+    [ 'code' => "724", 'education_narrow_id' => '72', 'name' => "DENTAL STUDIES" ],
+    [ 'code' => "725", 'education_narrow_id' => '72', 'name' => "MEDICAL DIAGNOSTIC AND TREATMENT TECHNOLOGY" ],
+    [ 'code' => "726", 'education_narrow_id' => '72', 'name' => "THERAPY AND REHABILITATION" ],
+    [ 'code' => "727", 'education_narrow_id' => '72', 'name' => "PHARMACY" ],
+    [ 'code' => "761", 'education_narrow_id' => '76', 'name' => "CHILD CARE AND YOUTH SERVICES" ],
+    [ 'code' => "762", 'education_narrow_id' => '76', 'name' => "SOCIAL WORK AND COUNSELLING" ],
+
+    [ 'code' => "810", 'education_narrow_id' => '81', 'name' => "PERSONAL SERVICES (BROAD PROGRAMMES)*" ],
+    [ 'code' => "811", 'education_narrow_id' => '81', 'name' => "HOTEL, RESTAURANT AND CATERING" ],
+    [ 'code' => "812", 'education_narrow_id' => '81', 'name' => "TRAVEL, TOURISM AND LEISURE" ],
+    [ 'code' => "813", 'education_narrow_id' => '81', 'name' => "SPORTS" ],
+    [ 'code' => "814", 'education_narrow_id' => '81', 'name' => "DOMESTIC SERVICES" ],
+    [ 'code' => "815", 'education_narrow_id' => '81', 'name' => "HAIR AND BEAUTY SERVICES" ],
+    [ 'code' => "840", 'education_narrow_id' => '84', 'name' => "TRANSPORT SERVICES" ],
+    [ 'code' => "850", 'education_narrow_id' => '85', 'name' => "ENVIRONMENTAL PROTECTION (BROAD PROGRAMMES)*" ],
+    [ 'code' => "851", 'education_narrow_id' => '85', 'name' => "ENVIRONMENTAL PROTECTION TECHNOLOGY" ],
+    [ 'code' => "852", 'education_narrow_id' => '85', 'name' => "NATURAL ENVIRONMENTS AND WILDLIFE" ],
+    [ 'code' => "853", 'education_narrow_id' => '85', 'name' => "COMMUNITY SANITATION SERVICES" ],
+    [ 'code' => "860", 'education_narrow_id' => '86', 'name' => "SECURITY SERVICES (BROAD PROGRAMMES)*" ],
+    [ 'code' => "861", 'education_narrow_id' => '86', 'name' => "PROTECTION OF PERSONS AND PROPERTY" ],
+    [ 'code' => "862", 'education_narrow_id' => '86', 'name' => "OCCUPATIONAL HEALTH AND SAFETY" ],
+    [ 'code' => "863", 'education_narrow_id' => '86', 'name' => "MILITARY AND DEFENCE" ],
+];
+
+
