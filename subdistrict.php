@@ -1918,19 +1918,20 @@ $items = [
     ['id' => '050210', 'name' => 'SRI MENANTI', 'district_id' => '0502'],
     ['id' => '050211', 'name' => 'TERACHI', 'district_id' => '0502'],
 
-    ['id' => '050211', 'name' => 'BANDAR TERACHI', 'district_id' => '0502'],
+    // ['id' => '050211', 'name' => 'BANDAR TERACHI', 'district_id' => '0502'], // deprecated?
+    ['id' => '050240', 'name' => 'BANDAR KUALA PILAH', 'district_id' => '0502'],
 
-    ['id' => '050211', 'name' => 'PEKAN DANGI', 'district_id' => '0502'],
-    ['id' => '050211', 'name' => 'PEKAN GUNUNG PASIR', 'district_id' => '0502'],
-    ['id' => '050211', 'name' => 'PEKAN JOHOL', 'district_id' => '0502'],
-    ['id' => '050211', 'name' => 'PEKAN PARIT TINGGI', 'district_id' => '0502'],
-    ['id' => '050211', 'name' => 'PEKAN SENALING', 'district_id' => '0502'],
-    ['id' => '050211', 'name' => 'PEKAN TANJONG IPOH', 'district_id' => '0502'],
-    ['id' => '050211', 'name' => 'PEKAN JUASSEH', 'district_id' => '0502'],
-    ['id' => '050211', 'name' => 'PEKAN BUKIT GELUGOR', 'district_id' => '0502'],
-    ['id' => '050211', 'name' => 'PEKAN MELANG', 'district_id' => '0502'],
-    ['id' => '050211', 'name' => 'PEKAN AR MAWANG', 'district_id' => '0502'],
-    ['id' => '050211', 'name' => 'PEKAN DANGI BARU', 'district_id' => '0502'],
+    ['id' => '050270', 'name' => 'PEKAN DANGI', 'district_id' => '0502'],
+    ['id' => '050271', 'name' => 'PEKAN GUNUNG PASIR', 'district_id' => '0502'],
+    ['id' => '050272', 'name' => 'PEKAN JOHOL', 'district_id' => '0502'],
+    ['id' => '050273', 'name' => 'PEKAN PARIT TINGGI', 'district_id' => '0502'],
+    ['id' => '050274', 'name' => 'PEKAN SENALING', 'district_id' => '0502'],
+    ['id' => '050275', 'name' => 'PEKAN TANJONG IPOH', 'district_id' => '0502'],
+    ['id' => '050276', 'name' => 'PEKAN JUASSEH', 'district_id' => '0502'],
+    ['id' => '050277', 'name' => 'PEKAN BUKIT GELUGOR', 'district_id' => '0502'],
+    ['id' => '050278', 'name' => 'PEKAN MELANG', 'district_id' => '0502'],
+    ['id' => '050279', 'name' => 'PEKAN AR MAWANG', 'district_id' => '0502'],
+    ['id' => '050280', 'name' => 'PEKAN DANGI BARU', 'district_id' => '0502'],
 
     /*
      * === PORT DICKSON
