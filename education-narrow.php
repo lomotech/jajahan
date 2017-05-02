@@ -36,6 +36,7 @@ $items = [
     [ 'code' => '72', 'education_broad_id' => '7', 'name' => 'HEALTH' ],
     [ 'code' => '76', 'education_broad_id' => '7', 'name' => 'SOCIAL SERVICES' ],
 
+    [ 'code' => '81', 'education_broad_id' => '8', 'name' => 'GENERAL SERVICES' ], // no data from SDDSA - assume
     [ 'code' => '84', 'education_broad_id' => '8', 'name' => 'TRANSPORT SERVICES' ],
     [ 'code' => '85', 'education_broad_id' => '8', 'name' => 'ENVIRONMENTAL PROTECTION' ],
     [ 'code' => '86', 'education_broad_id' => '8', 'name' => 'SECURITY SERVICES' ],
