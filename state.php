@@ -1,30 +1,32 @@
  <?php
 
-/**
- * @author    syafiq <syafiq@my-sands.com>
- * @since     1.0.0
- * retrive date 15 January 2016
- */
-
-/**
- * state - negeri.
- */
+ /**
+  * Ini adalah data negeri di dalam Malaysia. Senarai asal berdasarkan DDSA.
+  * Kategori Data > Data Generik > Organisasi > Kod Negeri
+  *
+  * name        nama pendek
+  * name_long   nama penuh
+  * ddsa_code   kod ddsa
+  * alpha_2     kod 2 aksara
+  * alpha_3     kod 3 aksara
+  * capital     ibu negeri
+  */
 $items = [
-    ['name' => 'JOHOR', 'name_long' => 'JOHOR DARUL TAKZIM', 'id' => '01', 'code2' => 'JH', 'code3' => 'JHR', 'capital' => 'JOHOR BAHRU'],
-    ['name' => 'KEDAH', 'name_long' => 'KEDAH DARUL AMAN', 'id' => '02', 'code2' => 'KD', 'code3' => 'KDH', 'capital' => 'ALOR SETAR'],
-    ['name' => 'KELANTAN', 'name_long' => 'KELANTAN DARUL NAIM', 'id' => '03', 'code2' => 'KT', 'code3' => 'KTN', 'capital' => 'KOTA BAHRU'],
-    ['name' => 'MELAKA', 'name_long' => 'MELAKA BANDARAYA BERSEJARAH', 'id' => '04', 'code2' => 'ML', 'code3' => 'MLK', 'capital' => 'BANDAR MELAKA'],
-    ['name' => 'NEGERI SEMBILAN', 'name_long' => ' NEGERI SEMBILAN DARUL KHUSUS', 'id' => '05', 'code2' => 'NS', 'code3' => 'NSN', 'capital' => 'SEREMBAN'],
-    ['name' => 'PAHANG', 'name_long' => 'PAHANG DARUL MAKMUR', 'id' => '06', 'code2' => 'PH', 'code3' => 'PHG', 'capital' => 'KUANTAN'], //kuala lipis until 1953
-    ['name' => 'PULAU PINANG', 'name_long' => 'PULAU PINANG PULAU MUTIARA', 'id' => '07', 'code2' => 'PN', 'code3' => 'PNG', 'capital' => 'GEORGE TOWN'],
-    ['name' => 'PERAK', 'name_long' => 'PERAK DARUL RIDZUAN', 'id' => '08', 'code2' => 'PR', 'code3' => 'PRK', 'capital' => 'IPOH'],
-    ['name' => 'PERLIS', 'name_long' => 'PERLIS INDERA KAYANGAN', 'id' => '09', 'code2' => 'PL', 'code3' => 'PLS', 'capital' => 'KANGAR'],
-    ['name' => 'SELANGOR', 'name_long' => 'SELANGOR DARUL EHSAN', 'id' => '10', 'code2' => 'SG', 'code3' => 'SGR', 'capital' => 'SHAH ALAM'], //shah alam until 1978
-    ['name' => 'TERENGGANU', 'name_long' => 'TERENGGANU DARUL IMAN', 'id' => '11', 'code2' => 'TR', 'code3' => 'TRG', 'capital' => 'KUALA TERENGGANU'],
-    ['name' => 'SABAH', 'name_long' => 'SABAH NEGERI DI BAWAH BAYU', 'id' => '12', 'code2' => 'SB', 'code3' => 'SBH', 'capital' => 'KOTA KINABALU'],
-    ['name' => 'SARAWAK', 'name_long' => 'SARAWAK BUMI KENYALANG', 'id' => '13', 'code2' => 'SR', 'code3' => 'SRW', 'capital' => 'KUCHING'],
-    ['name' => 'WP KUALA LUMPUR', 'name_long' => 'WILAYAH PERSEKUTUAN KUALA LUMPUR', 'id' => '14', 'code2' => 'KL', 'code3' => 'WKL', 'capital' => 'KUALA LUMPUR'],
-    ['name' => 'WP LABUAN', 'name_long' => 'WILAYAH PERSEKUTUAN LABUAN', 'id' => '15', 'code2' => 'LB', 'code3' => 'WPL', 'capital' => 'LABUAN'],
-    ['name' => 'WP PUTRAJAYA', 'name_long' => 'WILAYAH PERSEKUTUAN PUTRAJAYA', 'id' => '16', 'code2' => 'PJ', 'code3' => 'PJY', 'capital' => 'PUTRAJAYA'],
-    ['name' => 'LUAR NEGARA', 'name_long' => 'LUAR NEGARA', 'id' => '98', 'code2' => 'LN', 'code3' => 'LNE', 'capital' => '-']
+    ['name' => 'Johor', 'name_long' => 'Johor Darul Takzim', 'ddsa_code' => '01', 'alpha_2' => 'JH', 'alpha_3' => 'JHR', 'capital' => 'Johor Bahru'],
+    ['name' => 'Kedah', 'name_long' => 'Kedah Darul Aman', 'ddsa_code' => '02', 'alpha_2' => 'KD', 'alpha_3' => 'KDH', 'capital' => 'Alor Setar'],
+    ['name' => 'Kelantan', 'name_long' => 'Kelantan Darul Naim', 'ddsa_code' => '03', 'alpha_2' => 'KT', 'alpha_3' => 'KTN', 'capital' => 'Kota Bahru'],
+    ['name' => 'Melaka', 'name_long' => 'Melaka Bandaraya Bersejarah', 'ddsa_code' => '04', 'alpha_2' => 'ML', 'alpha_3' => 'MLK', 'capital' => 'Bandar Melaka'],
+    ['name' => 'Negeri Sembilan', 'name_long' => 'Negeri Sembilan Darul Khusus', 'ddsa_code' => '05', 'alpha_2' => 'NS', 'alpha_3' => 'NSN', 'capital' => 'Seremban'],
+    ['name' => 'Pahang', 'name_long' => 'Pahang Darul Makmur', 'ddsa_code' => '06', 'alpha_2' => 'PH', 'alpha_3' => 'PHG', 'capital' => 'Kuantan'], //kuala lipis until 1953
+    ['name' => 'Pulau Pinang', 'name_long' => 'Pulau Pinang Pulau Mutiara', 'ddsa_code' => '07', 'alpha_2' => 'PN', 'alpha_3' => 'PNG', 'capital' => 'George Town'],
+    ['name' => 'Perak', 'name_long' => 'Perak Darul Ridzuan', 'ddsa_code' => '08', 'alpha_2' => 'PR', 'alpha_3' => 'PRK', 'capital' => 'Ipoh'],
+    ['name' => 'Perlis', 'name_long' => 'Perlis Indera Kayangan', 'ddsa_code' => '09', 'alpha_2' => 'PL', 'alpha_3' => 'PLS', 'capital' => 'Kangar'],
+    ['name' => 'Selangor', 'name_long' => 'Selangor Darul Ehsan', 'ddsa_code' => '10', 'alpha_2' => 'SG', 'alpha_3' => 'SGR', 'capital' => 'Shah Alam'], //shah alam until 1978
+    ['name' => 'Terengganu', 'name_long' => 'Terengganu Darul Iman', 'ddsa_code' => '11', 'alpha_2' => 'TR', 'alpha_3' => 'TRG', 'capital' => 'Kuala Terengganu'],
+    ['name' => 'Sabah', 'name_long' => 'Sabah Negeri Di Bawah BAYU', 'ddsa_code' => '12', 'alpha_2' => 'SB', 'alpha_3' => 'SBH', 'capital' => 'Kota Kinabalu'],
+    ['name' => 'Sarawak', 'name_long' => 'Sarawak Bumi Kenyalang', 'ddsa_code' => '13', 'alpha_2' => 'SR', 'alpha_3' => 'SRW', 'capital' => 'Kuching'],
+    ['name' => 'WP Kuala Lumpur', 'name_long' => 'Wilayah Persekutuan Kuala Lumpur', 'ddsa_code' => '14', 'alpha_2' => 'KL', 'alpha_3' => 'WKL', 'capital' => 'Kuala Lumpur'],
+    ['name' => 'WP Labuan', 'name_long' => 'Wilayah Persekutuan Labuan', 'ddsa_code' => '15', 'alpha_2' => 'LB', 'alpha_3' => 'WPL', 'capital' => 'Labuan'],
+    ['name' => 'WP Putrajaya', 'name_long' => 'Wilayah Persekutuan Putrajaya', 'ddsa_code' => '16', 'alpha_2' => 'PJ', 'alpha_3' => 'PJY', 'capital' => 'Putrajaya'],
+    ['name' => 'Luar Negara', 'name_long' => 'Luar Negara', 'ddsa_code' => '98', 'alpha_2' => 'LN', 'alpha_3' => 'LNE', 'capital' => '-']
 ];

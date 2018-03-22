@@ -1,209 +1,191 @@
 <?php
 
 /**
- * @author    syafiq <syafiq@my-sands.com>
- * @since     1.0
- * retrive date 15 January 2016
- */
-
-/**
- * district - daerah.
- * note: code_3 is not official!
- * sddsa: Kategori Data > Data Generik > Organisasi > Kod Daerah
+ * Ini adalah data daerah di dalam Malaysia. Senarai asal berdasarkan DDSA.
+ * Kategori Data > Data Generik > Organisasi > Kod Daerah
+ *
+ * name        nama pendek
+ * ddsa_code   kod ddsa
+ * alpha_3     kod 3 aksara
  */
 $items = [
     /*
      * perlis - Perlis tiada daerah.
      */
-    ['id' => '0900', 'state_id' => '9', 'name' => 'PERLIS', 'code_3' => 'PER'],
-
+    ['ddsa_code' => '0900', 'name' => 'Perlis', 'alpha_3' => 'PER'],
     /*
      * kedah
      */
-    ['id' => '0201', 'state_id' => '2', 'name' => 'KOTA SETAR', 'code_3' => 'KSE'],
-    ['id' => '0202', 'state_id' => '2', 'name' => 'KUBANG PASU', 'code_3' => 'KPA'],
-    ['id' => '0203', 'state_id' => '2', 'name' => 'PADANG TERAP', 'code_3' => 'PTE'],
-    ['id' => '0204', 'state_id' => '2', 'name' => 'LANGKAWI', 'code_3' => 'LAN'],
-    ['id' => '0205', 'state_id' => '2', 'name' => 'KUALA MUDA', 'code_3' => 'KMU'],
-    ['id' => '0206', 'state_id' => '2', 'name' => 'YAN', 'code_3' => 'YAN'],
-    ['id' => '0207', 'state_id' => '2', 'name' => 'SIK', 'code_3' => 'SIK'],
-    ['id' => '0208', 'state_id' => '2', 'name' => 'BALING', 'code_3' => 'BAL'],
-    ['id' => '0209', 'state_id' => '2', 'name' => 'KULIM', 'code_3' => 'KUL'],
-    ['id' => '0210', 'state_id' => '2', 'name' => 'BANDAR BAHARU', 'code_3' => 'BBA'],
-    ['id' => '0211', 'state_id' => '2', 'name' => 'PENDANG', 'code_3' => 'PEN'],
-    ['id' => '0212', 'state_id' => '2', 'name' => 'POKOK SENA', 'code_3' => 'PSE'],
-
+    ['ddsa_code' => '0201', 'name' => 'Kota Setar', 'alpha_3' => 'KSE'],
+    ['ddsa_code' => '0202', 'name' => 'Kubang Pasu', 'alpha_3' => 'KPA'],
+    ['ddsa_code' => '0203', 'name' => 'Padang Terap', 'alpha_3' => 'PTE'],
+    ['ddsa_code' => '0204', 'name' => 'Langkawi', 'alpha_3' => 'LAN'],
+    ['ddsa_code' => '0205', 'name' => 'Kuala Muda', 'alpha_3' => 'KMU'],
+    ['ddsa_code' => '0206', 'name' => 'Yan', 'alpha_3' => 'YAN'],
+    ['ddsa_code' => '0207', 'name' => 'Sik', 'alpha_3' => 'SIK'],
+    ['ddsa_code' => '0208', 'name' => 'Baling', 'alpha_3' => 'BAL'],
+    ['ddsa_code' => '0209', 'name' => 'Kulim', 'alpha_3' => 'KUL'],
+    ['ddsa_code' => '0210', 'name' => 'Bandar Baharu', 'alpha_3' => 'BBA'],
+    ['ddsa_code' => '0211', 'name' => 'Pendang', 'alpha_3' => 'PEN'],
+    ['ddsa_code' => '0212', 'name' => 'Pokok Sena', 'alpha_3' => 'PSE'],
     /*
      * kelantan
      */
-    ['id' => '0301', 'state_id' => '3', 'name' => 'BACHOK', 'code_3' => 'BAC'],
-    ['id' => '0302', 'state_id' => '3', 'name' => 'KOTA BHARU', 'code_3' => 'KBH'],
-    ['id' => '0303', 'state_id' => '3', 'name' => 'MACHANG', 'code_3' => 'MAC'],
-    ['id' => '0304', 'state_id' => '3', 'name' => 'PASIR MAS', 'code_3' => 'PMA'],
-    ['id' => '0305', 'state_id' => '3', 'name' => 'PASIR PUTEH', 'code_3' => 'PPU'],
-    ['id' => '0306', 'state_id' => '3', 'name' => 'TANAH MERAH', 'code_3' => 'TME'],
-    ['id' => '0307', 'state_id' => '3', 'name' => 'TUMPAT', 'code_3' => 'TUM'],
-    ['id' => '0308', 'state_id' => '3', 'name' => 'GUA MUSANG', 'code_3' => 'GMU'],
-    // ['id' => '0309', 'state_id' => '3', 'name' => '??'],
-    ['id' => '0310', 'state_id' => '3', 'name' => 'KUALA KRAI', 'code_3' => 'KKR'],
-    ['id' => '0311', 'state_id' => '3', 'name' => 'JELI', 'code_3' => 'JEL'],
-    ['id' => '0312', 'state_id' => '3', 'name' => 'KECIL LOJING', 'code_3' => 'KLO'],
-
+    ['ddsa_code' => '0301', 'name' => 'Bachok', 'alpha_3' => 'BAC'],
+    ['ddsa_code' => '0302', 'name' => 'Kota Bharu', 'alpha_3' => 'KBH'],
+    ['ddsa_code' => '0303', 'name' => 'Machang', 'alpha_3' => 'MAC'],
+    ['ddsa_code' => '0304', 'name' => 'Pasir Mas', 'alpha_3' => 'PMA'],
+    ['ddsa_code' => '0305', 'name' => 'Pasir Puteh', 'alpha_3' => 'PPU'],
+    ['ddsa_code' => '0306', 'name' => 'Tanah Merah', 'alpha_3' => 'TME'],
+    ['ddsa_code' => '0307', 'name' => 'Tumpat', 'alpha_3' => 'TUM'],
+    ['ddsa_code' => '0308', 'name' => 'Gua Musang', 'alpha_3' => 'GMU'],
+    ['ddsa_code' => '0310', 'name' => 'Kuala Krai', 'alpha_3' => 'KKR'],
+    ['ddsa_code' => '0311', 'name' => 'Jeli', 'alpha_3' => 'JEL'],
+    ['ddsa_code' => '0312', 'name' => 'Kecil Lojing', 'alpha_3' => 'KLO'],
     /*
      * terengganu
      */
-    ['id' => '1101', 'state_id' => '11', 'name' => 'BESUT', 'code_3' => 'BES'],
-    ['id' => '1102', 'state_id' => '11', 'name' => 'DUNGUN', 'code_3' => 'DUN'],
-    ['id' => '1103', 'state_id' => '11', 'name' => 'KEMAMAN', 'code_3' => 'KEM'],
-    ['id' => '1104', 'state_id' => '11', 'name' => 'KUALA TERENGGANU', 'code_3' => 'KTE'],
-    ['id' => '1105', 'state_id' => '11', 'name' => 'HULU TERENGGANU', 'code_3' => 'HTE'],
-    ['id' => '1106', 'state_id' => '11', 'name' => 'MARANG', 'code_3' => 'MAR'],
-    ['id' => '1107', 'state_id' => '11', 'name' => 'SETIU', 'code_3' => 'SET'],
-
+    ['ddsa_code' => '1101', 'name' => 'Besut', 'alpha_3' => 'BES'],
+    ['ddsa_code' => '1102', 'name' => 'Dungun', 'alpha_3' => 'DUN'],
+    ['ddsa_code' => '1103', 'name' => 'Kemaman', 'alpha_3' => 'KEM'],
+    ['ddsa_code' => '1104', 'name' => 'Kuala Terengganu', 'alpha_3' => 'KTE'],
+    ['ddsa_code' => '1105', 'name' => 'Hulu Terengganu', 'alpha_3' => 'HTE'],
+    ['ddsa_code' => '1106', 'name' => 'Marang', 'alpha_3' => 'MAR'],
+    ['ddsa_code' => '1107', 'name' => 'Setiu', 'alpha_3' => 'SET'],
     /*
      * pulau pinang
      */
-    ['id' => '0701', 'state_id' => '7', 'name' => 'SEBERANG PERAI TENGAH', 'code_3' => 'SPT'],
-    ['id' => '0702', 'state_id' => '7', 'name' => 'SEBERANG PERAI UTARA', 'code_3' => 'SPU'],
-    ['id' => '0703', 'state_id' => '7', 'name' => 'SEBERANG PERAI SELATAN', 'code_3' => 'SPS'],
-    ['id' => '0704', 'state_id' => '7', 'name' => 'TIMOR LAUT', 'code_3' => 'TLA'],
-    ['id' => '0705', 'state_id' => '7', 'name' => 'BARAT DAYA', 'code_3' => 'BDA'],
-
+    ['ddsa_code' => '0701', 'name' => 'Seberang Perai Tengah', 'alpha_3' => 'SPT'],
+    ['ddsa_code' => '0702', 'name' => 'Seberang Perai Utara', 'alpha_3' => 'SPU'],
+    ['ddsa_code' => '0703', 'name' => 'Seberang Perai Selatan', 'alpha_3' => 'SPS'],
+    ['ddsa_code' => '0704', 'name' => 'Timor Laut', 'alpha_3' => 'TLA'],
+    ['ddsa_code' => '0705', 'name' => 'Barat Daya', 'alpha_3' => 'BDA'],
     /*
      * perak
      */
-    ['id' => '0801', 'state_id' => '8', 'name' => 'BATANG PADANG', 'code_3' => 'BPA'],
-    ['id' => '0802', 'state_id' => '8', 'name' => 'MANJUNG', 'code_3' => 'MAN'],
-    ['id' => '0803', 'state_id' => '8', 'name' => 'KINTA', 'code_3' => 'KIN'],
-    ['id' => '0804', 'state_id' => '8', 'name' => 'KERIAN', 'code_3' => 'KER'],
-    ['id' => '0805', 'state_id' => '8', 'name' => 'KUALA KANGSAR', 'code_3' => 'KKA'],
-    ['id' => '0806', 'state_id' => '8', 'name' => 'LARUT & MATANG', 'code_3' => 'LDM'],
-    ['id' => '0807', 'state_id' => '8', 'name' => 'HILIR PERAK', 'code_3' => 'HPE'],
-    ['id' => '0808', 'state_id' => '8', 'name' => 'HULU PERAK', 'code_3' => 'HPR'],
-    ['id' => '0809', 'state_id' => '8', 'name' => 'SELAMA', 'code_3' => 'SEL'],
-    ['id' => '0810', 'state_id' => '8', 'name' => 'PERAK TENGAH', 'code_3' => 'PTE'],
-    ['id' => '0811', 'state_id' => '8', 'name' => 'KAMPAR', 'code_3' => 'KAM'],
-    // ['id' => '0812', 'state_id' => '8', 'name' => 'MUALLIM', 'code_3' => 'MUL'],
-
+    ['ddsa_code' => '0801', 'name' => 'Batang Padang', 'alpha_3' => 'BPA'],
+    ['ddsa_code' => '0802', 'name' => 'Manjung', 'alpha_3' => 'MAN'],
+    ['ddsa_code' => '0803', 'name' => 'Kinta', 'alpha_3' => 'KIN'],
+    ['ddsa_code' => '0804', 'name' => 'Kerian', 'alpha_3' => 'KER'],
+    ['ddsa_code' => '0805', 'name' => 'Kuala Kangsar', 'alpha_3' => 'KKA'],
+    ['ddsa_code' => '0806', 'name' => 'Larut & Matang', 'alpha_3' => 'LDM'],
+    ['ddsa_code' => '0807', 'name' => 'Hilir Perak', 'alpha_3' => 'HPE'],
+    ['ddsa_code' => '0808', 'name' => 'Hulu Perak', 'alpha_3' => 'HPR'],
+    ['ddsa_code' => '0809', 'name' => 'Selama', 'alpha_3' => 'SEL'],
+    ['ddsa_code' => '0810', 'name' => 'Perak Tengah', 'alpha_3' => 'PTE'],
+    ['ddsa_code' => '0811', 'name' => 'Kampar', 'alpha_3' => 'KAM'],
     /*
      * pahang
      */
-    ['id' => '0601', 'state_id' => '6', 'name' => 'BENTONG', 'code_3' => 'BEN'],
-    ['id' => '0602', 'state_id' => '6', 'name' => 'CAMERON HIGHLANDS', 'code_3' => 'CHI'],
-    ['id' => '0603', 'state_id' => '6', 'name' => 'JERANTUT', 'code_3' => 'JER'],
-    ['id' => '0604', 'state_id' => '6', 'name' => 'KUANTAN', 'code_3' => 'KUA'],
-    ['id' => '0605', 'state_id' => '6', 'name' => 'LIPIS', 'code_3' => 'LIP'],
-    ['id' => '0606', 'state_id' => '6', 'name' => 'PEKAN', 'code_3' => 'PEK'],
-    ['id' => '0607', 'state_id' => '6', 'name' => 'RAUB', 'code_3' => 'RAU'],
-    ['id' => '0608', 'state_id' => '6', 'name' => 'TEMERLOH', 'code_3' => 'TER'],
-    ['id' => '0609', 'state_id' => '6', 'name' => 'ROMPIN', 'code_3' => 'ROM'],
-    ['id' => '0610', 'state_id' => '6', 'name' => 'MARAN', 'code_3' => 'MAR'],
-    ['id' => '0611', 'state_id' => '6', 'name' => 'BERA', 'code_3' => 'BER'],
-
+    ['ddsa_code' => '0601', 'name' => 'Bentong', 'alpha_3' => 'BEN'],
+    ['ddsa_code' => '0602', 'name' => 'Cameron Highlands', 'alpha_3' => 'CHI'],
+    ['ddsa_code' => '0603', 'name' => 'Jerantut', 'alpha_3' => 'JER'],
+    ['ddsa_code' => '0604', 'name' => 'Kuantan', 'alpha_3' => 'KUA'],
+    ['ddsa_code' => '0605', 'name' => 'Lipis', 'alpha_3' => 'LIP'],
+    ['ddsa_code' => '0606', 'name' => 'Pekan', 'alpha_3' => 'PEK'],
+    ['ddsa_code' => '0607', 'name' => 'Raub', 'alpha_3' => 'RAU'],
+    ['ddsa_code' => '0608', 'name' => 'Temerloh', 'alpha_3' => 'TER'],
+    ['ddsa_code' => '0609', 'name' => 'Rompin', 'alpha_3' => 'ROM'],
+    ['ddsa_code' => '0610', 'name' => 'Maran', 'alpha_3' => 'MAR'],
+    ['ddsa_code' => '0611', 'name' => 'Bera', 'alpha_3' => 'BER'],
     /*
      * selangor
      */
-    ['id' => '1001', 'state_id' => '10', 'name' => 'KLANG', 'code_3' => 'KLG'],
-    ['id' => '1002', 'state_id' => '10', 'name' => 'KUALA LANGAT', 'code_3' => 'KLN'],
-    // ['id' => '1003', 'state_id' => '10', 'name' => '??', 'code_3' => '??'],
-    ['id' => '1004', 'state_id' => '10', 'name' => 'KUALA SELANGOR', 'code_3' => 'KSE'],
-    ['id' => '1005', 'state_id' => '10', 'name' => 'SABAK BERNAM', 'code_3' => 'SBE'],
-    ['id' => '1006', 'state_id' => '10', 'name' => 'ULU LANGAT', 'code_3' => 'ULA'],
-    ['id' => '1007', 'state_id' => '10', 'name' => 'ULU SELANGOR', 'code_3' => 'USE'],
-    ['id' => '1008', 'state_id' => '10', 'name' => 'PETALING', 'code_3' => 'PET'],
-    ['id' => '1009', 'state_id' => '10', 'name' => 'GOMBAK', 'code_3' => 'GOM'],
-    ['id' => '1010', 'state_id' => '10', 'name' => 'SEPANG', 'code_3' => 'SEP'],
-
+    ['ddsa_code' => '1001', 'name' => 'Klang', 'alpha_3' => 'KLG'],
+    ['ddsa_code' => '1002', 'name' => 'Kuala Langat', 'alpha_3' => 'KLN'],
+    // ['ddsa_code' => '1003', 'name' => '??', 'alpha_3' => '??'],
+    ['ddsa_code' => '1004', 'name' => 'Kuala Selangor', 'alpha_3' => 'KSE'],
+    ['ddsa_code' => '1005', 'name' => 'Sabak Bernam', 'alpha_3' => 'SBE'],
+    ['ddsa_code' => '1006', 'name' => 'Ulu Langat', 'alpha_3' => 'ULA'],
+    ['ddsa_code' => '1007', 'name' => 'Ulu Selangor', 'alpha_3' => 'USE'],
+    ['ddsa_code' => '1008', 'name' => 'Petaling', 'alpha_3' => 'PET'],
+    ['ddsa_code' => '1009', 'name' => 'Gombak', 'alpha_3' => 'GOM'],
+    ['ddsa_code' => '1010', 'name' => 'Sepang', 'alpha_3' => 'SEP'],
     /*
      * kuala lumpur - tiada daerah.
      */
-    ['id' => '1400', 'state_id' => '14', 'name' => 'W. P. KUALA LUMPUR', 'code_3' => 'WPK'],
-
+    ['ddsa_code' => '1401', 'name' => 'W. P. Kuala Lumpur', 'alpha_3' => 'WPK'],
     /*
      * putrajaya
      */
-    ['id' => '1601', 'state_id' => '16', 'name' => 'W. P. PUTRAJAYA', 'code_3' => 'WPP'],
-
+    ['ddsa_code' => '1601', 'name' => 'W. P. Putrajaya', 'alpha_3' => 'WPP'],
     /*
      * negeri sembilan
      */
-    ['id' => '0501', 'state_id' => '4', 'name' => 'JELEBU', 'code_3' => 'JEL'],
-    ['id' => '0502', 'state_id' => '4', 'name' => 'KUALA PILAH', 'code_3' => 'KPI'],
-    ['id' => '0503', 'state_id' => '4', 'name' => 'PORT DICKSON', 'code_3' => 'PDI'],
-    ['id' => '0504', 'state_id' => '4', 'name' => 'REMBAU', 'code_3' => 'REM'],
-    ['id' => '0505', 'state_id' => '4', 'name' => 'SEREMBAN', 'code_3' => 'SER'],
-    ['id' => '0506', 'state_id' => '4', 'name' => 'TAMPIN', 'code_3' => 'TAM'],
-    ['id' => '0507', 'state_id' => '4', 'name' => 'JEMPOL', 'code_3' => 'JEM'],
-
+    ['ddsa_code' => '0501', 'name' => 'Jelebu', 'alpha_3' => 'JEL'],
+    ['ddsa_code' => '0502', 'name' => 'Kuala Pilah', 'alpha_3' => 'KPI'],
+    ['ddsa_code' => '0503', 'name' => 'Port Dickson', 'alpha_3' => 'PDI'],
+    ['ddsa_code' => '0504', 'name' => 'Rembau', 'alpha_3' => 'REM'],
+    ['ddsa_code' => '0505', 'name' => 'Seremban', 'alpha_3' => 'SER'],
+    ['ddsa_code' => '0506', 'name' => 'Tampin', 'alpha_3' => 'TAM'],
+    ['ddsa_code' => '0507', 'name' => 'Jempol', 'alpha_3' => 'JEM'],
     /*
      * melaka
      */
-    ['id' => '0401', 'state_id' => '4', 'name' => 'MELAKA TENGAH', 'code_3' => 'MTE'],
-    ['id' => '0402', 'state_id' => '4', 'name' => 'JASIN', 'code_3' => 'JAS'],
-    ['id' => '0403', 'state_id' => '4', 'name' => 'ALOR GAJAH', 'code_3' => 'AGA'],
-
+    ['ddsa_code' => '0401', 'name' => 'Melaka Tengah', 'alpha_3' => 'MTE'],
+    ['ddsa_code' => '0402', 'name' => 'Jasin', 'alpha_3' => 'JAS'],
+    ['ddsa_code' => '0403', 'name' => 'Alor Gajah', 'alpha_3' => 'AGA'],
     /*
      * johor
      */
-    ['id' => '0101', 'state_id' => '1', 'name' => 'BATU PAHAT', 'code_3' => 'BPA'],
-    ['id' => '0102', 'state_id' => '1', 'name' => 'JOHOR BAHRU', 'code_3' => 'JBA'],
-    ['id' => '0103', 'state_id' => '1', 'name' => 'KLUANG', 'code_3' => 'KLU'],
-    ['id' => '0104', 'state_id' => '1', 'name' => 'KOTA TINGGI', 'code_3' => 'KTI'],
-    ['id' => '0105', 'state_id' => '1', 'name' => 'MERSING', 'code_3' => 'MER'],
-    ['id' => '0106', 'state_id' => '1', 'name' => 'MUAR', 'code_3' => 'MUA'],
-    ['id' => '0107', 'state_id' => '1', 'name' => 'PONTIAN', 'code_3' => 'PON'],
-    ['id' => '0108', 'state_id' => '1', 'name' => 'SEGAMAT', 'code_3' => 'SEG'],
-    ['id' => '0109', 'state_id' => '1', 'name' => 'KULAIJAYA', 'code_3' => 'KUL'],
-    ['id' => '0110', 'state_id' => '1', 'name' => 'LEDANG', 'code_3' => 'LED'],
-
+    ['ddsa_code' => '0101', 'name' => 'Batu Pahat', 'alpha_3' => 'BPA'],
+    ['ddsa_code' => '0102', 'name' => 'Johor Bahru', 'alpha_3' => 'JBA'],
+    ['ddsa_code' => '0103', 'name' => 'Kluang', 'alpha_3' => 'KLU'],
+    ['ddsa_code' => '0104', 'name' => 'Kota Tinggi', 'alpha_3' => 'KTI'],
+    ['ddsa_code' => '0105', 'name' => 'Mersing', 'alpha_3' => 'MER'],
+    ['ddsa_code' => '0106', 'name' => 'Muar', 'alpha_3' => 'MUA'],
+    ['ddsa_code' => '0107', 'name' => 'Pontian', 'alpha_3' => 'PON'],
+    ['ddsa_code' => '0108', 'name' => 'Segamat', 'alpha_3' => 'SEG'],
+    ['ddsa_code' => '0109', 'name' => 'Kulaijaya', 'alpha_3' => 'KUL'],
+    ['ddsa_code' => '0110', 'name' => 'Ledang', 'alpha_3' => 'LED'],
     /*
      * labuan - tiada daerah
      */
-    ['id' => '1500', 'state_id' => '15', 'name' => 'W. P. LABUAN', 'code_3' => 'WPL'],
-
+    ['ddsa_code' => '1501', 'name' => 'W. P. Labuan', 'alpha_3' => 'WPL'],
     /*
      * sabah
      */
-    ['id' => '1201', 'state_id' => '12', 'name' => 'KOTA KINABALU', 'code_3' => 'KKI'],
-    ['id' => '1202', 'state_id' => '12', 'name' => 'PAPAR', 'code_3' => 'PAP'],
-    ['id' => '1203', 'state_id' => '12', 'name' => 'KOTA BELUD', 'code_3' => 'KBE'],
-    ['id' => '1204', 'state_id' => '12', 'name' => 'TUARAN', 'code_3' => 'TUA'],
-    ['id' => '1205', 'state_id' => '12', 'name' => 'KUDAT', 'code_3' => 'KUD'],
-    ['id' => '1206', 'state_id' => '12', 'name' => 'RANAU', 'code_3' => 'RAN'],
-    ['id' => '1207', 'state_id' => '12', 'name' => 'SANDAKAN', 'code_3' => 'SAN'],
-    ['id' => '1208', 'state_id' => '12', 'name' => 'LABUK & SUGUT', 'code_3' => 'LDS'],
-    ['id' => '1209', 'state_id' => '12', 'name' => 'KINABATANGAN', 'code_3' => 'KIN'],
-    ['id' => '1210', 'state_id' => '12', 'name' => 'TAWAU', 'code_3' => 'TAW'],
-
-    ['id' => '1211', 'state_id' => '12', 'name' => 'LAHAD DATU', 'code_3' => 'LDA'],
-    ['id' => '1212', 'state_id' => '12', 'name' => 'SEMPORNA', 'code_3' => 'SEM'],
-    ['id' => '1213', 'state_id' => '12', 'name' => 'KENINGAU', 'code_3' => 'KEN'],
-    ['id' => '1214', 'state_id' => '12', 'name' => 'TAMBUNAN', 'code_3' => 'TAM'],
-    ['id' => '1215', 'state_id' => '12', 'name' => 'PENSIANGAN', 'code_3' => 'PEN'],
-    ['id' => '1216', 'state_id' => '12', 'name' => 'TENOM', 'code_3' => 'TEN'],
-    ['id' => '1217', 'state_id' => '12', 'name' => 'BEAUFORT', 'code_3' => 'BEA'],
-    ['id' => '1218', 'state_id' => '12', 'name' => 'KUALA PENYU', 'code_3' => 'KPE'],
-    ['id' => '1219', 'state_id' => '12', 'name' => 'SIPITANG', 'code_3' => 'SIP'],
-    // ['id' => '1220', 'state_id' => '12', 'name' => '??', 'code_3' => '??'],
-    ['id' => '1221', 'state_id' => '12', 'name' => 'PENAMPANG', 'code_3' => 'PEN'],
-    ['id' => '1222', 'state_id' => '12', 'name' => 'KOTA MARUDU', 'code_3' => 'KMA'],
-    ['id' => '1223', 'state_id' => '12', 'name' => 'PITAS', 'code_3' => 'PTS'],
-    ['id' => '1224', 'state_id' => '12', 'name' => 'KUNAK', 'code_3' => 'KUN'],
-    ['id' => '1225', 'state_id' => '12', 'name' => 'TONGOD', 'code_3' => 'TON'],
-    ['id' => '1226', 'state_id' => '12', 'name' => 'PUTATAN', 'code_3' => 'PUT'],
-
+    ['ddsa_code' => '1201', 'name' => 'Kota Kinabalu', 'alpha_3' => 'KKI'],
+    ['ddsa_code' => '1202', 'name' => 'Papar', 'alpha_3' => 'PAP'],
+    ['ddsa_code' => '1203', 'name' => 'Kota Belud', 'alpha_3' => 'KBE'],
+    ['ddsa_code' => '1204', 'name' => 'Tuaran', 'alpha_3' => 'TUA'],
+    ['ddsa_code' => '1205', 'name' => 'Kudat', 'alpha_3' => 'KUD'],
+    ['ddsa_code' => '1206', 'name' => 'Ranau', 'alpha_3' => 'RAN'],
+    ['ddsa_code' => '1207', 'name' => 'Sandakan', 'alpha_3' => 'SAN'],
+    ['ddsa_code' => '1208', 'name' => 'Labuk & Sugut', 'alpha_3' => 'LDS'],
+    ['ddsa_code' => '1209', 'name' => 'Kinabatangan', 'alpha_3' => 'KIN'],
+    ['ddsa_code' => '1210', 'name' => 'Tawau', 'alpha_3' => 'TAW'],
+    ['ddsa_code' => '1211', 'name' => 'Lahad Datu', 'alpha_3' => 'LDA'],
+    ['ddsa_code' => '1212', 'name' => 'Semporna', 'alpha_3' => 'SEM'],
+    ['ddsa_code' => '1213', 'name' => 'Keningau', 'alpha_3' => 'KEN'],
+    ['ddsa_code' => '1214', 'name' => 'Tambunan', 'alpha_3' => 'TAM'],
+    ['ddsa_code' => '1215', 'name' => 'Pensiangan', 'alpha_3' => 'PEN'],
+    ['ddsa_code' => '1216', 'name' => 'Tenom', 'alpha_3' => 'TEN'],
+    ['ddsa_code' => '1217', 'name' => 'Beaufort', 'alpha_3' => 'BEA'],
+    ['ddsa_code' => '1218', 'name' => 'Kuala Penyu', 'alpha_3' => 'KPE'],
+    ['ddsa_code' => '1219', 'name' => 'Sipitang', 'alpha_3' => 'SIP'],
+    ['ddsa_code' => '1221', 'name' => 'Penampang', 'alpha_3' => 'PEN'],
+    ['ddsa_code' => '1222', 'name' => 'Kota Marudu', 'alpha_3' => 'KMA'],
+    ['ddsa_code' => '1223', 'name' => 'Pitas', 'alpha_3' => 'PTS'],
+    ['ddsa_code' => '1224', 'name' => 'Kunak', 'alpha_3' => 'KUN'],
+    ['ddsa_code' => '1225', 'name' => 'Tongod', 'alpha_3' => 'TON'],
+    ['ddsa_code' => '1226', 'name' => 'Putatan', 'alpha_3' => 'PUT'],
     /*
      * sarawak
      */
-    ['id' => '1301', 'state_id' => '13', 'name' => 'KUCHING', 'code_3' => 'KUC'],
-    ['id' => '1302', 'state_id' => '13', 'name' => 'SRI AMAN', 'code_3' => 'SAM'],
-    ['id' => '1303', 'state_id' => '13', 'name' => 'SIBU', 'code_3' => 'SIB'],
-    ['id' => '1304', 'state_id' => '13', 'name' => 'MIRI', 'code_3' => 'MIR'],
-    ['id' => '1305', 'state_id' => '13', 'name' => 'LIMBANG', 'code_3' => 'LIM'],
-    ['id' => '1306', 'state_id' => '13', 'name' => 'SARIKEI', 'code_3' => 'SAR'],
-    ['id' => '1307', 'state_id' => '13', 'name' => 'KAPIT', 'code_3' => 'KAP'],
-    ['id' => '1308', 'state_id' => '13', 'name' => 'SAMARAHAN', 'code_3' => 'SAM'],
-    ['id' => '1309', 'state_id' => '13', 'name' => 'BINTULU', 'code_3' => 'BIN'],
-    ['id' => '1310', 'state_id' => '13', 'name' => 'MUKAH', 'code_3' => 'MUK'],
-    ['id' => '1311', 'state_id' => '13', 'name' => 'BETONG', 'code_3' => 'BET']
+    ['ddsa_code' => '1301', 'name' => 'Kuching', 'alpha_3' => 'KUC'],
+    ['ddsa_code' => '1302', 'name' => 'Sri Aman', 'alpha_3' => 'SAM'],
+    ['ddsa_code' => '1303', 'name' => 'Sibu', 'alpha_3' => 'SIB'],
+    ['ddsa_code' => '1304', 'name' => 'Miri', 'alpha_3' => 'MIR'],
+    ['ddsa_code' => '1305', 'name' => 'Limbang', 'alpha_3' => 'LIM'],
+    ['ddsa_code' => '1306', 'name' => 'Sarikei', 'alpha_3' => 'SAR'],
+    ['ddsa_code' => '1307', 'name' => 'Kapit', 'alpha_3' => 'KAP'],
+    ['ddsa_code' => '1308', 'name' => 'Samarahan', 'alpha_3' => 'SAM'],
+    ['ddsa_code' => '1309', 'name' => 'Bintulu', 'alpha_3' => 'BIN'],
+    ['ddsa_code' => '1310', 'name' => 'Mukah', 'alpha_3' => 'MUK'],
+    ['ddsa_code' => '1311', 'name' => 'Betong', 'alpha_3' => 'BET'],
+    /*
+     * Luar Negara
+     */
+    ['ddsa_code' => '9801', 'name' => '-', 'alpha_3' => 'LUA']
 ];
