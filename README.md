@@ -1,5 +1,9 @@
 # jajahan
 
+## nota
+1. Versi 2 dan versi 1 tak backward compatible langsung.
+2. Akan jadikan sebagai package untuk laravel & yii2.
+
 ## intro
 Jajahan adalah senarai alternatif untuk negeri, daerah, mukim, dun, bahagian, parlimen di dalam Malaysia. Tujuan asal adalah untuk digunakan di dalam sistem sebagai fix data yang tidak perlu masuk ke database kerana pertukarannya amat sedikit mengikut masa.
 
