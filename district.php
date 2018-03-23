@@ -127,13 +127,13 @@ $items = [
     /*
      * negeri sembilan
      */
-    ['id' => '0501', 'state_id' => '4', 'name' => 'JELEBU', 'code_3' => 'JEL'],
-    ['id' => '0502', 'state_id' => '4', 'name' => 'KUALA PILAH', 'code_3' => 'KPI'],
-    ['id' => '0503', 'state_id' => '4', 'name' => 'PORT DICKSON', 'code_3' => 'PDI'],
-    ['id' => '0504', 'state_id' => '4', 'name' => 'REMBAU', 'code_3' => 'REM'],
-    ['id' => '0505', 'state_id' => '4', 'name' => 'SEREMBAN', 'code_3' => 'SER'],
-    ['id' => '0506', 'state_id' => '4', 'name' => 'TAMPIN', 'code_3' => 'TAM'],
-    ['id' => '0507', 'state_id' => '4', 'name' => 'JEMPOL', 'code_3' => 'JEM'],
+    ['id' => '0501', 'state_id' => '5', 'name' => 'JELEBU', 'code_3' => 'JEL'],
+    ['id' => '0502', 'state_id' => '5', 'name' => 'KUALA PILAH', 'code_3' => 'KPI'],
+    ['id' => '0503', 'state_id' => '5', 'name' => 'PORT DICKSON', 'code_3' => 'PDI'],
+    ['id' => '0504', 'state_id' => '5', 'name' => 'REMBAU', 'code_3' => 'REM'],
+    ['id' => '0505', 'state_id' => '5', 'name' => 'SEREMBAN', 'code_3' => 'SER'],
+    ['id' => '0506', 'state_id' => '5', 'name' => 'TAMPIN', 'code_3' => 'TAM'],
+    ['id' => '0507', 'state_id' => '5', 'name' => 'JEMPOL', 'code_3' => 'JEM'],
 
     /*
      * melaka
