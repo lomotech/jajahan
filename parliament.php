@@ -1,10 +1,4 @@
 <?php
-
-/**
- * @author    syafiq <syafiq@my-sands.com>
- * @since     1.0.0
- */
-
 /**
  * parliamen - parlimen.
  * sddsa: Kategori Data > Data Generik > Organisasi > Kod Kawasan Parlimen
@@ -25,7 +19,7 @@ $items = [
     ['id' => '00600', 'chair_id' => 'P.006', 'name' => 'KUBANG PASU', 'state_id' => '02'],
     ['id' => '00700', 'chair_id' => 'P.007', 'name' => 'PADANG TERAP', 'state_id' => '02'],
     ['id' => '00800', 'chair_id' => 'P.008', 'name' => 'POKOK SENA', 'state_id' => '02'],
-    ['id' => '00900', 'chair_id' => 'P.009', 'name' => 'ALOR STAR', 'state_id' => '02'],
+    ['id' => '00900', 'chair_id' => 'P.009', 'name' => 'ALOR SETAR', 'state_id' => '02'], //2013: ALOR STAR
     ['id' => '01000', 'chair_id' => 'P.010', 'name' => 'KUALA KEDAH', 'state_id' => '02'],
     ['id' => '01100', 'chair_id' => 'P.011', 'name' => 'PENDANG', 'state_id' => '02'],
     ['id' => '01200', 'chair_id' => 'P.012', 'name' => 'JERAI', 'state_id' => '02'],
@@ -103,8 +97,8 @@ $items = [
     ['id' => '07200', 'chair_id' => 'P.072', 'name' => 'TAPAH', 'state_id' => '08'],
     ['id' => '07300', 'chair_id' => 'P.073', 'name' => 'PASIR SALAK', 'state_id' => '08'],
     ['id' => '07400', 'chair_id' => 'P.074', 'name' => 'LUMUT', 'state_id' => '08'],
-    ['id' => '07500', 'chair_id' => 'P.075', 'name' => 'BAGAN DATOK', 'state_id' => '08'],
-    ['id' => '07600', 'chair_id' => 'P.076', 'name' => 'TELOK INTAN', 'state_id' => '08'],
+    ['id' => '07500', 'chair_id' => 'P.075', 'name' => 'BAGAN DATUK', 'state_id' => '08'], //2013: BAGAN DATOK
+    ['id' => '07600', 'chair_id' => 'P.076', 'name' => 'TELUK INTAN', 'state_id' => '08'], //2013: TELOK INTAN
     ['id' => '07700', 'chair_id' => 'P.077', 'name' => 'TANJONG MALIM', 'state_id' => '08'],
     /*
      * pahang
@@ -136,12 +130,12 @@ $items = [
     ['id' => '09900', 'chair_id' => 'P.099', 'name' => 'AMPANG', 'state_id' => '10'],
     ['id' => '10000', 'chair_id' => 'P.100', 'name' => 'PANDAN', 'state_id' => '10'],
     ['id' => '10100', 'chair_id' => 'P.101', 'name' => 'HULU LANGAT', 'state_id' => '10'],
-    ['id' => '10200', 'chair_id' => 'P.102', 'name' => 'SERDANG', 'state_id' => '10'],
+    ['id' => '10200', 'chair_id' => 'P.102', 'name' => 'BANGI', 'state_id' => '10'], //2013: SERDANG
     ['id' => '10300', 'chair_id' => 'P.103', 'name' => 'PUCHONG', 'state_id' => '10'],
-    ['id' => '10400', 'chair_id' => 'P.104', 'name' => 'KELANA JAYA', 'state_id' => '10'],
-    ['id' => '10500', 'chair_id' => 'P.105', 'name' => 'PETALING JAYA SELATAN', 'state_id' => '10'],
-    ['id' => '10600', 'chair_id' => 'P.106', 'name' => 'PETALING JAYA UTARA', 'state_id' => '10'],
-    ['id' => '10700', 'chair_id' => 'P.107', 'name' => 'SUBANG', 'state_id' => '10'],
+    ['id' => '10400', 'chair_id' => 'P.104', 'name' => 'SUBANG', 'state_id' => '10'], //2013: KELANA JAYA
+    ['id' => '10500', 'chair_id' => 'P.105', 'name' => 'PETALING JAYA', 'state_id' => '10'], //2013: PETALING JAYA SELATAN
+    ['id' => '10600', 'chair_id' => 'P.106', 'name' => 'DAMANSARA', 'state_id' => '10'], //2013: PETALING JAYA UTARA
+    ['id' => '10700', 'chair_id' => 'P.107', 'name' => 'SUNGAI BULOH', 'state_id' => '10'], //2013: SUBANG
     ['id' => '10800', 'chair_id' => 'P.108', 'name' => 'SHAH ALAM', 'state_id' => '10'],
     ['id' => '10900', 'chair_id' => 'P.109', 'name' => 'KAPAR', 'state_id' => '10'],
     ['id' => '11000', 'chair_id' => 'P.110', 'name' => 'KLANG', 'state_id' => '10'],
@@ -175,7 +169,7 @@ $items = [
     ['id' => '12900', 'chair_id' => 'P.129', 'name' => 'KUALA PILAH', 'state_id' => '05'],
     ['id' => '13000', 'chair_id' => 'P.130', 'name' => 'RASAH', 'state_id' => '05'],
     ['id' => '13100', 'chair_id' => 'P.131', 'name' => 'REMBAU', 'state_id' => '05'],
-    ['id' => '13200', 'chair_id' => 'P.132', 'name' => 'TELOK KEMANG', 'state_id' => '05'],
+    ['id' => '13200', 'chair_id' => 'P.132', 'name' => 'PORT DICKSON', 'state_id' => '05'], //2013: TELOK KEMANG
     ['id' => '13300', 'chair_id' => 'P.133', 'name' => 'TAMPIN', 'state_id' => '05'],
     /*
      * melaka
@@ -183,7 +177,7 @@ $items = [
     ['id' => '13400', 'chair_id' => 'P.134', 'name' => 'MASJID TANAH', 'state_id' => '04'],
     ['id' => '13500', 'chair_id' => 'P.135', 'name' => 'ALOR GAJAH', 'state_id' => '04'],
     ['id' => '13600', 'chair_id' => 'P.136', 'name' => 'TANGGA BATU', 'state_id' => '04'],
-    ['id' => '13700', 'chair_id' => 'P.137', 'name' => 'BUKIT KATIL', 'state_id' => '04'],
+    ['id' => '13700', 'chair_id' => 'P.137', 'name' => 'HANG TUAH JAYA', 'state_id' => '04'], //2013: BUKIT KATIL
     ['id' => '13800', 'chair_id' => 'P.138', 'name' => 'KOTA MELAKA', 'state_id' => '04'],
     ['id' => '13900', 'chair_id' => 'P.139', 'name' => 'JASIN', 'state_id' => '04'],
     /*
@@ -211,10 +205,10 @@ $items = [
     ['id' => '15900', 'chair_id' => 'P.159', 'name' => 'PASIR GUDANG', 'state_id' => '01'],
     ['id' => '16000', 'chair_id' => 'P.160', 'name' => 'JOHOR BAHRU', 'state_id' => '01'],
     ['id' => '16100', 'chair_id' => 'P.161', 'name' => 'PULAI', 'state_id' => '01'],
-    ['id' => '16200', 'chair_id' => 'P.162', 'name' => 'GELANG PATAH', 'state_id' => '01'],
+    ['id' => '16200', 'chair_id' => 'P.162', 'name' => 'ISKANDAR PUTERI', 'state_id' => '01'], //2013: GELANG PATAH
     ['id' => '16300', 'chair_id' => 'P.163', 'name' => 'KULAI', 'state_id' => '01'],
     ['id' => '16400', 'chair_id' => 'P.164', 'name' => 'PONTIAN', 'state_id' => '01'],
-    ['id' => '16500', 'chair_id' => 'P.165', 'name' => 'TANJONG PIAI', 'state_id' => '01'],
+    ['id' => '16500', 'chair_id' => 'P.165', 'name' => 'TANJUNG PIAI', 'state_id' => '01'], //2013: TANJONG PIAI
     /*
      * labuan
      */
