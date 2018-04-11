@@ -51,3 +51,6 @@ Jajahan adalah senarai alternatif untuk negeri, daerah, mukim, dun, bahagian, pa
 
 #### 1.3.3
 - Tambah bank code pada bank list. Untuk mudahkan kerja untuk pecahkan antara bank dan branch.
+
+#### 1.2018.01
+- Sync data dengan SPR untuk PRU14. Untuk yang mencari data 2013, sila search "//2013:"
