@@ -645,7 +645,7 @@ $items = [
   ['id' => '16453', 'parliament_id' => '16400', 'kerusi_id' => 'N.53', 'state_id' => '01', 'name' => 'BENUT'],
   ['id' => '16454', 'parliament_id' => '16400', 'kerusi_id' => 'N.54', 'state_id' => '01', 'name' => 'PULAI SEBATANG'],
 
-  ['id' => '16555', 'parliament_id' => '16500', 'kerusi_id' => 'N.55', 'state_id' => '01', 'name' => 'PEKAN NANAS'], //2013: PEKAN NENAS
+  ['id' => '16555', 'parliament_id' => '16500', 'kerusi_id' => 'N.55', 'state_id' => '01', 'name' => 'PEKAN NENAS'],
   ['id' => '16556', 'parliament_id' => '16500', 'kerusi_id' => 'N.56', 'state_id' => '01', 'name' => 'KUKUP'],
   /*
    * sabah
