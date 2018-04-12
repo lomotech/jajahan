@@ -323,6 +323,7 @@ $items = [
   ['id' => '07349', 'parliament_id' => '07300', 'kerusi_id' => 'N.49', 'state_id' => '08', 'name' => 'SUNGAI MANIK'],
   // ['id' => '07349', 'parliament_id' => '07300', 'kerusi_id' => 'N.49', 'state_id' => '08', 'name' => 'KAMPONG GAJAH'],
   ['id' => '07350', 'parliament_id' => '07300', 'kerusi_id' => 'N.50', 'state_id' => '08', 'name' => 'KAMPONG GAJAH'],
+  // ['id' => '07350', 'parliament_id' => '07300', 'kerusi_id' => 'N.50', 'state_id' => '08', 'name' => 'SITIAWAN'],
 
   ['id' => '07451', 'parliament_id' => '07400', 'kerusi_id' => 'N.51', 'state_id' => '08', 'name' => 'PASIR PANJANG'],
   ['id' => '07452', 'parliament_id' => '07400', 'kerusi_id' => 'N.52', 'state_id' => '08', 'name' => 'PANGKOR'],
