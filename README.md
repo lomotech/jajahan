@@ -43,45 +43,45 @@ Jajahan adalah senarai alternatif untuk negeri, daerah, mukim, dun, bahagian, pa
     
 ## todo
 - masukkan data poskod terkini daripada pos malaysia
-    -[ ] johor
-    -[ ] kedah
-    -[ ] kelantan
-    -[ ] melaka
-    -[x] negeri sembilan
-    -[ ] pahang
-    -[ ] perak
-    -[ ] perlis
-    -[ ] pulau pinang
-    -[ ] sabah
-    -[ ] sarawak
-    -[ ] wp kuala lumpur
-    -[ ] wp labuan
-    -[ ] wp putrajaya
+    - [ ] johor
+    - [ ] kedah
+    - [ ] kelantan
+    - [ ] melaka
+    - [x] negeri sembilan
+    - [ ] pahang
+    - [ ] perak
+    - [ ] perlis
+    - [ ] pulau pinang
+    - [ ] sabah
+    - [ ] sarawak
+    - [ ] wp kuala lumpur
+    - [ ] wp labuan
+    - [ ] wp putrajaya
 - masukkan data poskod distinct (ringkasan) terkini
-    -[ ] johor
-    -[ ] kedah
-    -[ ] kelantan
-    -[ ] melaka
-    -[ ] negeri sembilan
-    -[ ] pahang
-    -[ ] perak
-    -[ ] perlis
-    -[ ] pulau pinang
-    -[ ] sabah
-    -[ ] sarawak
-    -[ ] wp kuala lumpur
-    -[ ] wp labuan
-    -[ ] wp putrajaya
+    - [ ] johor
+    - [ ] kedah
+    - [ ] kelantan
+    - [ ] melaka
+    - [ ] negeri sembilan
+    - [ ] pahang
+    - [ ] perak
+    - [ ] perlis
+    - [ ] pulau pinang
+    - [ ] sabah
+    - [ ] sarawak
+    - [ ] wp kuala lumpur
+    - [ ] wp labuan
+    - [ ] wp putrajaya
 - jana data csv dan json daripada array php
-    -[ ] place/country
-    -[ ] place/state
-    -[ ] place/district
-    -[ ] place/subdistrict
-    -[ ] place/dun
-    -[ ] place/parliament
-    -[x] place/postcode
-    -[x] place/postcode_distinct
-    -[ ] education/broad
-    -[ ] education/detail
-    -[ ] education/level
-    -[ ] education/narrow
+    - [ ] place/country
+    - [ ] place/state
+    - [ ] place/district
+    - [ ] place/subdistrict
+    - [ ] place/dun
+    - [ ] place/parliament
+    - [x] place/postcode
+    - [x] place/postcode_distinct
+    - [ ] education/broad
+    - [ ] education/detail
+    - [ ] education/level
+    - [ ] education/narrow
