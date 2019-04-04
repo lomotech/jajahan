@@ -57,3 +57,6 @@ Jajahan adalah senarai alternatif untuk negeri, daerah, mukim, dun, bahagian, pa
 
 #### 1.2019.01
 - Poskod distinct untuk senarai poskod yang tidak berulang.
+
+#### 1.2019.02
+- Tambah poskod distinct versi json.

@@ -3,7 +3,6 @@
 /**
  * retrive date 12 Mac 2016
  */
- */
 $johor = [
 	['state_id' => 1, 'code' => '79000' ],
 	['state_id' => 1, 'code' => '79200' ],
