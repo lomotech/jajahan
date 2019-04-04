@@ -1,8 +1,6 @@
 <?php
 
 /**
- * @author    syafiq <syafiq@my-sands.com>
- * @since     1.3
  * retrive date 12 Mac 2016
  */
 $selangor = [

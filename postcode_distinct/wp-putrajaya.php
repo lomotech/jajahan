@@ -1,8 +1,6 @@
 <?php
 
 /**
- * @author    syafiq <syafiq@my-sands.com>
- * @since     1.3
  * retrive date 12 Mac 2016
  */
 $wpPutrajaya = [
@@ -31,7 +29,7 @@ $wpPutrajaya = [
 	[ 'state_id' => 16, 'code' => '62527',],
 	[ 'state_id' => 16, 'code' => '62530',],
 	[ 'state_id' => 16, 'code' => '62532',],
-	[ 'state_id' => 16, 'code' => '62536',],
+	[ 'state_id' => 16, 'code' => '62536',],	
 	[ 'state_id' => 16, 'code' => '62540',],
 	[ 'state_id' => 16, 'code' => '62542',],
 	[ 'state_id' => 16, 'code' => '62546',],
