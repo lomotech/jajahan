@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$kelatan = [
+$data = [
 	['state_id' => 3, 'code' => '15000', ],
 	['state_id' => 3, 'code' => '15050', ],
 	['state_id' => 3, 'code' => '15100', ],

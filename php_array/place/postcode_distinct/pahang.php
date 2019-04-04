@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$pahang = [
+$data = [
 	['state_id' => 6, 'code' => '25000', ],
 	['state_id' => 6, 'code' => '25050', ],
 	['state_id' => 6, 'code' => '25100', ],

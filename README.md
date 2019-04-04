@@ -37,6 +37,9 @@ Jajahan adalah senarai alternatif untuk negeri, daerah, mukim, dun, bahagian, pa
     - Jana data json dan csv menggunakan generator.
     - Masukkan data poskod terkini negeri sembilan.
     - Tambah .gitignore.
+- 2.0.2019.3
+    - Pindah semua fail berkaitan tempat dan lokasi kepada direktori "place".
+    - Pindah semua fail berkaitan pendidikan kepada direktori "education".
     
 ## todo
 - masukkan data poskod terkini daripada pos malaysia

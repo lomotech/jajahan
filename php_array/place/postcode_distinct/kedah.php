@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$kedah = [
+$data = [
 	['state_id' => 2, 'code' => '05000', ],
 	['state_id' => 2, 'code' => '05050', ],
 	['state_id' => 2, 'code' => '05100', ],

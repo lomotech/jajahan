@@ -20,17 +20,17 @@ $states = [
 ];
 
 foreach ($states as $state) {
-    include '../php_array/place/postcode/' . $state . '.php';
+    include '../php_array/place/postcode_distinct/' . $state . '.php';
 
     // csv generator
-    $fp = fopen('../csv/place/postcode/' . $state . '.csv', 'w');
+    $fp = fopen('../csv/place/postcode_distinct/' . $state . '.csv', 'w');
     foreach ($data as $datum) {
         fputcsv($fp, $datum);
     }
     fclose($fp);
 
     // json generator
-    $fp = fopen('../json/place/postcode/' . $state . '.json', 'w');
+    $fp = fopen('../json/place/postcode_distinct/' . $state . '.json', 'w');
     fwrite($fp, json_encode($data));
     fclose($fp);
 }

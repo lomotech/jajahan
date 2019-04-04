@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$perlis = [
+$data = [
     ['state_id' => 4, 'code' => '75000', ],
     ['state_id' => 4, 'code' => '75050', ],
     ['state_id' => 4, 'code' => '75100', ],

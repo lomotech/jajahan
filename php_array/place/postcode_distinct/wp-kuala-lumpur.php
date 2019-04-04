@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$wpKualaLumpur = [
+$data = [
 	['state_id' => 14, 'code' => '50000', ],
 	['state_id' => 14, 'code' => '50050', ],
 	['state_id' => 14, 'code' => '50088', ],

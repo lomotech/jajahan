@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$wpLabuan = [
+$data = [
 	['state_id' => 15, 'code' => '87010', ],
 	['state_id' => 15, 'code' => '87011', ],
 	['state_id' => 15, 'code' => '87012', ],

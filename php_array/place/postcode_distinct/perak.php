@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$perak = [
+$data = [
 	[ 'state_id' => 8, 'code' => '30000', ],
 	[ 'state_id' => 8, 'code' => '30010', ],
 	[ 'state_id' => 8, 'code' => '30020', ],

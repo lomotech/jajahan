@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$pulauPinang = [
+$data = [
 	['state_id' => 7, 'code' => '10000',],
 	['state_id' => 7, 'code' => '10050',],
 	['state_id' => 7, 'code' => '10100',],

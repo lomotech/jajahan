@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$negeriSembilan = [
+$data = [
 	['state_id' => 5, 'code' => '70000', ],
 	['state_id' => 5, 'code' => '70100', ],
 	['state_id' => 5, 'code' => '70200', ],

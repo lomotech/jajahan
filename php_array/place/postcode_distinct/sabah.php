@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$sabah = [
+$data = [
 	['state_id' => 12, 'code' => '88000',],
 	['state_id' => 12, 'code' => '88100',],
 	['state_id' => 12, 'code' => '88200',],

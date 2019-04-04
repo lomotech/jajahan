@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$wpPutrajaya = [
+$data = [
 	[ 'state_id' => 16, 'code' => '62000',],
 	[ 'state_id' => 16, 'code' => '62007',],
 	[ 'state_id' => 16, 'code' => '62050',],

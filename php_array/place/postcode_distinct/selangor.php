@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$selangor = [
+$data = [
 	['state_id' => 10, 'code' => '40000', ],
 	['state_id' => 10, 'code' => '40100', ],
 	['state_id' => 10, 'code' => '40150', ],
