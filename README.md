@@ -73,5 +73,15 @@ Jajahan adalah senarai alternatif untuk negeri, daerah, mukim, dun, bahagian, pa
     -[ ] wp labuan
     -[ ] wp putrajaya
 - jana data csv dan json daripada array php
-    -[x] csv
-    -[x] json
+    -[ ] place/country
+    -[ ] place/state
+    -[ ] place/district
+    -[ ] place/subdistrict
+    -[ ] place/dun
+    -[ ] place/parliament
+    -[x] place/postcode
+    -[x] place/postcode_distinct
+    -[ ] education/broad
+    -[ ] education/detail
+    -[ ] education/level
+    -[ ] education/narrow
