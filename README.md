@@ -54,3 +54,6 @@ Jajahan adalah senarai alternatif untuk negeri, daerah, mukim, dun, bahagian, pa
 
 #### 1.2018.01
 - Sync data dengan SPR untuk PRU14. Untuk yang mencari data 2013, sila search "//2013:"
+
+#### 1.2019.01
+- Poskod distinct untuk senarai poskod yang tidak berulang.
