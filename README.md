@@ -10,12 +10,17 @@ Jajahan adalah senarai alternatif untuk negeri, daerah, mukim, dun, bahagian, pa
 - pos malaysia - untuk poskod
 
 ## nota kod DDSA
-- Jangan pernah percaya kepada kod daripada DDSA. Kod tersebut hanya rujukan kerana selalu bertukar. Untuk kegunaan jangka panjang, letak id sendiri terutamanya subdistrict sebagai FK.
+- **Jangan pernah percaya kepada kod daripada DDSA**. Kod tersebut hanya rujukan kerana selalu bertukar. Untuk kegunaan jangka panjang, letak id sendiri terutamanya subdistrict sebagai FK.
 - Data subdistrict ada tiga jenis:
    1. mukim
    2. bandar
    3. mukim
 - Data district (baca: daerah) di dalam DDSA adalah mengikut daerah pejabat tanah. Bukannya alamat. Maka tiada Shah Alam, Alor Setar dan sebagainya di dalam data daerah.
+- Postcode distinct adalah senarai poskod yang tidak berulang.
+
+## note kepada contributor
+- jangan ubah sebarang kod di dalam directory csv dan json.
+- jika terdapat sebarang perubahan, jana kembali menggunakan fail generator.
 
 ## info tarikh terakhir periksa
 - Country : 28 November 2016.
@@ -26,8 +31,44 @@ Jajahan adalah senarai alternatif untuk negeri, daerah, mukim, dun, bahagian, pa
 - Poskod : 31 Oktober 2018.
 
 ## change log
-2.0.2019.1 - Restructure semula directory untuk pecahkan di antara php array, json, csv, dan jenis lain yang mungkin ada nanti.
-
+- 2.0.2019.1
+    - Restructure semula directory untuk pecahkan di antara php array, json, csv, dan jenis lain yang mungkin ada nanti.
+- 2.0.2019.2
+    - Jana data json dan csv menggunakan generator.
+    - Masukkan data poskod terkini negeri sembilan.
+    - Tambah .gitignore.
+    
 ## todo
-- masukkan data poskod terkini daripada posmalaysia
+- masukkan data poskod terkini daripada pos malaysia
+    -[ ] johor
+    -[ ] kedah
+    -[ ] kelantan
+    -[ ] melaka
+    -[x] negeri sembilan
+    -[ ] pahang
+    -[ ] perak
+    -[ ] perlis
+    -[ ] pulau pinang
+    -[ ] sabah
+    -[ ] sarawak
+    -[ ] wp kuala lumpur
+    -[ ] wp labuan
+    -[ ] wp putrajaya
+- masukkan data poskod distinct (ringkasan) terkini
+    -[ ] johor
+    -[ ] kedah
+    -[ ] kelantan
+    -[ ] melaka
+    -[ ] negeri sembilan
+    -[ ] pahang
+    -[ ] perak
+    -[ ] perlis
+    -[ ] pulau pinang
+    -[ ] sabah
+    -[ ] sarawak
+    -[ ] wp kuala lumpur
+    -[ ] wp labuan
+    -[ ] wp putrajaya
 - jana data csv dan json daripada array php
+    -[x] csv
+    -[x] json

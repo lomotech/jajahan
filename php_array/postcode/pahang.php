@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$pahang = [
+$data = [
 	[ 'state_id' => 6, 'code' => '25000', 'name' => 'Bangunan LKNP'],
 	[ 'state_id' => 6, 'code' => '25000', 'name' => 'Biro Tata Negara Pahang'],
 	[ 'state_id' => 6, 'code' => '25000', 'name' => 'Jabatan Bekalan Elektrik'],

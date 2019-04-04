@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$perak = [
+$data = [
 	[ 'state_id' => 8, 'code' => '30000', 'name' => 'Bangunan Kerajaan Negeri'],
 	[ 'state_id' => 8, 'code' => '30000', 'name' => 'Bangunan Perak Darul Ridzuan'],
 	[ 'state_id' => 8, 'code' => '30000', 'name' => 'Bangunan Sri Kinta'],

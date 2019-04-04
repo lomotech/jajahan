@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$sabah = [
+$data = [
 	[ 'state_id' => 12, 'code' => '88000', 'name' => 'Bangunan Asia City'],
 	[ 'state_id' => 12, 'code' => '88000', 'name' => 'Bangunan Bank Negara'],
 	[ 'state_id' => 12, 'code' => '88000', 'name' => 'Bangunan BFO'],

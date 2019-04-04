@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$wpKualaLumpur = [
+$data = [
 	[ 'state_id' => 14, 'code' => '50000', 'name' => 'Bangunan Bangkok Bank'],
 	[ 'state_id' => 14, 'code' => '50000', 'name' => 'Jalan Balai Polis'],
 	[ 'state_id' => 14, 'code' => '50000', 'name' => 'Jalan Bandar'],

@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$sarawak = [
+$data = [
 	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Jalan Barrack'],
 	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Jalan Court House'],
 	[ 'state_id' => 13, 'code' => '93000', 'name' => 'Jalan Crookshank'],

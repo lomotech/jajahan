@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$selangor = [
+$data = [
 	[ 'state_id' => 10, 'code' => '40000', 'name' => 'Pusat Perdagangan Azalea'],
 	[ 'state_id' => 10, 'code' => '40000', 'name' => 'Menara Sinergi'],
 	[ 'state_id' => 10, 'code' => '40000', 'name' => 'Bukit Raja Selatan'],

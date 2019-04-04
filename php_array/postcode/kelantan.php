@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$kelatan = [
+$data = [
 	[ 'state_id' => 3, 'code' => '15000', 'name' => 'Amanah Saham Nasional'],
 	[ 'state_id' => 3, 'code' => '15000', 'name' => 'Apartment Pelangi Mall Jalan Post Office Lama'],
 	[ 'state_id' => 3, 'code' => '15000', 'name' => 'Bangunan AIA'],

@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$johor = [
+$data = [
 	[ 'state_id' => 1, 'code' => '79000', 'name' => 'Puteri Harbour'],
 	[ 'state_id' => 1, 'code' => '79200', 'name' => 'Taman Nusantara Prima'],
 	[ 'state_id' => 1, 'code' => '79576', 'name' => 'Jabatan Tanah Dan Galian'],

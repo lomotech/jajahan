@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$perlis = [
+$data = [
     [ 'state_id' => 4, 'code' => '75000', 'name' => 'Bandar Hilir'],
     [ 'state_id' => 4, 'code' => '75000', 'name' => 'Bangunan Tabung Haji'],
     [ 'state_id' => 4, 'code' => '75000', 'name' => 'Bukit Gedong'],

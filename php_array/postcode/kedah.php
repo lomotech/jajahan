@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$kedah = [
+$data = [
 	[ 'state_id' => 2, 'name' => '05000', 'name' => 'Jalan Istana Lama'],
 	[ 'state_id' => 2, 'name' => '05000', 'name' => 'Jalan Kampung Baru'],
 	[ 'state_id' => 2, 'name' => '05000', 'name' => 'Jalan Kanchut'],

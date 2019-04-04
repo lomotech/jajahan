@@ -4,7 +4,7 @@
  * @since     1.3
  * retrive date 12 Mac 2016
  */
-$wpPutrajaya = [
+$data = [
 	[ 'state_id' => 16, 'code' => '62000', 'name' => 'Putrajaya - (Presint 1)' ],
 	[ 'state_id' => 16, 'code' => '62007', 'name' => 'Badan Pencegah Rasuah' ],
 	[ 'state_id' => 16, 'code' => '62050', 'name' => 'Bahagian Pilihanraya Parlimen P125 Putrajaya' ],

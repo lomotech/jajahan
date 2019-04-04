@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$wpLabuan = [
+$data = [
 	[ 'state_id' => 15, 'code' => '87010', 'name' => 'Labuan - Peti surat 80001 - 80100' ],
 	[ 'state_id' => 15, 'code' => '87011', 'name' => 'Labuan - Peti surat 80101 - 80200' ],
 	[ 'state_id' => 15, 'code' => '87012', 'name' => 'Labuan - Peti surat 80201 - 80300' ],

@@ -3,7 +3,7 @@
 /**
  * retrive date 12 Mac 2016
  */
-$perlis = [
+$data = [
     [ 'state_id' => 9, 'code' => '01000', 'name' => 'Taman Jawi Matang' ],
     [ 'state_id' => 9, 'code' => '01000', 'name' => 'Taman Desa Bintong' ],
     [ 'state_id' => 9, 'code' => '01000', 'name' => 'Taman Datuk Wan Ahmad' ],
