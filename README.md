@@ -7,6 +7,7 @@ Jajahan adalah senarai alternatif untuk negeri, daerah, mukim, dun, bahagian, pa
 - [sddsa](http://sddsa.mampu.gov.my) - data tak ada link dengan antara entiti. ada update dari masa ke semasa.
 - [statistic.gov,my](http://statistics.gov.my) - tidak lengkap dan out of date.
 - [sabah.gov.my](http://www.sabah.gov.my) - tidak lengkap dan out of date.
+- SPR - untuk data parliament dan dun terkini.
 - pos malaysia - untuk poskod
 
 ## nota kod DDSA

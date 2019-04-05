@@ -153,8 +153,8 @@ $items = [
     ['id' => '0106', 'state_id' => '1', 'name' => 'MUAR', 'code_3' => 'MUA'],
     ['id' => '0107', 'state_id' => '1', 'name' => 'PONTIAN', 'code_3' => 'PON'],
     ['id' => '0108', 'state_id' => '1', 'name' => 'SEGAMAT', 'code_3' => 'SEG'],
-    ['id' => '0109', 'state_id' => '1', 'name' => 'KULAIJAYA', 'code_3' => 'KUL'],
-    ['id' => '0110', 'state_id' => '1', 'name' => 'LEDANG', 'code_3' => 'LED'],
+    ['id' => '0109', 'state_id' => '1', 'name' => 'KULAI', 'code_3' => 'KUL'], //20070329 - Kulai, 20080721 Kulaijaya, 20150828 Kulai
+    ['id' => '0110', 'state_id' => '1', 'name' => 'TANGKAK', 'code_3' => 'LED'], //? - Muar Utara, 20080609 Ledang, 20151207 Tangkak
 
     /*
      * labuan - tiada daerah
