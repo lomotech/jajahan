@@ -19,6 +19,10 @@ Jajahan adalah senarai alternatif untuk negeri, daerah, mukim, dun, bahagian, pa
 - Data district (baca: daerah) di dalam DDSA adalah mengikut daerah pejabat tanah. Bukannya alamat. Maka tiada Shah Alam, Alor Setar dan sebagainya di dalam data daerah.
 - Postcode distinct adalah senarai poskod yang tidak berulang.
 
+## Info Postcode
+- ```postoffice_id``` dan ```district_id``` di dalam postcode tidak merujuk secara langsung sebagai kawasan jajahan / pertadbiran sesebuah pejabat pos.
+- ```district_id``` dikeluarkan daripada estimation / assumption berdasarkan nama pejabat pos.
+
 ## note kepada contributor
 - jangan ubah sebarang kod di dalam directory csv dan json.
 - jika terdapat sebarang perubahan, jana kembali menggunakan fail generator.
@@ -41,17 +45,22 @@ Jajahan adalah senarai alternatif untuk negeri, daerah, mukim, dun, bahagian, pa
 - 2.0.2019.3
     - Pindah semua fail berkaitan tempat dan lokasi kepada direktori "place".
     - Pindah semua fail berkaitan pendidikan kepada direktori "education".
+- 2.0.2019.4
+    - Ubah semua id kepada ddsa_id untuk memudahkan pemahaman kepada keseluruhan data set.
+    - Tambah data postoffice.
+    - Tambah data post_office_id ke dalam data set postcode.
+    - Kemaskini data postcode untuk Perlis & Kedah. WIP untuk yang lain.
     
 ## todo
 - masukkan data poskod terkini daripada pos malaysia
     - [ ] johor
-    - [ ] kedah
+    - [x] kedah
     - [ ] kelantan
     - [ ] melaka
-    - [x] negeri sembilan
+    - [ ] negeri sembilan
     - [ ] pahang
     - [ ] perak
-    - [ ] perlis
+    - [x] perlis
     - [ ] pulau pinang
     - [ ] sabah
     - [ ] sarawak
