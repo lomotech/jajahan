@@ -10,7 +10,7 @@
  * code_1 - sddsa
  */
 $items = [
-    [ 'id' => 1, 'name' => 'Lelaki',    'code_1' => 'L' ],
-    [ 'id' => 2, 'name' => 'Perempuan', 'code_1' => 'P' ],
-    [ 'id' => 3, 'name' => 'Ragu',      'code_1' => 'R' ] 
+	[ 'ddsa_id' => 1, 'name' => 'Lelaki',    'code_1' => 'L' ],
+	[ 'ddsa_id' => 2, 'name' => 'Perempuan', 'code_1' => 'P' ],
+	[ 'ddsa_id' => 3, 'name' => 'Ragu',      'code_1' => 'R' ] 
 ];
