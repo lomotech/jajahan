@@ -1,6 +1,12 @@
 <?php
 /**
  * Daripada projek lama
+ *
+ * Paling ringkas adalah
+ * melayu, cina, india, bumiputera sabah, bumiputera sarawak, orang asli semenanjung, lain-lain
+ * tetapi jika sistem melibatkan analitik, sebaiknya gunakan yang lebih terperinci untuk
+ * memudahkan analitik dilakukan dengan lebih tepat
+ *
  */
 $items = [
     ['name' => 'MELAYU',],
