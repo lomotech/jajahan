@@ -59,6 +59,7 @@ $items = [
     ['id' => '1105', 'state_id' => '11', 'name' => 'HULU TERENGGANU', 'code_3' => 'HTE'],
     ['id' => '1106', 'state_id' => '11', 'name' => 'MARANG', 'code_3' => 'MAR'],
     ['id' => '1107', 'state_id' => '11', 'name' => 'SETIU', 'code_3' => 'SET'],
+    ['id' => '1108', 'state_id' => '11', 'name' => 'KUALA NERUS', 'code_3' => 'KNE'],
 
     /*
      * pulau pinang
