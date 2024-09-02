@@ -237,6 +237,7 @@ $data = [
     ['state_id' => '14', 'code' => '54200', 'post_office_id' => 'Kuala Lumpur'],
     ['state_id' => '14', 'code' => '55000', 'post_office_id' => 'Kuala Lumpur'],
     ['state_id' => '14', 'code' => '55100', 'post_office_id' => 'Kuala Lumpur'],
+    ['state_id' => '14', 'code' => '55188', 'post_office_id' => 'Kuala Lumpur'],
     ['state_id' => '14', 'code' => '55200', 'post_office_id' => 'Kuala Lumpur'],
     ['state_id' => '14', 'code' => '55300', 'post_office_id' => 'Kuala Lumpur'],
     ['state_id' => '14', 'code' => '55700', 'post_office_id' => 'Kuala Lumpur'],
