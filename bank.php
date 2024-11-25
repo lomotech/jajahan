@@ -118,6 +118,7 @@ $items = [
     [ 'name' => 'MAYBANK INTERNATIONAL LABUAN BRANCH', 'swift_code' => 'MBBEMY2L', 'bank_code' => 'MBBE', 'is_listed' => 0 ],
     [ 'name' => 'MAYBANK INVESTMENT BANK BERHAD', 'swift_code' => 'MBEAMYKL', 'bank_code' => 'MBEA', 'is_listed' => 0 ],
     [ 'name' => 'MAYBANK ISLAMIC BERHAD', 'swift_code' => 'MBISMYKL', 'bank_code' => 'MBIS', 'is_listed' => 0 ],
+    [ 'name' => 'MBSB BANK BERHAD', 'swift_code' => 'AFBQMYKL', 'bank_code' => 'MBSB', 'is_listed' => 0 ],
     [ 'name' => 'MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD. LABUAN BRANCH', 'swift_code' => 'ICBCMY2L', 'bank_code' => 'ICBC', 'is_listed' => 0 ],
     [ 'name' => 'MERCEDES-BENZ MALAYSIA SDN. BHD', 'swift_code' => 'DABEMYKL', 'bank_code' => 'DABE', 'is_listed' => 0 ],
     [ 'name' => 'MERCEDES-BENZ SERVICES MALAYSIA SDN. BHD.', 'swift_code' => 'MBSMMYKL', 'bank_code' => 'MBSM', 'is_listed' => 0 ],
